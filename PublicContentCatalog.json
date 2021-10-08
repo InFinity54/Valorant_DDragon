@@ -1,5 +1,5 @@
 {
-	"version": "03.05.00.603133",
+	"version": "03.06.00.608725",
 	"characters": [
 		{
 			"description":
@@ -756,7 +756,7 @@
 							"ko-KR": "케이/오가 즉시 양극화된 레디어나이트 에너지를 과충전하여 넓은 범위에 파동을 방출합니다. 이 파동에 맞은 적은 짧은 시간 동안 제압됩니다. 케이/오는 과충전된 동안 전투 자극제 효과를 얻으며, 쓰러져도 다시 안정화할 수 있습니다.",
 							"pl-PL": "NATYCHMIAST przeciąża KAY/O spolaryzowaną energią Promienitu, która emituje impulsy o sporym zasięgu z jego pozycji. Wrogowie trafieni impulsami zostają stłumieni na krótki czas. Podczas przeciążenia KAY/O zyskuje stymulant bitewny, a po jego powaleniu można go ponownie ustabilizować.",
 							"pt-BR": "INSTANTANEAMENTE sobrecarrega com energia de Radianita polarizada que emite grandes pulsos energéticos em um raio enorme a partir de onde KAY/O estiver. Inimigos atingidos pelos pulsos são suprimidos por um curto período. Enquanto estiver sobrecarregado, KAY/O recebe Estimulante de Combate e pode ser reestabilizado se for abatido.",
-							"ru-RU": "МГНОВЕННО заряжается энергией поляризованного радианита, которая вызывает мощное излучение оттуда, где находится KAY/O. Враги, попавшие в зону облучения, ненадолго подавляются. Заряженный KAY/O получает боевой стимулятор и может быть снова стабилизирован в случае смерти.",
+							"ru-RU": "МГНОВЕННО заряжается энергией поляризованного радианита, которая вызывает мощное излучение оттуда, где находится KAY/O. Враги, попавшие в зону облучения, ненадолго подавляются. Заряженный KAY/O получает боевой стимулятор и может быть снова стабилизирован при получении смертельного урона.",
 							"th-TH": "โอเวอร์โหลดทันทีด้วยการปล่อยคลื่นพลังงาน Radianite เปลี่ยนขั้วจาก KAY/O ในรัศมีกว้างมาก ศัตรูที่โดนคลื่นพลังงานจะถูกยับยั้งพลังเป็นระยะเวลาสั้น ๆ ขณะโอเวอร์โหลด KAY/O จะได้บัฟ Combat Stim และเพื่อนร่วมทีมสามารถรักษาความเสถียรเพื่อชุบชีวิตได้เมื่อหยุดทำงาน",
 							"tr-TR": "KAY/O, kutuplaşmış radyanit enerjisiyle ANINDA aşırı yüklenir ve bulunduğu konumdan devasa bir etki alanına sahip enerji dalgaları yayar. Enerji dalgalarının isabet ettiği düşmanlar kısa bir süreliğine sindirilir. Aşırı yükleme durumundayken KAY/O Kuvvetli Savaş kazanır ve çöktüğünde yeniden stabil hale getirilebilir.",
 							"vi-VN": "NGAY LẬP TỨC tải đầy năng lượng radianite phân cực để giải phóng các sóng năng lượng trên diện rộng từ KAY/O. Kẻ địch trúng phải sóng năng lượng này sẽ bị áp chế trong một thời gian ngắn. Khi tải đầy năng lượng, KAY/O được cường hóa hỏa lực và có thể được hồi sinh.",
@@ -2258,7 +2258,7 @@
 							"ru-RU": "Блокировка",
 							"th-TH": "Lockdown",
 							"tr-TR": "Tecrit",
-							"vi-VN": "Cầm chân",
+							"vi-VN": "Cầm Chân",
 							"zh-CN": "锁定",
 							"zh-TW": "全面封鎖"
 						}
@@ -4833,27 +4833,27 @@
 				{
 					"description":
 					{
-						"defaultText": "EQUIP a set of highly accurate throwing knives that recharge on killing an opponent. FIRE to throw a single knife at your target. ALTERNATE FIRE to throw all remaining daggers at your target.",
+						"defaultText": "EQUIP a set of highly accurate throwing knives. FIRE to throw a single knife and recharge knives on a kill. ALTERNATE FIRE to throw all remaining daggers but does not recharge on a kill.",
 						"localizedByCulture":
 						{
-							"ar-AE": "جهز طاقمًا من خناجر الرمي عالية الدقة التي تتم استعادتها عندما تتسبب في قتل الخصم. أطلق لكي ترمي خنجرًا واحدًا نحو الهدف. استخدم الإطلاق البديل لترمي جميع الخناجر المتبقية في اتجاه الهدف.",
-							"de-DE": "RÜSTE einige hochpräzise Wurfmesser AUS, die sich wieder auffüllen, wenn du einen Gegner tötest. FEUERE, um ein einziges Messer auf dein Ziel zu werfen. FEUERE IM ALTERNATIVEN MODUS, um alle verbleibenden Klingen auf dein Ziel zu werfen.",
-							"en-US": "EQUIP a set of highly accurate throwing knives that recharge on killing an opponent. FIRE to throw a single knife at your target. ALTERNATE FIRE to throw all remaining daggers at your target.",
-							"es-ES": "EQUIPA un conjunto de cuchillos volantes de alta precisión que se recargan cuando acaban con un oponente. DISPARA para lanzar un único cuchillo a tu objetivo. ALTERNA EL MODO DE DISPARO para lanzar todas las dagas restantes a tu objetivo.",
-							"es-MX": "EQUIPA un conjunto de cuchillos arrojadizos de gran precisión que se recargan al asesinar a un oponente. DISPARA para lanzar un cuchillo hacia tu objetivo y usa el DISPARO SECUNDARIO para lanzar todos los cuchillos restantes.",
-							"fr-FR": "ÉQUIPEZ-vous d'un ensemble de couteaux de lancer extrêmement précis qui se rechargent lorsque vous éliminez un ennemi. TIREZ pour lancer un seul couteau sur votre cible. Utilisez le TIR SECONDAIRE pour lancer toutes les dagues restantes sur votre cible.",
-							"id-ID": "SIAGAKAN satu set pisau lempar akurasi tinggi yang terisi dayanya saat membunuh musuh. TEMBAK untuk melempar satu pisau pada targetmu. TEMBAK ALTERNATIF untuk melempar sisa belati pada targetmu.",
-							"it-IT": "EQUIPAGGIA un set di precisissimi coltelli da lancio che si ricaricano quando uccidi un nemico. SPARA per lanciare un coltello al tuo bersaglio. Usa il FUOCO ALTERNATIVO per lanciare tutti i coltelli rimasti verso il tuo bersaglio.",
-							"ja-JP": "投げナイフを構える。このナイフは正確に狙いをつけることができ、相手をキルすると補充される。「発射」でターゲットに向かってナイフを 1 本づつ投げる。「オルト射撃」で現在残っているすべてのナイフを投げる。",
-							"ko-KR": "명중률이 높으며 적 처치 시 다시 충전되는 투척용 단검을 장착합니다. 발사하면 대상에게 단검 하나를 던집니다. 보조 공격 시 대상에게 남은 단검을 전부 던집니다.",
-							"pl-PL": "WYPOSAŻ zestaw niezwykle precyzyjnych sztyletów do rzucania, które odnawiają się po zabiciu przeciwnika. STRZEL, by rzucić jednym sztyletem w cel. STRZAŁ ALTERNATYWNY pozwala rzucić wszystkimi sztyletami w cel.",
-							"pt-BR": "EQUIPE um conjunto de facas de arremesso altamente precisas que são recarregadas ao matar um oponente. DISPARE para lançar uma única faca ou use o MODO SECUNDÁRIO para jogar todas as facas restantes contra o alvo.",
-							"ru-RU": "Вооружается набором точных метательных кинжалов, которые перезаряжаются после ликвидации противника. Нажмите кнопку ОГОНЬ, чтобы бросить один кинжал в вашу цель. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы бросить в цель все оставшиеся кинжалы.",
-							"th-TH": "ติดตั้งเซ็ตมีดบินสุดแม่นยำที่จะรีชาร์จเมื่อ\nสังหารศัตรู กดยิงเพื่อขว้างมีดสั้นไปยัง\nเป้าหมาย กดโหมดการยิงเสริมเพื่อขว้าง\nมีดสั้นที่เหลือทั้งหมดไปยังเป้าหมาย",
-							"tr-TR": "Düşmanı öldürdüğünde yük dolduran, oldukça isabetli fırlatma bıçakları KUŞAN. Hedefine tek bir bıçak fırlatmak için ATEŞ ET. Kalan tüm hançerleri hedefine fırlatmak için ALTERNATİF ATIŞ kullan.",
-							"vi-VN": "TRANG BỊ 1 bộ dao găm ném xa có khả năng hồi đầy lượt dùng mỗi khi hạ gục đối thủ. BẮN để ném 1 dao găm tới mục tiêu. BẮN PHỤ để ném toàn bộ dao găm còn lại tới mục tiêu.",
+							"ar-AE": "جهز مجموعة من سكاكين الرمي المتميزة بدقة تصويب عالية. أطلق لرمي سكين واحدة مع إعادة شحن السكاكين عند تحقيق عملية قتل. استخدم الإطلاق البديل لرمي كل الخناجر المتبقية دون إعادة الشحن عند تحقيق عملية قتل.",
+							"de-DE": "RÜSTE einige hochpräzise Wurfmesser AUS. FEUERE, um ein einziges Messer auf dein Ziel zu werfen. Bei einem Kill erhältst du alle Messer zurück. FEUERE IM ALTERNATIVEN MODUS, um alle verbleibenden Klingen auf dein Ziel zu werfen. Bei einem Kill erhältst du keine Messer zurück.",
+							"en-US": "EQUIP a set of highly accurate throwing knives. FIRE to throw a single knife and recharge knives on a kill. ALTERNATE FIRE to throw all remaining daggers but does not recharge on a kill.",
+							"es-ES": "EQUIPA un conjunto de cuchillos volantes de alta precisión. DISPARA para lanzar un único cuchillo y recarga los cuchillos con un asesinato. ALTERNA EL MODO DE DISPARO para lanzar todos los cuchillos restantes, pero no se recargan con un asesinato.",
+							"es-MX": "EQUIPA un conjunto de cuchillos arrojadizos de gran precisión. DISPARA para lanzar un cuchillo y recarga los cuchillos al asesinar a un oponente. Usa el DISPARO SECUNDARIO para lanzar todos los cuchillos restantes, pero no se recargan al matar a un oponente.",
+							"fr-FR": "ÉQUIPEZ-vous d'un ensemble de couteaux de lancer extrêmement précis. TIREZ pour lancer un seul couteau (se recharge en cas d'élimination). Utilisez le TIR SECONDAIRE pour lancer tous les couteaux restants (ne se recharge pas).",
+							"id-ID": "SIAGAKAN satu set pisau lempar akurasi tinggi. TEMBAK untuk melempar satu pisau dan recharge pisau saat melakukan kill. TEMBAK ALT untuk melempar sisa belati, tetapi tidak recharge saat melakukan kill.",
+							"it-IT": "EQUIPAGGIA un set di precisissimi pugnali da lancio. SPARA per lanciare un singolo pugnale. Se Jett ottiene un'uccisione con il pugnale, la sua riserva di pugnali si ripristina. Usa il FUOCO ALTERNATIVO per lanciare tutti i pugnali rimasti, che però non si ripristinano con un'uccisione.",
+							"ja-JP": "精度の高い投げナイフを構え、「発射」で 1 本ずつ投げる。ナイフは相手をキルすると補充される。「オルト射撃」で現在残っているすべてのナイフを投げるが、相手をキルしてもナイフは補充されない。",
+							"ko-KR": "명중률이 높은 투척용 단검을 장착합니다. 발사하면 단검 하나를 던지며, 처치 시 단검을 충전합니다. 보조 공격 시 남은 단검을 전부 던집니다. 이 경우 처치 시 단검이 충전되지 않습니다.",
+							"pl-PL": "WYPOSAŻ zestaw niezwykle precyzyjnych sztyletów do rzucania. STRZEL, by rzucić jednym sztyletem i odnowić wszystkie po zabiciu przeciwnika. STRZAŁ ALTERNATYWNY pozwala rzucić wszystkimi pozostałymi sztyletami w cel, lecz nie odnawia sztyletów po zabiciu przeciwnika.",
+							"pt-BR": "EQUIPE um conjunto de facas de arremesso. DISPARE para lançar uma única faca contra o alvo e recarregá-las ao matar um oponente. Use o DISPARO SECUNDÁRIO para jogar todas as facas restantes contra o alvo, sem a opção de recarregá-las ao matar o oponente.",
+							"ru-RU": "Вооружается набором высокоточных метательных кинжалов. Нажмите кнопку ОГОНЬ, чтобы бросить один кинжал и перезарядить кинжалы после убийства. Нажав кнопку АЛЬТ. ОГОНЬ, вы бросите все оставшиеся кинжалы, но они не будут перезаряжаться после убийства.",
+							"th-TH": "ติดตั้งชุดมีดสั้นสุดแม่นยำ กดยิงเพื่อขว้างมีดสั้นหนึ่งเล่มไปยังเป้าหมายและทำการรีชาร์จเมื่อสังหารศัตรูได้ กดโหมดการยิงเสริมเพื่อขว้างมีดสั้นที่เหลือทั้งหมดไปยังเป้าหมายแต่จะไม่รีชาร์จเมื่อสังหารศัตรูได้",
+							"tr-TR": "Oldukça isabetli fırlatma bıçakları KUŞAN. Hedefine tek bir bıçak fırlatmak için ATEŞ ET. Düşmanı öldürdüğünde yükü dolacak. Kalan tüm hançerleri hedefine fırlatmak için ALTERNATİF ATIŞ kullan. Bu saldırı düşmanı öldürdüğünde yük doldurmaz.",
+							"vi-VN": "TRANG BỊ 1 bộ dao găm ném xa có độ chuẩn xác cao. NHẤP BẮN để ném 1 dao găm và hồi đầy lượt dùng mỗi khi hạ gục đối thủ. NHẤP CHẾ ĐỘ PHỤ để ném toàn bộ dao găm còn lại tới mục tiêu nhưng sẽ không hồi đầy lượt dùng nếu hạ gục đối thủ.",
 							"zh-CN": "装备一套高精准的飞刀，击败对手后便可蓄力。点击发射以向目标抛掷一把飞刀。选择次射击模式以向你的目标抛掷所有剩余的飞刀。",
-							"zh-TW": "裝備一組高準度的飛刀，擊殺一名敵軍即可重填。點擊「攻擊鍵」，向目標丟出一把飛刀。點擊「輔助攻擊鍵」，則可向目標丟出剩下的所有飛刀。"
+							"zh-TW": "裝備一組高準度的飛刀。點擊「攻擊鍵」即可射出一把飛刀，擊殺敵軍即可重填。點擊「輔助攻擊鍵」，則可射出剩下的所有飛刀，但擊殺後不會重填。"
 						}
 					},
 					"label": "ADD6443A-41BD-E414-F6AD-E58D267F4E95_Ultimate",
@@ -8781,6 +8781,99 @@
 		},
 		{
 			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
+			"defaultChromaId": "825648B2-4C6F-4BB7-6D47-43A9734A18AB",
+			"chromas": [
+				{
+					"id": "825648B2-4C6F-4BB7-6D47-43A9734A18AB",
+					"label": "825648B2-4C6F-4BB7-6D47-43A9734A18AB",
+					"name":
+					{
+						"defaultText": "VALORANT GO! Vol. 2 Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "VALORANT GO! الجزء 2 آريز",
+							"de-DE": "Ares – VALORANT, LOS! Vol. 2",
+							"en-US": "VALORANT GO! Vol. 2 Ares",
+							"es-ES": "Ares VALORANT GO! Vol. 2",
+							"es-MX": "Ares VALORANT GO! Vol. 2",
+							"fr-FR": "Ares (VALORANT GO! Vol. 2)",
+							"id-ID": "VALORANT GO! Vol. 2 Ares",
+							"it-IT": "Ares VALORANT GO! vol. 2",
+							"ja-JP": "VALORANT GO! Vol.2 アレス",
+							"ko-KR": "발로란트 GO! Vol. 2 아레스",
+							"pl-PL": "Ares VALORANT GO! – Tom 2",
+							"pt-BR": "Ares VALORANT GO! Vol. 2",
+							"ru-RU": "VALORANT GO! Вып. 2 Ares",
+							"th-TH": "VALORANT GO! Vol. 2 Ares",
+							"tr-TR": "VALORANT GO! 2. Cilt Ares",
+							"vi-VN": "Ares VALORANT GO! Vol. 2",
+							"zh-CN": "VALORANT GO! Vol. 2 Ares",
+							"zh-TW": "特戰英豪 GO！第2集 戰神"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "1203A0B8-4044-A7DE-1751-87B30B9574E8",
+					"label": "1203A0B8-4044-A7DE-1751-87B30B9574E8",
+					"name":
+					{
+						"defaultText": "VALORANT GO! Vol. 2 Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "VALORANT GO! الجزء 2 آريز",
+							"de-DE": "Ares – VALORANT, LOS! Vol. 2",
+							"en-US": "VALORANT GO! Vol. 2 Ares",
+							"es-ES": "Ares VALORANT GO! Vol. 2",
+							"es-MX": "Ares VALORANT GO! Vol. 2",
+							"fr-FR": "Ares (VALORANT GO! Vol. 2)",
+							"id-ID": "VALORANT GO! Vol. 2 Ares",
+							"it-IT": "Ares VALORANT GO! vol. 2",
+							"ja-JP": "VALORANT GO! Vol.2 アレス",
+							"ko-KR": "발로란트 GO! Vol. 2 아레스",
+							"pl-PL": "Ares VALORANT GO! – Tom 2",
+							"pt-BR": "Ares VALORANT GO! Vol. 2",
+							"ru-RU": "VALORANT GO! Вып. 2 Ares",
+							"th-TH": "VALORANT GO! Vol. 2 Ares",
+							"tr-TR": "VALORANT GO! 2. Cilt Ares",
+							"vi-VN": "Ares VALORANT GO! Vol. 2",
+							"zh-CN": "VALORANT GO! Vol. 2 Ares",
+							"zh-TW": "特戰英豪 GO！第2集 戰神"
+						}
+					}
+				}
+			],
+			"id": "E9FCE399-4ABC-BB3C-8992-F887918CE327",
+			"label": "E9FCE399-4ABC-BB3C-8992-F887918CE327",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Ares",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 آريز",
+					"de-DE": "Ares – VALORANT, LOS! Vol. 2",
+					"en-US": "VALORANT GO! Vol. 2 Ares",
+					"es-ES": "Ares VALORANT GO! Vol. 2",
+					"es-MX": "Ares VALORANT GO! Vol. 2",
+					"fr-FR": "Ares (VALORANT GO! Vol. 2)",
+					"id-ID": "VALORANT GO! Vol. 2 Ares",
+					"it-IT": "Ares VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 アレス",
+					"ko-KR": "발로란트 GO! Vol. 2 아레스",
+					"pl-PL": "Ares VALORANT GO! – Tom 2",
+					"pt-BR": "Ares VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Ares",
+					"th-TH": "VALORANT GO! Vol. 2 Ares",
+					"tr-TR": "VALORANT GO! 2. Cilt Ares",
+					"vi-VN": "Ares VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Ares",
+					"zh-TW": "特戰英豪 GO！第2集 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
 			"defaultChromaId": "45B00D43-4B76-8953-A87D-50B43C309D98",
 			"chromas": [
 				{
@@ -10606,6 +10699,99 @@
 					"vi-VN": "Ares Thông Thường",
 					"zh-CN": "标准战神",
 					"zh-TW": "標準 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "730ADB1B-4E94-F597-9F21-60B758DA1156",
+			"chromas": [
+				{
+					"id": "730ADB1B-4E94-F597-9F21-60B758DA1156",
+					"label": "730ADB1B-4E94-F597-9F21-60B758DA1156",
+					"name":
+					{
+						"defaultText": "VALORANT GO! Vol. 2 Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "VALORANT GO! الجزء 2 فاندال",
+							"de-DE": "Vandal – VALORANT, LOS! Vol. 2",
+							"en-US": "VALORANT GO! Vol. 2 Vandal",
+							"es-ES": "Vandal VALORANT GO! Vol. 2",
+							"es-MX": "Vandal VALORANT GO! Vol. 2",
+							"fr-FR": "Vandal (VALORANT GO! Vol. 2)",
+							"id-ID": "VALORANT GO! Vol. 2 Vandal",
+							"it-IT": "Vandal VALORANT GO! vol. 2",
+							"ja-JP": "VALORANT GO! Vol.2 ヴァンダル",
+							"ko-KR": "발로란트 GO! Vol. 2 밴달",
+							"pl-PL": "Vandal VALORANT GO! –  Tom 2",
+							"pt-BR": "Vandal VALORANT GO! Vol. 2",
+							"ru-RU": "VALORANT GO! Вып. 2 Vandal",
+							"th-TH": "VALORANT GO! Vol. 2 Vandal",
+							"tr-TR": "VALORANT GO! 2. Cilt Vandal",
+							"vi-VN": "Vandal VALORANT GO! Vol. 2",
+							"zh-CN": "VALORANT GO! Vol. 2 Vandal",
+							"zh-TW": "特戰英豪 GO！第2集 暴徒"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "23DE6607-4647-BCCD-8863-3DA2720E4152",
+					"label": "23DE6607-4647-BCCD-8863-3DA2720E4152",
+					"name":
+					{
+						"defaultText": "VALORANT GO! Vol. 2 Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "VALORANT GO! الجزء 2 فاندال",
+							"de-DE": "Vandal – VALORANT, LOS! Vol. 2",
+							"en-US": "VALORANT GO! Vol. 2 Vandal",
+							"es-ES": "Vandal VALORANT GO! Vol. 2",
+							"es-MX": "Vandal VALORANT GO! Vol. 2",
+							"fr-FR": "Vandal (VALORANT GO! Vol. 2)",
+							"id-ID": "VALORANT GO! Vol. 2 Vandal",
+							"it-IT": "Vandal VALORANT GO! vol. 2",
+							"ja-JP": "VALORANT GO! Vol.2 ヴァンダル",
+							"ko-KR": "발로란트 GO! Vol. 2 밴달",
+							"pl-PL": "Vandal VALORANT GO! –  Tom 2",
+							"pt-BR": "Vandal VALORANT GO! Vol. 2",
+							"ru-RU": "VALORANT GO! Вып. 2 Vandal",
+							"th-TH": "VALORANT GO! Vol. 2 Vandal",
+							"tr-TR": "VALORANT GO! 2. Cilt Vandal",
+							"vi-VN": "Vandal VALORANT GO! Vol. 2",
+							"zh-CN": "VALORANT GO! Vol. 2 Vandal",
+							"zh-TW": "特戰英豪 GO！第2集 暴徒"
+						}
+					}
+				}
+			],
+			"id": "BA6F2526-4ED2-8E62-49AA-EBBB04290682",
+			"label": "BA6F2526-4ED2-8E62-49AA-EBBB04290682",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 فاندال",
+					"de-DE": "Vandal – VALORANT, LOS! Vol. 2",
+					"en-US": "VALORANT GO! Vol. 2 Vandal",
+					"es-ES": "Vandal VALORANT GO! Vol. 2",
+					"es-MX": "Vandal VALORANT GO! Vol. 2",
+					"fr-FR": "Vandal (VALORANT GO! Vol. 2)",
+					"id-ID": "VALORANT GO! Vol. 2 Vandal",
+					"it-IT": "Vandal VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ヴァンダル",
+					"ko-KR": "발로란트 GO! Vol. 2 밴달",
+					"pl-PL": "Vandal VALORANT GO! –  Tom 2",
+					"pt-BR": "Vandal VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Vandal",
+					"th-TH": "VALORANT GO! Vol. 2 Vandal",
+					"tr-TR": "VALORANT GO! 2. Cilt Vandal",
+					"vi-VN": "Vandal VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Vandal",
+					"zh-TW": "特戰英豪 GO！第2集 暴徒"
 				}
 			}
 		},
@@ -27640,6 +27826,99 @@
 		},
 		{
 			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "21189635-4F65-C3A5-ADB5-D1B7BB609C56",
+			"chromas": [
+				{
+					"id": "21189635-4F65-C3A5-ADB5-D1B7BB609C56",
+					"label": "21189635-4F65-C3A5-ADB5-D1B7BB609C56",
+					"name":
+					{
+						"defaultText": "VALORANT GO! Vol. 2 Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VALORANT GO! الجزء 2 كلاسيك",
+							"de-DE": "Classic – VALORANT, LOS! Vol. 2",
+							"en-US": "VALORANT GO! Vol. 2 Classic",
+							"es-ES": "Classic VALORANT GO! Vol. 2",
+							"es-MX": "Classic VALORANT GO! Vol. 2",
+							"fr-FR": "Classic (VALORANT GO! Vol. 2)",
+							"id-ID": "VALORANT GO! Vol. 2 Classic",
+							"it-IT": "Classic VALORANT GO! vol. 2",
+							"ja-JP": "VALORANT GO! Vol.2 クラシック",
+							"ko-KR": "발로란트 GO! Vol. 2 클래식",
+							"pl-PL": "Classic VALORANT GO! – Tom 2",
+							"pt-BR": "Classic VALORANT GO! Vol. 2",
+							"ru-RU": "VALORANT GO! Вып. 2 Classic",
+							"th-TH": "VALORANT GO! Vol. 2 Classic",
+							"tr-TR": "VALORANT GO! 2. Cilt Classic",
+							"vi-VN": "Classic VALORANT GO! Vol. 2",
+							"zh-CN": "VALORANT GO! Vol. 2 Classic",
+							"zh-TW": "特戰英豪 GO！第2集 制式手槍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "68EE5C6C-4424-E95A-F46F-C08EC2DFEB97",
+					"label": "68EE5C6C-4424-E95A-F46F-C08EC2DFEB97",
+					"name":
+					{
+						"defaultText": "VALORANT GO! Vol. 2 Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VALORANT GO! الجزء 2 كلاسيك",
+							"de-DE": "Classic – VALORANT, LOS! Vol. 2",
+							"en-US": "VALORANT GO! Vol. 2 Classic",
+							"es-ES": "Classic VALORANT GO! Vol. 2",
+							"es-MX": "Classic VALORANT GO! Vol. 2",
+							"fr-FR": "Classic (VALORANT GO! Vol. 2)",
+							"id-ID": "VALORANT GO! Vol. 2 Classic",
+							"it-IT": "Classic VALORANT GO! vol. 2",
+							"ja-JP": "VALORANT GO! Vol.2 クラシック",
+							"ko-KR": "발로란트 GO! Vol. 2 클래식",
+							"pl-PL": "Classic VALORANT GO! – Tom 2",
+							"pt-BR": "Classic VALORANT GO! Vol. 2",
+							"ru-RU": "VALORANT GO! Вып. 2 Classic",
+							"th-TH": "VALORANT GO! Vol. 2 Classic",
+							"tr-TR": "VALORANT GO! 2. Cilt Classic",
+							"vi-VN": "Classic VALORANT GO! Vol. 2",
+							"zh-CN": "VALORANT GO! Vol. 2 Classic",
+							"zh-TW": "特戰英豪 GO！第2集 制式手槍"
+						}
+					}
+				}
+			],
+			"id": "B06E13FF-4F19-C750-FFCD-8084DFC3BBF5",
+			"label": "B06E13FF-4F19-C750-FFCD-8084DFC3BBF5",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 كلاسيك",
+					"de-DE": "Classic – VALORANT, LOS! Vol. 2",
+					"en-US": "VALORANT GO! Vol. 2 Classic",
+					"es-ES": "Classic VALORANT GO! Vol. 2",
+					"es-MX": "Classic VALORANT GO! Vol. 2",
+					"fr-FR": "Classic (VALORANT GO! Vol. 2)",
+					"id-ID": "VALORANT GO! Vol. 2 Classic",
+					"it-IT": "Classic VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 クラシック",
+					"ko-KR": "발로란트 GO! Vol. 2 클래식",
+					"pl-PL": "Classic VALORANT GO! – Tom 2",
+					"pt-BR": "Classic VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Classic",
+					"th-TH": "VALORANT GO! Vol. 2 Classic",
+					"tr-TR": "VALORANT GO! 2. Cilt Classic",
+					"vi-VN": "Classic VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Classic",
+					"zh-TW": "特戰英豪 GO！第2集 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
 			"defaultChromaId": "E6A6EA31-4A05-8889-B065-D09A536AFFFD",
 			"chromas": [
 				{
@@ -37690,6 +37969,99 @@
 					"vi-VN": "Shorty Vùng Đất Hoang Tàn",
 					"zh-CN": "废土矬子",
 					"zh-TW": "煙漠荒土 短管"
+				}
+			}
+		},
+		{
+			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
+			"defaultChromaId": "5220F477-4FBB-CFB6-60CE-DDB7BD215A66",
+			"chromas": [
+				{
+					"id": "5220F477-4FBB-CFB6-60CE-DDB7BD215A66",
+					"label": "5220F477-4FBB-CFB6-60CE-DDB7BD215A66",
+					"name":
+					{
+						"defaultText": "VALORANT GO! Vol. 2 Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "VALORANT GO! الجزء 2 أوبيريتور",
+							"de-DE": "Operator – VALORANT, LOS! Vol. 2",
+							"en-US": "VALORANT GO! Vol. 2 Operator",
+							"es-ES": "Operator VALORANT GO! Vol. 2",
+							"es-MX": "Operator VALORANT GO! Vol. 2",
+							"fr-FR": "Operator (VALORANT GO! Vol. 2)",
+							"id-ID": "VALORANT GO! Vol. 2 Operator",
+							"it-IT": "Operator VALORANT GO! vol. 2",
+							"ja-JP": "VALORANT GO! Vol.2 オペレーター",
+							"ko-KR": "발로란트 GO! Vol. 2 오퍼레이터",
+							"pl-PL": "Operator VALORANT GO! – Tom 2",
+							"pt-BR": "Operator VALORANT GO! Vol. 2",
+							"ru-RU": "VALORANT GO! Вып. 2 Operator",
+							"th-TH": "VALORANT GO! Vol. 2 Operator",
+							"tr-TR": "VALORANT GO! 2. Cilt Operator",
+							"vi-VN": "Operator VALORANT GO! Vol. 2",
+							"zh-CN": "VALORANT GO! Vol. 2 Operator",
+							"zh-TW": "特戰英豪 GO！第2集 間諜"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "68811D2B-4A6D-CBDC-39D3-F580AA97A297",
+					"label": "68811D2B-4A6D-CBDC-39D3-F580AA97A297",
+					"name":
+					{
+						"defaultText": "VALORANT GO! Vol. 2 Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "VALORANT GO! الجزء 2 أوبيريتور",
+							"de-DE": "Operator – VALORANT, LOS! Vol. 2",
+							"en-US": "VALORANT GO! Vol. 2 Operator",
+							"es-ES": "Operator VALORANT GO! Vol. 2",
+							"es-MX": "Operator VALORANT GO! Vol. 2",
+							"fr-FR": "Operator (VALORANT GO! Vol. 2)",
+							"id-ID": "VALORANT GO! Vol. 2 Operator",
+							"it-IT": "Operator VALORANT GO! vol. 2",
+							"ja-JP": "VALORANT GO! Vol.2 オペレーター",
+							"ko-KR": "발로란트 GO! Vol. 2 오퍼레이터",
+							"pl-PL": "Operator VALORANT GO! – Tom 2",
+							"pt-BR": "Operator VALORANT GO! Vol. 2",
+							"ru-RU": "VALORANT GO! Вып. 2 Operator",
+							"th-TH": "VALORANT GO! Vol. 2 Operator",
+							"tr-TR": "VALORANT GO! 2. Cilt Operator",
+							"vi-VN": "Operator VALORANT GO! Vol. 2",
+							"zh-CN": "VALORANT GO! Vol. 2 Operator",
+							"zh-TW": "特戰英豪 GO！第2集 間諜"
+						}
+					}
+				}
+			],
+			"id": "4A1E0934-46AE-FA2A-A009-05ADE5D43402",
+			"label": "4A1E0934-46AE-FA2A-A009-05ADE5D43402",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Operator",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 أوبيريتور",
+					"de-DE": "Operator – VALORANT, LOS! Vol. 2",
+					"en-US": "VALORANT GO! Vol. 2 Operator",
+					"es-ES": "Operator VALORANT GO! Vol. 2",
+					"es-MX": "Operator VALORANT GO! Vol. 2",
+					"fr-FR": "Operator (VALORANT GO! Vol. 2)",
+					"id-ID": "VALORANT GO! Vol. 2 Operator",
+					"it-IT": "Operator VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 オペレーター",
+					"ko-KR": "발로란트 GO! Vol. 2 오퍼레이터",
+					"pl-PL": "Operator VALORANT GO! – Tom 2",
+					"pt-BR": "Operator VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Operator",
+					"th-TH": "VALORANT GO! Vol. 2 Operator",
+					"tr-TR": "VALORANT GO! 2. Cilt Operator",
+					"vi-VN": "Operator VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Operator",
+					"zh-TW": "特戰英豪 GO！第2集 間諜"
 				}
 			}
 		},
@@ -51357,7 +51729,7 @@
 							"ru-RU": "Нож \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Knife",
 							"tr-TR": "VALORANT GO! 1. Cilt Bıçak",
-							"vi-VN": "Dao VALORANT GO! Vol.1",
+							"vi-VN": "Dao Găm VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷 匕首",
 							"zh-TW": "特戰英豪 GO！第1集 小刀"
 						}
@@ -51388,7 +51760,7 @@
 							"ru-RU": "Нож \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Knife",
 							"tr-TR": "VALORANT GO! 1. Cilt Bıçak",
-							"vi-VN": "Dao VALORANT GO! Vol.1",
+							"vi-VN": "Dao Găm VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷 匕首",
 							"zh-TW": "特戰英豪 GO！第1集 小刀"
 						}
@@ -51446,9 +51818,131 @@
 					"ru-RU": "Нож \"VALORANT GO! Вып. 1\"",
 					"th-TH": "VALORANT GO! Vol. 1 Knife",
 					"tr-TR": "VALORANT GO! 1. Cilt Bıçak",
-					"vi-VN": "Dao VALORANT GO! Vol.1",
+					"vi-VN": "Dao Găm VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷 匕首",
 					"zh-TW": "特戰英豪 GO！第1集 小刀"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "D3F2119F-4853-E136-C807-E197B6A9C92E",
+			"chromas": [
+				{
+					"id": "D3F2119F-4853-E136-C807-E197B6A9C92E",
+					"label": "D3F2119F-4853-E136-C807-E197B6A9C92E",
+					"name":
+					{
+						"defaultText": "Yoru's Stylish Butterfly Comb",
+						"localizedByCulture":
+						{
+							"ar-AE": "مشط فراشة يورو الأنيق",
+							"de-DE": "Yorus stylisches Butterflymesser",
+							"en-US": "Yoru's Stylish Butterfly Comb",
+							"es-ES": "Navaja mariposa elegante de Yoru",
+							"es-MX": "Peine mariposa elegante de Yoru",
+							"fr-FR": "Peigne papillon stylé de Yoru",
+							"id-ID": "Yoru's Stylish Butterfly Comb",
+							"it-IT": "Pettine a farfalla stiloso di Yoru",
+							"ja-JP": "ヨルのイケてるバタフライコーム",
+							"ko-KR": "요루의 스타일리시 버터플라이 빗",
+							"pl-PL": "Stylowy grzebień motylkowy Yoru",
+							"pt-BR": "Pente-Borboleta Estiloso do Yoru",
+							"ru-RU": "Стильный гребень-бабочка Yoru",
+							"th-TH": "Yoru's Stylish Butterfly Comb",
+							"tr-TR": "Yoru'nun Janti Kelebek Tarağı",
+							"vi-VN": "Lược Bướm Siêu Ngầu Của Yoru",
+							"zh-CN": "Yoru's Stylish Butterfly Comb",
+							"zh-TW": "夜戮的時尚蝴蝶梳"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "EC70C8C8-48DB-B2DC-AB7D-1D9410B0CFBF",
+					"label": "EC70C8C8-48DB-B2DC-AB7D-1D9410B0CFBF",
+					"name":
+					{
+						"defaultText": "Yoru's Stylish Butterfly Comb",
+						"localizedByCulture":
+						{
+							"ar-AE": "مشط فراشة يورو الأنيق",
+							"de-DE": "Yorus stylisches Butterflymesser",
+							"en-US": "Yoru's Stylish Butterfly Comb",
+							"es-ES": "Navaja mariposa elegante de Yoru",
+							"es-MX": "Peine mariposa elegante de Yoru",
+							"fr-FR": "Peigne papillon stylé de Yoru",
+							"id-ID": "Yoru's Stylish Butterfly Comb",
+							"it-IT": "Pettine a farfalla stiloso di Yoru",
+							"ja-JP": "ヨルのイケてるバタフライコーム",
+							"ko-KR": "요루의 스타일리시 버터플라이 빗",
+							"pl-PL": "Stylowy grzebień motylkowy Yoru",
+							"pt-BR": "Pente-Borboleta Estiloso do Yoru",
+							"ru-RU": "Стильный гребень-бабочка Yoru",
+							"th-TH": "Yoru's Stylish Butterfly Comb",
+							"tr-TR": "Yoru'nun Janti Kelebek Tarağı",
+							"vi-VN": "Lược Bướm Siêu Ngầu Của Yoru",
+							"zh-CN": "Yoru's Stylish Butterfly Comb",
+							"zh-TW": "夜戮的時尚蝴蝶梳"
+						}
+					}
+				},
+				{
+					"id": "DA00CDF4-474D-960B-A011-F29D27403FF0",
+					"label": "DA00CDF4-474D-960B-A011-F29D27403FF0",
+					"name":
+					{
+						"defaultText": "Yoru's Stylish Butterfly Comb Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "مشط فراشة يورو الأنيق المستوى 2",
+							"de-DE": "Yorus stylisches Butterflymesser – Level 2",
+							"en-US": "Yoru's Stylish Butterfly Comb Level 2",
+							"es-ES": "Navaja mariposa elegante de Yoru de nivel 2",
+							"es-MX": "Peine mariposa elegante de Yoru nivel 2",
+							"fr-FR": "Peigne papillon stylé de Yoru niveau 2",
+							"id-ID": "Yoru's Stylish Butterfly Comb Level 2",
+							"it-IT": "Pettine a farfalla stiloso di Yoru livello 2",
+							"ja-JP": "ヨルのイケてるバタフライコーム Lv.2",
+							"ko-KR": "요루의 스타일리시 버터플라이 빗 2레벨",
+							"pl-PL": "Stylowy grzebień motylkowy Yoru – poziom 2",
+							"pt-BR": "Pente-Borboleta Estiloso do Yoru Nível 2",
+							"ru-RU": "Стильный гребень-бабочка Yoru уровень 2",
+							"th-TH": "Yoru's Stylish Butterfly Comb เลเวล 2",
+							"tr-TR": "2. Seviye Yoru'nun Janti Kelebek Tarağı",
+							"vi-VN": "Lược Bướm Siêu Ngầu Cấp 2 Của Yoru",
+							"zh-CN": "Yoru's Stylish Butterfly Comb Level 2",
+							"zh-TW": "夜戮的時尚蝴蝶梳 等級2"
+						}
+					}
+				}
+			],
+			"id": "D034911C-45A6-1CE4-E6F5-4CBE57E9D4F1",
+			"label": "D034911C-45A6-1CE4-E6F5-4CBE57E9D4F1",
+			"name":
+			{
+				"defaultText": "Yoru's Stylish Butterfly Comb",
+				"localizedByCulture":
+				{
+					"ar-AE": "مشط فراشة يورو الأنيق",
+					"de-DE": "Yorus stylisches Butterflymesser",
+					"en-US": "Yoru's Stylish Butterfly Comb",
+					"es-ES": "Navaja mariposa elegante de Yoru",
+					"es-MX": "Peine mariposa elegante de Yoru",
+					"fr-FR": "Peigne papillon stylé de Yoru",
+					"id-ID": "Yoru's Stylish Butterfly Comb",
+					"it-IT": "Pettine a farfalla stiloso di Yoru",
+					"ja-JP": "ヨルのイケてるバタフライコーム",
+					"ko-KR": "요루의 스타일리시 버터플라이 빗",
+					"pl-PL": "Stylowy grzebień motylkowy Yoru",
+					"pt-BR": "Pente-Borboleta Estiloso do Yoru",
+					"ru-RU": "Стильный гребень-бабочка Yoru",
+					"th-TH": "Yoru's Stylish Butterfly Comb",
+					"tr-TR": "Yoru'nun Janti Kelebek Tarağı",
+					"vi-VN": "Lược Bướm Siêu Ngầu Của Yoru",
+					"zh-CN": "Yoru's Stylish Butterfly Comb",
+					"zh-TW": "夜戮的時尚蝴蝶梳"
 				}
 			}
 		},
@@ -57492,7 +57986,7 @@
 					"es-ES": "Epílogo: Tarjeta VERSUS // Vandal + Phantom",
 					"es-MX": "Epílogo: VERSUS // Tarjeta Vandal + Phantom",
 					"fr-FR": "Carte Épilogue : VERSUS // Vandal + Phantom",
-					"id-ID": "Epilog: Kartu VERSUS // Vandal + Phantom",
+					"id-ID": "Kartu Epilog: VERSUS // Vandal + Phantom",
 					"it-IT": "Carta Epilogo: VERSUS // Vandal e Phantom",
 					"ja-JP": "エピローグ: VERSUS // ヴァンダル + ファントム カード",
 					"ko-KR": "에필로그: VS // 밴달 + 팬텀 카드",
@@ -57695,7 +58189,7 @@
 					"es-ES": "Tarjeta de la beta de VALORANT",
 					"es-MX": "Tarjeta Beta de VALORANT",
 					"fr-FR": "Carte Bêta de VALORANT",
-					"id-ID": "Kartu Beta VALORANT",
+					"id-ID": "Kartu VALORANT Beta",
 					"it-IT": "Carta Beta di VALORANT",
 					"ja-JP": "VALORANT ベータ カード",
 					"ko-KR": "발로란트 베타 카드",
@@ -57724,7 +58218,7 @@
 					"es-ES": "Tarjeta Pionero de la beta",
 					"es-MX": "Tarjeta Pionero de Beta",
 					"fr-FR": "Carte Pionnier de la bêta",
-					"id-ID": "Kartu Pionir Beta",
+					"id-ID": "Kartu Beta Pioneer",
 					"it-IT": "Carta Pioniere della beta",
 					"ja-JP": "ベータパイオニア カード",
 					"ko-KR": "베타 개척자 카드",
@@ -58743,7 +59237,7 @@
 					"it-IT": "Carta MMXX EP1",
 					"ja-JP": "MMXX EP1 カード",
 					"ko-KR": "MMXX 에피소드 1 카드",
-					"pl-PL": "Karta „ODC.1 MMXX”",
+					"pl-PL": "Karta „MMXX, ODC. 1”",
 					"pt-BR": "Card MMXX EP1",
 					"ru-RU": "Карточка \"ЭПИЗОД 1: MMXX\"",
 					"th-TH": "การ์ด MMXX EP1",
@@ -58942,7 +59436,7 @@
 					"es-ES": "Epílogo: Tarjeta Infinity",
 					"es-MX": "Epílogo: Tarjeta Infinito",
 					"fr-FR": "Carte Épilogue : Infini",
-					"id-ID": "Epilogue: Kartu Infinity",
+					"id-ID": "Kartu Epilogue: Infinity",
 					"it-IT": "Carta Epilogo: Infinito",
 					"ja-JP": "エピローグ: インフィニティー カード",
 					"ko-KR": "에필로그: 인피니티 카드",
@@ -59294,7 +59788,7 @@
 					"it-IT": "Carta VERSUS // Bind e Icebox",
 					"ja-JP": "VERSUS // バインド + アイスボックス カード",
 					"ko-KR": "VS // 바인드 + 아이스박스 카드",
-					"pl-PL": "VERSUS // Karta „Bind + Icebox”",
+					"pl-PL": "Karta „VERSUS // Bind + Icebox”",
 					"pt-BR": "Card VERSUS // Bind + Icebox",
 					"ru-RU": "Карточка \"Противостояние\" (Bind + Icebox)",
 					"th-TH": "การ์ด VERSUS // Bind + Icebox",
@@ -59381,7 +59875,7 @@
 					"it-IT": "Carta VERSUS // Sova e Cypher",
 					"ja-JP": "VERSUS // ソーヴァ + サイファー カード",
 					"ko-KR": "VS //소바 + 사이퍼 카드",
-					"pl-PL": "VERSUS // Karta „Sova + Cypher”",
+					"pl-PL": "Karta „VERSUS // Sova + Cypher”",
 					"pt-BR": "Card VERSUS // Sova + Cypher",
 					"ru-RU": "Карточка \"Противостояние\" (Sova + Cypher)",
 					"th-TH": "การ์ด VERSUS // Sova + Cypher",
@@ -59493,7 +59987,7 @@
 					"es-ES": "Tarjeta Epílogo: ¡Buen trabajo, Paul!",
 					"es-MX": "Epílogo: Tarjeta ¡Buen trabajo, Paul!",
 					"fr-FR": "Carte Épilogue : Beau travail, Paul !",
-					"id-ID": "Epilogue: Kartu Good Job, Paul!",
+					"id-ID": "Kartu Epilogue: Good Job, Paul!",
 					"it-IT": "Carta Epilogo: Ben fatto, Paul!",
 					"ja-JP": "エピローグ: GJ ポール カード",
 					"ko-KR": "에필로그: 잘했어, 폴! 카드",
@@ -59696,7 +60190,7 @@
 					"es-ES": "Epílogo: Tarjeta Recuerdos parte 1",
 					"es-MX": "Epílogo: Tarjeta Recuerdos parte 1",
 					"fr-FR": "Carte Épilogue : Mementos 1re partie",
-					"id-ID": "Epilogue: Kartu Mementos Pt. 1",
+					"id-ID": "Kartu Epilogue: Mementos Pt. 1",
 					"it-IT": "Carta Epilogo: Ricordi - Parte 1",
 					"ja-JP": "エピローグ: メメント Pt. 1 カード",
 					"ko-KR": "에필로그: 기념사진 파트 1 카드",
@@ -60599,7 +61093,7 @@
 					"it-IT": "Carta Versus // Phoenix e Phoenix",
 					"ja-JP": "VERSUS // フェニックス + フェニックス カード",
 					"ko-KR": "VS // 피닉스 + 피닉스 카드",
-					"pl-PL": "Karta „Versus // Phoenix + Phoenix”",
+					"pl-PL": "Karta „VERSUS // Phoenix + Phoenix”",
 					"pt-BR": "CARD VERSUS // Phoenix + Phoenix",
 					"ru-RU": "Карточка \"Противостояние\" (Phoenix + Phoenix)",
 					"th-TH": "การ์ด Versus // Phoenix + Phoenix",
@@ -60740,7 +61234,7 @@
 					"es-ES": "Epílogo: Tarjeta Cebo de diseño",
 					"es-MX": "Epílogo: Tarjeta Diseño Señuelo",
 					"fr-FR": "Carte Épilogue : Skin-appât",
-					"id-ID": "Epilogue: Kartu Skin Bait",
+					"id-ID": "Kartu Epilogue: Skin Bait",
 					"it-IT": "Carta Epilogo: Esca di pelle",
 					"ja-JP": "エピローグ: スキンベイト カード",
 					"ko-KR": "에필로그: 스킨 미끼 카드",
@@ -60918,7 +61412,7 @@
 					"it-IT": "Carta VERSUS // Yoru e Phoenix",
 					"ja-JP": "VERSUS // ヨル + フェニックス カード",
 					"ko-KR": "VS // 요루 + 피닉스 카드",
-					"pl-PL": "VERSUS // Karta „Yoru + Phoenix”",
+					"pl-PL": "Karta „VERSUS // Yoru + Phoenix”",
 					"pt-BR": "Card Versus // Yoru + Phoenix",
 					"ru-RU": "Карточка \"Противостояние\" (Yoru + Phoenix)",
 					"th-TH": "การ์ด Versus // Yoru + Phoenix",
@@ -60972,7 +61466,7 @@
 					"es-ES": "Tarjeta Protocolo V",
 					"es-MX": "Tarjeta Protocolo V",
 					"fr-FR": "Carte Protocole V",
-					"id-ID": "Kartu Protokol V",
+					"id-ID": "Kartu V Protocol",
 					"it-IT": "Carta Protocollo V",
 					"ja-JP": "Vプロトコル カード",
 					"ko-KR": "V 프로토콜 카드",
@@ -61059,7 +61553,7 @@
 					"es-ES": "Tarjeta Orgullo // Arcoíris",
 					"es-MX": "Tarjeta Orgullo // Arcoíris",
 					"fr-FR": "Carte Pride // Arc-en-ciel",
-					"id-ID": "Jubilant Colors // Kartu Chromatic",
+					"id-ID": "Kartu Jubilant Colors // Chromatic",
 					"it-IT": "Carta Pride // Arcobaleno",
 					"ja-JP": "プライド // レインボー カード",
 					"ko-KR": "자부심 // 무지개 카드",
@@ -61088,7 +61582,7 @@
 					"es-ES": "Tarjeta Orgullo // Algodón de azúcar",
 					"es-MX": "Tarjeta Orgullo // Algodón de Azúcar",
 					"fr-FR": "Carte Pride // Barbe à papa",
-					"id-ID": "Jubilant Colors // Kartu Cotton Candy",
+					"id-ID": "Kartu Jubilant Colors // Cotton Candy",
 					"it-IT": "Carta Pride // Zucchero filato",
 					"ja-JP": "プライド // コットンキャンディー カード",
 					"ko-KR": "자부심 // 솜사탕 카드",
@@ -61117,7 +61611,7 @@
 					"es-ES": "Tarjeta Orgullo // Principal",
 					"es-MX": "Tarjeta Orgullo // Primordial",
 					"fr-FR": "Carte Pride // CMJN",
-					"id-ID": "Jubilant Colors // Kartu Primary",
+					"id-ID": "Kartu Jubilant Colors // Primary",
 					"it-IT": "Carta Pride // Colori primari",
 					"ja-JP": "プライド // プライマリ カード",
 					"ko-KR": "자부심 // 근원 카드",
@@ -61146,7 +61640,7 @@
 					"es-ES": "Tarjeta Orgullo // Galaxia",
 					"es-MX": "Tarjeta Orgullo // Galaxia",
 					"fr-FR": "Carte Pride // Galactique",
-					"id-ID": "Jubilant Colors // Kartu Galactic",
+					"id-ID": "Kartu Jubilant Colors // Galactic",
 					"it-IT": "Carta Pride // Galattico",
 					"ja-JP": "プライド // ギャラクティック カード",
 					"ko-KR": "자부심 // 은하계 카드",
@@ -61175,7 +61669,7 @@
 					"es-ES": "Tarjeta Orgullo // Ocaso",
 					"es-MX": "Tarjeta Orgullo // Atardecer",
 					"fr-FR": "Carte Pride // Coucher de soleil",
-					"id-ID": "Jubilant Colors // Kartu Sunset",
+					"id-ID": "Kartu Jubilant Colors // Sunset",
 					"it-IT": "Carta Pride // Tramonto",
 					"ja-JP": "プライド // サンセット カード",
 					"ko-KR": "자부심 // 일몰 카드",
@@ -61204,7 +61698,7 @@
 					"es-ES": "Tarjeta Orgullo // Crepúsculo",
 					"es-MX": "Tarjeta Orgullo // Crepúsculo",
 					"fr-FR": "Carte Pride // Crépuscule",
-					"id-ID": "Jubilant Colors // Kartu Twilight",
+					"id-ID": "Kartu Jubilant Colors // Twilight",
 					"it-IT": "Carta Pride // Crepuscolo",
 					"ja-JP": "プライド // トワイライト カード",
 					"ko-KR": "자부심 // 황혼 카드",
@@ -61233,7 +61727,7 @@
 					"es-ES": "Tarjeta Orgullo // Sorbete",
 					"es-MX": "Tarjeta Orgullo // Sorbetto",
 					"fr-FR": "Carte Pride // Crème glacée",
-					"id-ID": "Jubilant Colors // Kartu Sherbet",
+					"id-ID": "Kartu Jubilant Colors // Sherbet",
 					"it-IT": "Carta Pride // Sorbetto",
 					"ja-JP": "プライド // シャーベット カード",
 					"ko-KR": "자부심 // 셔벗 카드",
@@ -61262,11 +61756,11 @@
 					"es-ES": "Tarjeta de Cypher VALORANT GO! Vol. 1",
 					"es-MX": "Tarjeta Cypher VALORANT GO! Vol. 1",
 					"fr-FR": "Carte Cypher (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Kartu Vol. 1 Cypher",
+					"id-ID": "Kartu VALORANT GO! Vol. 1 Cypher",
 					"it-IT": "Carta Cypher VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 サイファー カード",
 					"ko-KR": "발로란트 GO! Vol. 1 사이퍼 카드",
-					"pl-PL": "Karta Cyphera „VALORANT GO! – Tom 1”",
+					"pl-PL": "Karta „Cypher VALORANT GO! – Tom 1”",
 					"pt-BR": "Card Cypher VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 - Cypher\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Cypher",
@@ -61291,11 +61785,11 @@
 					"es-ES": "Tarjeta de Jett VALORANT GO! Vol. 1",
 					"es-MX": "Tarjeta Jett VALORANT GO! Vol. 1",
 					"fr-FR": "Carte Jett (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Kartu Vol. 1 Jett",
+					"id-ID": "Kartu VALORANT GO! Vol. 1 Jett",
 					"it-IT": "Carta Jett VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 ジェット カード",
 					"ko-KR": "발로란트 GO! Vol. 1 제트 카드",
-					"pl-PL": "Karta Jett „VALORANT GO! – Tom 1”",
+					"pl-PL": "Karta „Jett VALORANT GO! – Tom 1”",
 					"pt-BR": "Card Jett VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 - Jett\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Jett",
@@ -61324,7 +61818,7 @@
 					"it-IT": "Carta Killjoy VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 キルジョイ カード",
 					"ko-KR": "발로란트 GO! Vol. 1 킬조이 카드",
-					"pl-PL": "Karta Killjoy „VALORANT GO! – Tom 1”",
+					"pl-PL": "Karta „Killjoy VALORANT GO! – Tom 1”",
 					"pt-BR": "Card Killjoy VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 – Killjoy\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Killjoy",
@@ -61353,7 +61847,7 @@
 					"it-IT": "Carta Reyna VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 レイナ カード",
 					"ko-KR": "발로란트 GO! Vol. 1 레이나 카드",
-					"pl-PL": "Karta Reyny „VALORANT GO! – Tom 1”",
+					"pl-PL": "Karta „Reyna VALORANT GO! – Tom 1”",
 					"pt-BR": "Card Reyna VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 – Reyna\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Reyna",
@@ -61378,11 +61872,11 @@
 					"es-ES": "Tarjeta de Sage VALORANT GO! Vol. 1",
 					"es-MX": "Tarjeta Sage VALORANT GO! Vol. 1",
 					"fr-FR": "Carte Sage (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Kartu Vol. 1 Sage",
+					"id-ID": "Kartu VALORANT GO! Vol. 1 Sage",
 					"it-IT": "Carta Sage VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 セージ カード",
 					"ko-KR": "발로란트 GO! Vol. 1 세이지 카드",
-					"pl-PL": "Karta Sage „VALORANT GO! – Tom 1”",
+					"pl-PL": "Karta „Sage VALORANT GO! – Tom 1”",
 					"pt-BR": "Card Sage VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 - Sage\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Sage",
@@ -61390,6 +61884,151 @@
 					"vi-VN": "Thẻ Sage VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷 贤者 卡牌",
 					"zh-TW": "特戰英豪 GO！第1集 聖祈 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "7C41A772-4AF0-AA8A-1F6D-4CBECE76EAB6",
+			"label": "7C41A772-4AF0-AA8A-1F6D-4CBECE76EAB6",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Phoenix Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 بطاقة فينيكس",
+					"de-DE": "Banner „VALORANT, LOS! Vol. 2 Phoenix“",
+					"en-US": "VALORANT GO! Vol. 2 Phoenix Card",
+					"es-ES": "Tarjeta de Phoenix VALORANT GO! Vol. 2",
+					"es-MX": "Tarjeta Phoenix VALORANT GO! Vol. 2",
+					"fr-FR": "Carte Phoenix (VALORANT GO! Vol. 2)",
+					"id-ID": "Kartu VALORANT GO! Vol. 2 Phoenix",
+					"it-IT": "Carta Phoenix VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 フェニックス カード",
+					"ko-KR": "발로란트 GO! Vol. 2 피닉스 카드",
+					"pl-PL": "Karta „Phoenix VALORANT GO! – Tom 2”",
+					"pt-BR": "Card Phoenix VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Карточка \"Phoenix\"",
+					"th-TH": "การ์ด VALORANT GO! Vol. 2 Phoenix",
+					"tr-TR": "VALORANT GO! 2. Cilt Phoenix Kartı",
+					"vi-VN": "Thẻ Phoenix VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Phoenix Card",
+					"zh-TW": "特戰英豪 GO！第2集 菲尼克斯 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "A66CCE42-4ECD-1999-9700-E387EB8CBE00",
+			"label": "A66CCE42-4ECD-1999-9700-E387EB8CBE00",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Raze Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 بطاقة رايز",
+					"de-DE": "Banner „VALORANT, LOS! Vol. 2 Raze“",
+					"en-US": "VALORANT GO! Vol. 2 Raze Card",
+					"es-ES": "Tarjeta de Raze VALORANT GO! Vol. 2",
+					"es-MX": "Tarjeta Raze VALORANT GO! Vol. 2",
+					"fr-FR": "Carte Raze (VALORANT GO! Vol. 2)",
+					"id-ID": "Kartu VALORANT GO! Vol. 2 Raze",
+					"it-IT": "Carta Raze VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 レイズ カード",
+					"ko-KR": "발로란트 GO! Vol. 2 레이즈 카드",
+					"pl-PL": "Karta „Raze VALORANT GO! – Tom 2”",
+					"pt-BR": "Card Raze VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Карточка \"Raze\"",
+					"th-TH": "การ์ด VALORANT GO! Vol. 2 Raze",
+					"tr-TR": "VALORANT GO! 2. Cilt Raze Kartı",
+					"vi-VN": "Thẻ Raze VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Raze Card",
+					"zh-TW": "特戰英豪 GO！第2集 芮茲 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "9E127CDF-4CB5-62E1-69A1-629227BF85C7",
+			"label": "9E127CDF-4CB5-62E1-69A1-629227BF85C7",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Sova Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 بطاقة سوفا",
+					"de-DE": "Banner „VALORANT, LOS! Vol. 2 Sova“",
+					"en-US": "VALORANT GO! Vol. 2 Sova Card",
+					"es-ES": "Tarjeta de Sova VALORANT GO! VOL. 2",
+					"es-MX": "Tarjeta Sova VALORANT GO! Vol. 2",
+					"fr-FR": "Carte Sova (VALORANT GO! Vol. 2)",
+					"id-ID": "Kartu VALORANT GO! Vol. 2 Sova",
+					"it-IT": "Carta Sova VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ソーヴァ カード",
+					"ko-KR": "발로란트 GO! Vol. 2 소바 카드",
+					"pl-PL": "Karta „Sova VALORANT GO! – Tom 2”",
+					"pt-BR": "Card Sova VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Карточка \"Sova\"",
+					"th-TH": "การ์ด VALORANT GO! Vol. 2 Sova",
+					"tr-TR": "VALORANT GO! 2. Cilt Sova Kartı",
+					"vi-VN": "Thẻ Sova VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Sova Card",
+					"zh-TW": "特戰英豪 GO！第2集 蘇法 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "A9793F93-4D99-C441-39F0-4CBD56B7E7C9",
+			"label": "A9793F93-4D99-C441-39F0-4CBD56B7E7C9",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Viper Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 بطاقة فايبر",
+					"de-DE": "Banner „VALORANT, LOS! Vol. 2 Viper“",
+					"en-US": "VALORANT GO! Vol. 2 Viper Card",
+					"es-ES": "Tarjeta de Viper VALORANT GO! Vol. 2",
+					"es-MX": "Tarjeta Viper VALORANT GO! Vol. 2",
+					"fr-FR": "Carte Viper (VALORANT GO! Vol. 2)",
+					"id-ID": "Kartu VALORANT GO! Vol. 2 Viper",
+					"it-IT": "Carta Viper VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ヴァイパー カード",
+					"ko-KR": "발로란트 GO! Vol. 2 바이퍼 카드",
+					"pl-PL": "Karta „Viper VALORANT GO! – Tom 2”",
+					"pt-BR": "Card Viper VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Карточка \"Viper\"",
+					"th-TH": "การ์ด VALORANT GO! Vol. 2 Viper",
+					"tr-TR": "VALORANT GO! 2. Cilt Viper Kartı",
+					"vi-VN": "Thẻ Viper VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Viper Card",
+					"zh-TW": "特戰英豪 GO！第2集 薇蝮 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "B55EC859-4533-C751-A1D8-B1BBA5C16387",
+			"label": "B55EC859-4533-C751-A1D8-B1BBA5C16387",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Yoru Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 بطاقة يورو",
+					"de-DE": "Banner „VALORANT, LOS! Vol. 2 Yoru“",
+					"en-US": "VALORANT GO! Vol. 2 Yoru Card",
+					"es-ES": "Tarjeta de Yoru VALORANT GO! VOL. 2",
+					"es-MX": "Tarjeta Yoru VALORANT GO! Vol. 2",
+					"fr-FR": "Carte Yoru (VALORANT GO! Vol. 2)",
+					"id-ID": "Kartu VALORANT GO! Vol. 2 Yoru",
+					"it-IT": "Carta Yoru VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ヨル カード",
+					"ko-KR": "발로란트 GO! Vol. 2 요루 카드",
+					"pl-PL": "Karta „Yoru VALORANT GO! – Tom 2”",
+					"pt-BR": "Card Yoru VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Карточка \"Yoru\"",
+					"th-TH": "การ์ด VALORANT GO! Vol. 2 Yoru",
+					"tr-TR": "VALORANT GO! 2. Cilt Yoru Kartı",
+					"vi-VN": "Thẻ Yoru VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Yoru Card",
+					"zh-TW": "特戰英豪 GO！第2集 夜戮 玩家卡面"
 				}
 			}
 		},
@@ -61494,7 +62133,7 @@
 					"es-ES": "Tarjeta del EP. 2, Glitchpop",
 					"es-MX": "Tarjeta Glitchpop, EP 2",
 					"fr-FR": "Carte Glitchpop, ÉP 2",
-					"id-ID": "Glitchpop, Kartu EP 2",
+					"id-ID": "Kartu Glitchpop, EP 2",
 					"it-IT": "Glitchpop, carta EP 2",
 					"ja-JP": "グリッチポップ EP 2 カード",
 					"ko-KR": "글리치팝 에피소드 2 카드",
@@ -62049,7 +62688,7 @@
 					"it-IT": "Carta EP 3 // Riflesso",
 					"ja-JP": "EP 3 // リフレクション カード",
 					"ko-KR": "에피소드 3 // 리플렉션 카드",
-					"pl-PL": "ODC. 3 // Karta „Odbicie”",
+					"pl-PL": "Karta „ODC. 3 // Odbicie”",
 					"pt-BR": "Card EP 3 // Reflexão",
 					"ru-RU": "Карточка \"ЭПИЗОД 3 // Отражение\"",
 					"th-TH": "การ์ด EP 3 // Reflection",
@@ -65373,7 +66012,7 @@
 					"ar-AE": "غير عادل",
 					"de-DE": "Geizhals",
 					"en-US": "Cheap",
-					"es-ES": "Tacaño",
+					"es-ES": "Sin rival",
 					"es-MX": "Injusto",
 					"fr-FR": "Hors pair",
 					"id-ID": "Tak Seimbang",
@@ -65381,7 +66020,7 @@
 					"ja-JP": "卑怯者",
 					"ko-KR": "비열",
 					"pl-PL": "Podły",
-					"pt-BR": "Barato",
+					"pt-BR": "Injusto",
 					"ru-RU": "Халявщик",
 					"th-TH": "ไม่แฟร์",
 					"tr-TR": "Ucuzcu",
@@ -65400,7 +66039,7 @@
 					"ar-AE": "لقب غير عادل",
 					"de-DE": "Titel „Geizhals“",
 					"en-US": "Cheap Title",
-					"es-ES": "Título Tacaño",
+					"es-ES": "Título Sin rival",
 					"es-MX": "Título Injusto",
 					"fr-FR": "Titre Hors pair",
 					"id-ID": "Gelar Tak Seimbang",
@@ -65408,7 +66047,7 @@
 					"ja-JP": "卑怯者 タイトル",
 					"ko-KR": "비열 칭호",
 					"pl-PL": "Tytuł „Podły”",
-					"pt-BR": "Título Barato",
+					"pt-BR": "Título Injusto",
 					"ru-RU": "Звание \"Халявщик\"",
 					"th-TH": "ฉายาไม่แฟร์",
 					"tr-TR": "Ucuzcu Unvanı",
@@ -66647,7 +67286,7 @@
 					"es-ES": "Epílogo: Amuleto Moneda de Bruno",
 					"es-MX": "Epílogo: Buddy Moneda de Bruno",
 					"fr-FR": "Porte-bonheur Épilogue : Pièce de Bruno",
-					"id-ID": "Epilogue: Gantungan Bruno Coin",
+					"id-ID": "Gantungan Epilogue: Bruno Coin",
 					"it-IT": "Epilogo: Accessorio Moneta Bruno",
 					"ja-JP": "エピローグ: ブルーノコイン バディー",
 					"ko-KR": "에필로그: 브루노 코인 총기 장식",
@@ -66827,11 +67466,11 @@
 					"es-ES": "Amuleto Cypher VALORANT GO! Vol. 1",
 					"es-MX": "Buddy Cypher VALORANT GO! Vol. 1",
 					"fr-FR": "Porte-bonheur Cypher (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Gantungan Vol. 1 Cypher",
+					"id-ID": "Gantungan VALORANT GO! Vol. 1 Cypher",
 					"it-IT": "Accessorio Cypher VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 サイファー バディー",
 					"ko-KR": "발로란트 GO! Vol. 1 사이퍼 총기 장식",
-					"pl-PL": "Przywieszka Cyphera „VALORANT GO! – Tom 1”",
+					"pl-PL": "Przywieszka „Cypher VALORANT GO! – Tom 1”",
 					"pt-BR": "Chaveiro Cypher VALORANT GO! Vol. 1",
 					"ru-RU": "Брелок \"VALORANT GO! Вып. 1 - Cypher\"",
 					"th-TH": "บัดดี้ VALORANT GO! Vol. 1 Cypher",
@@ -66887,11 +67526,11 @@
 					"es-ES": "Amuleto Jett VALORANT GO! Vol. 1",
 					"es-MX": "Buddy Jett VALORANT GO! Vol. 1",
 					"fr-FR": "Porte-bonheur Jett (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Gantungan Vol. 1 Jett",
+					"id-ID": "Gantungan VALORANT GO! Vol. 1 Jett",
 					"it-IT": "Accessorio Jett VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 ジェット バディー",
 					"ko-KR": "발로란트 GO! Vol. 1 제트 총기 장식",
-					"pl-PL": "Przywieszka Jett „VALORANT GO! – Tom 1”",
+					"pl-PL": "Przywieszka „Jett VALORANT GO! – Tom 1”",
 					"pt-BR": "Chaveiro Jett VALORANT GO! Vol. 1 ",
 					"ru-RU": "Брелок \"VALORANT GO! Вып. 1 - Jett\"",
 					"th-TH": "บัดดี้ VALORANT GO! Vol. 1 Jett",
@@ -66947,11 +67586,11 @@
 					"es-ES": "Amuleto Killjoy VALORANT GO! Vol. 1",
 					"es-MX": "Buddy Killjoy VALORANT GO! Vol. 1",
 					"fr-FR": "Porte-bonheur Killjoy (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Gantungan Vol. 1 Killjoy",
+					"id-ID": "Gantungan VALORANT GO! Vol. 1 Killjoy",
 					"it-IT": "Accessorio Killjoy VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 キルジョイ バディー",
 					"ko-KR": "발로란트 GO! Vol. 1 킬조이 총기 장식",
-					"pl-PL": "Przywieszka Killjoy „VALORANT GO! – Tom 1”",
+					"pl-PL": "Przywieszka „Killjoy VALORANT GO! – Tom 1”",
 					"pt-BR": "Chaveiro Killjoy VALORANT GO! Vol. 1",
 					"ru-RU": "Брелок \"VALORANT GO! Вып. 1 - Killjoy\"",
 					"th-TH": "บัดดี้ VALORANT GO! Vol. 1 Killjoy",
@@ -66959,6 +67598,126 @@
 					"vi-VN": "Phụ Kiện Killjoy VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷 奇乐 枪友",
 					"zh-TW": "特戰英豪 GO！第1集 愷宙 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "502D79B2-43C6-1245-29E2-9BBB37397E1C",
+					"label": "502D79B2-43C6-1245-29E2-9BBB37397E1C",
+					"name":
+					{
+						"defaultText": "ChibiPhoenix",
+						"localizedByCulture":
+						{
+							"ar-AE": "ChibiPhoenix",
+							"de-DE": "ChibiPhoenix",
+							"en-US": "ChibiPhoenix",
+							"es-ES": "ChibiPhoenix",
+							"es-MX": "ChibiPhoenix",
+							"fr-FR": "ChibiPhoenix",
+							"id-ID": "ChibiPhoenix",
+							"it-IT": "ChibiPhoenix",
+							"ja-JP": "ChibiPhoenix",
+							"ko-KR": "ChibiPhoenix",
+							"pl-PL": "ChibiPhoenix",
+							"pt-BR": "ChibiPhoenix",
+							"ru-RU": "ChibiPhoenix",
+							"th-TH": "ChibiPhoenix",
+							"tr-TR": "ChibiPhoenix",
+							"vi-VN": "ChibiPhoenix",
+							"zh-CN": "ChibiPhoenix",
+							"zh-TW": "ChibiPhoenix"
+						}
+					}
+				}
+			],
+			"id": "92ABC229-4F98-FA7F-B98D-36B902EA68D0",
+			"label": "92ABC229-4F98-FA7F-B98D-36B902EA68D0",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Phoenix Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 ملحق فينيكس",
+					"de-DE": "Talisman „VALORANT, LOS! Vol. 2 Phoenix“",
+					"en-US": "VALORANT GO! Vol. 2 Phoenix Buddy",
+					"es-ES": "Amuleto Phoenix VALORANT GO! Vol. 2",
+					"es-MX": "Buddy Phoenix VALORANT GO! Vol. 2",
+					"fr-FR": "Porte-bonheur Phoenix (VALORANT GO! Vol. 2)",
+					"id-ID": "Gantungan VALORANT GO! Vol. 2 Phoenix",
+					"it-IT": "Accessorio Phoenix VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 フェニックス バディー",
+					"ko-KR": "발로란트 GO! Vol. 2 피닉스 총기 장식",
+					"pl-PL": "Przywieszka „Phoenix VALORANT GO! – Tom 2”",
+					"pt-BR": "Chaveiro Phoenix VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Брелок \"Phoenix\"",
+					"th-TH": "บัดดี้ VALORANT GO! Vol. 2 Phoenix",
+					"tr-TR": "VALORANT GO! 2. Cilt Phoenix Uğuru",
+					"vi-VN": "Phụ Kiện Phoenix VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Phoenix Buddy",
+					"zh-TW": "特戰英豪 GO！第2集 菲尼克斯 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "F097211C-4AAF-42F6-04A7-80ADB96B9092",
+					"label": "F097211C-4AAF-42F6-04A7-80ADB96B9092",
+					"name":
+					{
+						"defaultText": "ChibiRaze",
+						"localizedByCulture":
+						{
+							"ar-AE": "ChibiRaze",
+							"de-DE": "ChibiRaze",
+							"en-US": "ChibiRaze",
+							"es-ES": "ChibiRaze",
+							"es-MX": "ChibiRaze",
+							"fr-FR": "ChibiRaze",
+							"id-ID": "ChibiRaze",
+							"it-IT": "ChibiRaze",
+							"ja-JP": "ChibiRaze",
+							"ko-KR": "ChibiRaze",
+							"pl-PL": "ChibiRaze",
+							"pt-BR": "ChibiRaze",
+							"ru-RU": "ChibiRaze",
+							"th-TH": "ChibiRaze",
+							"tr-TR": "ChibiRaze",
+							"vi-VN": "ChibiRaze",
+							"zh-CN": "ChibiRaze",
+							"zh-TW": "ChibiRaze"
+						}
+					}
+				}
+			],
+			"id": "EB6133BB-4896-5F64-85A9-C0BCCEDD07BD",
+			"label": "EB6133BB-4896-5F64-85A9-C0BCCEDD07BD",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Raze Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 ملحق رايز",
+					"de-DE": "Talisman „VALORANT, LOS! Vol. 2 Raze“",
+					"en-US": "VALORANT GO! Vol. 2 Raze Buddy",
+					"es-ES": "Amuleto Raze VALORANT GO! Vol. 2",
+					"es-MX": "Buddy Raze VALORANT GO! Vol. 2",
+					"fr-FR": "Porte-bonheur Raze (VALORANT GO! Vol. 2)",
+					"id-ID": "Gantungan VALORANT GO! Vol. 2 Raze",
+					"it-IT": "Accessorio Raze VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 レイズ バディー",
+					"ko-KR": "발로란트 GO! Vol. 2 레이즈 총기 장식",
+					"pl-PL": "Przywieszka „Raze VALORANT GO! – Tom 2”",
+					"pt-BR": "Chaveiro Raze VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Брелок \"Raze\"",
+					"th-TH": "บัดดี้ VALORANT GO! Vol. 2 Raze",
+					"tr-TR": "VALORANT GO! 2. Cilt Raze Uğuru",
+					"vi-VN": "Phụ Kiện Raze VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Raze Buddy",
+					"zh-TW": "特戰英豪 GO！第2集 芮茲 吊飾"
 				}
 			}
 		},
@@ -67007,11 +67766,11 @@
 					"es-ES": "Amuleto Reyna VALORANT GO! Vol. 1",
 					"es-MX": "Buddy Reyna VALORANT GO! Vol. 1",
 					"fr-FR": "Porte-bonheur Reyna (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Gantungan Vol. 1 Reyna",
+					"id-ID": "Gantungan VALORANT GO! Vol. 1 Reyna",
 					"it-IT": "Accessorio Reyna VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 レイナ バディー",
 					"ko-KR": "발로란트 GO! Vol. 1 레이나 총기 장식",
-					"pl-PL": "Przywieszka Reyny „VALORANT GO! – Tom 1”",
+					"pl-PL": "Przywieszka „Reyna VALORANT GO! – Tom 1”",
 					"pt-BR": "Chaveiro Reyna VALORANT GO! Vol. 1",
 					"ru-RU": "Брелок \"VALORANT GO! Вып. 1 - Reyna\"",
 					"th-TH": "บัดดี้ VALORANT GO! Vol. 1 Reyna",
@@ -67067,11 +67826,11 @@
 					"es-ES": "Amuleto Sage VALORANT GO! Vol. 1",
 					"es-MX": "Buddy Sage VALORANT GO! Vol. 1",
 					"fr-FR": "Porte-bonheur Sage (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Gantungan Vol. 1 Sage",
+					"id-ID": "Gantungan VALORANT GO! Vol. 1 Sage",
 					"it-IT": "Accessorio Sage VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 セージ バディー",
 					"ko-KR": "발로란트 GO! Vol. 1 세이지 총기 장식",
-					"pl-PL": "Przywieszka Sage „VALORANT GO! – Tom 1”",
+					"pl-PL": "Przywieszka „Sage VALORANT GO! – Tom 1”",
 					"pt-BR": "Chaveiro Sage VALORANT GO! Vol. 1",
 					"ru-RU": "Брелок \"VALORANT GO! Вып. 1 - Sage\"",
 					"th-TH": "บัดดี้ VALORANT GO! Vol. 1 Sage",
@@ -67079,6 +67838,186 @@
 					"vi-VN": "Phụ Kiện Sage VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷 贤者 枪友",
 					"zh-TW": "特戰英豪 GO！第1集 聖祈 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "DC955846-4C78-55A4-BFDA-47A89ADC4394",
+					"label": "DC955846-4C78-55A4-BFDA-47A89ADC4394",
+					"name":
+					{
+						"defaultText": "ChibiSova",
+						"localizedByCulture":
+						{
+							"ar-AE": "ChibiSova",
+							"de-DE": "ChibiSova",
+							"en-US": "ChibiSova",
+							"es-ES": "ChibiSova",
+							"es-MX": "ChibiSova",
+							"fr-FR": "ChibiSova",
+							"id-ID": "ChibiSova",
+							"it-IT": "ChibiSova",
+							"ja-JP": "ChibiSova",
+							"ko-KR": "ChibiSova",
+							"pl-PL": "ChibiSova",
+							"pt-BR": "ChibiSova",
+							"ru-RU": "ChibiSova",
+							"th-TH": "ChibiSova",
+							"tr-TR": "ChibiSova",
+							"vi-VN": "ChibiSova",
+							"zh-CN": "ChibiSova",
+							"zh-TW": "ChibiSova"
+						}
+					}
+				}
+			],
+			"id": "DD2095B0-44E5-92AD-B1CC-B9AD44C29F28",
+			"label": "DD2095B0-44E5-92AD-B1CC-B9AD44C29F28",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Sova Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 ملحق سوفا",
+					"de-DE": "Talisman „VALORANT, LOS! Vol. 2 Sova“",
+					"en-US": "VALORANT GO! Vol. 2 Sova Buddy",
+					"es-ES": "Amuleto Sova VALORANT GO! Vol. 2",
+					"es-MX": "Buddy Sova VALORANT GO! Vol. 2",
+					"fr-FR": "Porte-bonheur Sova (VALORANT GO! Vol. 2)",
+					"id-ID": "Gantungan VALORANT GO! Vol. 2 Sova",
+					"it-IT": "Accessorio Sova VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ソーヴァ バディー",
+					"ko-KR": "발로란트 GO! Vol. 2 소바 총기 장식",
+					"pl-PL": "Przywieszka „Sova VALORANT GO! – Tom 2”",
+					"pt-BR": "Chaveiro Sova VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Брелок \"Sova\"",
+					"th-TH": "บัดดี้ VALORANT GO! Vol. 2 Sova",
+					"tr-TR": "VALORANT GO! 2. Cilt Sova Uğuru",
+					"vi-VN": "Phụ Kiện Sova VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Sova Buddy",
+					"zh-TW": "特戰英豪 GO！第2集 蘇法 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "3F81D486-41EE-F90B-A3A9-B0883C83B7C8",
+					"label": "3F81D486-41EE-F90B-A3A9-B0883C83B7C8",
+					"name":
+					{
+						"defaultText": "ChibiViper",
+						"localizedByCulture":
+						{
+							"ar-AE": "ChibiViper",
+							"de-DE": "ChibiViper",
+							"en-US": "ChibiViper",
+							"es-ES": "ChibiViper",
+							"es-MX": "ChibiViper",
+							"fr-FR": "ChibiViper",
+							"id-ID": "ChibiViper",
+							"it-IT": "ChibiViper",
+							"ja-JP": "ChibiViper",
+							"ko-KR": "ChibiViper",
+							"pl-PL": "ChibiViper",
+							"pt-BR": "ChibiViper",
+							"ru-RU": "ChibiViper",
+							"th-TH": "ChibiViper",
+							"tr-TR": "ChibiViper",
+							"vi-VN": "ChibiViper",
+							"zh-CN": "ChibiViper",
+							"zh-TW": "ChibiViper"
+						}
+					}
+				}
+			],
+			"id": "1F242181-4A1D-1EA0-53F1-77ACE29F6BF6",
+			"label": "1F242181-4A1D-1EA0-53F1-77ACE29F6BF6",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Viper Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 ملحق فايبر",
+					"de-DE": "Talisman „VALORANT, LOS! Vol. 2 Viper“",
+					"en-US": "VALORANT GO! Vol. 2 Viper Buddy",
+					"es-ES": "Amuleto Viper VALORANT GO! Vol. 2",
+					"es-MX": "Buddy Viper VALORANT GO! Vol. 2",
+					"fr-FR": "Porte-bonheur Viper (VALORANT GO! Vol. 2)",
+					"id-ID": "Gantungan VALORANT GO! Vol. 2 Viper",
+					"it-IT": "Accessorio Viper VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ヴァイパー バディー",
+					"ko-KR": "발로란트 GO! Vol. 2 바이퍼 총기 장식",
+					"pl-PL": "Przywieszka „Viper VALORANT GO! – Tom 2”",
+					"pt-BR": "Chaveiro Viper VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Брелок \"Viper\"",
+					"th-TH": "บัดดี้ VALORANT GO! Vol. 2 Viper",
+					"tr-TR": "VALORANT GO! 2. Cilt Viper Uğuru",
+					"vi-VN": "Phụ Kiện Viper VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Viper Buddy",
+					"zh-TW": "特戰英豪 GO！第2集 薇蝮 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D1973C23-478C-372A-E77C-739C2373FBED",
+					"label": "D1973C23-478C-372A-E77C-739C2373FBED",
+					"name":
+					{
+						"defaultText": "ChibiYoru",
+						"localizedByCulture":
+						{
+							"ar-AE": "ChibiYoru",
+							"de-DE": "ChibiYoru",
+							"en-US": "ChibiYoru",
+							"es-ES": "ChibiYoru",
+							"es-MX": "ChibiYoru",
+							"fr-FR": "ChibiYoru",
+							"id-ID": "ChibiYoru",
+							"it-IT": "ChibiYoru",
+							"ja-JP": "ChibiYoru",
+							"ko-KR": "ChibiYoru",
+							"pl-PL": "ChibiYoru",
+							"pt-BR": "ChibiYoru",
+							"ru-RU": "ChibiYoru",
+							"th-TH": "ChibiYoru",
+							"tr-TR": "ChibiYoru",
+							"vi-VN": "ChibiYoru",
+							"zh-CN": "ChibiYoru",
+							"zh-TW": "ChibiYoru"
+						}
+					}
+				}
+			],
+			"id": "744457BF-4B96-62EA-934B-EE888267A23F",
+			"label": "744457BF-4B96-62EA-934B-EE888267A23F",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Yoru Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 ملحق يورو",
+					"de-DE": "Talisman „VALORANT, LOS! Vol. 2 Yoru“",
+					"en-US": "VALORANT GO! Vol. 2 Yoru Buddy",
+					"es-ES": "Amuleto Yoru VALORANT GO! Vol. 2",
+					"es-MX": "Buddy Yoru VALORANT GO! Vol. 2",
+					"fr-FR": "Porte-bonheur Yoru (VALORANT GO! Vol. 2)",
+					"id-ID": "Gantungan VALORANT GO! Vol. 2 Yoru",
+					"it-IT": "Accessorio Yoru VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ヨル バディー",
+					"ko-KR": "발로란트 GO! Vol. 2 요루 총기 장식",
+					"pl-PL": "Przywieszka „Yoru VALORANT GO! – Tom 2”",
+					"pt-BR": "Chaveiro Yoru VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Брелок \"Yoru\"",
+					"th-TH": "บัดดี้ VALORANT GO! Vol. 2 Yoru",
+					"tr-TR": "VALORANT GO! 2. Cilt Yoru Uğuru",
+					"vi-VN": "Phụ Kiện Yoru VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Yoru Buddy",
+					"zh-TW": "特戰英豪 GO！第2集 夜戮 吊飾"
 				}
 			}
 		},
@@ -67307,7 +68246,7 @@
 					"es-ES": "Amuleto Moneda del EP. 1 // 1",
 					"es-MX": "Buddy Moneda EP 1 // 1",
 					"fr-FR": "Porte-bonheur Pièce ÉP 1 // 1",
-					"id-ID": "EP 1 // Gantungan 1 Coin",
+					"id-ID": "Gantungan EP 1 // 1 Coin",
 					"it-IT": "Accessorio Moneta EP 1 // 1",
 					"ja-JP": "EP 1 // 1 コイン バディー",
 					"ko-KR": "에피소드 1 // 1 코인 총기 장식",
@@ -67367,7 +68306,7 @@
 					"es-ES": "Amuleto Moneda del EP. 1 // 2",
 					"es-MX": "Buddy Moneda EP 1 // 2",
 					"fr-FR": "Porte-bonheur Pièce ÉP 1 // 2",
-					"id-ID": "EP 1 // Gantungan 2 Coin",
+					"id-ID": "Gantungan EP 1 // 2 Coin",
 					"it-IT": "Accessorio Moneta EP 1 // 2",
 					"ja-JP": "EP 1 // 2 コイン バディー",
 					"ko-KR": "에피소드 1 // 2 코인 총기 장식",
@@ -67427,7 +68366,7 @@
 					"es-ES": "Amuleto Moneda del EP. 1 // 3",
 					"es-MX": "Buddy Moneda EP 1 // 3",
 					"fr-FR": "Porte-bonheur Pièce ÉP 1 // 3",
-					"id-ID": "EP 1 // Gantungan 3 Coin",
+					"id-ID": "Gantungan EP 1 // 3 Coin",
 					"it-IT": "Accessorio Moneta EP 1 // 3",
 					"ja-JP": "EP 1 // 3 コイン バディー",
 					"ko-KR": "에피소드 1 // 3 코인 총기 장식",
@@ -67487,7 +68426,7 @@
 					"es-ES": "Amuleto Moneda del EP. 2 // 1",
 					"es-MX": "Buddy Moneda EP 2 // 1",
 					"fr-FR": "Porte-bonheur Pièce ÉP 2 // 1",
-					"id-ID": "EP 2 // Gantungan 1 Coin",
+					"id-ID": "Gantungan EP 2 // 1 Coin",
 					"it-IT": "Accessorio Moneta EP 2 // 1",
 					"ja-JP": "EP 2 // 1 コイン バディー",
 					"ko-KR": "에피소드 2 // 1 코인 총기 장식",
@@ -67547,7 +68486,7 @@
 					"es-ES": "Amuleto Moneda del EP. 2 // 2",
 					"es-MX": "Buddy Moneda EP 2 // 2",
 					"fr-FR": "Porte-bonheur Pièce ÉP 2 // 2",
-					"id-ID": "EP 2 // Gantungan 2 Coin",
+					"id-ID": "Gantungan EP 2 // 2 Coin",
 					"it-IT": "Accessorio Moneta EP 2 // 2",
 					"ja-JP": "EP 2 // 2 コイン バディー",
 					"ko-KR": "에피소드 2 // 2 코인 총기 장식",
@@ -67607,7 +68546,7 @@
 					"es-ES": "Amuleto Moneda del EP. 2 // 3",
 					"es-MX": "Buddy Moneda EP 2 // 3",
 					"fr-FR": "Porte-bonheur Pièce ÉP 2 // 3",
-					"id-ID": "EP 2 // Gantungan 3 Coin",
+					"id-ID": "Gantungan EP 2 // 3 Coin",
 					"it-IT": "Accessorio Moneta EP 2 // 3",
 					"ja-JP": "EP 2 // 3 コイン バディー",
 					"ko-KR": "에피소드 2 // 3 코인 총기 장식",
@@ -67667,7 +68606,7 @@
 					"es-ES": "Amuleto Moneda del EP. 3 // 1",
 					"es-MX": "Buddy Moneda EP 3 // 1",
 					"fr-FR": "Porte-bonheur Pièce ÉP 3 // 1",
-					"id-ID": "EP 3 // Gantungan 1 Coin",
+					"id-ID": "Gantungan EP 3 // 1 Coin",
 					"it-IT": "Accessorio Moneta 1 // EP 3",
 					"ja-JP": "EP 3 // 1 コイン バディー",
 					"ko-KR": "에피소드 3 // 1 코인 총기 장식",
@@ -68207,7 +69146,7 @@
 					"es-ES": "Amuleto del EP. 2, Glitchpop",
 					"es-MX": "Buddy Glitchpop, EP 2",
 					"fr-FR": "Porte-bonheur Glitchpop, ÉP 2",
-					"id-ID": "Glitchpop, Gantungan EP 2",
+					"id-ID": "Gantungan Glitchpop, EP 2",
 					"it-IT": "Glitchpop, accessorio EP 2",
 					"ja-JP": "グリッチポップ EP 2 バディー",
 					"ko-KR": "글리치팝 에피소드 2 총기 장식",
@@ -68447,7 +69386,7 @@
 					"es-ES": "Epílogo: Amuleto Discotecno",
 					"es-MX": "Epílogo: Buddy Disco",
 					"fr-FR": "Porte-bonheur Épilogue : Discotech",
-					"id-ID": "Epilog: Gantungan Discotech",
+					"id-ID": "Gantungan Epilog: Discotech",
 					"it-IT": "Accessorio Epilogo: Discotech",
 					"ja-JP": "エピローグ: ディスコ バディー",
 					"ko-KR": "에필로그: 디스코테크 총기 장식",
@@ -72467,7 +73406,7 @@
 					"es-ES": "Amuleto de Bronce del EP. 1",
 					"es-MX": "Buddy EP1: Bronce",
 					"fr-FR": "Porte-bonheur ÉP 1 : Bronze",
-					"id-ID": "EP1: Gantungan Bronze",
+					"id-ID": "Gantungan EP1: Bronze",
 					"it-IT": "Accessorio EP1: Bronzo",
 					"ja-JP": "EP1: ブロンズ バディー",
 					"ko-KR": "에피소드 1: 브론즈 총기 장식",
@@ -72527,7 +73466,7 @@
 					"es-ES": "Amuleto de Diamante del EP. 1",
 					"es-MX": "Buddy EP1: Diamante",
 					"fr-FR": "Porte-bonheur ÉP 1 : Diamant",
-					"id-ID": "EP1: Gantungan Diamond",
+					"id-ID": "Gantungan EP1: Diamond",
 					"it-IT": "EP1: accessorio Diamante",
 					"ja-JP": "EP1: ダイヤモンド バディー",
 					"ko-KR": "에피소드 1: 다이아몬드 총기 장식",
@@ -72587,7 +73526,7 @@
 					"es-ES": "Amuleto de Oro del EP. 1",
 					"es-MX": "Buddy EP1: Oro",
 					"fr-FR": "Porte-bonheur ÉP 1 : Or",
-					"id-ID": "EP1: Gantungan Gold",
+					"id-ID": "Gantungan EP1: Gold",
 					"it-IT": "EP1: accessorio Oro",
 					"ja-JP": "EP1: ゴールド バディー",
 					"ko-KR": "에피소드 1: 골드 총기 장식",
@@ -72647,7 +73586,7 @@
 					"es-ES": "Amuleto de Inmortal del EP. 1",
 					"es-MX": "Buddy EP1: Inmortal",
 					"fr-FR": "Porte-bonheur ÉP 1 : Immortel",
-					"id-ID": "EP1: Gantungan Immortal",
+					"id-ID": "Gantungan EP1: Immortal",
 					"it-IT": "EP1: accessorio Immortale",
 					"ja-JP": "EP1: イモータル バディー",
 					"ko-KR": "에피소드 1: 불멸 총기 장식",
@@ -72707,7 +73646,7 @@
 					"es-ES": "Amuleto de Hierro del EP. 1",
 					"es-MX": "Buddy EP1: Hierro",
 					"fr-FR": "Porte-bonheur ÉP 1 : Fer",
-					"id-ID": "EP1: Gantungan Iron",
+					"id-ID": "Gantungan EP1: Iron",
 					"it-IT": "EP1: accessorio Ferro",
 					"ja-JP": "EP1: アイアン バディー",
 					"ko-KR": "에피소드 1: 아이언 총기 장식",
@@ -72767,7 +73706,7 @@
 					"es-ES": "Amuleto de Platino del EP. 1",
 					"es-MX": "Buddy EP1: Platino",
 					"fr-FR": "Porte-bonheur ÉP 1 : Platine",
-					"id-ID": "EP1: Gantungan Platinum",
+					"id-ID": "Gantungan EP1: Platinum",
 					"it-IT": "EP1: accessorio Platino",
 					"ja-JP": "EP1: プラチナ バディー",
 					"ko-KR": "에피소드 1: 플래티넘 총기 장식",
@@ -72827,7 +73766,7 @@
 					"es-ES": "Amuleto de Radiante del EP. 1",
 					"es-MX": "Buddy EP1: Radiante",
 					"fr-FR": "Porte-bonheur ÉP 1 : Radiant",
-					"id-ID": "EP1: Gantungan Radiant",
+					"id-ID": "Gantungan EP1: Radiant",
 					"it-IT": "Accessorio EP1: Radiante",
 					"ja-JP": "EP1: レディアント バディー",
 					"ko-KR": "에피소드 1: 레디언트 총기 장식",
@@ -72887,7 +73826,7 @@
 					"es-ES": "Amuleto de Plata del EP. 1",
 					"es-MX": "Buddy EP1: Plata",
 					"fr-FR": "Porte-bonheur ÉP 1 : Argent",
-					"id-ID": "EP1: Gantungan Silver",
+					"id-ID": "Gantungan EP1: Silver",
 					"it-IT": "EP1: accessorio Argento",
 					"ja-JP": "EP1: シルバー バディー",
 					"ko-KR": "에피소드 1: 실버 총기 장식",
@@ -72947,7 +73886,7 @@
 					"es-ES": "Amuleto de Bronce del EP. 2",
 					"es-MX": "Buddy EP2: Bronce",
 					"fr-FR": "Porte-bonheur ÉP 2 : Bronze",
-					"id-ID": "EP2: Gantungan Bronze",
+					"id-ID": "Gantungan EP2: Bronze",
 					"it-IT": "Accessorio EP2: Bronzo",
 					"ja-JP": "EP2: ブロンズ バディー",
 					"ko-KR": "에피소드 2: 브론즈 총기 장식",
@@ -73067,7 +74006,7 @@
 					"es-ES": "Amuleto de Oro del EP. 2",
 					"es-MX": "Buddy EP2: Oro",
 					"fr-FR": "Porte-bonheur ÉP 2 : Or",
-					"id-ID": "EP2: Gantungan Gold",
+					"id-ID": "Gantungan EP2: Gold",
 					"it-IT": "Accessorio EP2: Oro",
 					"ja-JP": "EP2: ゴールド バディー",
 					"ko-KR": "에피소드 2: 골드 총기 장식",
@@ -73127,7 +74066,7 @@
 					"es-ES": "Amuleto de Inmortal del EP. 2",
 					"es-MX": "Buddy EP2: Inmortal",
 					"fr-FR": "Porte-bonheur ÉP 2 : Immortel",
-					"id-ID": "EP2: Gantungan Immortal",
+					"id-ID": "Gantungan EP2: Immortal",
 					"it-IT": "Accessorio EP2: Immortale",
 					"ja-JP": "EP2: イモータル バディー",
 					"ko-KR": "에피소드 2: 불멸 총기 장식",
@@ -73187,7 +74126,7 @@
 					"es-ES": "Amuleto de Hierro del EP. 2",
 					"es-MX": "Buddy EP2: Hierro",
 					"fr-FR": "Porte-bonheur ÉP 2 : Fer",
-					"id-ID": "EP2: Gantungan Iron",
+					"id-ID": "Gantungan EP2: Iron",
 					"it-IT": "Accessorio EP2: Ferro",
 					"ja-JP": "EP2: アイアン バディー",
 					"ko-KR": "에피소드 2: 아이언 총기 장식",
@@ -73247,7 +74186,7 @@
 					"es-ES": "Amuleto de Platino del EP. 2",
 					"es-MX": "Buddy EP2: Platino",
 					"fr-FR": "Porte-bonheur ÉP 2 : Platine",
-					"id-ID": "EP2: Gantungan Platinum",
+					"id-ID": "Gantungan EP2: Platinum",
 					"it-IT": "Accessorio EP2: Platino",
 					"ja-JP": "EP2: プラチナ バディー",
 					"ko-KR": "에피소드 2: 플래티넘 총기 장식",
@@ -73307,7 +74246,7 @@
 					"es-ES": "Amuleto de Radiante del EP. 2",
 					"es-MX": "Buddy EP2: Radiante",
 					"fr-FR": "Porte-bonheur ÉP 2 : Radiant",
-					"id-ID": "EP2: Gantungan Radiant",
+					"id-ID": "Gantungan EP2: Radiant",
 					"it-IT": "Accessorio EP2: Radiante",
 					"ja-JP": "EP2: レディアント バディー",
 					"ko-KR": "에피소드 2: 레디언트 총기 장식",
@@ -73367,7 +74306,7 @@
 					"es-ES": "Amuleto de Plata del EP. 2",
 					"es-MX": "Buddy EP2: Plata",
 					"fr-FR": "Porte-bonheur ÉP 2 : Argent",
-					"id-ID": "EP2: Gantungan Silver",
+					"id-ID": "Gantungan EP2: Silver",
 					"it-IT": "Accessorio EP2: Argento",
 					"ja-JP": "EP2: シルバー バディー",
 					"ko-KR": "에피소드 2: 실버 총기 장식",
@@ -73727,7 +74666,7 @@
 					"es-ES": "Epílogo: Amuleto Salero",
 					"es-MX": "Epílogo: Buddy Salero",
 					"fr-FR": "Porte-bonheur Épilogue : Salière",
-					"id-ID": "Epilogue: Gantungan Salt Shaker",
+					"id-ID": "Gantungan Epilogue: Salt Shaker",
 					"it-IT": "Accessorio Epilogo: Saliera",
 					"ja-JP": "エピローグ: ソルトシェーカー バディー",
 					"ko-KR": "에필로그: 소금통 총기 장식",
@@ -76220,7 +77159,7 @@
 							"es-ES": "Grafiti Se busca: Conejito táctico",
 							"es-MX": "Spray Se Busca Conejo Táctico",
 							"fr-FR": "Graffiti Recherché : Lapin tueur",
-							"id-ID": "Wanted: Spray Tactibunny",
+							"id-ID": "Spray Wanted: Tactibunny",
 							"it-IT": "Spray Ricercato: Tatticoniglio",
 							"ja-JP": "指名手配: 戦略バニー スプレー",
 							"ko-KR": "현상수배: 전략가 토끼 스프레이",
@@ -76249,7 +77188,7 @@
 					"es-ES": "Grafiti Se busca: Conejito táctico",
 					"es-MX": "Spray Se Busca Conejo Táctico",
 					"fr-FR": "Graffiti Recherché : Lapin tueur",
-					"id-ID": "Wanted: Spray Tactibunny",
+					"id-ID": "Spray Wanted: Tactibunny",
 					"it-IT": "Spray Ricercato: Tatticoniglio",
 					"ja-JP": "指名手配: 戦略バニー スプレー",
 					"ko-KR": "현상수배: 전략가 토끼 스프레이",
@@ -80060,7 +80999,7 @@
 							"es-ES": "Epílogo: Grafiti Dab de Dan",
 							"es-MX": "Epílogo: Spray Dan Haciendo Dab",
 							"fr-FR": "Graffiti Épilogue : Dave qui dab",
-							"id-ID": "Epilogue: Spray Dabbing Dan",
+							"id-ID": "Spray Epilogue: Dabbing Dan",
 							"it-IT": "Spray Epilogo: Dan che dabba",
 							"ja-JP": "エピローグ: ダブダンスダン スプレー",
 							"ko-KR": "에필로그: 춤추는 댄 스프레이",
@@ -80089,7 +81028,7 @@
 					"es-ES": "Epílogo: Grafiti Dab de Dan",
 					"es-MX": "Epílogo: Spray Dan Haciendo Dab",
 					"fr-FR": "Graffiti Épilogue : Dave qui dab",
-					"id-ID": "Epilogue: Spray Dabbing Dan",
+					"id-ID": "Spray Epilogue: Dabbing Dan",
 					"it-IT": "Spray Epilogo: Dan che dabba",
 					"ja-JP": "エピローグ: ダブダンスダン スプレー",
 					"ko-KR": "에필로그: 춤추는 댄 스프레이",
@@ -80840,7 +81779,7 @@
 							"es-ES": "Epílogo: Grafiti Agrietado",
 							"es-MX": "Spray Epílogo: Reventado",
 							"fr-FR": "Graffiti Épilogue : Oups",
-							"id-ID": "Epilogue: Spray Cracked",
+							"id-ID": "Spray Epilogue: Cracked",
 							"it-IT": "Spray Epilogo: Frittata",
 							"ja-JP": "エピローグ: クラック スプレー",
 							"ko-KR": "에필로그: 균열 스프레이",
@@ -80869,7 +81808,7 @@
 					"es-ES": "Epílogo: Grafiti Agrietado",
 					"es-MX": "Spray Epílogo: Reventado",
 					"fr-FR": "Graffiti Épilogue : Oups",
-					"id-ID": "Epilogue: Spray Cracked",
+					"id-ID": "Spray Epilogue: Cracked",
 					"it-IT": "Spray Epilogo: Frittata",
 					"ja-JP": "エピローグ: クラック スプレー",
 					"ko-KR": "에필로그: 균열 스프레이",
@@ -80900,7 +81839,7 @@
 							"es-ES": "Grafiti ¿Gran pérdida?",
 							"es-MX": "Spray ¿Muy Reducido?",
 							"fr-FR": "Graffiti Grandement réduit ?",
-							"id-ID": "Greatly Decreased? Spray",
+							"id-ID": "Spray Greatly Decreased?",
 							"it-IT": "Spray Notevolmente diminuito?",
 							"ja-JP": "大幅低下？スプレー",
 							"ko-KR": "대폭 감소 스프레이",
@@ -80929,7 +81868,7 @@
 					"es-ES": "Grafiti ¿Gran pérdida?",
 					"es-MX": "Spray ¿Muy Reducido?",
 					"fr-FR": "Graffiti Grandement réduit ?",
-					"id-ID": "Greatly Decreased? Spray",
+					"id-ID": "Spray Greatly Decreased?",
 					"it-IT": "Spray Notevolmente diminuito?",
 					"ja-JP": "大幅低下？スプレー",
 					"ko-KR": "대폭 감소 스프레이",
@@ -81020,7 +81959,7 @@
 							"es-ES": "Grafiti ¡Killjoy! ¡Te elijo a ti!",
 							"es-MX": "Spray ¡Killjoy! ¡Yo te elijo!",
 							"fr-FR": "Graffiti Killjoy ! Je te choisis !",
-							"id-ID": "Killjoy! I Choose You! Spray",
+							"id-ID": "Spray Killjoy! I Choose You!",
 							"it-IT": "Spray Killjoy! Scelgo te!",
 							"ja-JP": "君に決めた！スプレー",
 							"ko-KR": "킬조이를 선택할게! 스프레이",
@@ -81049,7 +81988,7 @@
 					"es-ES": "Grafiti ¡Killjoy! ¡Te elijo a ti!",
 					"es-MX": "Spray ¡Killjoy! ¡Yo te elijo!",
 					"fr-FR": "Graffiti Killjoy ! Je te choisis !",
-					"id-ID": "Killjoy! I Choose You! Spray",
+					"id-ID": "Spray Killjoy! I Choose You!",
 					"it-IT": "Spray Killjoy! Scelgo te!",
 					"ja-JP": "君に決めた！スプレー",
 					"ko-KR": "킬조이를 선택할게! 스프레이",
@@ -81560,7 +82499,7 @@
 							"es-ES": "Grafiti ¿Gran aumento?",
 							"es-MX": "Spray ¿Muy Aumentado?",
 							"fr-FR": "Graffiti Grandement augmenté ?",
-							"id-ID": "Greatly Increased? Spray",
+							"id-ID": "Spray Greatly Increased? ",
 							"it-IT": "Spray Notevolmente aumentato?",
 							"ja-JP": "大幅上昇？スプレー",
 							"ko-KR": "대폭 증가 스프레이",
@@ -81589,7 +82528,7 @@
 					"es-ES": "Grafiti ¿Gran aumento?",
 					"es-MX": "Spray ¿Muy Aumentado?",
 					"fr-FR": "Graffiti Grandement augmenté ?",
-					"id-ID": "Greatly Increased? Spray",
+					"id-ID": "Spray Greatly Increased? ",
 					"it-IT": "Spray Notevolmente aumentato?",
 					"ja-JP": "大幅上昇？スプレー",
 					"ko-KR": "대폭 증가 스프레이",
@@ -81764,7 +82703,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "رسمة صنارة الصيد",
-					"de-DE": "Graffiti „Süchtig“",
+					"de-DE": "Graffiti „Am Haken“",
 					"en-US": "Hooked Spray",
 					"es-ES": "Grafiti enganchado",
 					"es-MX": "Spray Te Tengo",
@@ -84920,11 +85859,11 @@
 							"es-ES": "Grafiti de Cypher VALORANT GO! Vol. 1",
 							"es-MX": "Spray Cypher VALORANT GO! Vol. 1",
 							"fr-FR": "Graffiti Cypher (VALORANT GO! Vol. 1)",
-							"id-ID": "VALORANT GO! Spray Vol. 1 Cypher",
+							"id-ID": "Spray VALORANT GO! Vol. 1 Cypher",
 							"it-IT": "Spray Cypher VALORANT GO! vol. 1",
 							"ja-JP": "VALORANT GO! Vol.1 サイファー スプレー",
 							"ko-KR": "발로란트 GO! Vol. 1 사이퍼 스프레이",
-							"pl-PL": "Graffiti Cyphera „VALORANT GO! – Tom 1”",
+							"pl-PL": "Graffiti „Cypher VALORANT GO! – Tom 1”",
 							"pt-BR": "Spray Cypher VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Cypher\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Cypher",
@@ -84949,11 +85888,11 @@
 					"es-ES": "Grafiti de Cypher VALORANT GO! Vol. 1",
 					"es-MX": "Spray Cypher VALORANT GO! Vol. 1",
 					"fr-FR": "Graffiti Cypher (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Spray Vol. 1 Cypher",
+					"id-ID": "Spray VALORANT GO! Vol. 1 Cypher",
 					"it-IT": "Spray Cypher VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 サイファー スプレー",
 					"ko-KR": "발로란트 GO! Vol. 1 사이퍼 스프레이",
-					"pl-PL": "Graffiti Cyphera „VALORANT GO! – Tom 1”",
+					"pl-PL": "Graffiti „Cypher VALORANT GO! – Tom 1”",
 					"pt-BR": "Spray Cypher VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Cypher\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Cypher",
@@ -84980,11 +85919,11 @@
 							"es-ES": "Grafiti de Jett VALORANT GO! Vol. 1",
 							"es-MX": "Spray Jett VALORANT GO! Vol. 1",
 							"fr-FR": "Graffiti Jett (VALORANT GO! Vol. 1)",
-							"id-ID": "VALORANT GO! Spray Vol. 1 Jett",
+							"id-ID": "Spray VALORANT GO! Vol. 1 Jett",
 							"it-IT": "Spray Jett VALORANT GO! vol. 1",
 							"ja-JP": "VALORANT GO! Vol.1 ジェット スプレー",
 							"ko-KR": "발로란트 GO! Vol. 1 제트 스프레이",
-							"pl-PL": "Graffiti Jett „VALORANT GO! – Tom 1”",
+							"pl-PL": "Graffiti „Jett VALORANT GO! – Tom 1”",
 							"pt-BR": "Spray Jett VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Jett\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Jett",
@@ -85009,11 +85948,11 @@
 					"es-ES": "Grafiti de Jett VALORANT GO! Vol. 1",
 					"es-MX": "Spray Jett VALORANT GO! Vol. 1",
 					"fr-FR": "Graffiti Jett (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Spray Vol. 1 Jett",
+					"id-ID": "Spray VALORANT GO! Vol. 1 Jett",
 					"it-IT": "Spray Jett VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 ジェット スプレー",
 					"ko-KR": "발로란트 GO! Vol. 1 제트 스프레이",
-					"pl-PL": "Graffiti Jett „VALORANT GO! – Tom 1”",
+					"pl-PL": "Graffiti „Jett VALORANT GO! – Tom 1”",
 					"pt-BR": "Spray Jett VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Jett\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Jett",
@@ -85040,11 +85979,11 @@
 							"es-ES": "Grafiti de Killjoy VALORANT GO! Vol. 1",
 							"es-MX": "Spray Killjoy VALORANT GO! Vol. 1",
 							"fr-FR": "Graffiti Killjoy (VALORANT GO! Vol. 1)",
-							"id-ID": "VALORANT GO! Spray Vol. 1 Killjoy",
+							"id-ID": "Spray VALORANT GO! Vol. 1 Killjoy",
 							"it-IT": "Spray Killjoy VALORANT GO! vol. 1",
 							"ja-JP": "VALORANT GO! Vol.1 キルジョイ スプレー",
 							"ko-KR": "발로란트 GO! Vol. 1 킬조이 스프레이",
-							"pl-PL": "Graffiti Killjoy „VALORANT GO! – Tom 1”",
+							"pl-PL": "Graffiti „Killjoy VALORANT GO! – Tom 1”",
 							"pt-BR": "Spray Killjoy VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Killjoy\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Killjoy",
@@ -85069,11 +86008,11 @@
 					"es-ES": "Grafiti de Killjoy VALORANT GO! Vol. 1",
 					"es-MX": "Spray Killjoy VALORANT GO! Vol. 1",
 					"fr-FR": "Graffiti Killjoy (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Spray Vol. 1 Killjoy",
+					"id-ID": "Spray VALORANT GO! Vol. 1 Killjoy",
 					"it-IT": "Spray Killjoy VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 キルジョイ スプレー",
 					"ko-KR": "발로란트 GO! Vol. 1 킬조이 스프레이",
-					"pl-PL": "Graffiti Killjoy „VALORANT GO! – Tom 1”",
+					"pl-PL": "Graffiti „Killjoy VALORANT GO! – Tom 1”",
 					"pt-BR": "Spray Killjoy VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Killjoy\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Killjoy",
@@ -85100,11 +86039,11 @@
 							"es-ES": "Grafiti de Reyna VALORANT GO! Vol. 1",
 							"es-MX": "Spray Reyna VALORANT GO! Vol. 1",
 							"fr-FR": "Graffiti Reyna (VALORANT GO! Vol. 1)",
-							"id-ID": "VALORANT GO! Spray Vol. 1 Reyna",
+							"id-ID": "Spray VALORANT GO! Vol. 1 Reyna",
 							"it-IT": "Spray Reyna VALORANT GO! vol. 1",
 							"ja-JP": "VALORANT GO! Vol.1 レイナ スプレー",
 							"ko-KR": "발로란트 GO! Vol. 1 레이나 스프레이",
-							"pl-PL": "Graffiti Reyny „VALORANT GO! – Tom 1”",
+							"pl-PL": "Graffiti „Reyna VALORANT GO! – Tom 1”",
 							"pt-BR": "Spray Reyna VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Reyna\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Reyna",
@@ -85129,11 +86068,11 @@
 					"es-ES": "Grafiti de Reyna VALORANT GO! Vol. 1",
 					"es-MX": "Spray Reyna VALORANT GO! Vol. 1",
 					"fr-FR": "Graffiti Reyna (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Spray Vol. 1 Reyna",
+					"id-ID": "Spray VALORANT GO! Vol. 1 Reyna",
 					"it-IT": "Spray Reyna VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 レイナ スプレー",
 					"ko-KR": "발로란트 GO! Vol. 1 레이나 스프레이",
-					"pl-PL": "Graffiti Reyny „VALORANT GO! – Tom 1”",
+					"pl-PL": "Graffiti „Reyna VALORANT GO! – Tom 1”",
 					"pt-BR": "Spray Reyna VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Reyna\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Reyna",
@@ -85160,11 +86099,11 @@
 							"es-ES": "Grafiti de Sage VALORANT GO! Vol. 1",
 							"es-MX": "Spray Sage VALORANT GO! Vol. 1",
 							"fr-FR": "Graffiti Sage (VALORANT GO! Vol. 1)",
-							"id-ID": "VALORANT GO! Spray Vol. 1 Sage",
+							"id-ID": "Spray VALORANT GO! Vol. 1 Sage",
 							"it-IT": "Spray Sage VALORANT GO! vol. 1",
 							"ja-JP": "VALORANT GO! Vol.1 セージ スプレー",
 							"ko-KR": "발로란트 GO! Vol. 1 세이지 스프레이",
-							"pl-PL": "Graffiti Sage „VALORANT GO! – Tom 1”",
+							"pl-PL": "Graffiti „Sage VALORANT GO! – Tom 1”",
 							"pt-BR": "Spray Sage VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Sage\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Sage",
@@ -85189,11 +86128,11 @@
 					"es-ES": "Grafiti de Sage VALORANT GO! Vol. 1",
 					"es-MX": "Spray Sage VALORANT GO! Vol. 1",
 					"fr-FR": "Graffiti Sage (VALORANT GO! Vol. 1)",
-					"id-ID": "VALORANT GO! Spray Vol. 1 Sage",
+					"id-ID": "Spray VALORANT GO! Vol. 1 Sage",
 					"it-IT": "Spray Sage VALORANT GO! vol. 1",
 					"ja-JP": "VALORANT GO! Vol.1 セージ スプレー",
 					"ko-KR": "발로란트 GO! Vol. 1 세이지 스프레이",
-					"pl-PL": "Graffiti Sage „VALORANT GO! – Tom 1”",
+					"pl-PL": "Graffiti „Sage VALORANT GO! – Tom 1”",
 					"pt-BR": "Spray Sage VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Sage\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Sage",
@@ -85201,6 +86140,306 @@
 					"vi-VN": "Hình Phun Sơn Sage VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷 贤者 涂鸦",
 					"zh-TW": "特戰英豪 GO！第1集 聖祈 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "3757E1D6-4A14-B4BE-96E5-41AA55D335B5",
+					"label": "3757E1D6-4A14-B4BE-96E5-41AA55D335B5",
+					"name":
+					{
+						"defaultText": "Anime1-1_Phoenix",
+						"localizedByCulture":
+						{
+							"ar-AE": "Anime1-1_Phoenix",
+							"de-DE": "Anime1-1_Phoenix",
+							"en-US": "Anime1-1_Phoenix",
+							"es-ES": "Anime1-1_Phoenix",
+							"es-MX": "Anime1-1_Phoenix",
+							"fr-FR": "Anime1-1_Phoenix",
+							"id-ID": "Anime1-1_Phoenix",
+							"it-IT": "Anime1-1_Phoenix",
+							"ja-JP": "Anime1-1_Phoenix",
+							"ko-KR": "Anime1-1_Phoenix",
+							"pl-PL": "Anime1-1_Phoenix",
+							"pt-BR": "Anime1-1_Phoenix",
+							"ru-RU": "Anime1-1_Phoenix",
+							"th-TH": "Anime1-1_Phoenix",
+							"tr-TR": "Anime1-1_Phoenix",
+							"vi-VN": "Anime1-1_Phoenix",
+							"zh-CN": "Anime1-1_Phoenix",
+							"zh-TW": "Anime1-1_Phoenix"
+						}
+					}
+				}
+			],
+			"id": "A7E1A9B6-4AB5-E6F7-E5FE-BC86F87B44EE",
+			"label": "A7E1A9B6-4AB5-E6F7-E5FE-BC86F87B44EE",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Phoenix Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 رسمة فينيكس",
+					"de-DE": "Graffiti „VALORANT, LOS! Vol. 2 Phoenix“",
+					"en-US": "VALORANT GO! Vol. 2 Phoenix Spray",
+					"es-ES": "Grafiti de Phoenix VALORANT GO! Vol. 2",
+					"es-MX": "Spray Phoenix VALORANT GO! Vol. 2",
+					"fr-FR": "Graffiti Phoenix (VALORANT GO! Vol. 2)",
+					"id-ID": "Spray VALORANT GO! Vol. 2 Phoenix",
+					"it-IT": "Spray Phoenix VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 フェニックス スプレー",
+					"ko-KR": "발로란트 GO! Vol. 2 피닉스 스프레이",
+					"pl-PL": "Graffiti „Phoenix VALORANT GO! – Tom 2”",
+					"pt-BR": "Spray Phoenix VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Граффити \"Phoenix\"",
+					"th-TH": "สเปรย์ VALORANT GO! Vol. 2 Phoenix",
+					"tr-TR": "VALORANT GO! 2. Cilt Phoenix Spreyi",
+					"vi-VN": "Hình Phun Sơn Phoenix VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Phoenix Spray",
+					"zh-TW": "特戰英豪 GO！第2集 菲尼克斯 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "705EA366-48C2-657A-E41A-06A4A222C4FF",
+					"label": "705EA366-48C2-657A-E41A-06A4A222C4FF",
+					"name":
+					{
+						"defaultText": "Anime1-1_Raze",
+						"localizedByCulture":
+						{
+							"ar-AE": "Anime1-1_Raze",
+							"de-DE": "Anime1-1_Raze",
+							"en-US": "Anime1-1_Raze",
+							"es-ES": "Anime1-1_Raze",
+							"es-MX": "Anime1-1_Raze",
+							"fr-FR": "Anime1-1_Raze",
+							"id-ID": "Anime1-1_Raze",
+							"it-IT": "Anime1-1_Raze",
+							"ja-JP": "Anime1-1_Raze",
+							"ko-KR": "Anime1-1_Raze",
+							"pl-PL": "Anime1-1_Raze",
+							"pt-BR": "Anime1-1_Raze",
+							"ru-RU": "Anime1-1_Raze",
+							"th-TH": "Anime1-1_Raze",
+							"tr-TR": "Anime1-1_Raze",
+							"vi-VN": "Anime1-1_Raze",
+							"zh-CN": "Anime1-1_Raze",
+							"zh-TW": "Anime1-1_Raze"
+						}
+					}
+				}
+			],
+			"id": "09786B0A-4C3E-5BA8-46AB-C49255620A5F",
+			"label": "09786B0A-4C3E-5BA8-46AB-C49255620A5F",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Raze Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 رسمة رايز",
+					"de-DE": "Graffiti „VALORANT, LOS! Vol. 2  Raze“",
+					"en-US": "VALORANT GO! Vol. 2 Raze Spray",
+					"es-ES": "Grafiti de Raze VALORANT GO! Vol. 2",
+					"es-MX": "Spray Raze VALORANT GO! Vol. 2",
+					"fr-FR": "Graffiti Raze (VALORANT GO! Vol. 2)",
+					"id-ID": "Spray VALORANT GO! Vol. 2 Raze",
+					"it-IT": "Spray Raze VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 レイズ スプレー",
+					"ko-KR": "발로란트 GO! Vol. 2 레이즈 스프레이",
+					"pl-PL": "Graffiti „Raze VALORANT GO! – Tom 2”",
+					"pt-BR": "Spray Raze VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Граффити \"Raze\"",
+					"th-TH": "สเปรย์ VALORANT GO! Vol. 2 Raze",
+					"tr-TR": "VALORANT GO! 2. Cilt Raze Spreyi",
+					"vi-VN": "Hình Phun Sơn Raze VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Raze Spray",
+					"zh-TW": "特戰英豪 GO！第2集 芮茲 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "360256AB-4EC3-1B6F-FE7F-A0B40703D4E1",
+					"label": "360256AB-4EC3-1B6F-FE7F-A0B40703D4E1",
+					"name":
+					{
+						"defaultText": "Anime1-1_Sova",
+						"localizedByCulture":
+						{
+							"ar-AE": "Anime1-1_Sova",
+							"de-DE": "Anime1-1_Sova",
+							"en-US": "Anime1-1_Sova",
+							"es-ES": "Anime1-1_Sova",
+							"es-MX": "Anime1-1_Sova",
+							"fr-FR": "Anime1-1_Sova",
+							"id-ID": "Anime1-1_Sova",
+							"it-IT": "Anime1-1_Sova",
+							"ja-JP": "Anime1-1_Sova",
+							"ko-KR": "Anime1-1_Sova",
+							"pl-PL": "Anime1-1_Sova",
+							"pt-BR": "Anime1-1_Sova",
+							"ru-RU": "Anime1-1_Sova",
+							"th-TH": "Anime1-1_Sova",
+							"tr-TR": "Anime1-1_Sova",
+							"vi-VN": "Anime1-1_Sova",
+							"zh-CN": "Anime1-1_Sova",
+							"zh-TW": "Anime1-1_Sova"
+						}
+					}
+				}
+			],
+			"id": "7B0E0C8D-4F91-2A76-19B9-079DEF2FA843",
+			"label": "7B0E0C8D-4F91-2A76-19B9-079DEF2FA843",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Sova Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 رسمة سوفا",
+					"de-DE": "Graffiti „VALORANT, LOS! Vol. 2 Sova“",
+					"en-US": "VALORANT GO! Vol. 2 Sova Spray",
+					"es-ES": "Grafiti de Sova VALORANT GO! VOL. 2",
+					"es-MX": "Spray Sova VALORANT GO! Vol. 2",
+					"fr-FR": "Graffiti Sova (VALORANT GO! Vol. 2)",
+					"id-ID": "Spray VALORANT GO! Vol. 2 Sova",
+					"it-IT": "Spray Sova VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ソーヴァ スプレー",
+					"ko-KR": "발로란트 GO! Vol. 2 소바 스프레이",
+					"pl-PL": "Graffiti „Sova VALORANT GO! – Tom 2”",
+					"pt-BR": "Spray Sova VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Граффити \"Sova\"",
+					"th-TH": "สเปรย์ VALORANT GO! Vol. 2 Sova",
+					"tr-TR": "VALORANT GO! 2. Cilt Sova Spreyi",
+					"vi-VN": "Hình Phun Sơn Sova VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Sova Spray",
+					"zh-TW": "特戰英豪 GO！第2集 蘇法 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "E5938DD7-4455-C18E-224B-0D8C4CAA2314",
+					"label": "E5938DD7-4455-C18E-224B-0D8C4CAA2314",
+					"name":
+					{
+						"defaultText": "Anime1-1_Viper",
+						"localizedByCulture":
+						{
+							"ar-AE": "Anime1-1_Viper",
+							"de-DE": "Anime1-1_Viper",
+							"en-US": "Anime1-1_Viper",
+							"es-ES": "Anime1-1_Viper",
+							"es-MX": "Anime1-1_Viper",
+							"fr-FR": "Anime1-1_Viper",
+							"id-ID": "Anime1-1_Viper",
+							"it-IT": "Anime1-1_Viper",
+							"ja-JP": "Anime1-1_Viper",
+							"ko-KR": "Anime1-1_Viper",
+							"pl-PL": "Anime1-1_Viper",
+							"pt-BR": "Anime1-1_Viper",
+							"ru-RU": "Anime1-1_Viper",
+							"th-TH": "Anime1-1_Viper",
+							"tr-TR": "Anime1-1_Viper",
+							"vi-VN": "Anime1-1_Viper",
+							"zh-CN": "Anime1-1_Viper",
+							"zh-TW": "Anime1-1_Viper"
+						}
+					}
+				}
+			],
+			"id": "EA087A08-4B9F-BD0D-15A5-D3BA09C4C381",
+			"label": "EA087A08-4B9F-BD0D-15A5-D3BA09C4C381",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Viper Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 رسمة فايبر",
+					"de-DE": "Graffiti „VALORANT, LOS! Vol. 2 Viper“",
+					"en-US": "VALORANT GO! Vol. 2 Viper Spray",
+					"es-ES": "Grafiti de Viper VALORANT GO! Vol. 2",
+					"es-MX": "Spray Viper VALORANT GO! Vol. 2",
+					"fr-FR": "Graffiti Viper (VALORANT GO! Vol. 2)",
+					"id-ID": "Spray VALORANT GO! Vol. 2 Viper",
+					"it-IT": "Spray Viper VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ヴァイパー スプレー",
+					"ko-KR": "발로란트 GO! Vol. 2 바이퍼 스프레이",
+					"pl-PL": "Graffiti „Viper VALORANT GO! – Tom 2”",
+					"pt-BR": "Spray Viper VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Граффити \"Viper\"",
+					"th-TH": "สเปรย์ VALORANT GO! Vol. 2 Viper",
+					"tr-TR": "VALORANT GO! 2. Cilt Viper Spreyi",
+					"vi-VN": "Hình Phun Sơn Viper VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Viper Spray",
+					"zh-TW": "特戰英豪 GO！第2集 薇蝮 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "B107A08C-4FC6-DF0A-1605-A9BA7F49170E",
+					"label": "B107A08C-4FC6-DF0A-1605-A9BA7F49170E",
+					"name":
+					{
+						"defaultText": "Anime1-1_Yoru",
+						"localizedByCulture":
+						{
+							"ar-AE": "Anime1-1_Yoru",
+							"de-DE": "Anime1-1_Yoru",
+							"en-US": "Anime1-1_Yoru",
+							"es-ES": "Anime1-1_Yoru",
+							"es-MX": "Anime1-1_Yoru",
+							"fr-FR": "Anime1-1_Yoru",
+							"id-ID": "Anime1-1_Yoru",
+							"it-IT": "Anime1-1_Yoru",
+							"ja-JP": "Anime1-1_Yoru",
+							"ko-KR": "Anime1-1_Yoru",
+							"pl-PL": "Anime1-1_Yoru",
+							"pt-BR": "Anime1-1_Yoru",
+							"ru-RU": "Anime1-1_Yoru",
+							"th-TH": "Anime1-1_Yoru",
+							"tr-TR": "Anime1-1_Yoru",
+							"vi-VN": "Anime1-1_Yoru",
+							"zh-CN": "Anime1-1_Yoru",
+							"zh-TW": "Anime1-1_Yoru"
+						}
+					}
+				}
+			],
+			"id": "40FF9251-4C11-B729-1F27-088EE032E7CE",
+			"label": "40FF9251-4C11-B729-1F27-088EE032E7CE",
+			"name":
+			{
+				"defaultText": "VALORANT GO! Vol. 2 Yoru Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "VALORANT GO! الجزء 2 رسمة يورو",
+					"de-DE": "Graffiti „VALORANT, LOS! Vol. 2 Yoru“",
+					"en-US": "VALORANT GO! Vol. 2 Yoru Spray",
+					"es-ES": "Grafiti de Yoru VALORANT GO! VOL. 2",
+					"es-MX": "Spray Yoru VALORANT GO! Vol. 2",
+					"fr-FR": "Graffiti Yoru (VALORANT GO! Vol. 2)",
+					"id-ID": "Spray VALORANT GO! Vol. 2 Yoru",
+					"it-IT": "Spray Yoru VALORANT GO! vol. 2",
+					"ja-JP": "VALORANT GO! Vol.2 ヨル スプレー",
+					"ko-KR": "발로란트 GO! Vol. 2 요루 스프레이",
+					"pl-PL": "Graffiti „Yoru VALORANT GO! – Tom 2”",
+					"pt-BR": "Spray Yoru VALORANT GO! Vol. 2",
+					"ru-RU": "VALORANT GO! Вып. 2 Граффити \"Yoru\"",
+					"th-TH": "สเปรย์ VALORANT GO! Vol. 2 Yoru",
+					"tr-TR": "VALORANT GO! 2. Cilt Yoru Spreyi",
+					"vi-VN": "Hình Phun Sơn Yoru VALORANT GO! Vol. 2",
+					"zh-CN": "VALORANT GO! Vol. 2 Yoru Spray",
+					"zh-TW": "特戰英豪 GO！第2集 夜戮 塗鴉"
 				}
 			}
 		},
@@ -85340,7 +86579,7 @@
 							"es-ES": "Grafiti del EP. 2, Glitchpop",
 							"es-MX": "Spray Glitchpop, EP 2",
 							"fr-FR": "Graffiti Glitchpop, ÉP 2",
-							"id-ID": "Glitchpop, Spray EP 2",
+							"id-ID": "Spray Glitchpop, EP 2",
 							"it-IT": "Glitchpop, spray EP 2",
 							"ja-JP": "グリッチポップ EP 2 スプレー",
 							"ko-KR": "글리치팝 에피소드 2 스프레이",
@@ -85369,7 +86608,7 @@
 					"es-ES": "Grafiti del EP. 2, Glitchpop",
 					"es-MX": "Spray Glitchpop, EP 2",
 					"fr-FR": "Graffiti Glitchpop, ÉP 2",
-					"id-ID": "Glitchpop, Spray EP 2",
+					"id-ID": "Spray Glitchpop, EP 2",
 					"it-IT": "Glitchpop, spray EP 2",
 					"ja-JP": "グリッチポップ EP 2 スプレー",
 					"ko-KR": "글리치팝 에피소드 2 스프레이",
