@@ -1,5 +1,5 @@
 {
-	"version": "03.01.00.578205",
+	"version": "03.02.00.584286",
 	"characters": [
 		{
 			"description":
@@ -375,7 +375,7 @@
 							"ko-KR": "집속탄을 장착합니다. 발사하면 집속탄을 던집니다. 집속탄은 피해를 입히고 여러 개의 자탄을 퍼뜨립니다. 자탄은 각각의 범위 내에 있는 모든 대상에게 피해를 입힙니다.",
 							"pl-PL": "WYPOSAŻ granat kasetowy. STRZEL, by rzucić granat zadający obrażenia i tworzący mniejsze ładunki, z których każdy zadaje obrażenia celom w jego zasięgu.",
 							"pt-BR": "EQUIPE uma granada múltipla. DISPARE para jogar a granada, que causa dano e cria submunições, cada uma causando dano a qualquer um que estiver em seu alcance.",
-							"ru-RU": "Выбирает кассетную гранату. Нажмите кнопку ОГОНЬ, чтобы бросить гранату, которая взрывается, наносит урон и выпускает гранаты поменьше, наносящие урон любому агенту в радиусе поражения.",
+							"ru-RU": "Выбирает кассетную гранату. Нажмите кнопку ОГОНЬ, чтобы бросить гранату, которая взрывается, наносит урон и выпускает гранаты поменьше, наносящие урон всем агентам в радиусе поражения.",
 							"th-TH": "ติดตั้งระเบิดมือ กดยิงเพื่อโยนระเบิดมือออกไป\nการจุดชนวนจะสร้างดาเมจและทำให้เกิดระเบิด\nลูกย่อย ๆ เพิ่มขึ้นมาอีก ซึ่งแต่ละลูกก็จะสร้าง\nดาเมจกับทุกคนที่อยู่ในรัศมีของมัน",
 							"tr-TR": "Bir parça tesirli el bombası KUŞAN. Fırlatmak için ATEŞ ET. Hasar veren bomba, her biri menzilindeki herkese hasar veren bombacıklar oluşturur.",
 							"vi-VN": "TRANG BỊ 1 quả lựu đạn chùm. NHẤP BẮN để ném lựu đạn, gây sát thương và tạo ra một loạt các lựu đạn phụ gây thương tích lên bất cứ ai trong tầm ảnh hưởng.",
@@ -594,7 +594,7 @@
 							"ko-KR": "폭발하는 파편탄을 장착합니다. 발사하면 투척합니다. 파편탄은 바닥에 붙어 여러 차례 폭발하며, 폭발할 때마다 중심부에 있는 적에게 치명적인 피해를 입힙니다.",
 							"pl-PL": "WYPOSAŻ wybuchowy fragment. STRZEL, by rzucić. Fragment przyczepia się do ziemi i kilkukrotnie wybucha, zadając niemal śmiertelne obrażenia w centrum każdej z eksplozji.",
 							"pt-BR": "EQUIPE um fragmento explosivo. DISPARE para lançá-lo. O fragmento se fixa ao chão e explode várias vezes, causando dano quase letal no centro de cada explosão.",
-							"ru-RU": "Выбирает взрывоопасный фрагмент. Нажмите кнопку ОГОНЬ, чтобы бросить его. После приземления фрагмента происходит серия взрывов, каждый из которых наносит практически смертельный урон врагам, находящимся в самом центре.",
+							"ru-RU": "Выбирает взрывоопасный фрагмент. Нажмите кнопку ОГОНЬ, чтобы бросить его. После приземления фрагмента происходит серия взрывов, наносящих практически смертельный урон врагам, находящимся в самом центре.",
 							"th-TH": "ติดตั้งเศษชิ้นส่วนระเบิด ยิงเพื่อปา เศษชิ้นส่วนจะติดกับพื้นและระเบิดหลายครั้งติดต่อกัน สร้างความเสียหายเกือบถึงตายในพื้นที่ศูนย์กลางหลังการระเบิดแต่ละครั้ง",
 							"tr-TR": "Patlayıcı bir şarapnel KUŞAN. Şarapneli fırlatmak için ATEŞ ET. Şarapnel yere yapışır, sonrasında birden fazla kez patlar ve tam merkezinde bulunanlara neredeyse ölümcül hasar verir.",
 							"vi-VN": "TRANG BỊ 1 lựu đạn nổ. BẮN để ném. Lựu đạn nổ khi đáp xuống mặt đất sẽ phát nổ nhiều lần, gây sát thương gần như chí mạng ở trung tâm của từng vụ nổ.",
@@ -867,7 +867,7 @@
 							"ko-KR": "태즈매니아 호랑이 장신구를 장착합니다. 발사하면 호랑이를 보내 조종합니다. 조종 중에 발사하면 전방으로 뛰어올라 폭발하며 뇌진탕을 일으키고 직접 타격한 적에게 피해를 입힙니다.",
 							"pl-PL": "WYPOSAŻ błyskotkę z tasmańskim wilkiem. STRZEL, aby wypuścić drapieżnika i przejąć nad nim kontrolę. Kontrolując go, STRZEL, aby skoczyć naprzód, wywołując ogłuszający wybuch i zadając bezpośrednie obrażenia trafionym wrogom.",
 							"pt-BR": "EQUIPE um amuleto de lobo-da-tasmânia. DISPARE para enviar e controlar o predador. Enquanto estiver no controle, DISPARE para saltar para a frente. O lobo gera uma explosão e causa dano aos inimigos diretamente atingidos.",
-							"ru-RU": "Выбирает фигурку тасманийского волка. Нажмите кнопку ОГОНЬ, чтобы вызвать хищника и управлять им. Нажмите ОГОНЬ, чтобы животное сделало рывок вперед, вызвало оглушающий взрыв и нанесло урон пораженным врагам.",
+							"ru-RU": "Выбирает фигурку тасманийского волка. Нажмите кнопку ОГОНЬ, чтобы вызвать хищника и управлять им. Нажмите ОГОНЬ еще раз, чтобы животное сделало рывок вперед, вызвало оглушающий взрыв и нанесло урон пораженным врагам.",
 							"th-TH": "ติดตั้งเครื่องประดับเสือแทสเมเนียน ยิงเพื่อ\nปล่อยและควบคุมการเคลื่อนไหวของนักล่านั้น\nเมื่ออยู่ในการควบคุม ยิงเพื่อกระโจนไปข้างหน้า\nเสือจะระเบิดและสร้างความกระทบกระเทือนเมื่อกระโจน พร้อมกับสร้างดาเมจแก่ศัตรูโดยตรง",
 							"tr-TR": "Bir Tazmanya kaplanı figürü KUŞAN. Avcıyı gönderip onu kontrol etmek için ATEŞ ET. Hayvanı kontrol ederken birden ileri atılarak sarsıcı bir patlamaya sebep olmak ve doğrudan isabet alan düşmanlara hasar vermek için ATEŞ ET.",
 							"vi-VN": "TRANG BỊ 1 tinh linh mãnh hổ Tasmania. NHẤP BẮN để giải phóng và điều khiển tinh linh mãnh hổ. Khi đang điều khiển, NHẤP BẮN để nhảy về phía trước và phát nổ gây sát thương lên kẻ địch trực tiếp trúng đòn, đồng thời tỏa ra xung chấn làm choáng đối thủ.",
@@ -975,7 +975,7 @@
 							"ko-KR": "회복 장신구를 장착합니다. 발사를 길게 누르면 정신 집중하며 범위 내에서 모습이 보이는 아군들을 회복시킵니다. 회복 에너지가 바닥날 때까지 재사용할 수 있습니다. 스카이 자신이 회복할 수는 없습니다.",
 							"pl-PL": "WYPOSAŻ błyskotkę leczenia. PRZYTRZYMAJ STRZAŁ, aby uleczyć sojuszników, którzy są w zasięgu i w polu widzenia. Leczenia można używać do momentu wyczerpania specjalnej puli. Skye nie może leczyć samej siebie.",
 							"pt-BR": "EQUIPE um amuleto de cura. SEGURE O DISPARO para canalizar, curando aliados dentro do alcance e na sua linha de visão. Esta habilidade pode ser repetida até a reserva de cura ser esgotada. Skye não pode curar a si mesma.",
-							"ru-RU": "Выбирает исцеляющую фигурку. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы лечить союзников в зоне видимости и действия. Можно использовать снова, пока весь запас лечения не израсходуется. Skye не может лечить себя.",
+							"ru-RU": "Выбирает исцеляющую фигурку. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы лечить союзников в зоне видимости и действия. Можно использовать несколько раз, пока весь запас лечения не израсходуется. Skye не может лечить себя.",
 							"th-TH": "ติดตั้งเครื่องประดับฮีล กดยิงค้างไว้เพื่อร่ายและ\nฮีลพันธมิตรในระยะและรัศมีการมองเห็น\nสามารถใช้ซ้ำได้จนกว่าคลังการฮีลของเธอจะ\nหมดลง Skye ไม่สามารถฮีลตนเองได้",
 							"tr-TR": "İyileştiren bir figür KUŞAN. Şifa gücünü odaklayarak menzil içinde ve görüş hattındaki takım arkadaşlarını iyileştirmek için ATEŞ TUŞUNU BASILI TUT. Bu yetenek, şifa gücü tamamen tükenene kadar birden fazla kez kullanılabilir. Skye kendisini iyileştiremez.",
 							"vi-VN": "TRANG BỊ 1 tinh linh hồi phục. GIỮ phím BẮN để vận sức, hồi máu cho tất cả đồng minh trong phạm vi và ở trong tầm nhìn. Có thể tái sử dụng cho đến khi hết khả năng hồi phục. Skye không thể hồi máu cho bản thân.",
@@ -1248,7 +1248,7 @@
 							"ko-KR": "함정을 장착합니다. 발사하면 지정 위치에 파괴 가능한 위장 함정을 설치하여 설치 위치와 반대쪽 벽 사이를 연결하는 선을 생성합니다. 함정을 넘어가는 적 플레이어는 제때 장치를 파괴하지 않으면 잠시 후 속박되어 위치가 드러나며 멍해집니다. 이 스킬은 회수하여 다시 설치할 수 있습니다.",
 							"pl-PL": "WYPOSAŻ potykacz. STRZEL, by umieścić zniszczalny i ukryty potykacz w pożądanym miejscu, tworząc linkę między tym miejscem a przeciwległą ścianą. Wrodzy gracze, którzy wejdą na potykacz, zostaną uwięzieni, ujawnieni i oszołomieni po krótkiej chwili, jeśli nie zniszczą urządzenia dość szybko. Można go podnieść i UŻYĆ PONOWNIE.",
 							"pt-BR": "EQUIPE um fio-armadilha. DISPARE para instalar um fio acionador oculto e destrutível no local-alvo, criando uma linha entre o local e a parede oposta. Jogadores inimigos que passarem por ele ficarão imobilizados, revelados e estonteados por um breve intervalo se não o destruírem a tempo. A habilidade pode ser recolhida para ser REACIONADA.",
-							"ru-RU": "Выбирает растяжку. Нажмите кнопку ОГОНЬ, чтобы установить в выбранном месте незаметную растяжку, соединяемую с противоположной стеной. Попавшие в нее противники обездвиживаются и ненадолго обнаруживают себя, а через некоторое время оглушаются. Растяжку можно подобрать и использовать ПОВТОРНО. Враги могут уничтожить ее.",
+							"ru-RU": "Выбирает растяжку. Нажмите кнопку ОГОНЬ, чтобы установить в выбранном месте незаметную растяжку, соединяемую с противоположной стеной. Попавшие в нее противники задерживаются и ненадолго обнаруживают себя, а через некоторое время оглушаются. Растяжку можно подобрать и использовать ПОВТОРНО. Враги могут уничтожить ее.",
 							"th-TH": "ติดตั้ง Trapwire กดยิงเพื่อติดตั้งในตำแหน่งที่\nต้องการ ซึ่ง Tripwire นั้นสามารถถูกทำลายได้\nและอำพรางตัวเองได้ โดยจะสร้างเส้นตรงขึ้น\nมาระหว่างตำแหน่งที่ติดตั้งไว้กับกำแพงที่อยู่ฝั่ง\nตรงข้าม ศัตรูที่ข้ามผ่าน Tripwire จะถูกหน่วง\nไว้ เปิดเผยตำแหน่งและอยู่ในอาการมึนงงเป็น\nระยะเวลาสั้น ๆ หากทำลายกับดักไม่ทันเวลา \nอุปกรณ์นี้สามารถหยิบกลับมาและใช้ซ้ำได้",
 							"tr-TR": "Bir bubi tuzağı KUŞAN. Hedef konuma yok edilebilir, gizli bir bubi tuzağı yerleştirmek için ATEŞ ET. Yerleştirilen konum ile karşısındaki duvar arasına bir hat çekilir. Yakalanan rakipler cihazı zamanında yok edemedikleri takdirde kısa süre içinde kısıtlanır, açığa çıkar ve sarsılırlar. Bu yetenek yerinden alınabilir ve YENİDEN YERLEŞTİRİLEBİLİR.",
 							"vi-VN": "TRANG BỊ 1 bẫy công nghệ. NHẤP BẮN để đặt 1 bẫy công nghệ tàng hình (bẫy công nghệ này có thể bị phá hủy), tạo một đoạn dây căng ngang từ vị trí đặt bẫy đến vị trí đối diện. Đối thủ đi qua bẫy sẽ bị vướng lại, lộ vị trí và choáng trong một thời gian ngắn nếu không kịp phá hủy. Kỹ năng này cho phép bạn nhặt bẫy công nghệ lên và ĐẶT LẠI.",
@@ -1462,7 +1462,7 @@
 							"es-MX": "EQUIPA un arco con un proyectil rastreador y DISPARA para lanzarlo. El proyectil se activará al impactar y revelará la ubicación de los enemigos cercanos que estén dentro de su alcance. Los enemigos pueden destruir este proyectil. MANTÉN EL DISPARO para aumentar el alcance del proyectil. Usa el DISPARO SECUNDARIO para añadir hasta dos rebotes a la trayectoria de la flecha.",
 							"fr-FR": "ÉQUIPEZ-vous d'un arc et d'une flèche de reconnaissance. TIREZ pour décocher la flèche, qui s'active à l'impact et révèle la position des ennemis proches se trouvant dans sa ligne de vue. Les ennemis peuvent détruire cette flèche. MAINTENEZ LE TIR pour augmenter la portée du projectile. Utilisez le TIR SECONDAIRE pour ajouter jusqu'à deux rebonds à cette flèche. ",
 							"id-ID": "SIAGAKAN busur dengan petir intai. TEMBAK untuk mendorong petir intai, diaktifkan saat tubrukkan dan saat mengungkap lokasi musuh di sekitar yang terperangkap dalam garis pandang petir. Musuh bisa menghancurkan petir ini. TAHAN TEMBAKAN untuk memperluas jangkauan proyektil. TEMBAK ALTERNATIF untuk menambahkan hingga dua pantulan untuk anak panah ini.",
-							"it-IT": "EQUIPAGGIA un arco con una Freccia sonar. SPARA per lanciare la Freccia sonar, che si attiva al contatto e rivela la posizione dei nemici entro il suo raggio visivo. I nemici possono distruggere la freccia. TIENI PREMUTO IL PULSANTE DI FUOCO per estendere la gittata della freccia. Usa il FUOCO ALTERNATIVO per aggiungere fino a due rimbalzi a questa freccia. ",
+							"it-IT": "EQUIPAGGIA un arco con una freccia sonar. SPARA per lanciare la freccia sonar, che si attiva al contatto e rivela la posizione dei nemici entro il suo raggio visivo. I nemici possono distruggere la freccia. TIENI PREMUTO IL PULSANTE DI FUOCO per estendere la gittata della freccia. Usa il FUOCO ALTERNATIVO per aggiungere fino a due rimbalzi a questa freccia. ",
 							"ja-JP": "弓を構え、リコンボルトをつがえる。「発射」でリコンボルトを前方に射出する。この矢は着弾すると起動し、矢の場所から視線が通る周囲のすべての敵の位置を特定する。敵はこのボルトを破壊可能。「発射長押し」で射程距離を伸ばすことができ、「オルト射撃」でこの矢を最大2回までバウンド可能にする。 ",
 							"ko-KR": "정찰 화살과 활을 장착합니다. 발사하면 정찰 화살을 전방에 쏘아 화살이 꽂힌 곳을 기준으로 모습이 드러난 주변 적의 위치를 표시합니다. 적이 이 화살을 파괴할 수 있습니다. 발사를 길게 누르면 화살의 사거리가 늘어납니다. 보조 공격 시 화살이 최대 두 번 더 튕깁니다.",
 							"pl-PL": "WYPOSAŻ łuk ze strzałą zwiadowczą. STRZEL, by posłać przed siebie strzałę zwiadowczą, która w momencie trafienia aktywuje się i ujawnia miejsce pobytu przeciwników będących w polu działania strzały. Wrogowie mogą ją zniszczyć. PRZYTRZYMAJ STRZAŁ, by zwiększyć zasięg pocisku. Przycisk STRZAŁU ALTERNATYWNEGO pozwala zwiększyć liczbę odbić strzały o maksymalnie dwa. ",
@@ -1623,7 +1623,7 @@
 							"es-ES": "El arco personalizado de Sova permite que sus flechas reboten contra los obstáculos del terreno. Mantener pulsado el botón de disparo aumenta la potencia del mismo, y soltarlo lanza la flecha. Alterna el modo de disparo para cambiar el número de rebotes. Las flechas pueden rebotar en los obstáculos del terreno. Mantener pulsado el clic izquierdo aumenta el alcance de la trayectoria del proyectil. Clic derecho - Hacer clic derecho permite seleccionar la cantidad de rebotes en el terreno. La flecha sale disparada cuando se deja de pulsar el clic izquierdo.",
 							"es-MX": "El arco personalizado de Sova puede disparar sus flechas y hacer que reboten por el terreno. Puedes cargar la potencia del arco si mantienes presionado el botón de disparo y después lanzar el proyectil al soltarlo. Presiona el botón de disparo secundario para cambiar el número de rebotes. Tus flechas pueden rebotar contra el terreno. Puedes aumentar la trayectoria del alcance del arco si mantienes presionado el clic izquierdo. Usa el clic derecho para alternar entre el número de rebotes que deseas en el terreno. Suelta el clic izquierdo para disparar la flecha.",
 							"fr-FR": "L'arc personnalisé de Sova peut tirer des flèches qui rebondissent sur le décor. Maintenir la touche de tir charge la puissance de tir de l'arc. La lâcher lance la flèche. Appuyez sur la touche de tir secondaire pour modifier le nombre de rebonds. Vos flèches peuvent rebondir sur le décor. Maintenir le clic gauche augmente la portée du tir. Le clic droit permet de modifier le nombre de rebonds. La flèche est tirée quand vous relâchez le clic gauche.",
-							"id-ID": "Busur khusus Sova bisa menembakkan dan memantulkan anak panah dari tanah. Menahan tembakan mengisi daya busur, dan melepaskan bolt sesudahnya. Tekan tembak alternatif untuk mengganti jumlah pantulan. Anak panah bisa memantul dari tanah. Menahan klik kiri meningkatkan lintasan jangkauan busur. Mengeklik kanan Pindahkan jumlah pantulan dari tanah yang diinginkan dengan klik kanan. Anak panah dilepas saat klik kiri dilepaskan.",
+							"id-ID": "Busur khusus Sova bisa menembakkan dan memantulkan anak panah dari tanah. Menahan tembakan akan mengisi daya busur, dan melepaskan bolt sesudahnya. Tekan tembak alternatif untuk mengganti jumlah pantulan. Anak panah bisa memantul dari tanah. Menahan klik kiri meningkatkan lintasan jangkauan busur. Mengeklik kanan Memindahkan jumlah pantulan dari tanah yang diinginkan dengan klik kanan. Anak panah dilepas saat klik kiri dilepaskan.",
 							"it-IT": "L'arco personalizzato di Sova può sparare frecce e farle rimbalzare sul terreno. Tieni premuto il tasto di fuoco per caricare la potenza dell'arco e rilascialo per scoccare la freccia. Premi il fuoco alternativo per cambiare il numero di rimbalzi. Le tue frecce possono rimbalzare sul terreno. Tieni premuto il pulsante sinistro per aumentare la gittata dell'arco. Seleziona il numero di rimbalzi cliccando con il pulsante destro. Quando rilasci il pulsante sinistro, la freccia viene scoccata.",
 							"ja-JP": "ソーヴァ独自のカスタマイズが施された弓から放たれる矢は、地形に当たると跳ね返る。射撃ボタン長押しで弓を引き絞り、離すと矢が発射される。オルトを押すと跳ね返る回数が変化する。矢は地形に当たると跳ね返る。左クリック長押しでより遠くに矢を放つ。右クリックで矢が地形に当たった際に跳ね返る回数を切り替えることができる。左クリックを離すと矢が放たれる。",
 							"ko-KR": "소바가 직접 제작한 활로 지형지물에 맞으면 튕기는 화살을 발사합니다. 공격 버튼을 길게 누르면 활의 힘이 충전되며 놓으면 화살이 날아갑니다. 보조 공격을 누르면 화살이 튕기는 횟수가 변경됩니다. 화살은 지형지물에 맞고 튕길 수 있습니다. 마우스 왼쪽 버튼을 길게 누르면 활의 사거리가 증가합니다. 마우스 오른쪽 버튼을 누르면 화살이 지형지물에 튕기는 횟수를 설정할 수 있습니다. 마우스 왼쪽 버튼을 놓으면 화살이 발사됩니다.",
@@ -1649,7 +1649,7 @@
 							"es-ES": "Tirador infalible",
 							"es-MX": "Tirador Experto",
 							"fr-FR": "Tireur habile",
-							"id-ID": "Penembak Jitu Luar Biasa",
+							"id-ID": "Marksman yang Luar Biasa",
 							"it-IT": "Tiratore eccezionale",
 							"ja-JP": "神業の射手",
 							"ko-KR": "뛰어난 명사수",
@@ -1789,7 +1789,7 @@
 							"es-MX": "EQUIPA un arco con un proyectil rastreador y DISPARA para lanzarlo. El proyectil se activará al impactar y revelará la ubicación de los enemigos cercanos que estén dentro de su alcance. Los enemigos pueden destruir este proyectil. MANTÉN EL DISPARO para aumentar el alcance del proyectil. Usa el DISPARO SECUNDARIO para añadir hasta dos rebotes a la trayectoria de la flecha.",
 							"fr-FR": "ÉQUIPEZ-vous d'un arc et d'une flèche de reconnaissance. TIREZ pour décocher la flèche, qui s'active à l'impact et révèle la position des ennemis proches se trouvant dans sa ligne de vue. Les ennemis peuvent détruire cette flèche. MAINTENEZ LE TIR pour augmenter la portée du projectile. Utilisez le TIR SECONDAIRE pour ajouter jusqu'à deux rebonds à cette flèche. ",
 							"id-ID": "SIAGAKAN busur dengan petir intai. TEMBAK untuk mendorong petir intai, diaktifkan saat tubrukkan dan saat mengungkap lokasi musuh di sekitar yang terperangkap dalam garis pandang petir. Musuh bisa menghancurkan petir ini. TAHAN TEMBAKAN untuk memperluas jangkauan proyektil. TEMBAK ALTERNATIF untuk menambahkan hingga dua pantulan untuk anak panah ini.",
-							"it-IT": "EQUIPAGGIA un arco con una Freccia sonar. SPARA per lanciare la Freccia sonar, che si attiva al contatto e rivela la posizione dei nemici entro il suo raggio visivo. I nemici possono distruggere la freccia. TIENI PREMUTO IL PULSANTE DI FUOCO per estendere la gittata della freccia. Usa il FUOCO ALTERNATIVO per aggiungere fino a due rimbalzi a questa freccia. ",
+							"it-IT": "EQUIPAGGIA un arco con una freccia sonar. SPARA per lanciare la freccia sonar, che si attiva al contatto e rivela la posizione dei nemici entro il suo raggio visivo. I nemici possono distruggere la freccia. TIENI PREMUTO IL PULSANTE DI FUOCO per estendere la gittata della freccia. Usa il FUOCO ALTERNATIVO per aggiungere fino a due rimbalzi a questa freccia. ",
 							"ja-JP": "弓を構え、リコンボルトをつがえる。「発射」でリコンボルトを前方に射出する。この矢は着弾すると起動し、矢の場所から視線が通る周囲のすべての敵の位置を特定する。敵はこのボルトを破壊可能。「発射長押し」で射程距離を伸ばすことができ、「オルト射撃」でこの矢を最大2回までバウンド可能にする。 ",
 							"ko-KR": "정찰 화살과 활을 장착합니다. 발사하면 정찰 화살을 전방에 쏘아 화살이 꽂힌 곳을 기준으로 모습이 드러난 주변 적의 위치를 표시합니다. 적이 이 화살을 파괴할 수 있습니다. 발사를 길게 누르면 화살의 사거리가 늘어납니다. 보조 공격 시 화살이 최대 두 번 더 튕깁니다.",
 							"pl-PL": "WYPOSAŻ łuk ze strzałą zwiadowczą. STRZEL, by posłać przed siebie strzałę zwiadowczą, która w momencie trafienia aktywuje się i ujawnia miejsce pobytu przeciwników będących w polu działania strzały. Wrogowie mogą ją zniszczyć. PRZYTRZYMAJ STRZAŁ, by zwiększyć zasięg pocisku. Przycisk STRZAŁU ALTERNATYWNEGO pozwala zwiększyć liczbę odbić strzały o maksymalnie dwa. ",
@@ -1950,7 +1950,7 @@
 							"es-ES": "El arco personalizado de Sova permite que sus flechas reboten contra los obstáculos del terreno. Mantener pulsado el botón de disparo aumenta la potencia del mismo, y soltarlo lanza la flecha. Alterna el modo de disparo para cambiar el número de rebotes. Las flechas pueden rebotar en los obstáculos del terreno. Mantener pulsado el clic izquierdo aumenta el alcance de la trayectoria del proyectil. Clic derecho - Hacer clic derecho permite seleccionar la cantidad de rebotes en el terreno. La flecha sale disparada cuando se deja de pulsar el clic izquierdo.",
 							"es-MX": "El arco personalizado de Sova puede disparar sus flechas y hacer que reboten por el terreno. Puedes cargar la potencia del arco si mantienes presionado el botón de disparo y después lanzar el proyectil al soltarlo. Presiona el botón de disparo secundario para cambiar el número de rebotes. Tus flechas pueden rebotar contra el terreno. Puedes aumentar la trayectoria del alcance del arco si mantienes presionado el clic izquierdo. Usa el clic derecho para alternar entre el número de rebotes que deseas en el terreno. Suelta el clic izquierdo para disparar la flecha.",
 							"fr-FR": "L'arc personnalisé de Sova peut tirer des flèches qui rebondissent sur le décor. Maintenir la touche de tir charge la puissance de tir de l'arc. La lâcher lance la flèche. Appuyez sur la touche de tir secondaire pour modifier le nombre de rebonds. Vos flèches peuvent rebondir sur le décor. Maintenir le clic gauche augmente la portée du tir. Le clic droit permet de modifier le nombre de rebonds. La flèche est tirée quand vous relâchez le clic gauche.",
-							"id-ID": "Busur khusus Sova bisa menembakkan dan memantulkan anak panah dari tanah. Menahan tembakan mengisi daya busur, dan melepaskan bolt sesudahnya. Tekan tembak alternatif untuk mengganti jumlah pantulan. Anak panah bisa memantul dari tanah. Menahan klik kiri meningkatkan lintasan jangkauan busur. Mengeklik kanan Pindahkan jumlah pantulan dari tanah yang diinginkan dengan klik kanan. Anak panah dilepas saat klik kiri dilepaskan.",
+							"id-ID": "Busur khusus Sova bisa menembakkan dan memantulkan anak panah dari tanah. Menahan tembakan akan mengisi daya busur, dan melepaskan bolt sesudahnya. Tekan tembak alternatif untuk mengganti jumlah pantulan. Anak panah bisa memantul dari tanah. Menahan klik kiri meningkatkan lintasan jangkauan busur. Mengeklik kanan Memindahkan jumlah pantulan dari tanah yang diinginkan dengan klik kanan. Anak panah dilepas saat klik kiri dilepaskan.",
 							"it-IT": "L'arco personalizzato di Sova può sparare frecce e farle rimbalzare sul terreno. Tieni premuto il tasto di fuoco per caricare la potenza dell'arco e rilascialo per scoccare la freccia. Premi il fuoco alternativo per cambiare il numero di rimbalzi. Le tue frecce possono rimbalzare sul terreno. Tieni premuto il pulsante sinistro per aumentare la gittata dell'arco. Seleziona il numero di rimbalzi cliccando con il pulsante destro. Quando rilasci il pulsante sinistro, la freccia viene scoccata.",
 							"ja-JP": "ソーヴァ独自のカスタマイズが施された弓から放たれる矢は、地形に当たると跳ね返る。射撃ボタン長押しで弓を引き絞り、離すと矢が発射される。オルトを押すと跳ね返る回数が変化する。矢は地形に当たると跳ね返る。左クリック長押しでより遠くに矢を放つ。右クリックで矢が地形に当たった際に跳ね返る回数を切り替えることができる。左クリックを離すと矢が放たれる。",
 							"ko-KR": "소바가 직접 제작한 활로 지형지물에 맞으면 튕기는 화살을 발사합니다. 공격 버튼을 길게 누르면 활의 힘이 충전되며 놓으면 화살이 날아갑니다. 보조 공격을 누르면 화살이 튕기는 횟수가 변경됩니다. 화살은 지형지물에 맞고 튕길 수 있습니다. 마우스 왼쪽 버튼을 길게 누르면 활의 사거리가 증가합니다. 마우스 오른쪽 버튼을 누르면 화살이 지형지물에 튕기는 횟수를 설정할 수 있습니다. 마우스 왼쪽 버튼을 놓으면 화살이 발사됩니다.",
@@ -1976,7 +1976,7 @@
 							"es-ES": "Tirador infalible",
 							"es-MX": "Tirador Experto",
 							"fr-FR": "Tireur habile",
-							"id-ID": "Penembak Jitu Luar Biasa",
+							"id-ID": "Marksman yang Luar Biasa",
 							"it-IT": "Tiratore eccezionale",
 							"ja-JP": "神業の射手",
 							"ko-KR": "뛰어난 명사수",
@@ -2340,7 +2340,7 @@
 							"ko-KR": "가스 방사기를 장착합니다. 발사 시 라운드 내내 유지되는 방사기를 던집니다. 스킬을 재사용하면 연료를 소모해 독성 가스 구름을 만듭니다. 여러 번 재사용이 가능하여 방사기를 주운 후 재배치할 수 있습니다.",
 							"pl-PL": "WYPOSAŻ emiter gazu. STRZEL, by rzucić emiter, który można wykorzystywać przez całą rundę. UŻYJ PONOWNIE tej umiejętności, by stworzyć chmurę toksycznego gazu, która wykorzystuje paliwo. Można UŻYĆ PONOWNIE tej umiejętności więcej niż raz i podnieść emiter, by UŻYĆ GO PONOWNIE.",
 							"pt-BR": "EQUIPE um emissor de gás. DISPARE para jogar o emissor, que persiste até o fim da rodada. REPITA para criar uma nuvem de gás tóxico que drena combustível. A habilidade pode ser REPETIDA mais de uma vez e pode ser apanhada para ser REPOSICIONADA.",
-							"ru-RU": "Выбирает распылитель газа. Нажмите кнопку ОГОНЬ, чтобы выбросить распылитель, который остается на месте до конца раунда. Примените умение повторно, чтобы выпустить из распылителя облако ядовитого дыма, расходуя топливо. Можно использовать больше одного раза. Распылитель можно переместить.",
+							"ru-RU": "Выбирает распылитель газа. Нажмите кнопку ОГОНЬ, чтобы бросить распылитель, который остается на месте до конца раунда. Примените умение повторно, чтобы выпустить из распылителя облако ядовитого дыма, расходуя топливо. Можно использовать больше одного раза. Распылитель можно переместить.",
 							"th-TH": "ติดตั้งระเบิดประจุควัน กดยิงเพื่อขว้างระเบิดที่จะ\nคงอยู่ตลอดจนจบเกมออกไป กดใช้สกิลอีกครั้ง\nเพื่อสร้างหมอกควันพิษด้วยเชื้อเพลิงที่มีอยู่ \nสกิลนี้สามารถใช้ซ้ำได้และสามารถหยิบระเบิด\nกลับขึ้นมาเพื่อใช้งานอีกครั้ง",
 							"tr-TR": "Bir gaz salgılayıcı KUŞAN. Tur boyunca devamlı yerde kalacak salgılayıcıyı fırlatmak için ATEŞ ET. Yakıt kullanarak zehirli bir duman bulutu oluşturmak için YENİDEN KULLAN. Bu yetenek birden fazla kez YENİDEN KULLANILABİLİR ve yerden alınarak YENİDEN YERLEŞTİRİLEBİLİR.",
 							"vi-VN": "TRANG BỊ 1 máy tạo hóa chất. NHẤP BẮN để quăng thiết bị về phía trước, có thời gian tồn tại đến hết vòng đấu. KÍCH HOẠT LẠI kỹ năng sẽ tiêu hao nhiên liệu và tạo ra 1 quả cầu hóa chất. Kỹ năng này có thể KÍCH HOẠT LẠI nhiều hơn 1 lần và bạn có thể nhặt máy tạo khói lên để ĐẶT LẠI.",
@@ -3048,7 +3048,7 @@
 							"ko-KR": "천상계 형상에서 별을 설치합니다. (궁극기 키) \n\n활성화 시 별 하나를 성운(연막)으로 변형합니다.\n\n별은 사용 시 소멸하며, 잠시 후 다른 곳에 설치할 수 있게 됩니다.\n\n별이 소멸하면 그 자리에 잠시 가짜 성운이 생성됩니다.",
 							"pl-PL": "Umieść Gwiazdki w Postaci Astral (klawisz ulta). \n\nAKTYWUJ Gwiazdkę, aby zmienić ją w Mgławicę (dym).\n\nUŻYJ Gwiazdki, żeby dokonać jej Rozproszenia, pozwalając tym samym na umieszczenie jej po krótkiej chwili w nowym miejscu.\n\nRozproszenie tworzy na krótko fałszywą Mgławicę w miejscu położenia Gwiazdki, nim ta powróci.",
 							"pt-BR": "Posicione Estrelas na Forma Astral (tecla da Ultimate). \n\nATIVE uma Estrela para transformá-la em uma Nebulosa (fumaça).\n\nUTILIZE uma Estrela para dissipá-la, retornando a estrela para ser posicionada em um novo local após um período de tempo.\n\nDissipar forma brevemente uma Nebulosa falsa na localização da Estrela antes de retornar.",
-							"ru-RU": "Разместите звезды в Астральной форме (нажмите клавишу абсолютного умения).\nАКТИВИРУЙТЕ звезду, чтобы преобразовать ее в туманность (газо-пылевое облако).\nВЫБЕРИТЕ звезду, чтобы вызвать \"Рассеивание\". Звезда исчезает, и через некоторое время ее можно разместить в другом месте.\nПеред исчезновением на месте звезды ненадолго образуется ложная туманность.",
+							"ru-RU": "Разместите звезды в Астральной форме (нажмите клавишу абсолютного умения).\nАКТИВИРУЙТЕ звезду, чтобы преобразовать ее в туманность (газо-пылевое облако).\nВЫБЕРИТЕ звезду, чтобы вызвать \"Рассеивание\". Звезды исчезают, и через некоторое время их можно разместить в другом месте. Перед исчезновением на месте звезды ненадолго образуется ложная туманность.",
 							"th-TH": "จัดวางดวงดาวใน Astral Form (ปุ่มอัลติเมท) \n\nเปิดใช้งานดวงดาวเพื่อแปลงมันเป็น Nebula (กลุ่มควัน)\n\nกดปุ่มใช้กับดวงดาวเพื่อกระจายมันออก ส่งคืนดาวเพื่อวางในตำแหน่งใหม่หลังจากดีเลย์สั้น ๆ\n\nสลายเป็น Nebula ปลอมในเวลาสั้น ๆ ในตำแหน่งของดาวก่อนที่จะกลับมา",
 							"tr-TR": "Astral Yolcu halindeyken yıldız yerleştir (ulti tuşu). \n\nDönüşerek Yıldız Bulutu (duman) oluşturması için bir yıldızı ETKİNLEŞTİR.\n\nKozmik Çözünüm'le geri almak için bir yıldız KULLAN. Geri alınan yıldızı belli bir süre sonra tekrar yerleştirebilirsin.\n\nKozmik Çözünüm, dönmeden önce yıldızın yerinde kısa süreliğine sahte bir Yıldız Bulutu oluşturur.",
 							"vi-VN": "Sắp xếp các Ngôi Sao ở Thể Tinh Vân (Phím Chiêu Cuối). \n\nKÍCH HOẠT 1 Ngôi Sao để biến đổi nó thành Tinh Vân (khói).\n\nSỬ DỤNG 1 Ngôi Sao để Tán Xạ, đưa ngôi sao đến vị trí mới sau khoảng thời gian trì hoãn.\n\nTán Xạ tạo 1 Tinh Vân giả trong thoáng chốc tại vị trí của Ngôi Sao trước khi đến vị trí mới.",
@@ -3097,7 +3097,7 @@
 							"es-MX": "Coloca estrellas en Modo Astral (tecla de definitiva).\n\nACTIVA una estrella para formar un Pozo Gravitacional. Los jugadores en el área son atraídos hacia el centro antes de que estalle, lo que causa que todos los jugadores que aún siguen atrapados se vuelvan vulnerables.",
 							"fr-FR": "Placez des étoiles sous sa forme astrale (touche d'ultime).\n\nACTIVEZ une étoile pour former un puits de gravité. Les joueurs dans la zone sont attirés vers le centre avant qu'il n'explose. L'explosion applique l'altération d'état Vulnérable aux joueurs piégés.",
 							"id-ID": "Tempatkan Bintang-Bintang dalam Astral Form (Tombol Ultima).\n\nAKTIFKAN satu Bintang untuk membentuk Gravity Well. Pemain di area tersebut tersedot ke pusatnya sebelum liang meledak, membuat semua pemain yang masih terjebak di dalamnya menjadi rentan.",
-							"it-IT": "Piazza le stelle mentre sei in forma astrale (comando Ultima).\n\nATTIVA una stella per formare un Pozzo gravitazionale. Gli agenti nell'area vengono attirati verso il centro che poi collassa in un'esplosione, rendendo Vulnerabili tutti quelli ancora intrappolati all'interno.",
+							"it-IT": "Piazza le stelle mentre sei in forma astrale (comando Ultima).\n\nATTIVA una stella per formare un pozzo gravitazionale. Gli agenti nell'area vengono attirati verso il centro che poi collassa in un'esplosione, rendendo Vulnerabili tutti quelli ancora intrappolati all'interno.",
 							"ja-JP": "「アストラルフォーム」(アルティメットキー) でスターを設置。\n\nスターを「発動」することで「グラビティウェル」を形成する。範囲内のプレイヤーを中心に引き寄せてから爆発して、範囲内に残っていたすべてのプレイヤーを弱体化させる。",
 							"ko-KR": "천상계 형상에서 별을 설치합니다. (궁극기 키)\n\n활성화 시 별 하나를 중력의 샘으로 변형합니다. 중력의 샘은 범위 내 플레이어들을 끌어당기다가 폭발하며, 폭발에 닿은 플레이어들은 취약 상태가 됩니다.",
 							"pl-PL": "Umieść Gwiazdki w Postaci Astral (klawisz ulta).\n\nAKTYWUJ Gwiazdkę, aby stworzyć Studnię Grawitacyjną. Studnia Grawitacyjna przyciąga do środka znajdujących się w pobliżu graczy, a następnie wybucha, wywołując podatność u wszystkich wciąż uwięzionych agentów.",
@@ -3156,7 +3156,7 @@
 							"ko-KR": "활성화 시 주 공격으로 별을 설치할 수 있는 천상계 형상으로 변신합니다. 이후에 별을 다시 활성화하여 신성 파동, 성운, 중력의 샘으로 바꿀 수 있습니다.\n\n우주 장벽이 준비되면 천상계 형상에서 보조 공격을 눌러 조준하고, 주 공격으로 두 지점을 선택합니다. 우주 장벽은 선택한 두 지점을 이으며 탄환을 막고 소리를 흡수합니다.",
 							"pl-PL": "AKTYWUJ, by wejść w Postać Astral, w której możesz umieszczać Gwiazdki za pomocą STRZAŁU PODSTAWOWEGO. Gwiazdki można aktywować później, zmieniając je w Puls Nowej, Mgławicę lub Studnię Grawitacyjną.\n\nGdy Kosmiczny Podział jest naładowany, użyj STRZAŁU ALTERNATYWNEGO w Postaci Astral, aby rozpocząć celowanie, a następnie STRZAŁU PODSTAWOWEGO, aby wskazać dwa miejsca. Nieskończony Kosmiczny Podział łączy dwa wybrane przez ciebie punkty. Kosmiczny Podział blokuje pociski i znacząco wycisza dźwięk.",
 							"pt-BR": "ATIVE para entrar na Forma Astral, em que você pode posicionar Estrelas com DISPARO. As Estrelas podem ser reativadas depois para serem transformadas em Pulso Nova, Nebulosa ou Poço Gravitacional.\n\nQuando Divisa Cósmica estiver carregada, utilize o MODO SECUNDÁRIO na Forma Astral para começar a mirar e, depois, DISPARO para escolher dois locais. Após isso, uma Divisa Cósmica infinita surge e conecta os pontos selecionados. A Divisa Cósmica bloqueia disparos e abafa muito o som.",
-							"ru-RU": "Нажмите кнопку \"АКТИВИРОВАТЬ\", чтобы войти в Астральную форму и разместить звезды с помощью кнопки ОСНОВНОГО РЕЖИМА СТРЕЛЬБЫ. Затем звезды можно снова активировать, чтобы применить умения \"Взрыв сверхновой\", \"Туманность\" или \"Гравитационный колодец\".\nКогда \"Пространственный разлом\" заряжен, используйте кнопку ДОП. РЕЖИМА СТРЕЛЬБЫ в Астральной форме, чтобы начать прицеливание, а затем кнопку ОСНОВНОГО РЕЖИМА СТРЕЛЬБЫ для выбора двух точек. Бесконечный пространственный разлом проходит через две выбранные точки. Он блокирует пули и заглушает звуки.",
+							"ru-RU": "Нажмите кнопку \"АКТИВИРОВАТЬ\", чтобы войти в Астральную форму и разместить звезды с помощью кнопки ОСНОВНОГО РЕЖИМА СТРЕЛЬБЫ. Затем звезды можно активировать, чтобы применить умения \"Взрыв сверхновой\", \"Туманность\" или \"Гравитационный колодец\".\nКогда \"Пространственный разлом\" заряжен, используйте кнопку ДОП. РЕЖИМА СТРЕЛЬБЫ в Астральной форме, чтобы начать прицеливание, а затем кнопку ОСНОВНОГО РЕЖИМА СТРЕЛЬБЫ для выбора двух точек. Бесконечный пространственный разлом проходит через две выбранные точки. Он блокирует пули и заглушает звуки.",
 							"th-TH": "เปิดใช้งานเพื่อเข้าสู่ Astral Form ที่คุณสามารถจัดวางดวงดาวด้วยปุ่มอาวุธหลัก คุณสามารถเปิดใช้ดวงดาวอีกครั้งในภายหลังเพื่อแปลงพวกมันเป็น Nova Pulse, Nebula หรือ Gravity Well\n\nเมื่อ Cosmic Divide ของเธอชาร์จแล้ว กดปุ่มอาวุธรองใน Astral Form เพื่อเริ่มเล็ง แล้วใช้ปุ่มอาวุธหลักเพื่อเลือกพื้นที่สองจุด Cosmic Divide ที่ไม่มีที่สิ้นสุดจะเชื่อมต่อทั้งสองจุดที่คุณเลือก Cosmic Divide จะบล็อกกระสุนและลดทอนเสียงอย่างมาก",
 							"tr-TR": "TEMEL ATIŞ tuşuyla yıldız yerleştirebileceğin Astral Yolcu haline geçmek için ETKİNLEŞTİR. Yerleştirilen yıldızlar daha sonra etkinleştirilerek Nova Darbesi, Yıldız Bulutu ve Çekim Alanı'na dönüştürülebilir.\n\nKozmik Ayrım yeteneği hazır olduğunda Astral Yolcu halindeyken İKİNCİL ATIŞ tuşuna basarak hedef al ve TEMEL ATIŞ tuşuna basarak iki konum seç. Bu iki konum arasında sonsuz bir Kozmik Ayrım bağlantısı oluşur. Kozmik Ayrım mermileri engeller ve sesleri büyük oranda bastırır.",
 							"vi-VN": "KÍCH HOẠT để chuyển sang Thể Tinh Vân và bạn có thể sắp xếp những Ngôi Sao bằng phím CHẾ ĐỘ CHÍNH. Những Ngôi Sao có thể được tái kích hoạt sau đó để chuyển thành Xung Nhịp Tân Tinh, Tinh Vân hoặc Giếng Trọng Lực.\n\nKhi Phân Chia Vũ Trụ đã tụ đầy, nhấn phím CHẾ ĐỘ PHỤ ở Thể Tinh Vân để bắt đầu ngắm bắn, sau đó nhấn phím CHẾ ĐỘ CHÍNH để chọn 2 vị trí. Một đường Phân Chia Vũ Trụ không có giới hạn sẽ nối 2 điểm đã chọn lại với nhau. Phân Chia Vũ Trụ có khả năng chặn đạn và giảm thanh cực lớn.",
@@ -3205,7 +3205,7 @@
 							"es-MX": "ACTIVA la definitiva para entrar en Modo Astral y el DISPARO PRINCIPAL para colocar estrellas. Apunta a las estrellas con tu Pulso Estelar, Nebulosa o Pozo Gravitacional para usar esas habilidades.",
 							"fr-FR": "ACTIVEZ votre ultime pour entrer en forme astrale et utilisez le TIR PRINCIPAL pour placer des étoiles. Visez ces étoiles avec Impulsion nova, Nébuleuse ou Puits de gravité pour utiliser ces compétences.",
 							"id-ID": "AKTIFKAN Ultima untuk memasuki Astral Form dan TEMBAK PRIMER untuk menempatkan Bintang-Bintang. Bidik Bintang-Bintang dengan Nova Pulse, Nebula, atau Gravity Well-mu untuk menggunakan berbagai kemampuan tersebut.",
-							"it-IT": "ATTIVA l'Ultima per entrare in forma astrale e usa il FUOCO PRIMARIO per piazzare le stelle. Punta le stelle e premi il comando per Nova pulsante, Nebulosa o Pozzo gravitazionale per attivarne la rispettiva abilità.",
+							"it-IT": "ATTIVA l'Ultima per entrare in forma astrale e usa il FUOCO PRIMARIO per piazzare le stelle. Punta le stelle e premi il comando per nova pulsante, nebulosa o pozzo gravitazionale per attivarne la rispettiva abilità.",
 							"ja-JP": "アルティメットを「発動」すると「アストラルフォーム」になり、プライマリでスターを設置する。「ノヴァパルス」、「ネビュラ」、「グラビティウェル」でスターを指定すると各アビリティーを使用できる。",
 							"ko-KR": "궁극기 활성화 시 천상계 형상으로 변신하며, 주 공격으로 별을 설치할 수 있습니다. 별을 조준하면 신성 파동, 성운, 중력의 샘 스킬을 사용할 수 있습니다.",
 							"pl-PL": "AKTYWUJ ulta, by wejść w Postać Astral, i użyj STRZAŁU PODSTAWOWEGO, by umieścić Gwiazdki. Namierz Gwiazdki przy użyciu Pulsu Nowej, Mgławicy lub Studni Grawitacyjnej, aby skorzystać z tych umiejętności.",
@@ -3483,7 +3483,7 @@
 							"ko-KR": "전술 지도를 장착합니다. 발사하면 선택한 위치에 궤도 일격 레이저를 쏘아 해당 영역에 있는 플레이어에게 큰 지속 피해를 입힙니다.",
 							"pl-PL": "WYPOSAŻ mapę taktyczną. STRZEL, by odpalić długotrwały laserowy ostrzał orbitalny na wybranym obszarze, zadający duże obrażenia w czasie graczom, którzy znajdą się w strefie ataku.",
 							"pt-BR": "EQUIPE um mapa tático. DISPARE para lançar um ataque prolongado de laser orbital no local selecionado, causando muito dano ao longo do tempo aos jogadores na área selecionada.",
-							"ru-RU": "Выбирает тактическую карту. Нажмите кнопку ОГОНЬ, чтобы запустить в выбранное место орбитальный удар, наносящий высокий периодический урон игрокам, находящимся в выбранной зоне.",
+							"ru-RU": "Выбирает тактическую карту. Нажмите кнопку ОГОНЬ, чтобы запустить орбитальный удар, наносящий высокий периодический урон игрокам, находящимся в выбранной зоне.",
 							"th-TH": "ติดตั้งแผนที่ยุทธวิธี กดยิงเพื่อปล่อย\nOrbital Strike ไปยังพื้นที่ที่กำหนด ซึ่งจะ\nสร้างดาเมจที่จะเพิ่มความรุนแรงขึ้นเรื่อย ๆ\nกับผู้เล่นที่อยู่ในพื้นที่นั้น",
 							"tr-TR": "Bir taktik harita KUŞAN. Seçili konuma bir süre yerde kalan bir uydu saldırısı lazeri fırlatmak için ATEŞ ET. Seçili alanda kalan oyuncular zaman içinde yüksek hasar alır.",
 							"vi-VN": "Brim mở ra bản đồ chiến thuật. NHẤP BẮN để phóng một chùm tia laser từ quỹ đạo vào vị trí chỉ định, gây sát thương lớn theo thời gian cho tất cả người chơi trong phạm vi ảnh hưởng.",
@@ -3589,7 +3589,7 @@
 							"es-MX": "EQUIPA un eco que imita el sonido de pisadas cuando se activa. DISPARA para activarlo y enviar el eco hacia adelante. Usa DISPARO SECUNDARIO para colocar un eco en el lugar. USA el eco inactivo para enviarlo hacia adelante.",
 							"fr-FR": "ÉQUIPEZ-vous d'un écho qui imite vos bruits de pas une fois activé. TIREZ pour activer et envoyer l'écho vers l'avant. Utilisez le TIR SECONDAIRE pour poser l'écho devant vous sans l'activer. UTILISEZ un écho inactif pour l'envoyer vers l'avant.",
 							"id-ID": "SIAGAKAN gema yang meniru suara jejak langkah saat diaktifkan. TEMBAK untuk mengaktifkannya dan mengirimkan gema ke depan. TEMBAK ALT untuk menempatkan gema di lokasi. GUNAKAN gema yang tak aktif untuk mengirimnya ke depan.",
-							"it-IT": "EQUIPAGGIA un'eco che imita il suono dei passi all'attivazione. SPARA per attivare e mandare in avanti l'eco. Usa il FUOCO ALTERNATIVO per piazzare l'eco in un punto. USA l'eco inattiva per mandarla in avanti",
+							"it-IT": "EQUIPAGGIA un'eco che imita il suono dei passi all'attivazione. SPARA per attivare e mandare in avanti l'eco. Usa il FUOCO ALTERNATIVO per piazzare l'eco in un punto. USA l'eco inattivo per mandarlo in avanti.",
 							"ja-JP": "構えを取り、足音を発する音の塊を生じさせる。「発射」でその塊を前方に放ち、「オルト発射」の場合はその場に設置する。設置した塊は「使用」で前方に送り出すことができる。",
 							"ko-KR": "메아리를 장착합니다. 메아리를 활성화하면 발걸음을 흉내 냅니다. 발사하면 메아리를 활성화하고 전방으로 보냅니다. 보조 공격 시 메아리를 배치합니다. 비활성화된 메아리를 사용하면 메아리를 전방으로 보냅니다.",
 							"pl-PL": "WYPOSAŻ echo, które imituje dźwięk kroków po aktywacji. STRZEL, aby aktywować i posłać echo przed siebie. ALT. STRZAŁ umieszcza echo w wybranym miejscu. UŻYJ nieaktywnego echa, by posłać je naprzód.",
@@ -3702,7 +3702,7 @@
 							"ko-KR": "장착하면 균열 결속을 준비합니다. 발사하면 전방으로 결속을 날립니다. 보조 공격 시 결속을 배치합니다. 활성화 시 해당 결속의 위치로 순간 이동합니다.",
 							"pl-PL": "WYPOSAŻ, by wykorzystać uprząż wymiarową. STRZEL, aby wypuścić uprząż przed siebie. ALT. STRZAŁ mocuje uprząż w miejscu. AKTYWUJ ją, by teleportować się w dane miejsce.",
 							"pt-BR": "EQUIPE para preparar um fluxo dimensional. DISPARE para lançar uma extremidade. Use o MODO SECUNDÁRIO para posicionar a outra. ATIVE para se teleportar até a extremidade lançada.",
-							"ru-RU": "Нажмите кнопку умения, чтобы привязать нить портала. Нажмите кнопку ОГОНЬ, чтобы послать нить вперед. Закрепите другой конец нити с помощью кнопки АЛЬТ. ОГОНЬ. Нажмите АКТИВИРОВАТЬ, чтобы телепортироваться по нити.",
+							"ru-RU": "Нажмите кнопку умения, чтобы привязать нить портала к Yoru. Нажмите кнопку ОГОНЬ, чтобы послать портал вперед. Нажмите АЛЬТ. ОГОНЬ, чтобы бросить портал рядом с Yoru. Нажмите АКТИВИРОВАТЬ, чтобы телепортироваться по нити.",
 							"th-TH": "ติดตั้งเพื่อควบคุมการเชื่อมโยงของมิติ ยิงเพื่อปล่อยจุดเชื่อมมิติไปข้างหน้า กดโหมดยิงเสริมเพื่อวางจุเชื่อมมิติลง กดใช้เพื่อเคลื่อนย้ายไปยังจุดเชื่อมมิติ",
 							"tr-TR": "Bir boyut geçidi küresi KUŞAN. Küreyi ilerletmek için ATEŞ ET. Küreyi yerleştirmek için ALT. ATIŞ'a bas. Kürenin bulunduğu konuma ışınlanmak için küreyi ETKİNLEŞTİR.",
 							"vi-VN": "NHẤP TRANG BỊ để khai thác sức mạnh của kết nối không gian, NHẤP BẮN để giải phóng kết nối ra phía trước, NHẤP CHẾ ĐỘ PHỤ để đặt kết nối vào vị trí, NHẤP KÍCH HOẠT để dịch chuyển tức thời tới vị trí kết nối.",
@@ -4140,8 +4140,8 @@
 							"ko-KR": "영혼 수확: 레이나가 처치하거나 레이나에게 피해를 입고 3초 이내에 죽은 적은 3초 동안 유지되는 영혼 구슬을 남깁니다.\n포식: 즉시 근처에 있는 영혼 구슬을 흡수하여 짧은 시간 동안 순식간에 체력을 회복합니다. 이 스킬로 회복한 체력이 100을 넘어가면 초과분은 시간이 흐르면서 사라집니다. 여제 활성화 시 이 스킬이 자동으로 사용되며 영혼 구슬을 흡수하지 않습니다.",
 							"pl-PL": "Żniwa Duszy: Wrogowie zabici przez Reynę lub ci, którzy zginęli w ciągu 3 sekund od otrzymania obrażeń od Reyny, zostawiają po sobie pozostające na ziemi przez 3 sekundy Kule Duszy.\nPożarcie: NATYCHMIAST pochłoń pobliską Kulę Duszy, która zapewni szybkie leczenie przez krótki czas. Zdobyte w ten sposób punkty zdrowia przekraczające 100 z czasem zanikną. Jeśli CESARZOWA jest aktywna, umiejętność ta zostanie użyta automatycznie i nie pochłonie Kuli Duszy.",
 							"pt-BR": "Colheita de Almas: inimigos abatidos por Reyna ou abatidos até 3 segundos após sofrerem dano da Reyna deixam Orbes de Alma que duram 3s.\n\nDevorar: INSTANTANEAMENTE consome um Orbe de Alma próximo, curando-se de forma rápida por um curto período. A quantidade de Vida concedida por esta habilidade que ultrapassar 100 decairá ao longo do tempo. Se a habilidade IMPERATRIZ estiver ativa, esta habilidade será conjurada automaticamente e não consumirá o Orbe de Alma.",
-							"ru-RU": "Сбор душ: когда Reyna убивает противника или когда противник умирает в течение 3 секунд после получения урона от нее, на 3 секунды появляется сфера души.\nПоглощение: МГНОВЕННО поглощает находящуюся поблизости сферу души, быстро восполняя здоровье. При чрезмерном исцелении и превышении показателя в 100 лишнее здоровье постепенно рассеивается. Используется автоматически и не поглощает сферу во время действия абсолютного умения.",
-							"th-TH": "Soul Harvest: ศัตรูที่ถูกสังหารด้วย Reyna หรือถูกสังหารหลังจากที่ได้รับความเสียหายจาก Reyna เป็นเวลา 3 วินาที ศัตรูนั้นจะทิ้ง Soul Orb ที่สามารถคงอยู่เป็นเวลา 3 วินาที\nDevour: จะใช้ Soul Orb ที่อยู่ใกล้เคียงในทันที และ จะฮีลอย่างต่อเนื่องเป็นระยะเวลาสั้น ๆ พลังชีวิตที่ได้รับจากสกิลนี้ที่เกิน 100 หน่วยจะสลายตัวลงตามระยะเวลา หาก EMPRESS ทำงานอยู่ สกิลนี้จะถูกร่ายโดยอัตโนมัติและไม่ใช้ Soul Orb",
+							"ru-RU": "Сбор душ: когда Reyna убивает противника или когда противник умирает в течение 3 секунд после получения урона от нее, на 3 секунды появляется сфера души.\nПоглощение: МГНОВЕННО поглощает находящуюся поблизости сферу души и быстро восполняет здоровье. При чрезмерном исцелении и превышении показателя в 100 лишнее здоровье через некоторое время рассеивается. Используется автоматически и не поглощает сферу во время действия абсолютного умения.",
+							"th-TH": "Soul Harvest: ศัตรูที่ถูกสังหารด้วย Reyna หรือถูกสังหารหลังจากที่ได้รับความเสียหายจาก Reyna เป็นเวลา 3 วินาที ศัตรูนั้นจะทิ้ง Soul Orb ที่สามารถคงอยู่เป็นเวลา 3 วินาที\nDevour: จะใช้ Soul Orb ที่อยู่ใกล้เคียงในทันที และ จะฮีลอย่างต่อเนื่องเป็นระยะเวลาสั้น ๆ พลังชีวิตที่ได้รับจากสกิลนี้ที่เกิน 100 หน่วยจะสลายตัวลงตามระยะเวลา หาก EMPRESS ทำงานอยู่\nสกิลนี้จะถูกร่ายโดยอัตโนมัติและไม่ใช้ Soul Orb",
 							"tr-TR": "Ruh Hasadı: Reyna'nın öldürdüğü veya Reyna'dan hasar aldıktan sonra 3 saniye içinde ölen düşmanlar, arkalarında 3 saniyeliğine Ruh Küreleri bırakır.\nSömür: HEMEN yakınlardaki bir ruh küresini tüket ve kısa süreliğine hızla can yenile. Bu yetenek yoluyla edinilen 100'ü aşan can miktarı zaman içinde erir. İMPARATORİÇE etkinse yetenek otomatik olarak kullanılır ve Ruh Küresi harcamaz.",
 							"vi-VN": "Tụ Linh: Kẻ địch bị hạ gục bởi Ryena, hoặc đã nhận sát thương từ Reyna trong vòng 3 giây trước khi bị tiêu diệt sẽ để lại một Linh Ngọc trong 3 giây.\nNuốt chửng: LẬP TỨC hấp thụ 1 linh ngọc ở gần để hồi máu siêu tốc trong một thời gian ngắn. Máu nhận được từ kỹ năng này có thể vượt quá 100 và sẽ giảm dần theo thời gian. Nếu NỮ HOÀNG đang kích hoạt, kỹ năng này sẽ được tự động thi triển và không hấp thụ Linh Ngọc.",
 							"zh-CN": "灵魂收割：被芮娜消灭的敌人，以及受到芮娜伤害后3秒内被消灭的敌人将留下灵魂法球，持续3秒。\n噬魂：立即吞噬一枚邻近的灵魂法球，在短时间内迅速治疗。通过此技能恢复的生命值，超过100点的部分将随着时间流逝。若激活女皇状态，该技能会自动施放，且不会消耗这枚灵魂法球。",
@@ -4248,7 +4248,7 @@
 							"ko-KR": "파괴 가능한 천상의 눈을 장착합니다. 활성화하면 눈을 짧게 앞으로 던집니다. 눈을 본 적은 모두 시야가 제한됩니다.",
 							"pl-PL": "WYPOSAŻ eteryczne, zniszczalne oko. AKTYWUJ je, by rzucić oko przed siebie na niewielką odległość. Oko spowoduje krótkowzroczność u wszystkich przeciwników, którzy na nie spojrzą.",
 							"pt-BR": "EQUIPE um olho etéreo e destrutível. ATIVE para lançá-lo adiante a uma curta distância. O olho deixará com visão turva todos os inimigos que olharem para ele.",
-							"ru-RU": "Выбирает призрачный глаз. ПРИ АКТИВАЦИИ бросает глаз на близкое расстояние. Глаз ограничивает обзор всех противников, которые посмотрят на него. Глаз можно уничтожить.",
+							"ru-RU": "Выбирает призрачный глаз. При АКТИВАЦИИ бросает глаз на близкое расстояние. Глаз ограничивает обзор всех противников, которые посмотрят на него. Глаз можно уничтожить.",
 							"th-TH": "ติดตั้งดวงตาเพื่อทำลายการมองเห็น กดใช้งาน\nเพื่อปล่อยดวงตาออกไปข้างหน้าเป็นระยะทาง\nสั้น ๆ ศัตรูที่มองมันจะมองเห็นเป็นระยะทาง\nสั้น ๆ เท่านั้น",
 							"tr-TR": "Yok edilebilir, ruhtan bir göz KUŞAN. Gözü yakın mesafede ileri doğru kullanmak için ETKİNLEŞTİR. Göz, ona bakan tüm düşmanların Görüşünü Kısıtlar.",
 							"vi-VN": "TRANG BỊ 1 mắt hư không, có thể bị phá hủy. KÍCH HOẠT để sử dụng mắt hư không ở khoảng cách ngắn phía trước. Kẻ địch sẽ bị hạn chế tầm nhìn khi nhìn vào nó.",
@@ -4467,7 +4467,7 @@
 							"ko-KR": "그림자 구슬을 장착하고 다른 차원의 세계로 들어가 구슬을 조준합니다. 스킬 키를 누르면 표시한 위치에 그림자 구슬을 던져 한동안 시야를 차단하는 그림자 영역을 생성합니다. 발사를 길게 누르면 표시 위치를 더 멀리 옮깁니다. 보조 공격을 길게 누르면 표시 위치를 더 가까이 옮깁니다. 재장전을 누르면 기본 조준점을 끄고 켭니다.",
 							"pl-PL": "WYPOSAŻ mroczną kulę i wejdź w międzyświat, by wybrać położenie kuli i umieścić ją. NACIŚNIJ klawisz umiejętności, by wypuścić mroczną kulę w kierunku zaznaczonego miejsca, tworząc długotrwałą mroczną sferę ograniczającą wizję. PRZYTRZYMAJ STRZAŁ podczas namierzania, by oddalić znacznik. PRZYTRZYMAJ STRZAŁ ALTERNATYWNY podczas namierzania, by przybliżyć znacznik. NACIŚNIJ PRZEŁADOWANIE, by przełączyć zwykły widok namierzania.",
 							"pt-BR": "EQUIPE um orbe sombrio, entrando num universo distorcido para colocar e alvejar orbes. PRESSIONE o botão de habilidade para lançar o orbe no local marcado, criando uma esfera duradoura que bloqueia visão. Enquanto mira, SEGURE DISPARO para afastar o marcador ou SEGURE MODO SECUNDÁRIO para aproximar. PRESSIONE RECARREGAR para alternar para a visão de mira normal.",
-							"ru-RU": "Выбирает теневую сферу и переходит в иную реальность, чтобы прицелиться и установить сферы. НАЖМИТЕ клавишу умения, чтобы бросить теневую сферу, которая расширяется в выбранной точке, ограничивая обзор. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы увеличить дальность броска сферы. УДЕРЖИВАЙТЕ кнопку АЛЬТ. ОГОНЬ, чтобы бросить сферу ближе. НАЖМИТЕ клавишу ПЕРЕЗАРЯДКИ, чтобы переключиться на обычный режим прицеливания.",
+							"ru-RU": "Выбирает теневую сферу и переходит в иную реальность для выбора места ее установки. НАЖМИТЕ клавишу умения, чтобы бросить теневую сферу, которая расширяется в выбранной точке, ограничивая обзор. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы увеличить дальность броска сферы. УДЕРЖИВАЙТЕ кнопку АЛЬТ. ОГОНЬ, чтобы бросить сферу ближе. НАЖМИТЕ клавишу ПЕРЕЗАРЯДКИ, чтобы переключиться на обычный режим прицеливания.",
 							"th-TH": "ติดตั้ง Shadow Orb และดูตัวบอกระยะผ่าน\nกำแพงกดใช้สกิลเพื่อโยน Shadow Orb ไป\nยังตำแหน่งที่กำหนดไว้เพื่อสร้างโดมเงาดำ\nที่จะบดบังวิสัยทัศน์เป็นเวลานาน กดยิงค้างไว้\nในขณะกำหนดเป้าหมายเพื่อขยับเป้าหมายให้\nไกลออกไป กดโหมดการยิงเสริมค้างไว้ในขณะ\nกำหนดเป้าหมายเพื่อขยับเป้าเล็งให้ใกล้เข้ามา\nกดรีโหลดเพื่อสลับเป็นมุมมองการกำหนดเป้าหมายปกติ",
 							"tr-TR": "Bir gölge küresi KUŞAN, küreleri yerleştirmek ve hedef almak için aşamalı bir dünyaya adım at. Gölge küresini işaretli konuma fırlatmak için yetenek tuşuna BAS. Görüş kısıtlayan uzun süreli bir gölge küresi oluşturur. Hedef alma esnasında işaretçiyi daha uzağa götürmek için ATEŞ TUŞUNU BASILI TUT. İşaretçiyi daha yakına getirmek için İKİNCİL ATIŞ TUŞUNU BASILI TUT. Normal hedef almaya geçmek için DOLDURMA TUŞUNA BAS.",
 							"vi-VN": "TRANG BỊ 1 ngọc bóng tối, du hành vào thế giới đa chiều để đặt và nhắm các mục tiêu . NHẤP phím kỹ năng để quăng ngọc bóng tối tới địa điểm đánh dấu, tạo 1 thể cầu bóng tối có thời gian tồn tại rất lâu để chắn tầm nhìn. GIỮ phím BẮN trong khi nhắm mục tiêu để di chuyển điểm đánh dấu ra xa. GIỮ phím CHẾ ĐỘ PHỤ trong khi nhắm mục tiêu để di chuyển điểm đánh dấu lại gần. NHẤP phím THAY ĐẠN để bật/tắt nhắm mục tiêu thường.",
@@ -6980,7 +6980,7 @@
 					"es-ES": "Lanzabolas de nieve",
 					"es-MX": "Lanzador de bolas de nieve",
 					"fr-FR": "Lance-boules de neige",
-					"id-ID": "Peluncur Snowball",
+					"id-ID": "Snowball Launcher",
 					"it-IT": "Sparapalle di neve",
 					"ja-JP": "スノーボールランチャー",
 					"ko-KR": "눈덩이 발사기",
@@ -7043,7 +7043,7 @@
 					"es-ES": "Lanzabolas de nieve",
 					"es-MX": "Lanzador de bolas de nieve",
 					"fr-FR": "Lance-boules de neige",
-					"id-ID": "Peluncur Snowball",
+					"id-ID": "Snowball Launcher",
 					"it-IT": "Sparapalle di neve",
 					"ja-JP": "スノーボールランチャー",
 					"ko-KR": "눈덩이 발사기",
@@ -9896,7 +9896,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو آريز",
-							"de-DE": "Ares – Rätsel",
+							"de-DE": "Ares – Jigsaw",
 							"en-US": "Jigsaw Ares",
 							"es-ES": "Ares Jigsaw",
 							"es-MX": "Ares Jigsaw",
@@ -9925,7 +9925,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو آريز\n(بديل 1 كيلجوي)",
-							"de-DE": "Ares – Rätsel\n(Variante 1, Killjoy)",
+							"de-DE": "Ares – Jigsaw\n(Variante 1, Killjoy)",
 							"en-US": "Jigsaw Ares\r\n(Variant 1 Killjoy)",
 							"es-ES": "Ares Jigsaw\n(variante 1: Killjoy)",
 							"es-MX": "Ares Jigsaw\n\n(Variante 1 Killjoy)",
@@ -9954,7 +9954,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو آريز\n(بديل 2 أسترا)",
-							"de-DE": "Ares – Rätsel\n(Variante 2, Astra)",
+							"de-DE": "Ares – Jigsaw\n(Variante 2, Astra)",
 							"en-US": "Jigsaw Ares\r\n(Variant 2 Astra)",
 							"es-ES": "Ares Jigsaw\n(variante 2: Astra)",
 							"es-MX": "Ares Jigsaw\n\n(Variante 2 Astra)",
@@ -9983,7 +9983,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو آريز\n(بديل 3 يورو)",
-							"de-DE": "Ares – Rätsel\n(Variante 3, Yoru)",
+							"de-DE": "Ares – Jigsaw\n(Variante 3, Yoru)",
 							"en-US": "Jigsaw Ares\r\n(Variant 3 Yoru)",
 							"es-ES": "Ares Jigsaw\n(variante 3: Yoru)",
 							"es-MX": "Ares Jigsaw\n\n(Variante 3 Yoru)",
@@ -10014,7 +10014,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو آريز",
-							"de-DE": "Ares – Rätsel",
+							"de-DE": "Ares – Jigsaw",
 							"en-US": "Jigsaw Ares",
 							"es-ES": "Ares Jigsaw",
 							"es-MX": "Ares Jigsaw",
@@ -10043,7 +10043,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "جيغسو آريز",
-					"de-DE": "Ares – Rätsel",
+					"de-DE": "Ares – Jigsaw",
 					"en-US": "Jigsaw Ares",
 					"es-ES": "Ares Jigsaw",
 					"es-MX": "Ares Jigsaw",
@@ -10153,6 +10153,273 @@
 					"vi-VN": "Ares Anh Đào",
 					"zh-CN": "樱花战神",
 					"zh-TW": "櫻花 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
+			"defaultChromaId": "53ABC8AF-4233-F1FE-7653-6BA26F9EAEFA",
+			"chromas": [
+				{
+					"id": "53ABC8AF-4233-F1FE-7653-6BA26F9EAEFA",
+					"label": "53ABC8AF-4233-F1FE-7653-6BA26F9EAEFA",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور آريز",
+							"de-DE": "Ares – Wächter des Lichts",
+							"en-US": "Sentinels of Light Ares",
+							"es-ES": "Ares Sentinels of Light",
+							"es-MX": "Ares Centinelas de la Luz",
+							"fr-FR": "Ares (Sentinelles de la lumière)",
+							"id-ID": "Sentinels of Light Ares",
+							"it-IT": "Ares Sentinelle della Luce",
+							"ja-JP": "センチネル・オブ・ライト アレス",
+							"ko-KR": "빛의 감시자 아레스",
+							"pl-PL": "Ares Strażników Światła",
+							"pt-BR": "Ares Sentinelas da Luz",
+							"ru-RU": "Ares \"Стражи света\"",
+							"th-TH": "Sentinels of Light Ares",
+							"tr-TR": "IŞIK MUHAFIZLARI ARES",
+							"vi-VN": "Ares Vệ Binh Ánh Sáng",
+							"zh-CN": "Sentinels of Light Ares",
+							"zh-TW": "光之哨兵 戰神"
+						}
+					}
+				},
+				{
+					"id": "B4B0D84E-4947-6078-ABCB-82B354549FC7",
+					"label": "B4B0D84E-4947-6078-ABCB-82B354549FC7",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Ares Level 4\n(Variant 1 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور آريز المستوى 4\n(بديل 1 وردي)",
+							"de-DE": "Ares – Wächter des Lichts Level 4\n(Variante 1, Pink)",
+							"en-US": "Sentinels of Light Ares Level 4\n(Variant 1 Pink)",
+							"es-ES": "Ares Sentinels of Light de nivel 4\n(variante 1: rosa)",
+							"es-MX": "Ares Centinelas de la Luz Nivel 4\n(Variante 1 Rosa)",
+							"fr-FR": "Ares (Sentinelles de la lumière) niveau 4\n(variante 1 Rose)",
+							"id-ID": "Sentinels of Light Ares Level 4\n(Varian 1 Pink)",
+							"it-IT": "Ares Sentinelle della Luce livello 4\n(variante 1 Rosa)",
+							"ja-JP": "センチネル・オブ・ライト アレス Lv.4\n(ヴァリアント 1 ピンク)",
+							"ko-KR": "빛의 감시자 아레스 4레벨\n(변형 1 분홍색)",
+							"pl-PL": "Ares Strażników Światła (poziom 4)\n(wersja 1 – różowa)",
+							"pt-BR": "Ares Sentinelas da Luz Nível 4\n(Variante 1 Rosa)",
+							"ru-RU": "Ares \"Стражи света\" уровень 4\n(расцветка 1 \"Розовый\")",
+							"th-TH": "Sentinels of Light Ares เลเวล 4\n(ตัวเลือกที่ 1 สีชมพู)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI ARES\n(STİL 1 - PEMBE)",
+							"vi-VN": "Ares Vệ Binh Ánh Sáng Cấp 4\n(Dạng 1 Ánh Hồng)",
+							"zh-CN": "Sentinels of Light Ares Level 4\n(Variant 1 Pink)",
+							"zh-TW": "光之哨兵 戰神 等級4\n（幻彩1 粉紅色）"
+						}
+					}
+				},
+				{
+					"id": "39ED0F62-4D30-6FAE-B8D7-9C943D6984CB",
+					"label": "39ED0F62-4D30-6FAE-B8D7-9C943D6984CB",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Ares Level 4\n(Variant 2 Red/Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور آريز المستوى 4\n(بديل 2 أحمر/أخضر)",
+							"de-DE": "Ares – Wächter des Lichts Level 4\n(Variante 2, Rot/Grün)",
+							"en-US": "Sentinels of Light Ares Level 4\n(Variant 2 Red/Green)",
+							"es-ES": "Ares Sentinels of Light de nivel 4\n(variante 2: rojo/verde)",
+							"es-MX": "Ares Centinelas de la Luz Nivel 4\n(Variante 2 Roja/Verde)",
+							"fr-FR": "Ares (Sentinelles de la lumière) niveau 4\n(variante 2 Rouge/Vert)",
+							"id-ID": "Sentinels of Light Ares Level 4\n(Varian 2 Merah/Hijau)",
+							"it-IT": "Ares Sentinelle della Luce livello 4\n(variante 2 Rossa/Verde)",
+							"ja-JP": "センチネル・オブ・ライト アレス Lv.4\n(ヴァリアント 2 レッド/グリーン)",
+							"ko-KR": "빛의 감시자 아레스 4레벨\n(변형 2 빨간색/녹색)",
+							"pl-PL": "Ares Strażników Światła (poziom 4)\n(wersja 2 – czerwona/zielona)",
+							"pt-BR": "Ares Sentinelas da Luz Nível 4\n(Variante 2 Vermelha/Verde)",
+							"ru-RU": "Ares \"Стражи света\" уровень 4\n(расцветка 2 \"Красный/Зеленый\")",
+							"th-TH": "Sentinels of Light Ares เลเวล 4\n(ตัวเลือกที่ 2 สีแดง/เขียว)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI ARES\n(STİL 2 - KIRMIZI/YEŞİL)",
+							"vi-VN": "Ares Vệ Binh Ánh Sáng Cấp 4\n(Dạng 2 Ánh Đỏ/Lục)",
+							"zh-CN": "Sentinels of Light Ares Level 4\n(Variant 2 Red/Green)",
+							"zh-TW": "光之哨兵 戰神 等級4\n（幻彩2 紅／綠色）"
+						}
+					}
+				},
+				{
+					"id": "AB9A4B7B-4037-C491-093D-E99E8070031F",
+					"label": "AB9A4B7B-4037-C491-093D-E99E8070031F",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Ares Level 4\n(Variant 3 Blue/Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور آريز المستوى 4\n(بديل 3 أزرق/أرجواني)",
+							"de-DE": "Ares – Wächter des Lichts Level 4\n(Variante 3, Blau/Violett)",
+							"en-US": "Sentinels of Light Ares Level 4\n(Variant 3 Blue/Purple)",
+							"es-ES": "Ares Sentinels of Light de nivel 4\n(variante 3: azul/púrpura)",
+							"es-MX": "Ares Centinelas de la Luz Nivel 4\n(Variante 3 Azul/Morada)",
+							"fr-FR": "Ares (Sentinelles de la lumière) niveau 4\n(variante 3 Bleu/Violet)",
+							"id-ID": "Sentinels of Light Ares Level 4\n(Varian 3 Biru/Ungu)",
+							"it-IT": "Ares Sentinelle della Luce livello 4\n(variante 3 Blu/Viola)",
+							"ja-JP": "センチネル・オブ・ライト アレス Lv.4\n(ヴァリアント 3 ブルー/パープル)",
+							"ko-KR": "빛의 감시자 아레스 4레벨\n(변형 3 파란색/보라색)",
+							"pl-PL": "Ares Strażników Światła (poziom 4)\n(wersja 3 – niebieska/fioletowa)",
+							"pt-BR": "Ares Sentinelas da Luz Nível 4\n(Variante 3 Azul/Roxa)",
+							"ru-RU": "Ares \"Стражи света\" уровень 4\n(расцветка 3 \"Синий/Фиолетовый\")",
+							"th-TH": "Sentinels of Light Ares เลเวล 4\n(ตัวเลือกที่ 3 สีน้ำเงิน/ม่วง)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI ARES\n(STİL 3 - MAVİ/MOR)",
+							"vi-VN": "Ares Vệ Binh Ánh Sáng Cấp 4\n(Dạng 3 Ánh Lam/Tím)",
+							"zh-CN": "Sentinels of Light Ares Level 4\n(Variant 3 Blue/Purple)",
+							"zh-TW": "光之哨兵 戰神 等級4\n（幻彩3 藍／紫色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "0DDBDF8C-43B0-E2F1-94F8-D6BE9D2A2110",
+					"label": "0DDBDF8C-43B0-E2F1-94F8-D6BE9D2A2110",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور آريز",
+							"de-DE": "Ares – Wächter des Lichts",
+							"en-US": "Sentinels of Light Ares",
+							"es-ES": "Ares Sentinels of Light",
+							"es-MX": "Ares Centinelas de la Luz",
+							"fr-FR": "Ares (Sentinelles de la lumière)",
+							"id-ID": "Sentinels of Light Ares",
+							"it-IT": "Ares Sentinelle della Luce",
+							"ja-JP": "センチネル・オブ・ライト アレス",
+							"ko-KR": "빛의 감시자 아레스",
+							"pl-PL": "Ares Strażników Światła",
+							"pt-BR": "Ares Sentinelas da Luz",
+							"ru-RU": "Ares \"Стражи света\"",
+							"th-TH": "Sentinels of Light Ares",
+							"tr-TR": "IŞIK MUHAFIZLARI ARES",
+							"vi-VN": "Ares Vệ Binh Ánh Sáng",
+							"zh-CN": "Sentinels of Light Ares",
+							"zh-TW": "光之哨兵 戰神"
+						}
+					}
+				},
+				{
+					"id": "BA3EE5C5-478F-6A30-AA0C-85942BA2A7C0",
+					"label": "BA3EE5C5-478F-6A30-AA0C-85942BA2A7C0",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Ares Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور آريز المستوى 2",
+							"de-DE": "Ares – Wächter des Lichts Level 2",
+							"en-US": "Sentinels of Light Ares Level 2",
+							"es-ES": "Ares Sentinels of Light de nivel 2",
+							"es-MX": "Ares Centinelas de la Luz Nivel 2",
+							"fr-FR": "Ares (Sentinelles de la lumière) niveau 2",
+							"id-ID": "Sentinels of Light Ares Level 2",
+							"it-IT": "Ares Sentinelle della Luce livello 2",
+							"ja-JP": "センチネル・オブ・ライト アレス Lv.2",
+							"ko-KR": "빛의 감시자 아레스 2레벨",
+							"pl-PL": "Ares Strażników Światła (poziom 2)",
+							"pt-BR": "Ares Sentinelas da Luz Nível 2",
+							"ru-RU": "Ares \"Стражи света\" уровень 2",
+							"th-TH": "Sentinels of Light Ares เลเวล 2",
+							"tr-TR": "2. SEVİYE IŞIK MUHAFIZLARI ARES",
+							"vi-VN": "Ares Vệ Binh Ánh Sáng Cấp 2",
+							"zh-CN": "Sentinels of Light Ares Level 2",
+							"zh-TW": "光之哨兵 戰神 等級2"
+						}
+					}
+				},
+				{
+					"id": "A92FC69D-4BE1-74F5-938B-E0B27B2BB929",
+					"label": "A92FC69D-4BE1-74F5-938B-E0B27B2BB929",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Ares Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور آريز المستوى 3",
+							"de-DE": "Ares – Wächter des Lichts Level 3",
+							"en-US": "Sentinels of Light Ares Level 3",
+							"es-ES": "Ares Sentinels of Light de nivel 3",
+							"es-MX": "Ares Centinelas de la Luz Nivel 3",
+							"fr-FR": "Ares (Sentinelles de la lumière) niveau 3",
+							"id-ID": "Sentinels of Light Ares Level 3",
+							"it-IT": "Ares Sentinelle della Luce livello 3",
+							"ja-JP": "センチネル・オブ・ライト アレス Lv.3",
+							"ko-KR": "빛의 감시자 아레스 3레벨",
+							"pl-PL": "Ares Strażników Światła (poziom 3)",
+							"pt-BR": "Ares Sentinelas da Luz Nível 3",
+							"ru-RU": "Ares \"Стражи света\" уровень 3",
+							"th-TH": "Sentinels of Light Ares เลเวล 3",
+							"tr-TR": "3. SEVİYE IŞIK MUHAFIZLARI ARES",
+							"vi-VN": "Ares Vệ Binh Ánh Sáng Cấp 3",
+							"zh-CN": "Sentinels of Light Ares Level 3",
+							"zh-TW": "光之哨兵 戰神 等級3"
+						}
+					}
+				},
+				{
+					"id": "0725B4F4-44EB-5297-9EA2-18A333A95087",
+					"label": "0725B4F4-44EB-5297-9EA2-18A333A95087",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Ares Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور آريز المستوى 4",
+							"de-DE": "Ares – Wächter des Lichts Level 4",
+							"en-US": "Sentinels of Light Ares Level 4",
+							"es-ES": "Ares Sentinels of Light de nivel 4",
+							"es-MX": "Ares Centinelas de la Luz Nivel 4",
+							"fr-FR": "Ares (Sentinelles de la lumière) niveau 4",
+							"id-ID": "Sentinels of Light Ares Level 4",
+							"it-IT": "Ares Sentinelle della Luce livello 4",
+							"ja-JP": "センチネル・オブ・ライト アレス Lv.4",
+							"ko-KR": "빛의 감시자 아레스 4레벨",
+							"pl-PL": "Ares Strażników Światła (poziom 4)",
+							"pt-BR": "Ares Sentinelas da Luz Nível 4",
+							"ru-RU": "Ares \"Стражи света\" уровень 4",
+							"th-TH": "Sentinels of Light Ares เลเวล 4",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI ARES",
+							"vi-VN": "Ares Vệ Binh Ánh Sáng Cấp 4",
+							"zh-CN": "Sentinels of Light Ares Level 4",
+							"zh-TW": "光之哨兵 戰神 等級4"
+						}
+					}
+				}
+			],
+			"id": "9F3E2BA6-428F-C635-67E0-B8B7D9E3C2FC",
+			"label": "9F3E2BA6-428F-C635-67E0-B8B7D9E3C2FC",
+			"name":
+			{
+				"defaultText": "Sentinels of Light Ares",
+				"localizedByCulture":
+				{
+					"ar-AE": "حراس النور آريز",
+					"de-DE": "Ares – Wächter des Lichts",
+					"en-US": "Sentinels of Light Ares",
+					"es-ES": "Ares Sentinels of Light",
+					"es-MX": "Ares Centinelas de la Luz",
+					"fr-FR": "Ares (Sentinelles de la lumière)",
+					"id-ID": "Sentinels of Light Ares",
+					"it-IT": "Ares Sentinelle della Luce",
+					"ja-JP": "センチネル・オブ・ライト アレス",
+					"ko-KR": "빛의 감시자 아레스",
+					"pl-PL": "Ares Strażników Światła",
+					"pt-BR": "Ares Sentinelas da Luz",
+					"ru-RU": "Ares \"Стражи света\"",
+					"th-TH": "Sentinels of Light Ares",
+					"tr-TR": "IŞIK MUHAFIZLARI ARES",
+					"vi-VN": "Ares Vệ Binh Ánh Sáng",
+					"zh-CN": "Sentinels of Light Ares",
+					"zh-TW": "光之哨兵 戰神"
 				}
 			}
 		},
@@ -12644,6 +12911,273 @@
 		},
 		{
 			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "6F337971-40B7-C94D-0F24-36869AF654C6",
+			"chromas": [
+				{
+					"id": "6F337971-40B7-C94D-0F24-36869AF654C6",
+					"label": "6F337971-40B7-C94D-0F24-36869AF654C6",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور فاندال",
+							"de-DE": "Vandal – Wächter des Lichts",
+							"en-US": "Sentinels of Light Vandal",
+							"es-ES": "Vandal Sentinels of Light",
+							"es-MX": "Vandal Centinelas de la Luz",
+							"fr-FR": "Vandal (Sentinelles de la lumière)",
+							"id-ID": "Sentinels of Light Vandal",
+							"it-IT": "Vandal Sentinelle della Luce",
+							"ja-JP": "センチネル・オブ・ライト ヴァンダル",
+							"ko-KR": "빛의 감시자 밴달",
+							"pl-PL": "Vandal Strażników Światła",
+							"pt-BR": "Vandal Sentinelas da Luz",
+							"ru-RU": "Vandal \"Стражи света\"",
+							"th-TH": "Sentinels of Light Vandal",
+							"tr-TR": "IŞIK MUHAFIZLARI VANDAL",
+							"vi-VN": "Vandal Vệ Binh Ánh Sáng",
+							"zh-CN": "Sentinels of Light Vandal",
+							"zh-TW": "光之哨兵 暴徒"
+						}
+					}
+				},
+				{
+					"id": "31C816C4-4E19-9A57-4103-4194723EB6F1",
+					"label": "31C816C4-4E19-9A57-4103-4194723EB6F1",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Vandal Level 4\n(Variant 1 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور فاندال المستوى 4\n(بديل 1 وردي)",
+							"de-DE": "Vandal – Wächter des Lichts Level 4\n(Variante 1, Pink)",
+							"en-US": "Sentinels of Light Vandal Level 4\n(Variant 1 Pink)",
+							"es-ES": "Vandal Sentinels of Light de nivel 4\n(variante 1: rosa)",
+							"es-MX": "Vandal Centinelas de la Luz Nivel 4\n(Variante 1 Rosa)",
+							"fr-FR": "Vandal (Sentinelles de la lumière) niveau 4\n(variante 1 Rose)",
+							"id-ID": "Sentinels of Light Vandal Level 4\n(Varian 1 Pink)",
+							"it-IT": "Vandal Sentinelle della Luce livello 4\n(variante 1 Rosa)",
+							"ja-JP": "センチネル・オブ・ライト ヴァンダル Lv.4\n(ヴァリアント 1 ピンク)",
+							"ko-KR": "빛의 감시자 밴달 4레벨\n(변형 1 분홍색)",
+							"pl-PL": "Vandal Strażników Światła (poziom 4)\n(wersja 1 – różowa)",
+							"pt-BR": "Vandal Sentinelas da Luz Nível 4\n(Variante 1 Rosa)",
+							"ru-RU": "Vandal \"Стражи света\" уровень 4\n(расцветка 1 \"Розовый\")",
+							"th-TH": "Sentinels of Light Vandal เลเวล 4\n(ตัวเลือกที่ 1 สีชมพู)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI VANDAL\n(STİL 1 - PEMBE)",
+							"vi-VN": "Vandal Vệ Binh Ánh Sáng Cấp 4\n(Dạng 1 Ánh Hồng)",
+							"zh-CN": "Sentinels of Light Vandal Level 4\n(Variant 1 Pink)",
+							"zh-TW": "光之哨兵 暴徒 等級4\n（幻彩1 粉紅色）"
+						}
+					}
+				},
+				{
+					"id": "274E2C81-4BCF-3689-C22B-41AA05B1329C",
+					"label": "274E2C81-4BCF-3689-C22B-41AA05B1329C",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Vandal Level 4\n(Variant 2 Red/Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور فاندال المستوى 4\n(بديل 2 أحمر/أخضر)",
+							"de-DE": "Vandal – Wächter des Lichts Level 4\n(Variante 2, Rot/Grün)",
+							"en-US": "Sentinels of Light Vandal Level 4\n(Variant 2 Red/Green)",
+							"es-ES": "Vandal Sentinels of Light de nivel 4\n(variante 2: rojo/verde)",
+							"es-MX": "Vandal Centinelas de la Luz Nivel 4\n(Variante 2 Roja/Verde)",
+							"fr-FR": "Vandal (Sentinelles de la lumière) niveau 4\n(variante 2 Rouge/Vert)",
+							"id-ID": "Sentinels of Light Vandal Level 4\n(Varian 2 Merah/Hijau)",
+							"it-IT": "Vandal Sentinelle della Luce livello 4\n(variante 2 Rossa/Verde)",
+							"ja-JP": "センチネル・オブ・ライト ヴァンダル Lv.4\n(ヴァリアント 2 レッド/グリーン)",
+							"ko-KR": "빛의 감시자 밴달 4레벨\n(변형 2 빨간색/녹색)",
+							"pl-PL": "Vandal Strażników Światła (poziom 4)\n(wersja 2 – czerwona/zielona)",
+							"pt-BR": "Vandal Sentinelas da Luz Nível 4\n(Variante 2 Vermelha/Verde)",
+							"ru-RU": "Vandal \"Стражи света\" уровень 4\n(расцветка 2 \"Красный/Зеленый\")",
+							"th-TH": "Sentinels of Light Vandal เลเวล 4\n(ตัวเลือกที่ 2 สีแดง/เขียว)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI VANDAL\n(STİL 2 - KIRMIZI/YEŞİL)",
+							"vi-VN": "Vandal Vệ Binh Ánh Sáng Cấp 4\n(Dạng 2 Ánh Đỏ/Lục)",
+							"zh-CN": "Sentinels of Light Vandal Level 4\n(Variant 2 Red/Green)",
+							"zh-TW": "光之哨兵 暴徒 等級4\n（幻彩2 紅／綠色）"
+						}
+					}
+				},
+				{
+					"id": "70531BDC-420A-C3E0-6207-24A9A830DA5E",
+					"label": "70531BDC-420A-C3E0-6207-24A9A830DA5E",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Vandal Level 4\n(Variant 3 Blue/Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور فاندال المستوى 4\n(بديل 3 أزرق/أرجواني)",
+							"de-DE": "Vandal – Wächter des Lichts Level 4\n(Variante 3, Blau/Violett)",
+							"en-US": "Sentinels of Light Vandal Level 4\n(Variant 3 Blue/Purple)",
+							"es-ES": "Vandal Sentinels of Light de nivel 4\n(variante 3: azul/púrpura)",
+							"es-MX": "Vandal Centinelas de la Luz Nivel 4\n(Variante 3 Azul/Morada)",
+							"fr-FR": "Vandal (Sentinelles de la lumière) niveau 4\n(variante 3 Bleu/Violet)",
+							"id-ID": "Sentinels of Light Vandal Level 4\n(Varian 3 Biru/Ungu)",
+							"it-IT": "Vandal Sentinelle della Luce livello 4\n(variante 3 Blu/Viola)",
+							"ja-JP": "センチネル・オブ・ライト ヴァンダル Lv.4\n(ヴァリアント 3 ブルー/パープル)",
+							"ko-KR": "빛의 감시자 밴달 4레벨\n(변형 3 파란색/보라색)",
+							"pl-PL": "Vandal Strażników Światła (poziom 4)\n(wersja 3 – niebieska/fioletowa)",
+							"pt-BR": "Vandal Sentinelas da Luz Nível 4\n(Variante 3 Azul/Roxa)",
+							"ru-RU": "Vandal \"Стражи света\" уровень 4\n(расцветка 3 \"Синий/Фиолетовый\")",
+							"th-TH": "Sentinels of Light Vandal เลเวล 4\n(ตัวเลือกที่ 3 สีน้ำเงิน/ม่วง)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI VANDAL\n(STİL 3 - MAVİ/MOR)",
+							"vi-VN": "Vandal Vệ Binh Ánh Sáng Cấp 4\n(Dạng 3 Ánh Lam/Tím)",
+							"zh-CN": "Sentinels of Light Vandal Level 4\n(Variant 3 Blue/Purple)",
+							"zh-TW": "光之哨兵 暴徒 等級4\n（幻彩3 藍／紫色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "968EFD06-4549-65F4-9FB1-3F90D612E428",
+					"label": "968EFD06-4549-65F4-9FB1-3F90D612E428",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور فاندال",
+							"de-DE": "Vandal – Wächter des Lichts",
+							"en-US": "Sentinels of Light Vandal",
+							"es-ES": "Vandal Sentinels of Light",
+							"es-MX": "Vandal Centinelas de la Luz",
+							"fr-FR": "Vandal (Sentinelles de la lumière)",
+							"id-ID": "Sentinels of Light Vandal",
+							"it-IT": "Vandal Sentinelle della Luce",
+							"ja-JP": "センチネル・オブ・ライト ヴァンダル",
+							"ko-KR": "빛의 감시자 밴달",
+							"pl-PL": "Vandal Strażników Światła",
+							"pt-BR": "Vandal Sentinelas da Luz",
+							"ru-RU": "Vandal \"Стражи света\"",
+							"th-TH": "Sentinels of Light Vandal",
+							"tr-TR": "IŞIK MUHAFIZLARI VANDAL",
+							"vi-VN": "Vandal Vệ Binh Ánh Sáng",
+							"zh-CN": "Sentinels of Light Vandal",
+							"zh-TW": "光之哨兵 暴徒"
+						}
+					}
+				},
+				{
+					"id": "BFA45341-4338-5EBD-3BEC-8D95F6C6FEB4",
+					"label": "BFA45341-4338-5EBD-3BEC-8D95F6C6FEB4",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Vandal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور فاندال المستوى 2",
+							"de-DE": "Vandal – Wächter des Lichts Level 2",
+							"en-US": "Sentinels of Light Vandal Level 2",
+							"es-ES": "Vandal Sentinels of Light de nivel 2",
+							"es-MX": "Vandal Centinelas de la Luz Nivel 2",
+							"fr-FR": "Vandal (Sentinelles de la lumière) niveau 2",
+							"id-ID": "Sentinels of Light Vandal Level 2",
+							"it-IT": "Vandal Sentinelle della Luce livello 2",
+							"ja-JP": "センチネル・オブ・ライト ヴァンダル Lv.2",
+							"ko-KR": "빛의 감시자 밴달 2레벨",
+							"pl-PL": "Vandal Strażników Światła (poziom 2)",
+							"pt-BR": "Vandal Sentinelas da Luz Nível 2",
+							"ru-RU": "Vandal \"Стражи света\" уровень 2",
+							"th-TH": "Sentinels of Light Vandal เลเวล 2",
+							"tr-TR": "2. SEVİYE IŞIK MUHAFIZLARI VANDAL",
+							"vi-VN": "Vandal Vệ Binh Ánh Sáng Cấp 2",
+							"zh-CN": "Sentinels of Light Vandal Level 2",
+							"zh-TW": "光之哨兵 暴徒 等級2"
+						}
+					}
+				},
+				{
+					"id": "D8B58C68-45E6-65F4-01BD-6BAAEEEF667F",
+					"label": "D8B58C68-45E6-65F4-01BD-6BAAEEEF667F",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Vandal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور فاندال المستوى 3",
+							"de-DE": "Vandal – Wächter des Lichts Level 3",
+							"en-US": "Sentinels of Light Vandal Level 3",
+							"es-ES": "Vandal Sentinels of Light de nivel 3",
+							"es-MX": "Vandal Centinelas de la Luz Nivel 3",
+							"fr-FR": "Vandal (Sentinelles de la lumière) niveau 3",
+							"id-ID": "Sentinels of Light Vandal Level 3",
+							"it-IT": "Vandal Sentinelle della Luce livello 3",
+							"ja-JP": "センチネル・オブ・ライト ヴァンダル Lv.3",
+							"ko-KR": "빛의 감시자 밴달 3레벨",
+							"pl-PL": "Vandal Strażników Światła (poziom 3)",
+							"pt-BR": "Vandal Sentinelas da Luz Nível 3",
+							"ru-RU": "Vandal \"Стражи света\" уровень 3",
+							"th-TH": "Sentinels of Light Vandal เลเวล 3",
+							"tr-TR": "3. SEVİYE IŞIK MUHAFIZLARI VANDAL",
+							"vi-VN": "Vandal Vệ Binh Ánh Sáng Cấp 3",
+							"zh-CN": "Sentinels of Light Vandal Level 3",
+							"zh-TW": "光之哨兵 暴徒 等級3"
+						}
+					}
+				},
+				{
+					"id": "E0DFB9D6-42A4-1463-CC80-00AC9DF10C9E",
+					"label": "E0DFB9D6-42A4-1463-CC80-00AC9DF10C9E",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Vandal Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور فاندال المستوى 4",
+							"de-DE": "Vandal – Wächter des Lichts Level 4",
+							"en-US": "Sentinels of Light Vandal Level 4",
+							"es-ES": "Vandal Sentinels of Light de nivel 4",
+							"es-MX": "Vandal Centinelas de la Luz Nivel 4",
+							"fr-FR": "Vandal (Sentinelles de la lumière) niveau 4",
+							"id-ID": "Sentinels of Light Vandal Level 4",
+							"it-IT": "Vandal Sentinelle della Luce livello 4",
+							"ja-JP": "センチネル・オブ・ライト ヴァンダル Lv.4",
+							"ko-KR": "빛의 감시자 밴달 4레벨",
+							"pl-PL": "Vandal Strażników Światła (poziom 4)",
+							"pt-BR": "Vandal Sentinelas da Luz Nível 4",
+							"ru-RU": "Vandal \"Стражи света\" уровень 4",
+							"th-TH": "Sentinels of Light Vandal เลเวล 4",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI VANDAL",
+							"vi-VN": "Vandal Vệ Binh Ánh Sáng Cấp 4",
+							"zh-CN": "Sentinels of Light Vandal Level 4",
+							"zh-TW": "光之哨兵 暴徒 等級4"
+						}
+					}
+				}
+			],
+			"id": "E8DF3725-40DE-B8EC-77BD-62A989685A85",
+			"label": "E8DF3725-40DE-B8EC-77BD-62A989685A85",
+			"name":
+			{
+				"defaultText": "Sentinels of Light Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "حراس النور فاندال",
+					"de-DE": "Vandal – Wächter des Lichts",
+					"en-US": "Sentinels of Light Vandal",
+					"es-ES": "Vandal Sentinels of Light",
+					"es-MX": "Vandal Centinelas de la Luz",
+					"fr-FR": "Vandal (Sentinelles de la lumière)",
+					"id-ID": "Sentinels of Light Vandal",
+					"it-IT": "Vandal Sentinelle della Luce",
+					"ja-JP": "センチネル・オブ・ライト ヴァンダル",
+					"ko-KR": "빛의 감시자 밴달",
+					"pl-PL": "Vandal Strażników Światła",
+					"pt-BR": "Vandal Sentinelas da Luz",
+					"ru-RU": "Vandal \"Стражи света\"",
+					"th-TH": "Sentinels of Light Vandal",
+					"tr-TR": "IŞIK MUHAFIZLARI VANDAL",
+					"vi-VN": "Vandal Vệ Binh Ánh Sáng",
+					"zh-CN": "Sentinels of Light Vandal",
+					"zh-TW": "光之哨兵 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
 			"defaultChromaId": "2BD28382-48C6-8579-83E8-E9B64B783DE3",
 			"chromas": [
 				{
@@ -13201,7 +13735,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "ديبس فاندال",
-							"de-DE": "Vandal – Tiefen",
+							"de-DE": "Vandal – Tiefsee",
 							"en-US": "Depths Vandal",
 							"es-ES": "Vandal Depths",
 							"es-MX": "Vandal Oceánico",
@@ -13232,7 +13766,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "ديبس فاندال",
-							"de-DE": "Vandal – Tiefen",
+							"de-DE": "Vandal – Tiefsee",
 							"en-US": "Depths Vandal",
 							"es-ES": "Vandal Depths",
 							"es-MX": "Vandal Oceánico",
@@ -13261,7 +13795,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ديبس فاندال",
-					"de-DE": "Vandal – Tiefen",
+					"de-DE": "Vandal – Tiefsee",
 					"en-US": "Depths Vandal",
 					"es-ES": "Vandal Depths",
 					"es-MX": "Vandal Oceánico",
@@ -14851,7 +15385,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "ديبس بولدوغ",
-							"de-DE": "Bulldog – Tiefen",
+							"de-DE": "Bulldog – Tiefsee",
 							"en-US": "Depths Bulldog",
 							"es-ES": "Bulldog Depths",
 							"es-MX": "Bulldog Oceánico",
@@ -14882,7 +15416,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "ديبس بولدوغ",
-							"de-DE": "Bulldog – Tiefen",
+							"de-DE": "Bulldog – Tiefsee",
 							"en-US": "Depths Bulldog",
 							"es-ES": "Bulldog Depths",
 							"es-MX": "Bulldog Oceánico",
@@ -14911,7 +15445,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ديبس بولدوغ",
-					"de-DE": "Bulldog – Tiefen",
+					"de-DE": "Bulldog – Tiefsee",
 					"en-US": "Depths Bulldog",
 					"es-ES": "Bulldog Depths",
 					"es-MX": "Bulldog Oceánico",
@@ -14958,7 +15492,7 @@
 							"ru-RU": "Phantom \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Phantom",
 							"tr-TR": "VALORANT GO! 1. CİLT PHANTOM",
-							"vi-VN": "VALORANT GO! Vol. 1 Phantom",
+							"vi-VN": "Phantom VALORANT GO! Vol. 1",
 							"zh-CN": "无畏契约GO！第一卷 幻影",
 							"zh-TW": "特戰英豪 GO！第1集 幻象"
 						}
@@ -14989,7 +15523,7 @@
 							"ru-RU": "Phantom \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Phantom",
 							"tr-TR": "VALORANT GO! 1. CİLT PHANTOM",
-							"vi-VN": "VALORANT GO! Vol. 1 Phantom",
+							"vi-VN": "Phantom VALORANT GO! Vol. 1",
 							"zh-CN": "无畏契约GO！第一卷 幻影",
 							"zh-TW": "特戰英豪 GO！第1集 幻象"
 						}
@@ -15018,7 +15552,7 @@
 					"ru-RU": "Phantom \"VALORANT GO! Вып. 1\"",
 					"th-TH": "VALORANT GO! Vol. 1 Phantom",
 					"tr-TR": "VALORANT GO! 1. CİLT PHANTOM",
-					"vi-VN": "VALORANT GO! Vol. 1 Phantom",
+					"vi-VN": "Phantom VALORANT GO! Vol. 1",
 					"zh-CN": "无畏契约GO！第一卷 幻影",
 					"zh-TW": "特戰英豪 GO！第1集 幻象"
 				}
@@ -20026,7 +20560,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو جادج",
-							"de-DE": "Judge – Rätsel",
+							"de-DE": "Judge – Jigsaw",
 							"en-US": "Jigsaw Judge",
 							"es-ES": "Judge Jigsaw",
 							"es-MX": "Judge Jigsaw",
@@ -20055,7 +20589,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو جادج\n(بديل 1 سكاي)",
-							"de-DE": "Judge – Rätsel\n(Variante 1, Skye)",
+							"de-DE": "Judge – Jigsaw\n(Variante 1, Skye)",
 							"en-US": "Jigsaw Judge\r\n(Variant 1 Skye)",
 							"es-ES": "Judge Jigsaw\n(variante 1: Skye)",
 							"es-MX": "Judge Jigsaw\n\n(Variante 1 Skye)",
@@ -20084,7 +20618,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو جادج\n(بديل 2 أسترا)",
-							"de-DE": "Judge – Rätsel\n(Variante 2, Astra)",
+							"de-DE": "Judge – Jigsaw\n(Variante 2, Astra)",
 							"en-US": "Jigsaw Judge\r\n(Variant 2 Astra)",
 							"es-ES": "Judge Jigsaw\n(variante 2: Astra)",
 							"es-MX": "Judge Jigsaw\n\n(Variante 2 Astra)",
@@ -20113,7 +20647,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو جادج\n(بديل 3 يورو)",
-							"de-DE": "Judge – Rätsel\n(Variante 3, Yoru)",
+							"de-DE": "Judge – Jigsaw\n(Variante 3, Yoru)",
 							"en-US": "Jigsaw Judge\r\n(Variant 3 Yoru)",
 							"es-ES": "Judge Jigsaw\n(variante 3: Yoru)",
 							"es-MX": "Judge Jigsaw\n\n(Variante 3 Yoru)",
@@ -20144,7 +20678,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو جادج",
-							"de-DE": "Judge – Rätsel",
+							"de-DE": "Judge – Jigsaw",
 							"en-US": "Jigsaw Judge",
 							"es-ES": "Judge Jigsaw",
 							"es-MX": "Judge Jigsaw",
@@ -20173,7 +20707,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "جيغسو جادج",
-					"de-DE": "Judge – Rätsel",
+					"de-DE": "Judge – Jigsaw",
 					"en-US": "Jigsaw Judge",
 					"es-ES": "Judge Jigsaw",
 					"es-MX": "Judge Jigsaw",
@@ -20845,7 +21379,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج باكي",
-							"de-DE": "Bucky – Elektroflux",
+							"de-DE": "Bucky – Surge",
 							"en-US": "Surge Bucky",
 							"es-ES": "Bucky Surge",
 							"es-MX": "Bucky Sobrecarga",
@@ -20874,7 +21408,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج باكي المستوى 2\n(بديل 1 أسود)",
-							"de-DE": "Bucky – Elektroflux Level 2\n(Variante 1, Schwarz)",
+							"de-DE": "Bucky – Surge Level 2\n(Variante 1, Schwarz)",
 							"en-US": "Surge Bucky Level 2\r\n(Variant 1 Black)",
 							"es-ES": "Bucky Surge de nivel 2\n(variante 1: negro)",
 							"es-MX": "Bucky Sobrecarga nivel 2\n(Variante 1 Negra)",
@@ -20903,7 +21437,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج باكي المستوى 3\n(بديل 2 أصفر)",
-							"de-DE": "Bucky – Elektroflux Level 3\n(Variante 2, Gelb)",
+							"de-DE": "Bucky – Surge Level 3\n(Variante 2, Gelb)",
 							"en-US": "Surge Bucky Level 3\r\n(Variant 2 Yellow)",
 							"es-ES": "Bucky Surge de nivel 3\n(variante 2: amarillo)",
 							"es-MX": "Bucky Sobrecarga nivel 3\n(Variante 2 Amarilla)",
@@ -20932,7 +21466,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج باكي المستوى 4\n(بديل 3 أزرق)",
-							"de-DE": "Bucky – Elektroflux Level 4\n(Variante 3, Blau)",
+							"de-DE": "Bucky – Surge Level 4\n(Variante 3, Blau)",
 							"en-US": "Surge Bucky Level 4\r\n(Variant 3 Blue)",
 							"es-ES": "Bucky Surge de nivel 4\n(variante 3: azul)",
 							"es-MX": "Bucky Sobrecarga nivel 4\n(Variante 3 Azul)",
@@ -20963,7 +21497,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج باكي",
-							"de-DE": "Bucky – Elektroflux",
+							"de-DE": "Bucky – Surge",
 							"en-US": "Surge Bucky",
 							"es-ES": "Bucky Surge",
 							"es-MX": "Bucky Sobrecarga",
@@ -20992,7 +21526,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "سيرج باكي",
-					"de-DE": "Bucky – Elektroflux",
+					"de-DE": "Bucky – Surge",
 					"en-US": "Surge Bucky",
 					"es-ES": "Bucky Surge",
 					"es-MX": "Bucky Sobrecarga",
@@ -26037,7 +26571,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج كلاسيك",
-							"de-DE": "Classic – Elektroflux",
+							"de-DE": "Classic – Surge",
 							"en-US": "Surge Classic",
 							"es-ES": "Classic Surge",
 							"es-MX": "Classic Sobrecarga",
@@ -26066,7 +26600,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج كلاسيك المستوى 2\n(بديل 1 أسود)",
-							"de-DE": "Classic – Elektroflux Level 2\n(Variante 1, Schwarz)",
+							"de-DE": "Classic – Surge Level 2\n(Variante 1, Schwarz)",
 							"en-US": "Surge Classic Level 2\r\n(Variant 1 Black)",
 							"es-ES": "Classic Surge de nivel 2\n(variante 1: negro)",
 							"es-MX": "Classic Sobrecarga nivel 2\n(Variante 1 Negra)",
@@ -26095,7 +26629,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج كلاسيك المستوى 3\n(بديل 2 أصفر)",
-							"de-DE": "Classic – Elektroflux Level 3\n(Variante 2, Gelb)",
+							"de-DE": "Classic – Surge Level 3\n(Variante 2, Gelb)",
 							"en-US": "Surge Classic Level 3\r\n(Variant 2 Yellow)",
 							"es-ES": "Classic Surge de nivel 3\n(variante 2: amarillo)",
 							"es-MX": "Classic Sobrecarga nivel 3\n(Variante 2 Amarilla)",
@@ -26124,7 +26658,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج كلاسيك المستوى 4\n(بديل 3 أزرق)",
-							"de-DE": "Classic – Elektroflux Level 4\n(Variante 3, Blau)",
+							"de-DE": "Classic – Surge Level 4\n(Variante 3, Blau)",
 							"en-US": "Surge Classic Level 4\r\n(Variant 3 Blue)",
 							"es-ES": "Classic Surge de nivel 4\n(variante 3: azul)",
 							"es-MX": "Classic Sobrecarga nivel 4\n(Variante 3 Azul)",
@@ -26155,7 +26689,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج كلاسيك",
-							"de-DE": "Classic – Elektroflux",
+							"de-DE": "Classic – Surge",
 							"en-US": "Surge Classic",
 							"es-ES": "Classic Surge",
 							"es-MX": "Classic Sobrecarga",
@@ -26184,7 +26718,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "سيرج كلاسيك",
-					"de-DE": "Classic – Elektroflux",
+					"de-DE": "Classic – Surge",
 					"en-US": "Surge Classic",
 					"es-ES": "Classic Surge",
 					"es-MX": "Classic Sobrecarga",
@@ -26564,7 +27098,7 @@
 							"ru-RU": "Classic \"ОГНЕ/стрел\"",
 							"th-TH": "FIRE/arm Classic",
 							"tr-TR": "ROBO/TABANCA CLASSIC",
-							"vi-VN": "SÚNG/lục",
+							"vi-VN": "Classic LỤC/cầm tay",
 							"zh-CN": "武/器经典",
 							"zh-TW": "FIRE/arm 制式手槍"
 						}
@@ -26593,7 +27127,7 @@
 					"ru-RU": "Classic \"ОГНЕ/стрел\"",
 					"th-TH": "FIRE/arm Classic",
 					"tr-TR": "ROBO/TABANCA CLASSIC",
-					"vi-VN": "SÚNG/lục",
+					"vi-VN": "Classic LỤC/cầm tay",
 					"zh-CN": "武/器经典",
 					"zh-TW": "FIRE/arm 制式手槍"
 				}
@@ -29557,7 +30091,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غوست",
-							"de-DE": "Ghost – Rätsel",
+							"de-DE": "Ghost – Jigsaw",
 							"en-US": "Jigsaw Ghost",
 							"es-ES": "Ghost Jigsaw",
 							"es-MX": "Ghost Jigsaw",
@@ -29586,7 +30120,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غوست\n(بديل 1 سكاي)",
-							"de-DE": "Ghost – Rätsel\n(Variante 1, Skye)",
+							"de-DE": "Ghost – Jigsaw\n(Variante 1, Skye)",
 							"en-US": "Jigsaw Ghost\r\n(Variant 1 Skye)",
 							"es-ES": "Ghost Jigsaw\n(variante 1: Skye)",
 							"es-MX": "Ghost Jigsaw\n\n(Variante 1 Skye)",
@@ -29615,7 +30149,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غوست\n(بديل 2 كيلجوي)",
-							"de-DE": "Ghost – Rätsel\n(Variante 2, Killjoy)",
+							"de-DE": "Ghost – Jigsaw\n(Variante 2, Killjoy)",
 							"en-US": "Jigsaw Ghost\r\n(Variant 2 Killjoy)",
 							"es-ES": "Ghost Jigsaw\n(variante 2: Killjoy)",
 							"es-MX": "Ghost Jigsaw\n\n(Variante 2 Killjoy)",
@@ -29644,7 +30178,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غوست\n(بديل 3 أسترا)",
-							"de-DE": "Ghost – Rätsel\n(Variante 3, Astra)",
+							"de-DE": "Ghost – Jigsaw\n(Variante 3, Astra)",
 							"en-US": "Jigsaw Ghost\r\n(Variant 3 Astra)",
 							"es-ES": "Ghost Jigsaw\n(variante 3: Astra)",
 							"es-MX": "Ghost Jigsaw\n\n(Variante 3 Astra)",
@@ -29675,7 +30209,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غوست",
-							"de-DE": "Ghost – Rätsel",
+							"de-DE": "Ghost – Jigsaw",
 							"en-US": "Jigsaw Ghost",
 							"es-ES": "Ghost Jigsaw",
 							"es-MX": "Ghost Jigsaw",
@@ -29704,7 +30238,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "جيغسو غوست",
-					"de-DE": "Ghost – Rätsel",
+					"de-DE": "Ghost – Jigsaw",
 					"en-US": "Jigsaw Ghost",
 					"es-ES": "Ghost Jigsaw",
 					"es-MX": "Ghost Jigsaw",
@@ -30376,7 +30910,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "ديبس غوست",
-							"de-DE": "Ghost – Tiefen",
+							"de-DE": "Ghost – Tiefsee",
 							"en-US": "Depths Ghost",
 							"es-ES": "Ghost Depths",
 							"es-MX": "Ghost Oceánica",
@@ -30407,7 +30941,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "ديبس غوست",
-							"de-DE": "Ghost – Tiefen",
+							"de-DE": "Ghost – Tiefsee",
 							"en-US": "Depths Ghost",
 							"es-ES": "Ghost Depths",
 							"es-MX": "Ghost Oceánica",
@@ -30436,7 +30970,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ديبس غوست",
-					"de-DE": "Ghost – Tiefen",
+					"de-DE": "Ghost – Tiefsee",
 					"en-US": "Depths Ghost",
 					"es-ES": "Ghost Depths",
 					"es-MX": "Ghost Oceánica",
@@ -31381,7 +31915,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج شيريف",
-							"de-DE": "Sheriff – Elektroflux",
+							"de-DE": "Sheriff – Surge",
 							"en-US": "Surge Sheriff",
 							"es-ES": "Sheriff Surge",
 							"es-MX": "Sheriff Sobrecarga",
@@ -31410,7 +31944,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج شيريف المستوى 2\n(بديل 1 أسود)",
-							"de-DE": "Sheriff – Elektroflux Level 2\n(Variante 1, Schwarz)",
+							"de-DE": "Sheriff – Surge Level 2\n(Variante 1, Schwarz)",
 							"en-US": "Surge Sheriff Level 2\r\n(Variant 1 Black)",
 							"es-ES": "Sheriff Surge de nivel 2\n(variante 1: negro)",
 							"es-MX": "Sheriff Sobrecarga nivel 2\n(Variante 1 Negra)",
@@ -31439,7 +31973,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج شيريف المستوى 3\n(بديل 2 أصفر)",
-							"de-DE": "Sheriff – Elektroflux Level 3\n(Variante 2, Gelb)",
+							"de-DE": "Sheriff – Surge Level 3\n(Variante 2, Gelb)",
 							"en-US": "Surge Sheriff Level 3\r\n(Variant 2 Yellow)",
 							"es-ES": "Sheriff Surge de nivel 3\n(variante 2: amarillo)",
 							"es-MX": "Sheriff Sobrecarga nivel 3\n(Variante 2 Amarilla)",
@@ -31468,7 +32002,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج شيريف المستوى 4\n(بديل 3 أزرق)",
-							"de-DE": "Sheriff – Elektroflux Level 4\n(Variante 3, Blau)",
+							"de-DE": "Sheriff – Surge Level 4\n(Variante 3, Blau)",
 							"en-US": "Surge Sheriff Level 4\r\n(Variant 3 Blue)",
 							"es-ES": "Sheriff Surge de nivel 4\n(variante 3: azul)",
 							"es-MX": "Sheriff Sobrecarga nivel 4\n(Variante 3 Azul)",
@@ -31499,7 +32033,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج شيريف",
-							"de-DE": "Sheriff – Elektroflux",
+							"de-DE": "Sheriff – Surge",
 							"en-US": "Surge Sheriff",
 							"es-ES": "Sheriff Surge",
 							"es-MX": "Sheriff Sobrecarga",
@@ -31528,7 +32062,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "سيرج شيريف",
-					"de-DE": "Sheriff – Elektroflux",
+					"de-DE": "Sheriff – Surge",
 					"en-US": "Surge Sheriff",
 					"es-ES": "Sheriff Surge",
 					"es-MX": "Sheriff Sobrecarga",
@@ -32742,6 +33276,273 @@
 					"vi-VN": "Sheriff Khí Vệ Hòa Bình",
 					"zh-CN": "维和者警长",
 					"zh-TW": "安寧守護者 神射"
+				}
+			}
+		},
+		{
+			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+			"defaultChromaId": "FEAB1BA7-4695-F052-7563-A380EB896784",
+			"chromas": [
+				{
+					"id": "FEAB1BA7-4695-F052-7563-A380EB896784",
+					"label": "FEAB1BA7-4695-F052-7563-A380EB896784",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور شيريف",
+							"de-DE": "Sheriff – Wächter des Lichts",
+							"en-US": "Sentinels of Light Sheriff",
+							"es-ES": "Sheriff Sentinels of Light",
+							"es-MX": "Sheriff Centinelas de la Luz",
+							"fr-FR": "Sheriff (Sentinelles de la lumière)",
+							"id-ID": "Sentinels of Light Sheriff",
+							"it-IT": "Sheriff Sentinelle della Luce",
+							"ja-JP": "センチネル・オブ・ライト シェリフ",
+							"ko-KR": "빛의 감시자 셰리프",
+							"pl-PL": "Sheriff Strażników Światła",
+							"pt-BR": "Sheriff Sentinelas da Luz",
+							"ru-RU": "Sheriff \"Стражи света\"",
+							"th-TH": "Sentinels of Light Sheriff",
+							"tr-TR": "IŞIK MUHAFIZLARI SHERIFF",
+							"vi-VN": "Sheriff Vệ Binh Ánh Sáng",
+							"zh-CN": "Sentinels of Light Sheriff",
+							"zh-TW": "光之哨兵 神射"
+						}
+					}
+				},
+				{
+					"id": "03BA7FCD-410D-90D0-EB13-9CBEFA221EEB",
+					"label": "03BA7FCD-410D-90D0-EB13-9CBEFA221EEB",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Sheriff Level 4\r\n(Variant 1 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور شيريف المستوى 4\n(بديل 1 وردي)",
+							"de-DE": "Sheriff – Wächter des Lichts Level 4\n(Variante 1, Pink)",
+							"en-US": "Sentinels of Light Sheriff Level 4\r\n(Variant 1 Pink)",
+							"es-ES": "Sheriff Sentinels of Light de nivel 4\n(variante 1: rosa)",
+							"es-MX": "Sheriff Centinelas de la Luz Nivel 4\n(Variante 1 Rosa)",
+							"fr-FR": "Sheriff (Sentinelles de la lumière) niveau 4\n(variante 1 Rose)",
+							"id-ID": "Sentinels of Light Sheriff Level 4\n(Varian 1 Pink)",
+							"it-IT": "Sheriff Sentinelle della Luce livello 4\n(variante 1 Rosa)",
+							"ja-JP": "センチネル・オブ・ライト シェリフ Lv.4\n(ヴァリアント 1 ピンク)",
+							"ko-KR": "빛의 감시자 셰리프 4레벨\n(변형 1 분홍색)",
+							"pl-PL": "Sheriff Strażników Światła (poziom 4)\n(wersja 1 – różowa)",
+							"pt-BR": "Sheriff Sentinelas da Luz Nível 4\n(Variante 1 Rosa)",
+							"ru-RU": "Sheriff \"Стражи света\" уровень 4\n(расцветка 1 \"Розовый\")",
+							"th-TH": "Sentinels of Light Sheriff เลเวล 4\n(ตัวเลือกที่ 1 สีชมพู)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI SHERIFF\n(STİL 1 - PEMBE)",
+							"vi-VN": "Sheriff Vệ Binh Ánh Sáng Cấp 4\n(Dạng 1 Ánh Hồng)",
+							"zh-CN": "Sentinels of Light Sheriff Level 4\r\n(Variant 1 Pink)",
+							"zh-TW": "光之哨兵 神射 等級4\n（幻彩1 粉紅色）"
+						}
+					}
+				},
+				{
+					"id": "810F8C7E-4717-42E2-97E2-418606F83E28",
+					"label": "810F8C7E-4717-42E2-97E2-418606F83E28",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Sheriff Level 4\r\n(Variant 2 Red/Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور شيريف المستوى 4\n(بديل 2 أحمر/أخضر)",
+							"de-DE": "Sheriff – Wächter des Lichts Level 4\n(Variante 2, Rot/Grün)",
+							"en-US": "Sentinels of Light Sheriff Level 4\r\n(Variant 2 Red/Green)",
+							"es-ES": "Sheriff Sentinels of Light de nivel 4\n(variante 2: rojo/verde)",
+							"es-MX": "Sheriff Centinelas de la Luz Nivel 4\n(Variante 2 Roja/Verde)",
+							"fr-FR": "Sheriff (Sentinelles de la lumière) niveau 4\n(variante 2 Rouge/Vert)",
+							"id-ID": "Sentinels of Light Sheriff Level 4\n(Varian 2 Merah/Hijau)",
+							"it-IT": "Sheriff Sentinelle della Luce livello 4\n(variante 2 Rossa/Verde)",
+							"ja-JP": "センチネル・オブ・ライト シェリフ Lv.4\n(ヴァリアント 2 レッド/グリーン)",
+							"ko-KR": "빛의 감시자 셰리프 4레벨\n(변형 2 빨간색/녹색)",
+							"pl-PL": "Sheriff Strażników Światła (poziom 4)\n(wersja 2 – czerwona/zielona)",
+							"pt-BR": "Sheriff Sentinelas da Luz Nível 4\n(Variante 2 Vermelha/Verde)",
+							"ru-RU": "Sheriff \"Стражи света\" уровень 4\n(расцветка 2 \"Красный/Зеленый\")",
+							"th-TH": "Sentinels of Light Sheriff เลเวล 4\n(ตัวเลือกที่ 2 สีแดง/เขียว)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI SHERIFF\n(STİL 2 - KIRMIZI/YEŞİL)",
+							"vi-VN": "Sheriff Vệ Binh Ánh Sáng Cấp 4\n(Dạng 2 Ánh Đỏ/Lục)",
+							"zh-CN": "Sentinels of Light Sheriff Level 4\r\n(Variant 2 Red/Green)",
+							"zh-TW": "光之哨兵 神射 等級4\n（幻彩2 紅／綠色）"
+						}
+					}
+				},
+				{
+					"id": "CE3C606B-46BD-2554-FC23-BDB01B9D9FD0",
+					"label": "CE3C606B-46BD-2554-FC23-BDB01B9D9FD0",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Sheriff Level 4\r\n(Variant 3 Blue/Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور شيريف المستوى 4\n(بديل 3 أزرق/أرجواني)",
+							"de-DE": "Sheriff – Wächter des Lichts Level 4\n(Variante 3, Blau/Violett)",
+							"en-US": "Sentinels of Light Sheriff Level 4\r\n(Variant 3 Blue/Purple)",
+							"es-ES": "Sheriff Sentinels of Light de nivel 4\n(variante 3: azul/púrpura)",
+							"es-MX": "Sheriff Centinelas de la Luz Nivel 4\n(Variante 3 Azul/Morada)",
+							"fr-FR": "Sheriff (Sentinelles de la lumière) niveau 4\n(variante 3 Bleu/Violet)",
+							"id-ID": "Sentinels of Light Sheriff Level 4\n(Varian 3 Biru/Ungu)",
+							"it-IT": "Sheriff Sentinelle della Luce livello 4\n(variante 3 Blu/Viola)",
+							"ja-JP": "センチネル・オブ・ライト シェリフ Lv.4\n(ヴァリアント 3 ブルー/パープル)",
+							"ko-KR": "빛의 감시자 셰리프 4레벨\n(변형 3 파란색/보라색)",
+							"pl-PL": "Sheriff Strażników Światła (poziom 4)\n(wersja 3 – niebieska/fioletowa)",
+							"pt-BR": "Sheriff Sentinelas da Luz Nível 4\n(Variante 3 Azul/Roxa)",
+							"ru-RU": "Sheriff \"Стражи света\" уровень 4\n(расцветка 3 \"Синий/Фиолетовый\")",
+							"th-TH": "Sentinels of Light Sheriff เลเวล 4\n(ตัวเลือกที่ 3 สีน้ำเงิน/ม่วง)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI SHERIFF\n(STİL 3 - MAVİ/MOR)",
+							"vi-VN": "Sheriff Vệ Binh Ánh Sáng Cấp 4\n(Dạng 3 Ánh Lam/Tím)",
+							"zh-CN": "Sentinels of Light Sheriff Level 4\r\n(Variant 3 Blue/Purple)",
+							"zh-TW": "光之哨兵 神射 等級4\n（幻彩3 藍／紫色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "746A022B-48A9-C51B-F379-11A3E1E2BC8E",
+					"label": "746A022B-48A9-C51B-F379-11A3E1E2BC8E",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور شيريف",
+							"de-DE": "Sheriff – Wächter des Lichts",
+							"en-US": "Sentinels of Light Sheriff",
+							"es-ES": "Sheriff Sentinels of Light",
+							"es-MX": "Sheriff Centinelas de la Luz",
+							"fr-FR": "Sheriff (Sentinelles de la lumière)",
+							"id-ID": "Sentinels of Light Sheriff",
+							"it-IT": "Sheriff Sentinelle della Luce",
+							"ja-JP": "センチネル・オブ・ライト シェリフ",
+							"ko-KR": "빛의 감시자 셰리프",
+							"pl-PL": "Sheriff Strażników Światła",
+							"pt-BR": "Sheriff Sentinelas da Luz",
+							"ru-RU": "Sheriff \"Стражи света\"",
+							"th-TH": "Sentinels of Light Sheriff",
+							"tr-TR": "IŞIK MUHAFIZLARI SHERIFF",
+							"vi-VN": "Sheriff Vệ Binh Ánh Sáng",
+							"zh-CN": "Sentinels of Light Sheriff",
+							"zh-TW": "光之哨兵 神射"
+						}
+					}
+				},
+				{
+					"id": "FE88374E-4F4E-7736-38D6-FAB5DF49567B",
+					"label": "FE88374E-4F4E-7736-38D6-FAB5DF49567B",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Sheriff Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور شيريف المستوى 2",
+							"de-DE": "Sheriff – Wächter des Lichts Level 2",
+							"en-US": "Sentinels of Light Sheriff Level 2",
+							"es-ES": "Sheriff Sentinels of Light de nivel 2",
+							"es-MX": "Sheriff Centinelas de la Luz Nivel 2",
+							"fr-FR": "Sheriff (Sentinelles de la lumière) niveau 2",
+							"id-ID": "Sentinels of Light Sheriff Level 2",
+							"it-IT": "Sheriff Sentinelle della Luce livello 2",
+							"ja-JP": "センチネル・オブ・ライト シェリフ Lv.2",
+							"ko-KR": "빛의 감시자 셰리프 2레벨",
+							"pl-PL": "Sheriff Strażników Światła (poziom 2)",
+							"pt-BR": "Sheriff Sentinelas da Luz Nível 2",
+							"ru-RU": "Sheriff \"Стражи света\" уровень 2",
+							"th-TH": "Sentinels of Light Sheriff เลเวล 2",
+							"tr-TR": "2. SEVİYE IŞIK MUHAFIZLARI SHERIFF",
+							"vi-VN": "Sheriff Vệ Binh Ánh Sáng Cấp 2",
+							"zh-CN": "Sentinels of Light Sheriff Level 2",
+							"zh-TW": "光之哨兵 神射 等級2"
+						}
+					}
+				},
+				{
+					"id": "ADB6D5C9-4049-9878-CF16-36B19239D0F5",
+					"label": "ADB6D5C9-4049-9878-CF16-36B19239D0F5",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Sheriff Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور شيريف المستوى 3",
+							"de-DE": "Sheriff – Wächter des Lichts Level 3",
+							"en-US": "Sentinels of Light Sheriff Level 3",
+							"es-ES": "Sheriff Sentinels of Light de nivel 3",
+							"es-MX": "Sheriff Centinelas de la Luz Nivel 3",
+							"fr-FR": "Sheriff (Sentinelles de la lumière) niveau 3",
+							"id-ID": "Sentinels of Light Sheriff Level 3",
+							"it-IT": "Sheriff Sentinelle della Luce livello 3",
+							"ja-JP": "センチネル・オブ・ライト シェリフ Lv.3",
+							"ko-KR": "빛의 감시자 셰리프 3레벨",
+							"pl-PL": "Sheriff Strażników Światła (poziom 3)",
+							"pt-BR": "Sheriff Sentinelas da Luz Nível 3",
+							"ru-RU": "Sheriff \"Стражи света\" уровень 3",
+							"th-TH": "Sentinels of Light Sheriff เลเวล 3",
+							"tr-TR": "3. SEVİYE IŞIK MUHAFIZLARI SHERIFF",
+							"vi-VN": "Sheriff Vệ Binh Ánh Sáng Cấp 3",
+							"zh-CN": "Sentinels of Light Sheriff Level 3",
+							"zh-TW": "光之哨兵 神射 等級3"
+						}
+					}
+				},
+				{
+					"id": "894383AD-4945-3A91-A52C-8F8323A5C59B",
+					"label": "894383AD-4945-3A91-A52C-8F8323A5C59B",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Sheriff Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور شيريف المستوى 4",
+							"de-DE": "Sheriff – Wächter des Lichts Level 4",
+							"en-US": "Sentinels of Light Sheriff Level 4",
+							"es-ES": "Sheriff Sentinels of Light de nivel 4",
+							"es-MX": "Sheriff Centinelas de la Luz Nivel 4",
+							"fr-FR": "Sheriff (Sentinelles de la lumière) niveau 4",
+							"id-ID": "Sentinels of Light Sheriff Level 4",
+							"it-IT": "Sheriff Sentinelle della Luce livello 4",
+							"ja-JP": "センチネル・オブ・ライト シェリフ Lv.4",
+							"ko-KR": "빛의 감시자 셰리프 4레벨",
+							"pl-PL": "Sheriff Strażników Światła (poziom 4)",
+							"pt-BR": "Sheriff Sentinelas da Luz Nível 4",
+							"ru-RU": "Sheriff \"Стражи света\" уровень 4",
+							"th-TH": "Sentinels of Light Sheriff เลเวล 4",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI SHERIFF",
+							"vi-VN": "Sheriff Vệ Binh Ánh Sáng Cấp 4",
+							"zh-CN": "Sentinels of Light Sheriff Level 4",
+							"zh-TW": "光之哨兵 神射 等級4"
+						}
+					}
+				}
+			],
+			"id": "2BA3DED8-47D5-58E3-1307-39800214636D",
+			"label": "2BA3DED8-47D5-58E3-1307-39800214636D",
+			"name":
+			{
+				"defaultText": "Sentinels of Light Sheriff",
+				"localizedByCulture":
+				{
+					"ar-AE": "حراس النور شيريف",
+					"de-DE": "Sheriff – Wächter des Lichts",
+					"en-US": "Sentinels of Light Sheriff",
+					"es-ES": "Sheriff Sentinels of Light",
+					"es-MX": "Sheriff Centinelas de la Luz",
+					"fr-FR": "Sheriff (Sentinelles de la lumière)",
+					"id-ID": "Sentinels of Light Sheriff",
+					"it-IT": "Sheriff Sentinelle della Luce",
+					"ja-JP": "センチネル・オブ・ライト シェリフ",
+					"ko-KR": "빛의 감시자 셰리프",
+					"pl-PL": "Sheriff Strażników Światła",
+					"pt-BR": "Sheriff Sentinelas da Luz",
+					"ru-RU": "Sheriff \"Стражи света\"",
+					"th-TH": "Sentinels of Light Sheriff",
+					"tr-TR": "IŞIK MUHAFIZLARI SHERIFF",
+					"vi-VN": "Sheriff Vệ Binh Ánh Sáng",
+					"zh-CN": "Sentinels of Light Sheriff",
+					"zh-TW": "光之哨兵 神射"
 				}
 			}
 		},
@@ -36813,6 +37614,273 @@
 		},
 		{
 			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
+			"defaultChromaId": "01563242-4A63-2250-95EE-DB995BB29C84",
+			"chromas": [
+				{
+					"id": "01563242-4A63-2250-95EE-DB995BB29C84",
+					"label": "01563242-4A63-2250-95EE-DB995BB29C84",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور أوبيريتور",
+							"de-DE": "Operator – Wächter des Lichts",
+							"en-US": "Sentinels of Light Operator",
+							"es-ES": "Operator Sentinels of Light",
+							"es-MX": "Operator Centinelas de la Luz",
+							"fr-FR": "Operator (Sentinelles de la lumière)",
+							"id-ID": "Sentinels of Light Operator",
+							"it-IT": "Operator Sentinelle della Luce",
+							"ja-JP": "センチネル・オブ・ライト オペレーター",
+							"ko-KR": "빛의 감시자 오퍼레이터",
+							"pl-PL": "Operator Strażników Światła",
+							"pt-BR": "Operator Sentinelas da Luz",
+							"ru-RU": "Operator \"Стражи света\"",
+							"th-TH": "Sentinels of Light Operator",
+							"tr-TR": "IŞIK MUHAFIZLARI OPERATOR",
+							"vi-VN": "Operator Vệ Binh Ánh Sáng",
+							"zh-CN": "Sentinels of Light Operator",
+							"zh-TW": "光之哨兵 間諜"
+						}
+					}
+				},
+				{
+					"id": "EACD53BC-42CA-CDC4-CD45-4DA88E9B15D6",
+					"label": "EACD53BC-42CA-CDC4-CD45-4DA88E9B15D6",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Operator Level 4\n(Variant 1 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور أوبيريتور المستوى 4\n(بديل 1 وردي)",
+							"de-DE": "Operator – Wächter des Lichts Level 4\n(Variante 1, Pink)",
+							"en-US": "Sentinels of Light Operator Level 4\n(Variant 1 Pink)",
+							"es-ES": "Operator Sentinels of Light de nivel 4\n(variante 1: rosa)",
+							"es-MX": "Operator Centinelas de la Luz Nivel 4\n(Variante 1 Rosa)",
+							"fr-FR": "Operator (Sentinelles de la lumière) niveau 4\n(variante 1 Rose)",
+							"id-ID": "Sentinels of Light Operator Level 4\n(Varian 1 Pink)",
+							"it-IT": "Operator Sentinelle della Luce livello 4\n(variante 1 Rosa)",
+							"ja-JP": "センチネル・オブ・ライト オペレーター Lv.4\n(ヴァリアント 1 ピンク)",
+							"ko-KR": "빛의 감시자 오퍼레이터 4레벨\n(변형 1 분홍색)",
+							"pl-PL": "Operator Strażników Światła (poziom 4)\n(wersja 1 – różowa)",
+							"pt-BR": "Operator Sentinelas da Luz Nível 4\n(Variante 1 Rosa)",
+							"ru-RU": "Operator \"Стражи света\" уровень 4\n(расцветка 1 \"Розовый\")",
+							"th-TH": "Sentinels of Light Operator เลเวล 4\n(ตัวเลือกที่ 1 สีชมพู)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI OPERATOR\n(STİL 1 - PEMBE)",
+							"vi-VN": "Operator Vệ Binh Ánh Sáng Cấp 4\n(Dạng 1 Ánh Hồng)",
+							"zh-CN": "Sentinels of Light Operator Level 4\n(Variant 1 Pink)",
+							"zh-TW": "光之哨兵 間諜 等級4\n（幻彩1 粉紅色）"
+						}
+					}
+				},
+				{
+					"id": "6E3CFA55-414A-9416-51C6-D8B7EDD5004E",
+					"label": "6E3CFA55-414A-9416-51C6-D8B7EDD5004E",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Operator Level 4\n(Variant 2 Red/Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور أوبيريتور المستوى 4\n(بديل 2 أحمر/أخضر)",
+							"de-DE": "Operator – Wächter des Lichts Level 4\n(Variante 2, Rot/Grün)",
+							"en-US": "Sentinels of Light Operator Level 4\n(Variant 2 Red/Green)",
+							"es-ES": "Operator Sentinels of Light de nivel 4\n(variante 2: rojo/verde)",
+							"es-MX": "Operator Centinelas de la Luz Nivel 4\n(Variante 2 Roja/Verde)",
+							"fr-FR": "Operator (Sentinelles de la lumière) niveau 4\n(variante 2 Rouge/Vert)",
+							"id-ID": "Sentinels of Light Operator Level 4\n(Varian 2 Merah/Hijau)",
+							"it-IT": "Operator Sentinelle della Luce livello 4\n(variante 2 Rossa/Verde)",
+							"ja-JP": "センチネル・オブ・ライト オペレーター Lv.4\n(ヴァリアント 2 レッド/グリーン)",
+							"ko-KR": "빛의 감시자 오퍼레이터 4레벨\n(변형 2 빨간색/녹색)",
+							"pl-PL": "Operator Strażników Światła (poziom 4)\n(wersja 2 – czerwona/zielona)",
+							"pt-BR": "Operator Sentinelas da Luz Nível 4\n(Variante 2 Vermelha/Verde)",
+							"ru-RU": "Operator \"Стражи света\" уровень 4\n(расцветка 2 \"Красный/Зеленый\")",
+							"th-TH": "Sentinels of Light Operator เลเวล 4\n(ตัวเลือกที่ 2 สีแดง/เขียว)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI OPERATOR\n(STİL 2 - KIRMIZI/YEŞİL)",
+							"vi-VN": "Operator Vệ Binh Ánh Sáng Cấp 4\n(Dạng 2 Ánh Đỏ/Lục)",
+							"zh-CN": "Sentinels of Light Operator Level 4\n(Variant 2 Red/Green)",
+							"zh-TW": "光之哨兵 間諜 等級4\n（幻彩2 紅／綠色）"
+						}
+					}
+				},
+				{
+					"id": "6EB6F9CA-47A7-F01D-713F-EA996B5CC03A",
+					"label": "6EB6F9CA-47A7-F01D-713F-EA996B5CC03A",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Operator Level 4\n(Variant 3 Blue/Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور أوبيريتور المستوى 4\n(بديل 3 أزرق/أرجواني)",
+							"de-DE": "Operator – Wächter des Lichts Level 4\n(Variante 3, Blau/Violett)",
+							"en-US": "Sentinels of Light Operator Level 4\n(Variant 3 Blue/Purple)",
+							"es-ES": "Operator Sentinels of Light de nivel 4\n(variante 3: azul/púrpura)",
+							"es-MX": "Operator Centinelas de la Luz Nivel 4\n(Variante 3 Azul/Morada)",
+							"fr-FR": "Operator (Sentinelles de la lumière) niveau 4\n(variante 3 Bleu/Violet)",
+							"id-ID": "Sentinels of Light Operator Level 4\n(Varian 3 Biru/Ungu)",
+							"it-IT": "Operator Sentinelle della Luce livello 4\n(variante 3 Blu/Viola)",
+							"ja-JP": "センチネル・オブ・ライト オペレーター Lv.4\n(ヴァリアント 3 ブルー/パープル)",
+							"ko-KR": "빛의 감시자 오퍼레이터 4레벨\n(변형 3 파란색/보라색)",
+							"pl-PL": "Operator Strażników Światła (poziom 4)\n(wersja 3 – niebieska/fioletowa)",
+							"pt-BR": "Operator Sentinelas da Luz Nível 4\n(Variante 3 Azul/Roxa)",
+							"ru-RU": "Operator \"Стражи света\" уровень 4\n(расцветка 3 \"Синий/Фиолетовый\")",
+							"th-TH": "Sentinels of Light Operator เลเวล 4\n(ตัวเลือกที่ 3 สีน้ำเงิน/ม่วง)",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI OPERATOR\n(STİL 3 - MAVİ/MOR)",
+							"vi-VN": "Operator Vệ Binh Ánh Sáng Cấp 4\n(Dạng 3 Ánh Lam/Tím)",
+							"zh-CN": "Sentinels of Light Operator Level 4\n(Variant 3 Blue/Purple)",
+							"zh-TW": "光之哨兵 間諜 等級4\n（幻彩3 藍／紫色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "69657D05-4309-9779-D445-6DA864067246",
+					"label": "69657D05-4309-9779-D445-6DA864067246",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور أوبيريتور",
+							"de-DE": "Operator – Wächter des Lichts",
+							"en-US": "Sentinels of Light Operator",
+							"es-ES": "Operator Sentinels of Light",
+							"es-MX": "Operator Centinelas de la Luz",
+							"fr-FR": "Operator (Sentinelles de la lumière)",
+							"id-ID": "Sentinels of Light Operator",
+							"it-IT": "Operator Sentinelle della Luce",
+							"ja-JP": "センチネル・オブ・ライト オペレーター",
+							"ko-KR": "빛의 감시자 오퍼레이터",
+							"pl-PL": "Operator Strażników Światła",
+							"pt-BR": "Operator Sentinelas da Luz",
+							"ru-RU": "Operator \"Стражи света\"",
+							"th-TH": "Sentinels of Light Operator",
+							"tr-TR": "IŞIK MUHAFIZLARI OPERATOR",
+							"vi-VN": "Operator Vệ Binh Ánh Sáng",
+							"zh-CN": "Sentinels of Light Operator",
+							"zh-TW": "光之哨兵 間諜"
+						}
+					}
+				},
+				{
+					"id": "997E0365-4152-FCD5-DC81-E3BDFD012815",
+					"label": "997E0365-4152-FCD5-DC81-E3BDFD012815",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Operator Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور أوبيريتور المستوى 2",
+							"de-DE": "Operator – Wächter des Lichts Level 2",
+							"en-US": "Sentinels of Light Operator Level 2",
+							"es-ES": "Operator Sentinels of Light de nivel 2",
+							"es-MX": "Operator Centinelas de la Luz Nivel 2",
+							"fr-FR": "Operator (Sentinelles de la lumière) niveau 2",
+							"id-ID": "Sentinels of Light Operator Level 2",
+							"it-IT": "Operator Sentinelle della Luce livello 2",
+							"ja-JP": "センチネル・オブ・ライト オペレーター Lv.2",
+							"ko-KR": "빛의 감시자 오퍼레이터 2레벨",
+							"pl-PL": "Operator Strażników Światła (poziom 2)",
+							"pt-BR": "Operator Sentinelas da Luz Nível 2",
+							"ru-RU": "Operator \"Стражи света\" уровень 2",
+							"th-TH": "Sentinels of Light Operator เลเวล 2",
+							"tr-TR": "2. SEVİYE IŞIK MUHAFIZLARI OPERATOR",
+							"vi-VN": "Operator Vệ Binh Ánh Sáng Cấp 2",
+							"zh-CN": "Sentinels of Light Operator Level 2",
+							"zh-TW": "光之哨兵 間諜 等級2"
+						}
+					}
+				},
+				{
+					"id": "3366FC8B-48CB-7804-009C-74B072E2DC48",
+					"label": "3366FC8B-48CB-7804-009C-74B072E2DC48",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Operator Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور أوبيريتور المستوى 3",
+							"de-DE": "Operator – Wächter des Lichts Level 3",
+							"en-US": "Sentinels of Light Operator Level 3",
+							"es-ES": "Operator Sentinels of Light de nivel 3",
+							"es-MX": "Operator Centinelas de la Luz Nivel 3",
+							"fr-FR": "Operator (Sentinelles de la lumière) niveau 3",
+							"id-ID": "Sentinels of Light Operator Level 3",
+							"it-IT": "Operator Sentinelle della Luce livello 3",
+							"ja-JP": "センチネル・オブ・ライト オペレーター Lv.3",
+							"ko-KR": "빛의 감시자 오퍼레이터 3레벨",
+							"pl-PL": "Operator Strażników Światła (poziom 3)",
+							"pt-BR": "Operator Sentinelas da Luz Nível 3",
+							"ru-RU": "Operator \"Стражи света\" уровень 3",
+							"th-TH": "Sentinels of Light Operator เลเวล 3",
+							"tr-TR": "3. SEVİYE IŞIK MUHAFIZLARI OPERATOR",
+							"vi-VN": "Operator Vệ Binh Ánh Sáng Cấp 3",
+							"zh-CN": "Sentinels of Light Operator Level 3",
+							"zh-TW": "光之哨兵 間諜 等級3"
+						}
+					}
+				},
+				{
+					"id": "E7066739-41CC-C929-3313-A0B414B55FD8",
+					"label": "E7066739-41CC-C929-3313-A0B414B55FD8",
+					"name":
+					{
+						"defaultText": "Sentinels of Light Operator Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "حراس النور أوبيريتور المستوى 4",
+							"de-DE": "Operator – Wächter des Lichts Level 4",
+							"en-US": "Sentinels of Light Operator Level 4",
+							"es-ES": "Operator Sentinels of Light de nivel 4",
+							"es-MX": "Operator Centinelas de la Luz Nivel 4",
+							"fr-FR": "Operator (Sentinelles de la lumière) niveau 4",
+							"id-ID": "Sentinels of Light Operator Level 4",
+							"it-IT": "Operator Sentinelle della Luce livello 4",
+							"ja-JP": "センチネル・オブ・ライト オペレーター Lv.4",
+							"ko-KR": "빛의 감시자 오퍼레이터 4레벨",
+							"pl-PL": "Operator Strażników Światła (poziom 4)",
+							"pt-BR": "Operator Sentinelas da Luz Nível 4",
+							"ru-RU": "Operator \"Стражи света\" уровень 4",
+							"th-TH": "Sentinels of Light Operator เลเวล 4",
+							"tr-TR": "4. SEVİYE IŞIK MUHAFIZLARI OPERATOR",
+							"vi-VN": "Operator Vệ Binh Ánh Sáng Cấp 4",
+							"zh-CN": "Sentinels of Light Operator Level 4",
+							"zh-TW": "光之哨兵 間諜 等級4"
+						}
+					}
+				}
+			],
+			"id": "B05C4C98-4108-E442-ADD7-DA99A95A37B6",
+			"label": "B05C4C98-4108-E442-ADD7-DA99A95A37B6",
+			"name":
+			{
+				"defaultText": "Sentinels of Light Operator",
+				"localizedByCulture":
+				{
+					"ar-AE": "حراس النور أوبيريتور",
+					"de-DE": "Operator – Wächter des Lichts",
+					"en-US": "Sentinels of Light Operator",
+					"es-ES": "Operator Sentinels of Light",
+					"es-MX": "Operator Centinelas de la Luz",
+					"fr-FR": "Operator (Sentinelles de la lumière)",
+					"id-ID": "Sentinels of Light Operator",
+					"it-IT": "Operator Sentinelle della Luce",
+					"ja-JP": "センチネル・オブ・ライト オペレーター",
+					"ko-KR": "빛의 감시자 오퍼레이터",
+					"pl-PL": "Operator Strażników Światła",
+					"pt-BR": "Operator Sentinelas da Luz",
+					"ru-RU": "Operator \"Стражи света\"",
+					"th-TH": "Sentinels of Light Operator",
+					"tr-TR": "IŞIK MUHAFIZLARI OPERATOR",
+					"vi-VN": "Operator Vệ Binh Ánh Sáng",
+					"zh-CN": "Sentinels of Light Operator",
+					"zh-TW": "光之哨兵 間諜"
+				}
+			}
+		},
+		{
+			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
 			"defaultChromaId": "27865910-4DD4-845F-8671-92988CC1C996",
 			"chromas": [
 				{
@@ -38355,7 +39423,7 @@
 							"it-IT": "Guardian Rovina livello 4\n(variante 2 Rossa/Gialla)",
 							"ja-JP": "ルイネーション ガーディアン Lv.4\n(ヴァリアント 2 レッド / イエロー)",
 							"ko-KR": "대몰락 가디언 4레벨\n(변형 2 빨간색/노란색)",
-							"pl-PL": "Guardian Zrujnowania (poziom 4)\n(wersja 2 – czerwona/zółta)",
+							"pl-PL": "Guardian Zrujnowania (poziom 4)\n(wersja 2 – czerwona/żółta)",
 							"pt-BR": "Guardian Ruína Nível 4\n(Variante 2 Vermelha/Amarela)",
 							"ru-RU": "Guardian \"Погибель\" уровень 4\n(расцветка 2 \"Красный/Желтый\")",
 							"th-TH": "Ruination Guardian เลเวล 4\n(ตัวเลือกที่ 2 สีแดง/เหลือง)",
@@ -39008,7 +40076,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غارديان",
-							"de-DE": "Guardian – Rätsel",
+							"de-DE": "Guardian – Jigsaw",
 							"en-US": "Jigsaw Guardian",
 							"es-ES": "Guardian Jigsaw",
 							"es-MX": "Guardian Jigsaw",
@@ -39037,7 +40105,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غارديان\n(بديل 1 سكاي)",
-							"de-DE": "Guardian – Rätsel\n(Variante 1, Skye)",
+							"de-DE": "Guardian – Jigsaw\n(Variante 1, Skye)",
 							"en-US": "Jigsaw Guardian\r\n(Variant 1 Skye)",
 							"es-ES": "Guardian Jigsaw\n(variante 1: Skye)",
 							"es-MX": "Guardian Jigsaw\n\n(Variante 1 Skye)",
@@ -39066,7 +40134,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غارديان\n(بديل 2 كيلجوي)",
-							"de-DE": "Guardian – Rätsel\n(Variante 2, Killjoy)",
+							"de-DE": "Guardian – Jigsaw\n(Variante 2, Killjoy)",
 							"en-US": "Jigsaw Guardian\r\n(Variant 2 Killjoy)",
 							"es-ES": "Guardian Jigsaw\n(variante 2: Killjoy)",
 							"es-MX": "Guardian Jigsaw\n\n(Variante 2 Killjoy)",
@@ -39095,7 +40163,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غارديان\n(بديل 3 يورو)",
-							"de-DE": "Guardian – Rätsel\n(Variante 3, Yoru)",
+							"de-DE": "Guardian – Jigsaw\n(Variante 3, Yoru)",
 							"en-US": "Jigsaw Guardian\r\n(Variant 3 Yoru)",
 							"es-ES": "Guardian Jigsaw\n(variante 3: Yoru)",
 							"es-MX": "Guardian Jigsaw\n\n(Variante 3 Yoru)",
@@ -39126,7 +40194,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "جيغسو غارديان",
-							"de-DE": "Guardian – Rätsel",
+							"de-DE": "Guardian – Jigsaw",
 							"en-US": "Jigsaw Guardian",
 							"es-ES": "Guardian Jigsaw",
 							"es-MX": "Guardian Jigsaw",
@@ -39155,7 +40223,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "جيغسو غارديان",
-					"de-DE": "Guardian – Rätsel",
+					"de-DE": "Guardian – Jigsaw",
 					"en-US": "Jigsaw Guardian",
 					"es-ES": "Guardian Jigsaw",
 					"es-MX": "Guardian Jigsaw",
@@ -45333,7 +46401,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج ستينغر",
-							"de-DE": "Stinger – Elektroflux",
+							"de-DE": "Stinger – Surge",
 							"en-US": "Surge Stinger",
 							"es-ES": "Stinger Surge",
 							"es-MX": "Stinger Sobrecarga",
@@ -45362,7 +46430,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج ستينغر المستوى 2\n(بديل 1 أسود)",
-							"de-DE": "Stinger – Elektroflux Level 2\n(Variante 1, Schwarz)",
+							"de-DE": "Stinger – Surge Level 2\n(Variante 1, Schwarz)",
 							"en-US": "Surge Stinger Level 2\r\n(Variant 1 Black)",
 							"es-ES": "Stinger Surge de nivel 2\n(variante 1: negro)",
 							"es-MX": "Stinger Sobrecarga nivel 2\n(Variante 1 Negra)",
@@ -45391,7 +46459,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج ستينغر المستوى 3\n(بديل 2 أصفر)",
-							"de-DE": "Stinger – Elektroflux Level 3\n(Variante 2, Gelb)",
+							"de-DE": "Stinger – Surge Level 3\n(Variante 2, Gelb)",
 							"en-US": "Surge Stinger Level 3\r\n(Variant 2 Yellow)",
 							"es-ES": "Stinger Surge de nivel 3\n(variante 2: amarillo)",
 							"es-MX": "Stinger Sobrecarga nivel 3\n(Variante 2 Amarilla)",
@@ -45420,7 +46488,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج ستينغر المستوى 4\n(بديل 3 أزرق)",
-							"de-DE": "Stinger – Elektroflux Level 4\n(Variante 3, Blau)",
+							"de-DE": "Stinger – Surge Level 4\n(Variante 3, Blau)",
 							"en-US": "Surge Stinger Level 4\r\n(Variant 3 Blue)",
 							"es-ES": "Stinger Surge de nivel 4\n(variante 3: azul)",
 							"es-MX": "Stinger Sobrecarga nivel 4\n(Variante 3 Azul)",
@@ -45451,7 +46519,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سيرج ستينغر",
-							"de-DE": "Stinger – Elektroflux",
+							"de-DE": "Stinger – Surge",
 							"en-US": "Surge Stinger",
 							"es-ES": "Stinger Surge",
 							"es-MX": "Stinger Sobrecarga",
@@ -45480,7 +46548,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "سيرج ستينغر",
-					"de-DE": "Stinger – Elektroflux",
+					"de-DE": "Stinger – Surge",
 					"en-US": "Surge Stinger",
 					"es-ES": "Stinger Surge",
 					"es-MX": "Stinger Sobrecarga",
@@ -46431,7 +47499,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "ديبس ستينغر",
-							"de-DE": "Stinger – Tiefen",
+							"de-DE": "Stinger – Tiefsee",
 							"en-US": "Depths Stinger",
 							"es-ES": "Stinger Depths",
 							"es-MX": "Stinger Oceánica",
@@ -46462,7 +47530,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "ديبس ستينغر",
-							"de-DE": "Stinger – Tiefen",
+							"de-DE": "Stinger – Tiefsee",
 							"en-US": "Depths Stinger",
 							"es-ES": "Stinger Depths",
 							"es-MX": "Stinger Oceánica",
@@ -46491,7 +47559,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ديبس ستينغر",
-					"de-DE": "Stinger – Tiefen",
+					"de-DE": "Stinger – Tiefsee",
 					"en-US": "Depths Stinger",
 					"es-ES": "Stinger Depths",
 					"es-MX": "Stinger Oceánica",
@@ -48461,7 +49529,7 @@
 							"ru-RU": "Топорик \"Призма III\"\n(расцветка 3 \"Фиолетовый\")",
 							"th-TH": "Prism III Axe\n(ตัวเลือกที่ 3 สีม่วง)",
 							"tr-TR": "PRİZMA III BALTA\n(STİL 3 - MOR)",
-							"vi-VN": "Rìu Tán Sắc II\n(Dạng 3 Ánh Tím)",
+							"vi-VN": "Rìu Tán Sắc III\n(Dạng 3 Ánh Tím)",
 							"zh-CN": "棱镜III 战斧\n（异本3紫色）",
 							"zh-TW": "稜鏡III 戰斧\n（幻彩3 紫色）"
 						}
@@ -48569,10 +49637,10 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "نصل الملك المحطَم (بديل 1 أرجواني)",
-							"de-DE": "Klinge des gestürzten Königs (Variante 1, Violett)",
+							"de-DE": "Klinge des gestürzten Königs\n(Variante 1, Violett)",
 							"en-US": "Blade of the Ruined King (Variant 1 Purple)",
 							"es-ES": "Hoja del rey arruinado (variante 1: púrpura)",
-							"es-MX": "Espada del Rey Arruinado (Variante 1 Morada)",
+							"es-MX": "Espada del Rey Arruinado \n(Variante 1 Morada)",
 							"fr-FR": "Lame du Roi déchu (variante 1 Violet)",
 							"id-ID": "Blade of the Ruined King (Varian 1 Ungu)",
 							"it-IT": "Lama del Re in rovina (variante 1 Viola)",
@@ -48580,7 +49648,7 @@
 							"ko-KR": "몰락한 왕의 검 (변형 1 보라색)",
 							"pl-PL": "Ostrze Zniszczonego Króla (wersja 1 – fioletowa)",
 							"pt-BR": "Espada do Rei Destruído (Variante 1 Roxa)",
-							"ru-RU": "Клинок Падшего короля (расцветка 1 \"Фиолетовый\")",
+							"ru-RU": "Клинок Падшего короля\n(расцветка 1 \"Фиолетовый\")",
 							"th-TH": "Blade of the Ruined King (ตัวเลือกที่ 1 สีม่วง)",
 							"tr-TR": "MAHVOLMUŞ KRALIN KILICI (STİL 1 - MOR)",
 							"vi-VN": "Gươm Đại Suy Vong (Dạng 1 Ánh Tím)",
@@ -48598,18 +49666,18 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "نصل الملك المحطَم (بديل 2 أحمر/أصفر)",
-							"de-DE": "Klinge des gestürzten Königs (Variante 2, Rot/Gelb)",
+							"de-DE": "Klinge des gestürzten Königs\n(Variante 2, Rot/Gelb)",
 							"en-US": "Blade of the Ruined King (Variant 2 Red/Yellow)",
 							"es-ES": "Hoja del rey arruinado (variante 2: rojo/amarillo)",
-							"es-MX": "Espada del Rey Arruinado (Variante 2 Roja/Amarilla)",
+							"es-MX": "Espada del Rey Arruinado \n(Variante 2 Roja/Amarilla)",
 							"fr-FR": "Lame du Roi déchu (variante 2 Rouge/Jaune)",
 							"id-ID": "Blade of the Ruined King (Varian 2 Merah/Kuning)",
 							"it-IT": "Lama del Re in rovina (variante 2 Rossa/Gialla)",
 							"ja-JP": "ルインドキング ブレード (ヴァリアント 2 レッド / イエロー)",
 							"ko-KR": "몰락한 왕의 검 (변형 2 빨간색/노란색)",
-							"pl-PL": "Ostrze Zniszczonego Króla (wersja 2 – czerwona/zółta)",
+							"pl-PL": "Ostrze Zniszczonego Króla (wersja 2 – czerwona/żółta)",
 							"pt-BR": "Espada do Rei Destruído (Variante 2 Vermelha/Amarela)",
-							"ru-RU": "Клинок Падшего короля (расцветка 2 \"Красный/Желтый\")",
+							"ru-RU": "Клинок Падшего короля\n(расцветка 2 \"Красный/Желтый\")",
 							"th-TH": "Blade of the Ruined King (ตัวเลือกที่ 2 สีแดง/เหลือง)",
 							"tr-TR": "MAHVOLMUŞ KRALIN KILICI (STİL 2 - KIRMIZI/SARI)",
 							"vi-VN": "Gươm Đại Suy Vong (Dạng 2 Ánh Đỏ/Vàng)",
@@ -48627,10 +49695,10 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "نصل الملك المحطَم (بديل 3 أخضر)",
-							"de-DE": "Klinge des gestürzten Königs (Variante 3, Grün)",
+							"de-DE": "Klinge des gestürzten Königs\n(Variante 3, Grün)",
 							"en-US": "Blade of the Ruined King (Variant 3 Green)",
 							"es-ES": "Hoja del rey arruinado (variante 3: verde)",
-							"es-MX": "Espada del Rey Arruinado (Variante 3 Verde)",
+							"es-MX": "Espada del Rey Arruinado \n(Variante 3 Verde)",
 							"fr-FR": "Lame du Roi déchu (variante 3 Vert)",
 							"id-ID": "Blade of the Ruined King (Varian 3 Hijau)",
 							"it-IT": "Lama del Re in rovina (variante 3 Verde)",
@@ -48638,7 +49706,7 @@
 							"ko-KR": "몰락한 왕의 검 (변형 3 녹색)",
 							"pl-PL": "Ostrze Zniszczonego Króla (wersja 3 – zielona)",
 							"pt-BR": "Espada do Rei Destruído (Variante 3 Verde)",
-							"ru-RU": "Клинок Падшего короля (расцветка 3 \"Зеленый\")",
+							"ru-RU": "Клинок Падшего короля\n(расцветка 3 \"Зеленый\")",
 							"th-TH": "Blade of the Ruined King (ตัวเลือกที่ 3 สีเขียว)",
 							"tr-TR": "MAHVOLMUŞ KRALIN KILICI (STİL 3 - YEŞİL)",
 							"vi-VN": "Gươm Đại Suy Vong (Dạng 3 Ánh Lục)",
@@ -49900,6 +50968,215 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "AB3D2950-426A-9B94-193D-65B53348386A",
+			"chromas": [
+				{
+					"id": "AB3D2950-426A-9B94-193D-65B53348386A",
+					"label": "AB3D2950-426A-9B94-193D-65B53348386A",
+					"name":
+					{
+						"defaultText": "Relic of the Sentinel",
+						"localizedByCulture":
+						{
+							"ar-AE": "خنجر الحارس الأثري",
+							"de-DE": "Relikt des Wächters",
+							"en-US": "Relic of the Sentinel",
+							"es-ES": "Relic of the Sentinel",
+							"es-MX": "Reliquia del Centinela",
+							"fr-FR": "Relique de la Sentinelle",
+							"id-ID": "Relic of the Sentinel",
+							"it-IT": "Reliquia della Sentinella",
+							"ja-JP": "レリック・オブ・センチネル",
+							"ko-KR": "감시자의 유물",
+							"pl-PL": "Relikt Strażników",
+							"pt-BR": "Relíquia Sentinela",
+							"ru-RU": "Реликвия стража",
+							"th-TH": "Relic of the Sentinel",
+							"tr-TR": "IŞIK MUHAFIZI YADİGÂRI",
+							"vi-VN": "Thần Tích Vệ Binh",
+							"zh-CN": "Relic of the Sentinel",
+							"zh-TW": "哨兵聖武"
+						}
+					}
+				},
+				{
+					"id": "54D0F235-4BEF-94AE-6772-C59CB4E8E352",
+					"label": "54D0F235-4BEF-94AE-6772-C59CB4E8E352",
+					"name":
+					{
+						"defaultText": "Relic of the Sentinel (Variant 1 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "خنجر الحارس الأثري (بديل 1 وردي)",
+							"de-DE": "Relikt des Wächters (Variante 1, Pink)",
+							"en-US": "Relic of the Sentinel (Variant 1 Pink)",
+							"es-ES": "Relic of the Sentinel (variante 1: rosa)",
+							"es-MX": "Reliquia del Centinela \n(Variante 1 Rosa)",
+							"fr-FR": "Relique de la Sentinelle (variante 1 Rose)",
+							"id-ID": "Relic of the Sentinel (Varian 1 Pink)",
+							"it-IT": "Reliquia della Sentinella (variante 1 Rosa)",
+							"ja-JP": "レリック・オブ・センチネル (ヴァリアント 1 ピンク)",
+							"ko-KR": "감시자의 유물 (변형 1 분홍색)",
+							"pl-PL": "Relikt Strażników (wersja 1 – różowa)",
+							"pt-BR": "Relíquia Sentinela \n(Variante 1 Rosa)",
+							"ru-RU": "Реликвия стража\n(расцветка 1 \"Розовый\")",
+							"th-TH": "Relic of the Sentinel (ตัวเลือกที่ 1 สีชมพู)",
+							"tr-TR": "IŞIK MUHAFIZI YADİGÂRI (STİL 1 - PEMBE)",
+							"vi-VN": "Thần Tích Vệ Binh (Dạng 1 Ánh Hồng)",
+							"zh-CN": "Relic of the Sentinel (Variant 1 Pink)",
+							"zh-TW": "哨兵聖武（幻彩1 粉紅色）"
+						}
+					}
+				},
+				{
+					"id": "4CBF1D8C-4144-A224-C93C-1680B2A28B8A",
+					"label": "4CBF1D8C-4144-A224-C93C-1680B2A28B8A",
+					"name":
+					{
+						"defaultText": "Relic of the Sentinel (Variant 2 Red/Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "خنجر الحارس الأثري (بديل 2 أحمر/أخضر)",
+							"de-DE": "Relikt des Wächters (Variante 2, Rot/Grün)",
+							"en-US": "Relic of the Sentinel (Variant 2 Red/Green)",
+							"es-ES": "Relic of the Sentinel (variante 2: rojo/verde)",
+							"es-MX": "Reliquia del Centinela \n(Variante 2 Roja/Verde)",
+							"fr-FR": "Relique de la Sentinelle (variante 2 Rouge/Vert)",
+							"id-ID": "Relic of the Sentinel (Varian 2 Merah/Hijau)",
+							"it-IT": "Reliquia della Sentinella (variante 2 Rossa/Verde)",
+							"ja-JP": "レリック・オブ・センチネル (ヴァリアント 2 レッド/グリーン)",
+							"ko-KR": "감시자의 유물 (변형 2 빨간색/녹색)",
+							"pl-PL": "Relikt Strażników (wersja 2 – czerwona/zielona)",
+							"pt-BR": "Relíquia Sentinela\n(Variante 2 Vermelha/Verde)",
+							"ru-RU": "Реликвия стража\n(расцветка 2 \"Красный/Зеленый\")",
+							"th-TH": "Relic of the Sentinel (ตัวเลือกที่ 2 สีแดง/เขียว)",
+							"tr-TR": "IŞIK MUHAFIZI YADİGÂRI (STİL 2 - KIRMIZI/YEŞİL)",
+							"vi-VN": "Thần Tích Vệ Binh (Dạng 2 Ánh Đỏ/Lục)",
+							"zh-CN": "Relic of the Sentinel (Variant 2 Red/Green)",
+							"zh-TW": "哨兵聖武（幻彩2 紅／綠色）"
+						}
+					}
+				},
+				{
+					"id": "1BD34C76-4CF5-F2A7-7B01-69A60F910941",
+					"label": "1BD34C76-4CF5-F2A7-7B01-69A60F910941",
+					"name":
+					{
+						"defaultText": "Relic of the Sentinel (Variant 3 Blue/Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "خنجر الحارس الأثري (بديل 3 أزرق/أرجواني)",
+							"de-DE": "Relikt des Wächters (Variante 3, Blau/Violett)",
+							"en-US": "Relic of the Sentinel (Variant 3 Blue/Purple)",
+							"es-ES": "Relic of the Sentinel (variante 3: azul/púrpura)",
+							"es-MX": "Reliquia del Centinela \n(Variante 3 Azul/Morada)",
+							"fr-FR": "Relique de la Sentinelle (variante 3 Bleu/Violet)",
+							"id-ID": "Relic of the Sentinel (Varian 3 Biru/Ungu)",
+							"it-IT": "Reliquia della Sentinella (variante 3 Blu/Viola)",
+							"ja-JP": "レリック・オブ・センチネル (ヴァリアント 3 ブルー/パープル)",
+							"ko-KR": "감시자의 유물 (변형 3 파란색/보라색)",
+							"pl-PL": "Relikt Strażników (wersja 3 – niebieska/fioletowa)",
+							"pt-BR": "Relíquia Sentinela\n(Variante 3 Azul/Roxa)",
+							"ru-RU": "Реликвия стража\n(расцветка 3 \"Синий/Фиолетовый\")",
+							"th-TH": "Relic of the Sentinel (ตัวเลือกที่ 3 สีน้ำเงิน/ม่วง)",
+							"tr-TR": "IŞIK MUHAFIZI YADİGÂRI (STİL 3 - MAVİ/MOR)",
+							"vi-VN": "Thần Tích Vệ Binh (Dạng 3 Ánh Lam/Tím)",
+							"zh-CN": "Relic of the Sentinel (Variant 3 Blue/Purple)",
+							"zh-TW": "哨兵聖武（幻彩3 藍／紫色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "315E8E49-4DC4-9769-2382-3BA5F7AF87DA",
+					"label": "315E8E49-4DC4-9769-2382-3BA5F7AF87DA",
+					"name":
+					{
+						"defaultText": "Relic of the Sentinel",
+						"localizedByCulture":
+						{
+							"ar-AE": "خنجر الحارس الأثري",
+							"de-DE": "Relikt des Wächters",
+							"en-US": "Relic of the Sentinel",
+							"es-ES": "Relic of the Sentinel",
+							"es-MX": "Reliquia del Centinela",
+							"fr-FR": "Relique de la Sentinelle",
+							"id-ID": "Relic of the Sentinel",
+							"it-IT": "Reliquia della Sentinella",
+							"ja-JP": "レリック・オブ・センチネル",
+							"ko-KR": "감시자의 유물",
+							"pl-PL": "Relikt Strażników",
+							"pt-BR": "Relíquia Sentinela",
+							"ru-RU": "Реликвия стража",
+							"th-TH": "Relic of the Sentinel",
+							"tr-TR": "IŞIK MUHAFIZI YADİGÂRI",
+							"vi-VN": "Thần Tích Vệ Binh",
+							"zh-CN": "Relic of the Sentinel",
+							"zh-TW": "哨兵聖武"
+						}
+					}
+				},
+				{
+					"id": "19A14E33-4597-412E-ED84-489113968A58",
+					"label": "19A14E33-4597-412E-ED84-489113968A58",
+					"name":
+					{
+						"defaultText": "Relic of the Sentinel",
+						"localizedByCulture":
+						{
+							"ar-AE": "خنجر الحارس الأثري",
+							"de-DE": "Relikt des Wächters",
+							"en-US": "Relic of the Sentinel",
+							"es-ES": "Relic of the Sentinel",
+							"es-MX": "Reliquia del Centinela",
+							"fr-FR": "Relique de la Sentinelle",
+							"id-ID": "Relic of the Sentinel",
+							"it-IT": "Reliquia della Sentinella",
+							"ja-JP": "レリック・オブ・センチネル",
+							"ko-KR": "감시자의 유물",
+							"pl-PL": "Relikt Strażników",
+							"pt-BR": "Relíquia Sentinela",
+							"ru-RU": "Реликвия стража",
+							"th-TH": "Relic of the Sentinel",
+							"tr-TR": "IŞIK MUHAFIZI YADİGÂRI",
+							"vi-VN": "Thần Tích Vệ Binh",
+							"zh-CN": "Relic of the Sentinel",
+							"zh-TW": "哨兵聖武"
+						}
+					}
+				}
+			],
+			"id": "6FD8CC46-48B3-F02C-46E3-CBA372E7A328",
+			"label": "6FD8CC46-48B3-F02C-46E3-CBA372E7A328",
+			"name":
+			{
+				"defaultText": "Relic of the Sentinel",
+				"localizedByCulture":
+				{
+					"ar-AE": "خنجر الحارس الأثري",
+					"de-DE": "Relikt des Wächters",
+					"en-US": "Relic of the Sentinel",
+					"es-ES": "Relic of the Sentinel",
+					"es-MX": "Reliquia del Centinela",
+					"fr-FR": "Relique de la Sentinelle",
+					"id-ID": "Relic of the Sentinel",
+					"it-IT": "Reliquia della Sentinella",
+					"ja-JP": "レリック・オブ・センチネル",
+					"ko-KR": "감시자의 유물",
+					"pl-PL": "Relikt Strażników",
+					"pt-BR": "Relíquia Sentinela",
+					"ru-RU": "Реликвия стража",
+					"th-TH": "Relic of the Sentinel",
+					"tr-TR": "IŞIK MUHAFIZI YADİGÂRI",
+					"vi-VN": "Thần Tích Vệ Binh",
+					"zh-CN": "Relic of the Sentinel",
+					"zh-TW": "哨兵聖武"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "71241F8E-4689-A110-0B22-8EAC0AA512AA",
 			"chromas": [
 				{
@@ -50151,27 +51428,27 @@
 					"label": "1215DDFE-4570-FCCC-0D0D-F9BCF080454E",
 					"name":
 					{
-						"defaultText": "Tethered Realms Prosperity",
+						"defaultText": "Prosperity",
 						"localizedByCulture":
 						{
-							"ar-AE": "تيذارد ريلمز بروسبيريتي",
-							"de-DE": "Prosperity – Verwobene Reiche",
-							"en-US": "Tethered Realms Prosperity",
-							"es-ES": "Prosperidad Tethered Realms",
-							"es-MX": "Prosperidad Reinos Atados",
-							"fr-FR": "Prospérité (Mondes liés)",
-							"id-ID": "Tethered Realms Prosperity",
-							"it-IT": "Prosperità Regni connessi",
-							"ja-JP": "テザードレルム プロスペリティ",
-							"ko-KR": "결속된 세계 번영검",
-							"pl-PL": "Rozkwit Związanych Światów",
-							"pt-BR": "Prosperidade Reinos Vinculados",
-							"ru-RU": "Клинок \"Связанные миры: Расцвет\"",
-							"th-TH": "Tethered Realms Prosperity",
-							"tr-TR": "ÇAPRAŞIK ÂLEMLER REFAH",
-							"vi-VN": "Kiếm Đế Quốc Thịnh Vượng",
+							"ar-AE": "بروسبيريتي",
+							"de-DE": "Prosperity",
+							"en-US": "Prosperity",
+							"es-ES": "Prosperity",
+							"es-MX": "Prosperidad",
+							"fr-FR": "Prospérité",
+							"id-ID": "Prosperity",
+							"it-IT": "Prosperità",
+							"ja-JP": "プロスペリティ",
+							"ko-KR": "번영검",
+							"pl-PL": "Rozkwit",
+							"pt-BR": "Prosperidade",
+							"ru-RU": "Процветание",
+							"th-TH": "Prosperity",
+							"tr-TR": "Refah",
+							"vi-VN": "Thịnh Vượng",
 							"zh-CN": "束缚之境繁荣",
-							"zh-TW": "祕繫之域 興盛"
+							"zh-TW": "興盛"
 						}
 					}
 				}
@@ -50182,27 +51459,27 @@
 					"label": "12DCE8F5-42FE-87C6-EF37-8AA4E55F1F64",
 					"name":
 					{
-						"defaultText": "Tethered Realms Prosperity",
+						"defaultText": "Prosperity",
 						"localizedByCulture":
 						{
-							"ar-AE": "تيذارد ريلمز بروسبيريتي",
-							"de-DE": "Prosperity – Verwobene Reiche",
-							"en-US": "Tethered Realms Prosperity",
-							"es-ES": "Prosperidad Tethered Realms",
-							"es-MX": "Prosperidad Reinos Atados",
-							"fr-FR": "Prospérité (Mondes liés)",
-							"id-ID": "Tethered Realms Prosperity",
-							"it-IT": "Prosperità Regni connessi",
-							"ja-JP": "テザードレルム プロスペリティ",
-							"ko-KR": "결속된 세계 번영검",
-							"pl-PL": "Rozkwit Związanych Światów",
-							"pt-BR": "Prosperidade Reinos Vinculados",
-							"ru-RU": "Клинок \"Связанные миры: Расцвет\"",
-							"th-TH": "Tethered Realms Prosperity",
-							"tr-TR": "ÇAPRAŞIK ÂLEMLER REFAH",
-							"vi-VN": "Kiếm Đế Quốc Thịnh Vượng",
+							"ar-AE": "بروسبيريتي",
+							"de-DE": "Prosperity",
+							"en-US": "Prosperity",
+							"es-ES": "Prosperity",
+							"es-MX": "Prosperidad",
+							"fr-FR": "Prospérité",
+							"id-ID": "Prosperity",
+							"it-IT": "Prosperità",
+							"ja-JP": "プロスペリティ",
+							"ko-KR": "번영검",
+							"pl-PL": "Rozkwit",
+							"pt-BR": "Prosperidade",
+							"ru-RU": "Процветание",
+							"th-TH": "Prosperity",
+							"tr-TR": "Refah",
+							"vi-VN": "Thịnh Vượng",
 							"zh-CN": "束缚之境繁荣",
-							"zh-TW": "祕繫之域 興盛"
+							"zh-TW": "興盛"
 						}
 					}
 				},
@@ -50211,27 +51488,27 @@
 					"label": "5593F2D7-43CE-9C78-16AD-AB9D9330A459",
 					"name":
 					{
-						"defaultText": "Tethered Realms Prosperity & Demise",
+						"defaultText": "Prosperity & Demise",
 						"localizedByCulture":
 						{
-							"ar-AE": "تيذارد ريلمز بروسبيريتي & ديمايز",
-							"de-DE": "Prosperity & Demise – Verwobene Reiche",
-							"en-US": "Tethered Realms Prosperity & Demise",
-							"es-ES": "Prosperidad y ruina Tethered Realms",
-							"es-MX": "Prosperidad y Perdición Reinos Atados",
-							"fr-FR": "Prospérité et Chute (Mondes liés)",
-							"id-ID": "Tethered Realms Prosperity & Demise",
-							"it-IT": "Prosperità e Rovina Regni connessi",
-							"ja-JP": "テザードレルム プロスペリティ＆ディマイズ",
-							"ko-KR": "결속된 세계 번영검 & 종말검",
-							"pl-PL": "Rozkwit i Upadek Związanych Światów",
-							"pt-BR": "Prosperidade e Declínio Reinos Vinculados",
-							"ru-RU": "Клинки \"Связанные миры: Расцвет и Закат\"",
-							"th-TH": "Tethered Realms Prosperity & Demise",
-							"tr-TR": "ÇAPRAŞIK ÂLEMLER REFAH VE ÇÖKÜŞ",
-							"vi-VN": "Kiếm Đế Quốc Thịnh Vượng & Suy Vong",
+							"ar-AE": "بروسبيريتي & ديمايز",
+							"de-DE": "Prosperity und Demise",
+							"en-US": "Prosperity & Demise",
+							"es-ES": "Prosperity & Demise",
+							"es-MX": "Prosperidad y Perdición",
+							"fr-FR": "Prospérité et Chute",
+							"id-ID": "Prosperity & Demise",
+							"it-IT": "Prosperità e Rovina",
+							"ja-JP": "プロスペリティ＆ディマイズ",
+							"ko-KR": "번영검 & 종말검",
+							"pl-PL": "Rozkwit i Upadek",
+							"pt-BR": "Prosperidade e Declínio",
+							"ru-RU": "Процветание и крах",
+							"th-TH": "Prosperity & Demise",
+							"tr-TR": "Refah ve Çöküş",
+							"vi-VN": "Thịnh Vượng & Suy Vong",
 							"zh-CN": "束缚之境繁荣与灭亡",
-							"zh-TW": "祕繫之域 興盛與衰亡"
+							"zh-TW": "興盛與衰亡"
 						}
 					}
 				}
@@ -50240,27 +51517,27 @@
 			"label": "F4E40444-43F3-E6F7-3271-BDB7D1492B05",
 			"name":
 			{
-				"defaultText": "Tethered Realms Prosperity",
+				"defaultText": "Prosperity",
 				"localizedByCulture":
 				{
-					"ar-AE": "تيذارد ريلمز بروسبيريتي",
-					"de-DE": "Prosperity – Verwobene Reiche",
-					"en-US": "Tethered Realms Prosperity",
-					"es-ES": "Prosperidad Tethered Realms",
-					"es-MX": "Prosperidad Reinos Atados",
-					"fr-FR": "Prospérité (Mondes liés)",
-					"id-ID": "Tethered Realms Prosperity",
-					"it-IT": "Prosperità Regni connessi",
-					"ja-JP": "テザードレルム プロスペリティ",
-					"ko-KR": "결속된 세계 번영검",
-					"pl-PL": "Rozkwit Związanych Światów",
-					"pt-BR": "Prosperidade Reinos Vinculados",
-					"ru-RU": "Клинок \"Связанные миры: Расцвет\"",
-					"th-TH": "Tethered Realms Prosperity",
-					"tr-TR": "ÇAPRAŞIK ÂLEMLER REFAH",
-					"vi-VN": "Kiếm Đế Quốc Thịnh Vượng",
+					"ar-AE": "بروسبيريتي",
+					"de-DE": "Prosperity",
+					"en-US": "Prosperity",
+					"es-ES": "Prosperity",
+					"es-MX": "Prosperidad",
+					"fr-FR": "Prospérité",
+					"id-ID": "Prosperity",
+					"it-IT": "Prosperità",
+					"ja-JP": "プロスペリティ",
+					"ko-KR": "번영검",
+					"pl-PL": "Rozkwit",
+					"pt-BR": "Prosperidade",
+					"ru-RU": "Процветание",
+					"th-TH": "Prosperity",
+					"tr-TR": "Refah",
+					"vi-VN": "Thịnh Vượng",
 					"zh-CN": "束缚之境繁荣",
-					"zh-TW": "祕繫之域 興盛"
+					"zh-TW": "興盛"
 				}
 			}
 		},
@@ -52081,7 +53358,7 @@
 					"ko-KR": "MMXX 설립자 카드",
 					"pl-PL": "Karta „Założyciel MMXX”",
 					"pt-BR": "Card Fundador MMXX",
-					"ru-RU": "Карточка \"Основатель MMXX\"",
+					"ru-RU": "Карточка \"MMXX: основатель\"",
 					"th-TH": "การ์ด XXII Founder",
 					"tr-TR": "MMXX KURUCULAR KARTI",
 					"vi-VN": "Thẻ Nhà Sáng Lập MMXX",
@@ -54477,7 +55754,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة ديبس",
-					"de-DE": "Banner „Tiefen“",
+					"de-DE": "Banner „Tiefsee“",
 					"en-US": "Depths Card",
 					"es-ES": "Tarjeta Depths",
 					"es-MX": "Tarjeta Oceánica",
@@ -55016,6 +56293,35 @@
 					"vi-VN": "Thẻ Xem Trận Đối Đầu",
 					"zh-CN": "对决观察卡牌",
 					"zh-TW": "賽事觀眾 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "CB7157ED-4FC7-A5C9-714B-1786CA3949F1",
+			"label": "CB7157ED-4FC7-A5C9-714B-1786CA3949F1",
+			"name":
+			{
+				"defaultText": "Versus // Yoru vs. Phoenix Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة المواجهة // يورو ضد فينيكس",
+					"de-DE": "VERSUS // Banner „Yoru + Phoenix“",
+					"en-US": "Versus // Yoru vs. Phoenix Card",
+					"es-ES": "Tarjeta VERSUS // Yoru vs. Phoenix",
+					"es-MX": "Versus // Tarjeta Yoru vs. Phoenix",
+					"fr-FR": "Carte Versus // Yoru vs Phoenix",
+					"id-ID": "Versus // Kartu Yoru vs. Phoenix",
+					"it-IT": "Carta Versus // Yoru e Phoenix",
+					"ja-JP": "VERSUS // ヨル +フェニックス カード",
+					"ko-KR": "VS // 요루 vs. 피닉스 카드",
+					"pl-PL": "VERSUS // Karta „Yoru vs. Phoenix”",
+					"pt-BR": "Card Versus // Yoru vs. Phoenix",
+					"ru-RU": "Карточка \"Противостояние\" (Yoru + Phoenix)",
+					"th-TH": "การ์ด Versus // Yoru vs. Phoenix",
+					"tr-TR": "KARŞI KARŞIYA // YORU VE PHOENIX KARTI",
+					"vi-VN": "Thẻ Đối Đầu // Yoru vs Phoenix",
+					"zh-CN": "Versus // Yoru vs. Phoenix Card",
+					"zh-TW": "宿命對決//夜戮vs菲尼克斯 玩家卡面"
 				}
 			}
 		},
@@ -55915,6 +57221,35 @@
 					"vi-VN": "Thẻ Siêu Phóng Xạ",
 					"zh-CN": "重力铀神经爆弹卡牌",
 					"zh-TW": "重力鈾能神經爆破者 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "1E060F5A-4CE1-9109-3033-ED9AAAFFB4AE",
+			"label": "1E060F5A-4CE1-9109-3033-ED9AAAFFB4AE",
+			"name":
+			{
+				"defaultText": "Sentinels of Light Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة حراس النور",
+					"de-DE": "Banner „Wächter des Lichts“",
+					"en-US": "Sentinels of Light Card",
+					"es-ES": "Tarjeta Sentinels of Light",
+					"es-MX": "Tarjeta Centinelas de la Luz",
+					"fr-FR": "Carte Sentinelles de la lumière",
+					"id-ID": "Kartu Sentinels of Light",
+					"it-IT": "Carta Sentinelle della Luce",
+					"ja-JP": "センチネル・オブ・ライト カード",
+					"ko-KR": "빛의 감시자 카드",
+					"pl-PL": "Karta „Strażnicy Światła”",
+					"pt-BR": "Card Sentinelas da Luz",
+					"ru-RU": "Карточка \"Стражи света\"",
+					"th-TH": "การ์ด Sentinels of Light",
+					"tr-TR": "IŞIK MUHAFIZLARI KARTI",
+					"vi-VN": "Thẻ Vệ Binh Ánh Sáng",
+					"zh-CN": "Sentinels of Light Card",
+					"zh-TW": "光之哨兵 玩家卡面"
 				}
 			}
 		},
@@ -64975,6 +66310,66 @@
 		{
 			"levels": [
 				{
+					"id": "041A43A4-46FE-DAB7-C974-36BF91EAB33D",
+					"label": "041A43A4-46FE-DAB7-C974-36BF91EAB33D",
+					"name":
+					{
+						"defaultText": "PhoenixSneaker",
+						"localizedByCulture":
+						{
+							"ar-AE": "PhoenixSneaker",
+							"de-DE": "PhoenixSneaker",
+							"en-US": "PhoenixSneaker",
+							"es-ES": "PhoenixSneaker",
+							"es-MX": "PhoenixSneaker",
+							"fr-FR": "PhoenixSneaker",
+							"id-ID": "PhoenixSneaker",
+							"it-IT": "PhoenixSneaker",
+							"ja-JP": "PhoenixSneaker",
+							"ko-KR": "PhoenixSneaker",
+							"pl-PL": "PhoenixSneaker",
+							"pt-BR": "PhoenixSneaker",
+							"ru-RU": "PhoenixSneaker",
+							"th-TH": "PhoenixSneaker",
+							"tr-TR": "PhoenixSneaker",
+							"vi-VN": "PhoenixSneaker",
+							"zh-CN": "PhoenixSneaker",
+							"zh-TW": "PhoenixSneaker"
+						}
+					}
+				}
+			],
+			"id": "9E601160-4679-D2DF-261B-56A398248271",
+			"label": "9E601160-4679-D2DF-261B-56A398248271",
+			"name":
+			{
+				"defaultText": "High Top Heat Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق سخونة عالية",
+					"de-DE": "Talisman „Heiße Sohlen“",
+					"en-US": "High Top Heat Buddy",
+					"es-ES": "Amuleto Caliente, caliente",
+					"es-MX": "Buddy Pasos Ardientes",
+					"fr-FR": "Porte-bonheur Basket montante",
+					"id-ID": "Gantungan High Top Heat",
+					"it-IT": "Accessorio Scarpa nuova fiammante",
+					"ja-JP": "ハイトップ・ヒート バディー",
+					"ko-KR": "하이 탑 히트 총기 장식",
+					"pl-PL": "Przywieszka „Robi się gorąco”",
+					"pt-BR": "Chaveiro Quente e Descolado",
+					"ru-RU": "Брелок \"Огнеупорный сникер\"",
+					"th-TH": "บัดดี้ High Top Heat",
+					"tr-TR": "TARZIM ŞEKİL UĞURU",
+					"vi-VN": "Phụ Kiện Nhiệt Độ Siêu Cao",
+					"zh-CN": "High Top Heat Buddy",
+					"zh-TW": "發燒高筒鞋 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "E64B89A7-44ED-286E-08BF-0CB96FD2BFD2",
 					"label": "E64B89A7-44ED-286E-08BF-0CB96FD2BFD2",
 					"name":
@@ -67075,6 +68470,66 @@
 		{
 			"levels": [
 				{
+					"id": "4F22A129-48FA-C701-54E2-DBB01E5D1194",
+					"label": "4F22A129-48FA-C701-54E2-DBB01E5D1194",
+					"name":
+					{
+						"defaultText": "Sol",
+						"localizedByCulture":
+						{
+							"ar-AE": "Sol",
+							"de-DE": "Sol",
+							"en-US": "Sol",
+							"es-ES": "Sol",
+							"es-MX": "Sol",
+							"fr-FR": "Sol",
+							"id-ID": "Sol",
+							"it-IT": "Sol",
+							"ja-JP": "Sol",
+							"ko-KR": "Sol",
+							"pl-PL": "Sol",
+							"pt-BR": "Sol",
+							"ru-RU": "Sol",
+							"th-TH": "Sol",
+							"tr-TR": "Sol",
+							"vi-VN": "Sol",
+							"zh-CN": "Sol",
+							"zh-TW": "Sol"
+						}
+					}
+				}
+			],
+			"id": "72A48D20-40B8-8A99-1C96-C7A549AF4640",
+			"label": "72A48D20-40B8-8A99-1C96-C7A549AF4640",
+			"name":
+			{
+				"defaultText": "Sentinels of Light Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق حراس النور",
+					"de-DE": "Talisman „Wächter des Lichts“",
+					"en-US": "Sentinels of Light Buddy",
+					"es-ES": "Amuleto Sentinels of Light",
+					"es-MX": "Buddy Centinelas de la Luz",
+					"fr-FR": "Porte-bonheur Sentinelles de la lumière",
+					"id-ID": "Gantungan Sentinels of Light ",
+					"it-IT": "Accessorio Sentinelle della Luce",
+					"ja-JP": "センチネル・オブ・ライト バディー",
+					"ko-KR": "빛의 감시자 총기 장식",
+					"pl-PL": "Przywieszka „Strażnicy Światła”",
+					"pt-BR": "Chaveiro Sentinelas da Luz",
+					"ru-RU": "Брелок \"Стражи света\"",
+					"th-TH": "บัดดี้ Sentinels of Light",
+					"tr-TR": "IŞIK MUHAFIZLARI UĞURU",
+					"vi-VN": "Phụ Kiện Vệ Binh Ánh Sáng",
+					"zh-CN": "Sentinels of Light Buddy",
+					"zh-TW": "光之哨兵 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "F344BEAD-BB25-4226-A990-B5D9694D475D",
 					"label": "F344BEAD-BB25-4226-A990-B5D9694D475D",
 					"name":
@@ -68089,6 +69544,66 @@
 					"vi-VN": "Phụ kiện Fan Cứng",
 					"zh-CN": "头号粉丝 枪友",
 					"zh-TW": "頭號粉絲 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "0C1E8E5F-4831-D3F0-F455-EEAE63E4BFD7",
+					"label": "0C1E8E5F-4831-D3F0-F455-EEAE63E4BFD7",
+					"name":
+					{
+						"defaultText": "TwitchPrime2",
+						"localizedByCulture":
+						{
+							"ar-AE": "TwitchPrime2",
+							"de-DE": "TwitchPrime2",
+							"en-US": "TwitchPrime2",
+							"es-ES": "TwitchPrime2",
+							"es-MX": "TwitchPrime2",
+							"fr-FR": "TwitchPrime2",
+							"id-ID": "TwitchPrime2",
+							"it-IT": "TwitchPrime2",
+							"ja-JP": "TwitchPrime2",
+							"ko-KR": "TwitchPrime2",
+							"pl-PL": "TwitchPrime2",
+							"pt-BR": "TwitchPrime2",
+							"ru-RU": "TwitchPrime2",
+							"th-TH": "TwitchPrime2",
+							"tr-TR": "TwitchPrime2",
+							"vi-VN": "TwitchPrime2",
+							"zh-CN": "TwitchPrime2",
+							"zh-TW": "TwitchPrime2"
+						}
+					}
+				}
+			],
+			"id": "8E992D1D-4E3E-627F-7E84-CC98963F304C",
+			"label": "8E992D1D-4E3E-627F-7E84-CC98963F304C",
+			"name":
+			{
+				"defaultText": "Tower of Power Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق برج القوة",
+					"de-DE": "Talisman „Turm der Macht“",
+					"en-US": "Tower of Power Buddy",
+					"es-ES": "Amuleto Torres de poder",
+					"es-MX": "Buddy Torre de Poder",
+					"fr-FR": "Porte-bonheur Tour de force",
+					"id-ID": "Gantungan Tower of Power",
+					"it-IT": "Accessorio Torre del potere",
+					"ja-JP": "タワー・オブ・パワー バディー",
+					"ko-KR": "힘의 탑 총기 장식",
+					"pl-PL": "Przywieszka „Wieża Mocy”",
+					"pt-BR": "Chaveiro Torre do Poder",
+					"ru-RU": "Брелок \"Башня силы\"",
+					"th-TH": "บัดดี้ Tower of Power",
+					"tr-TR": "PERFORMANS KASASI UĞURU",
+					"vi-VN": "Phụ Kiện Tòa Tháp Sức Mạnh",
+					"zh-CN": "Tower of Power Buddy",
+					"zh-TW": "力量之塔 吊飾"
 				}
 			}
 		},
@@ -76377,6 +77892,66 @@
 		{
 			"levels": [
 				{
+					"id": "2B72A735-44D7-E76F-ADA8-D39166BDCFFF",
+					"label": "2B72A735-44D7-E76F-ADA8-D39166BDCFFF",
+					"name":
+					{
+						"defaultText": "PhoenixCollarPop",
+						"localizedByCulture":
+						{
+							"ar-AE": "PhoenixCollarPop",
+							"de-DE": "PhoenixCollarPop",
+							"en-US": "PhoenixCollarPop",
+							"es-ES": "PhoenixCollarPop",
+							"es-MX": "PhoenixCollarPop",
+							"fr-FR": "PhoenixCollarPop",
+							"id-ID": "PhoenixCollarPop",
+							"it-IT": "PhoenixCollarPop",
+							"ja-JP": "PhoenixCollarPop",
+							"ko-KR": "PhoenixCollarPop",
+							"pl-PL": "PhoenixCollarPop",
+							"pt-BR": "PhoenixCollarPop",
+							"ru-RU": "PhoenixCollarPop",
+							"th-TH": "PhoenixCollarPop",
+							"tr-TR": "PhoenixCollarPop",
+							"vi-VN": "PhoenixCollarPop",
+							"zh-CN": "PhoenixCollarPop",
+							"zh-TW": "PhoenixCollarPop"
+						}
+					}
+				}
+			],
+			"id": "476820F7-4C57-41CA-EBB8-54A2828B4371",
+			"label": "476820F7-4C57-41CA-EBB8-54A2828B4371",
+			"name":
+			{
+				"defaultText": "Too Easy Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة أسهل من اللازم",
+					"de-DE": "Graffiti „Zu einfach“",
+					"en-US": "Too Easy Spray",
+					"es-ES": "Grafiti Tirado",
+					"es-MX": "Spray Demasiado Fácil",
+					"fr-FR": "Graffiti Trop facile",
+					"id-ID": "Spray Too Easy",
+					"it-IT": "Spray Troppo facile",
+					"ja-JP": "余裕！ スプレー",
+					"ko-KR": "너무 쉬워 스프레이",
+					"pl-PL": "Graffiti „Łatwizna”",
+					"pt-BR": "Spray Moleza",
+					"ru-RU": "Граффити \"Легче легкого\"",
+					"th-TH": "สเปรย์ Too Easy",
+					"tr-TR": "GENE YAKIYORUM SPREYİ",
+					"vi-VN": "Hình Phun Sơn Quá Dễ",
+					"zh-CN": "Too Easy Spray",
+					"zh-TW": "小菜一碟 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "6BD59EC5-4082-DE5B-9AEE-96830D162D89",
 					"label": "6BD59EC5-4082-DE5B-9AEE-96830D162D89",
 					"name":
@@ -77877,6 +79452,66 @@
 		{
 			"levels": [
 				{
+					"id": "5C7F1F29-4411-BB3D-D955-AB911D7C2149",
+					"label": "5C7F1F29-4411-BB3D-D955-AB911D7C2149",
+					"name":
+					{
+						"defaultText": "Sol",
+						"localizedByCulture":
+						{
+							"ar-AE": "Sol",
+							"de-DE": "Sol",
+							"en-US": "Sol",
+							"es-ES": "Sol",
+							"es-MX": "Sol",
+							"fr-FR": "Sol",
+							"id-ID": "Sol",
+							"it-IT": "Sol",
+							"ja-JP": "Sol",
+							"ko-KR": "Sol",
+							"pl-PL": "Sol",
+							"pt-BR": "Sol",
+							"ru-RU": "Sol",
+							"th-TH": "Sol",
+							"tr-TR": "Sol",
+							"vi-VN": "Sol",
+							"zh-CN": "Sol",
+							"zh-TW": "Sol"
+						}
+					}
+				}
+			],
+			"id": "829A47D5-4580-8428-2437-8DAFFDBC52AC",
+			"label": "829A47D5-4580-8428-2437-8DAFFDBC52AC",
+			"name":
+			{
+				"defaultText": "Sentinels of Light Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة حراس النور",
+					"de-DE": "Graffiti „Wächter des Lichts“",
+					"en-US": "Sentinels of Light Spray",
+					"es-ES": "Grafiti Sentinels of Light",
+					"es-MX": "Spray Centinelas de la Luz",
+					"fr-FR": "Graffiti Sentinelles de la lumière",
+					"id-ID": "Spray Sentinels of Light",
+					"it-IT": "Spray Sentinelle della Luce",
+					"ja-JP": "センチネル・オブ・ライト スプレー",
+					"ko-KR": "빛의 감시자 스프레이",
+					"pl-PL": "Graffiti „Strażnicy Światła”",
+					"pt-BR": "Spray Sentinelas da Luz",
+					"ru-RU": "Граффити \"Стражи света\"",
+					"th-TH": "สเปรย์ Sentinels of Light",
+					"tr-TR": "IŞIK MUHAFIZLARI SPREYİ",
+					"vi-VN": "Hình Phun Sơn Vệ Binh Ánh Sáng",
+					"zh-CN": "Sentinels of Light Spray",
+					"zh-TW": "光之哨兵 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "8CE1DB32-4047-8BCD-1E38-9F9991AA0B6B",
 					"label": "8CE1DB32-4047-8BCD-1E38-9F9991AA0B6B",
 					"name":
@@ -78731,7 +80366,7 @@
 							"es-MX": "Spray Eso No se Aprende",
 							"fr-FR": "Graffiti Ça ne s'apprend pas",
 							"id-ID": "Spray Can't Teach That",
-							"it-IT": "Questa tecnica non s'insegna",
+							"it-IT": "Spray Questa tecnica non s'insegna",
 							"ja-JP": "スーパープレイ スプレー",
 							"ko-KR": "그건 가르쳐줄 수 없어 스프레이",
 							"pl-PL": "Graffiti „Tego nie nauczysz”",
@@ -78760,7 +80395,7 @@
 					"es-MX": "Spray Eso No se Aprende",
 					"fr-FR": "Graffiti Ça ne s'apprend pas",
 					"id-ID": "Spray Can't Teach That",
-					"it-IT": "Questa tecnica non s'insegna",
+					"it-IT": "Spray Questa tecnica non s'insegna",
 					"ja-JP": "スーパープレイ スプレー",
 					"ko-KR": "그건 가르쳐줄 수 없어 스프레이",
 					"pl-PL": "Graffiti „Tego nie nauczysz”",
