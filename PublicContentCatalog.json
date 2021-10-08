@@ -1,5 +1,5 @@
 {
-	"version": "03.06.00.608725",
+	"version": "03.07.00.615012",
 	"characters": [
 		{
 			"description":
@@ -4846,7 +4846,7 @@
 							"it-IT": "EQUIPAGGIA un set di precisissimi pugnali da lancio. SPARA per lanciare un singolo pugnale. Se Jett ottiene un'uccisione con il pugnale, la sua riserva di pugnali si ripristina. Usa il FUOCO ALTERNATIVO per lanciare tutti i pugnali rimasti, che però non si ripristinano con un'uccisione.",
 							"ja-JP": "精度の高い投げナイフを構え、「発射」で 1 本ずつ投げる。ナイフは相手をキルすると補充される。「オルト射撃」で現在残っているすべてのナイフを投げるが、相手をキルしてもナイフは補充されない。",
 							"ko-KR": "명중률이 높은 투척용 단검을 장착합니다. 발사하면 단검 하나를 던지며, 처치 시 단검을 충전합니다. 보조 공격 시 남은 단검을 전부 던집니다. 이 경우 처치 시 단검이 충전되지 않습니다.",
-							"pl-PL": "WYPOSAŻ zestaw niezwykle precyzyjnych sztyletów do rzucania. STRZEL, by rzucić jednym sztyletem i odnowić wszystkie po zabiciu przeciwnika. STRZAŁ ALTERNATYWNY pozwala rzucić wszystkimi pozostałymi sztyletami w cel, lecz nie odnawia sztyletów po zabiciu przeciwnika.",
+							"pl-PL": "WYPOSAŻ zestaw niezwykle precyzyjnych sztyletów do rzucania. STRZEL, by rzucić jednym sztyletem. Po zabiciu przeciwnika odnowisz wszystkie sztylety. STRZAŁ ALTERNATYWNY pozwala rzucić wszystkimi pozostałymi sztyletami w cel, ale nie odnawia sztyletów po zabiciu przeciwnika.",
 							"pt-BR": "EQUIPE um conjunto de facas de arremesso. DISPARE para lançar uma única faca contra o alvo e recarregá-las ao matar um oponente. Use o DISPARO SECUNDÁRIO para jogar todas as facas restantes contra o alvo, sem a opção de recarregá-las ao matar o oponente.",
 							"ru-RU": "Вооружается набором высокоточных метательных кинжалов. Нажмите кнопку ОГОНЬ, чтобы бросить один кинжал и перезарядить кинжалы после убийства. Нажав кнопку АЛЬТ. ОГОНЬ, вы бросите все оставшиеся кинжалы, но они не будут перезаряжаться после убийства.",
 							"th-TH": "ติดตั้งชุดมีดสั้นสุดแม่นยำ กดยิงเพื่อขว้างมีดสั้นหนึ่งเล่มไปยังเป้าหมายและทำการรีชาร์จเมื่อสังหารศัตรูได้ กดโหมดการยิงเสริมเพื่อขว้างมีดสั้นที่เหลือทั้งหมดไปยังเป้าหมายแต่จะไม่รีชาร์จเมื่อสังหารศัตรูได้",
@@ -10699,6 +10699,302 @@
 					"vi-VN": "Ares Thông Thường",
 					"zh-CN": "标准战神",
 					"zh-TW": "標準 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "742740D0-4E50-57E1-AF32-F991C7C640F8",
+			"chromas": [
+				{
+					"id": "742740D0-4E50-57E1-AF32-F991C7C640F8",
+					"label": "742740D0-4E50-57E1-AF32-F991C7C640F8",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فاندال",
+							"de-DE": "Vandal – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Vandal",
+							"es-ES": "Vandal RGX 11z Pro",
+							"es-MX": "Vandal RGX 11z Pro",
+							"fr-FR": "Vandal (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Vandal",
+							"it-IT": "Vandal RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro ヴァンダル",
+							"ko-KR": "RGX 11z 프로 밴달",
+							"pl-PL": "Vandal RGX 11z Pro",
+							"pt-BR": "Vandal RGX 11z Pro",
+							"ru-RU": "Vandal \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Vandal",
+							"tr-TR": "RGX 11z Pro Vandal",
+							"vi-VN": "Vandal RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Vandal",
+							"zh-TW": "RGX 11z Pro 暴徒"
+						}
+					}
+				},
+				{
+					"id": "700F04E0-41DD-7E10-4103-AB9AF60D3447",
+					"label": "700F04E0-41DD-7E10-4103-AB9AF60D3447",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Vandal Level 5\n(Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فاندال المستوى 5\n(بديل 1 أحمر)",
+							"de-DE": "Vandal – RGX 11z Pro Level 5\n(Variante 1, Rot)",
+							"en-US": "RGX 11z Pro Vandal Level 5\n(Variant 1 Red)",
+							"es-ES": "Vandal RGX 11z Pro de nivel 5\n(Variante 1: rojo)",
+							"es-MX": "Vandal RGX 11z Pro nivel 5\n(Variante 1 Roja)",
+							"fr-FR": "Vandal (RGX 11z Pro) niveau 5\n(variante 1 Rouge)",
+							"id-ID": "RGX 11z Pro Vandal Level 5\n(Varian 1 Merah)",
+							"it-IT": "Vandal RGX 11z Pro livello 5\n(variante 1 Rossa)",
+							"ja-JP": "RGX 11z Pro ヴァンダル Lv.5\n(ヴァリアント 1 レッド)",
+							"ko-KR": "RGX 11z 프로 밴달 5레벨\n(변형 1 빨간색)",
+							"pl-PL": "Vandal RGX 11z Pro (poziom 5)\n(wersja 1 – czerwona)",
+							"pt-BR": "Vandal RGX 11z Pro Nível 5\n(Variante 1 Vermelha)",
+							"ru-RU": "Vandal \"RGX 11z Pro\" уровень 5\n(расцветка 1 \"Красный\")",
+							"th-TH": "RGX 11z Pro Vandal เลเวล 5\n(ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "5. Seviye RGX 11z Pro Vandal\n(Stil 1 - Kırmızı)",
+							"vi-VN": "Vandal RGX 11z Pro Cấp 5\n(Dạng 1 Ánh Đỏ)",
+							"zh-CN": "RGX 11z Pro Vandal Level 5\n(Variant 1 Red)",
+							"zh-TW": "RGX 11z Pro 暴徒 等級5\n（幻彩1 紅色）"
+						}
+					}
+				},
+				{
+					"id": "4DF3BA9F-4F72-DEA8-C8D3-05A0DC1B7B58",
+					"label": "4DF3BA9F-4F72-DEA8-C8D3-05A0DC1B7B58",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Vandal Level 5\n(Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فاندال المستوى 5\n(بديل 2 أزرق)",
+							"de-DE": "Vandal – RGX 11z Pro Level 5\n(Variante 2, Blau)",
+							"en-US": "RGX 11z Pro Vandal Level 5\n(Variant 2 Blue)",
+							"es-ES": "Vandal RGX 11z Pro de nivel 5\n(Variante 2: azul)",
+							"es-MX": "Vandal RGX 11z Pro nivel 5\n(Variante 2 Azul)",
+							"fr-FR": "Vandal (RGX 11z Pro) niveau 5\n(variante 2 Bleu)",
+							"id-ID": "RGX 11z Pro Vandal Level 5\n(Varian 2 Biru)",
+							"it-IT": "Vandal RGX 11z Pro livello 5\n(variante 2 Blu)",
+							"ja-JP": "RGX 11z Pro ヴァンダル Lv.5\n(ヴァリアント 2 ブルー)",
+							"ko-KR": "RGX 11z 프로 밴달 5레벨\n(변형 2 파란색)",
+							"pl-PL": "Vandal RGX 11z Pro (poziom 5)\n(wersja 2 – niebieska)",
+							"pt-BR": "Vandal RGX 11z Pro Nível 5\n(Variante 2 Azul)",
+							"ru-RU": "Vandal \"RGX 11z Pro\" уровень 5\n(расцветка 2 \"Синий\")",
+							"th-TH": "RGX 11z Pro Vandal เลเวล 5\n(ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "5. Seviye RGX 11z Pro Vandal\n(Stil 2 - Mavi)",
+							"vi-VN": "Vandal RGX 11z Pro Cấp 5\n(Dạng 2 Ánh Lam)",
+							"zh-CN": "RGX 11z Pro Vandal Level 5\n(Variant 2 Blue)",
+							"zh-TW": "RGX 11z Pro 暴徒 等級5\n（幻彩2 藍色）"
+						}
+					}
+				},
+				{
+					"id": "038C6A4D-4FC5-5886-492C-FF8269661BF9",
+					"label": "038C6A4D-4FC5-5886-492C-FF8269661BF9",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Vandal Level 5\n(Variant 3 Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فاندال المستوى 5\n(بديل 3 أصفر)",
+							"de-DE": "Vandal – RGX 11z Pro Level 5\n(Variante 3, Gelb)",
+							"en-US": "RGX 11z Pro Vandal Level 5\n(Variant 3 Yellow)",
+							"es-ES": "Vandal RGX 11z Pro de nivel 5\n(Variante 3: amarillo)",
+							"es-MX": "Vandal RGX 11z Pro nivel 5\n(Variante 3 Amarilla)",
+							"fr-FR": "Vandal (RGX 11z Pro) niveau 5\n(variante 3 Jaune)",
+							"id-ID": "RGX 11z Pro Vandal Level 5\n(Varian 3 Kuning)",
+							"it-IT": "Vandal RGX 11z Pro livello 5\n(variante 3 Gialla)",
+							"ja-JP": "RGX 11z Pro ヴァンダル Lv.5\n(ヴァリアント 3 イエロー)",
+							"ko-KR": "RGX 11z 프로 밴달 5레벨\n(변형 3 노란색)",
+							"pl-PL": "Vandal RGX 11z Pro (poziom 5)\n(wersja 3 – żółta)",
+							"pt-BR": "Vandal RGX 11z Pro Nível 5\n(Variante 3 Amarela)",
+							"ru-RU": "Vandal \"RGX 11z Pro\" уровень 5\n(расцветка 3 \"Желтый\")",
+							"th-TH": "RGX 11z Pro Vandal เลเวล 5\n(ตัวเลือกที่ 3 สีเหลือง)",
+							"tr-TR": "5. Seviye RGX 11z Pro Vandal\n(Stil 3 - Sarı)",
+							"vi-VN": "Vandal RGX 11z Pro Cấp 5\n(Dạng 3 Ánh Vàng)",
+							"zh-CN": "RGX 11z Pro Vandal Level 5\n(Variant 3 Yellow)",
+							"zh-TW": "RGX 11z Pro 暴徒 等級5\n（幻彩3 黃色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "4E435234-49A2-1444-4640-908692C855B8",
+					"label": "4E435234-49A2-1444-4640-908692C855B8",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فاندال",
+							"de-DE": "Vandal – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Vandal",
+							"es-ES": "Vandal RGX 11z Pro",
+							"es-MX": "Vandal RGX 11z Pro",
+							"fr-FR": "Vandal (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Vandal",
+							"it-IT": "Vandal RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro ヴァンダル",
+							"ko-KR": "RGX 11z 프로 밴달",
+							"pl-PL": "Vandal RGX 11z Pro",
+							"pt-BR": "Vandal RGX 11z Pro",
+							"ru-RU": "Vandal \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Vandal",
+							"tr-TR": "RGX 11z Pro Vandal",
+							"vi-VN": "Vandal RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Vandal",
+							"zh-TW": "RGX 11z Pro 暴徒"
+						}
+					}
+				},
+				{
+					"id": "524EBE7D-4A3B-CF50-ED55-1092D82CEBF9",
+					"label": "524EBE7D-4A3B-CF50-ED55-1092D82CEBF9",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Vandal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فاندال المستوى 2",
+							"de-DE": "Vandal – RGX 11z Pro Level 2",
+							"en-US": "RGX 11z Pro Vandal Level 2",
+							"es-ES": "Vandal RGX 11z Pro de nivel 2",
+							"es-MX": "Vandal RGX 11z Pro nivel 2",
+							"fr-FR": "Vandal (RGX 11z Pro) niveau 2",
+							"id-ID": "RGX 11z Pro Vandal Level 2",
+							"it-IT": "Vandal RGX 11z Pro livello 2",
+							"ja-JP": "RGX 11z Pro ヴァンダル Lv.2",
+							"ko-KR": "RGX 11z 프로 밴달 2레벨",
+							"pl-PL": "Vandal RGX 11z Pro (poziom 2)",
+							"pt-BR": "Vandal RGX 11z Pro Nível 2",
+							"ru-RU": "Vandal \"RGX 11z Pro\" уровень 2",
+							"th-TH": "RGX 11z Pro Vandal เลเวล 2",
+							"tr-TR": "2. Seviye RGX 11z Pro Vandal",
+							"vi-VN": "Vandal RGX 11z Pro Cấp 2",
+							"zh-CN": "RGX 11z Pro Vandal Level 2",
+							"zh-TW": "RGX 11z Pro 暴徒 等級2"
+						}
+					}
+				},
+				{
+					"id": "1561075C-4FE9-882E-39FB-ECA6EEAB924C",
+					"label": "1561075C-4FE9-882E-39FB-ECA6EEAB924C",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Vandal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فاندال المستوى 3",
+							"de-DE": "Vandal – RGX 11z Pro Level 3",
+							"en-US": "RGX 11z Pro Vandal Level 3",
+							"es-ES": "Vandal RGX 11z Pro de nivel 3",
+							"es-MX": "Vandal RGX 11z Pro nivel 3",
+							"fr-FR": "Vandal (RGX 11z Pro) niveau 3",
+							"id-ID": "RGX 11z Pro Vandal Level 3",
+							"it-IT": "Vandal RGX 11z Pro livello 3",
+							"ja-JP": "RGX 11z Pro ヴァンダル Lv.3",
+							"ko-KR": "RGX 11z 프로 밴달 3레벨",
+							"pl-PL": "Vandal RGX 11z Pro (poziom 3)",
+							"pt-BR": "Vandal RGX 11z Pro Nível 3",
+							"ru-RU": "Vandal \"RGX 11z Pro\" уровень 3",
+							"th-TH": "RGX 11z Pro Vandal เลเวล 3",
+							"tr-TR": "3. Seviye RGX 11z Pro Vandal",
+							"vi-VN": "Vandal RGX 11z Pro Cấp 3",
+							"zh-CN": "RGX 11z Pro Vandal Level 3",
+							"zh-TW": "RGX 11z Pro 暴徒 等級3"
+						}
+					}
+				},
+				{
+					"id": "F435E745-462B-C4BD-7DDF-A99EA33A0F16",
+					"label": "F435E745-462B-C4BD-7DDF-A99EA33A0F16",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Vandal Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فاندال المستوى 4",
+							"de-DE": "Vandal – RGX 11z Pro Level 4",
+							"en-US": "RGX 11z Pro Vandal Level 4",
+							"es-ES": "Vandal RGX 11z Pro de nivel 4",
+							"es-MX": "Vandal RGX 11z Pro nivel 4",
+							"fr-FR": "Vandal (RGX 11z Pro) niveau 4",
+							"id-ID": "RGX 11z Pro Vandal Level 4",
+							"it-IT": "Vandal RGX 11z Pro livello 4",
+							"ja-JP": "RGX 11z Pro ヴァンダル Lv.4",
+							"ko-KR": "RGX 11z 프로 밴달 4레벨",
+							"pl-PL": "Vandal RGX 11z Pro (poziom 4)",
+							"pt-BR": "Vandal RGX 11z Pro Nível 4",
+							"ru-RU": "Vandal \"RGX 11z Pro\" уровень 4",
+							"th-TH": "RGX 11z Pro Vandal เลเวล 4",
+							"tr-TR": "4. Seviye RGX 11z Pro Vandal",
+							"vi-VN": "Vandal RGX 11z Pro Cấp 4",
+							"zh-CN": "RGX 11z Pro Vandal Level 4",
+							"zh-TW": "RGX 11z Pro 暴徒 等級4"
+						}
+					}
+				},
+				{
+					"id": "796CF1D2-4893-FEE7-3401-BEB277C726C8",
+					"label": "796CF1D2-4893-FEE7-3401-BEB277C726C8",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Vandal Level 5",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فاندال المستوى 5",
+							"de-DE": "Vandal – RGX 11z Pro Level 5",
+							"en-US": "RGX 11z Pro Vandal Level 5",
+							"es-ES": "Vandal RGX 11z Pro de nivel 5",
+							"es-MX": "Vandal RGX 11z Pro nivel 5",
+							"fr-FR": "Vandal (RGX 11z Pro) niveau 5",
+							"id-ID": "RGX 11z Pro Vandal Level 5",
+							"it-IT": "Vandal RGX 11z Pro livello 5",
+							"ja-JP": "RGX 11z Pro ヴァンダル Lv.5",
+							"ko-KR": "RGX 11z 프로 밴달 5레벨",
+							"pl-PL": "Vandal RGX 11z Pro (poziom 5)",
+							"pt-BR": "Vandal RGX 11z Pro Nível 5",
+							"ru-RU": "Vandal \"RGX 11z Pro\" уровень 5",
+							"th-TH": "RGX 11z Pro Vandal เลเวล 5",
+							"tr-TR": "5. Seviye RGX 11z Pro Vandal",
+							"vi-VN": "Vandal RGX 11z Pro Cấp 5",
+							"zh-CN": "RGX 11z Pro Vandal Level 5",
+							"zh-TW": "RGX 11z Pro 暴徒 等級5"
+						}
+					}
+				}
+			],
+			"id": "E5490F71-455B-74AD-F762-F5A876D4DFF9",
+			"label": "E5490F71-455B-74AD-F762-F5A876D4DFF9",
+			"name":
+			{
+				"defaultText": "RGX 11z Pro Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "آر جي إكس 11زي برو فاندال",
+					"de-DE": "Vandal – RGX 11z Pro",
+					"en-US": "RGX 11z Pro Vandal",
+					"es-ES": "Vandal RGX 11z Pro",
+					"es-MX": "Vandal RGX 11z Pro",
+					"fr-FR": "Vandal (RGX 11z Pro)",
+					"id-ID": "RGX 11z Pro Vandal",
+					"it-IT": "Vandal RGX 11z Pro",
+					"ja-JP": "RGX 11z Pro ヴァンダル",
+					"ko-KR": "RGX 11z 프로 밴달",
+					"pl-PL": "Vandal RGX 11z Pro",
+					"pt-BR": "Vandal RGX 11z Pro",
+					"ru-RU": "Vandal \"RGX 11z Pro\"",
+					"th-TH": "RGX 11z Pro Vandal",
+					"tr-TR": "RGX 11z Pro Vandal",
+					"vi-VN": "Vandal RGX 11z Pro",
+					"zh-CN": "RGX 11z Pro Vandal",
+					"zh-TW": "RGX 11z Pro 暴徒"
 				}
 			}
 		},
@@ -25376,6 +25672,302 @@
 					"vi-VN": "Bucky Khí Sương",
 					"zh-CN": "喷漆喷子",
 					"zh-TW": "街頭藝術 重砲"
+				}
+			}
+		},
+		{
+			"weaponId": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+			"defaultChromaId": "1AAA2CF9-47EB-FAF4-75CA-C383728AB1FC",
+			"chromas": [
+				{
+					"id": "1AAA2CF9-47EB-FAF4-75CA-C383728AB1FC",
+					"label": "1AAA2CF9-47EB-FAF4-75CA-C383728AB1FC",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فرينزي",
+							"de-DE": "FRENZY – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Frenzy",
+							"es-ES": "Frenzy RGX 11z Pro",
+							"es-MX": "Frenzy RGX 11z Pro",
+							"fr-FR": "Frenzy (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Frenzy",
+							"it-IT": "Frenzy RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro フレンジー",
+							"ko-KR": "RGX 11z 프로 프렌지",
+							"pl-PL": "Frenzy RGX 11z Pro",
+							"pt-BR": "Frenzy RGX 11z Pro",
+							"ru-RU": "Frenzy \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Frenzy",
+							"tr-TR": "RGX 11z Pro Frenzy",
+							"vi-VN": "Frenzy RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Frenzy",
+							"zh-TW": "RGX 11z Pro 狂弒"
+						}
+					}
+				},
+				{
+					"id": "175503A8-4276-BC05-AB9F-6ABDACF298A5",
+					"label": "175503A8-4276-BC05-AB9F-6ABDACF298A5",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Frenzy Level 5\n(Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فرينزي المستوى 5\n(بديل 1 أحمر)",
+							"de-DE": "Frenzy – RGX 11z Pro Level 5\n(Variante 1, Rot)",
+							"en-US": "RGX 11z Pro Frenzy Level 5\n(Variant 1 Red)",
+							"es-ES": "Frenzy RGX 11z Pro de nivel 5\n(Variante 1: rojo)",
+							"es-MX": "Frenzy RGX 11z Pro nivel 5\n(Variante 1 Roja)",
+							"fr-FR": "Frenzy (RGX 11z Pro) niveau 5\n(variante 1 Rouge)",
+							"id-ID": "RGX 11z Pro Frenzy Level 5\n(Varian 1 Merah)",
+							"it-IT": "Frenzy RGX 11z Pro livello 5\n(variante 1 Rossa)",
+							"ja-JP": "RGX 11z Pro フレンジー Lv.5\n(ヴァリアント 1 レッド)",
+							"ko-KR": "RGX 11z 프로 프렌지 5레벨\n(변형 1 빨간색)",
+							"pl-PL": "Frenzy RGX 11z Pro (poziom 5)\n(wersja 1 – czerwona)",
+							"pt-BR": "Frenzy RGX 11z Pro Nível 5\n(Variante 1 Vermelha)",
+							"ru-RU": "Frenzy \"RGX 11z Pro\" уровень 5\n(расцветка 1 \"Красный\")",
+							"th-TH": "RGX 11z Pro Frenzy เลเวล 5\n(ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "5. Seviye RGX 11z Pro Frenzy\n(Stil 1 - Kırmızı)",
+							"vi-VN": "Frenzy RGX 11z Pro Cấp 5\n(Dạng 1 Ánh Đỏ)",
+							"zh-CN": "RGX 11z Pro Frenzy Level 5\n(Variant 1 Red)",
+							"zh-TW": "RGX 11z Pro 狂弒 等級5\n（幻彩1 紅色）"
+						}
+					}
+				},
+				{
+					"id": "9E241944-4FD8-0F64-BFF0-609C3D8C428B",
+					"label": "9E241944-4FD8-0F64-BFF0-609C3D8C428B",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Frenzy Level 5\n(Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فرينزي المستوى 5\n(بديل 2 أزرق)",
+							"de-DE": "Frenzy – RGX 11z Pro Level 5\n(Variante 2, Blau)",
+							"en-US": "RGX 11z Pro Frenzy Level 5\n(Variant 2 Blue)",
+							"es-ES": "Frenzy RGX 11z Pro de nivel 5\n(Variante 2: azul)",
+							"es-MX": "Frenzy RGX 11z Pro nivel 5\n(Variante 2 Azul)",
+							"fr-FR": "Frenzy (RGX 11z Pro) niveau 5\n(variante 2 Bleu)",
+							"id-ID": "RGX 11z Pro Frenzy Level 5\n(Varian 2 Biru)",
+							"it-IT": "Frenzy RGX 11z Pro livello 5\n(variante 2 Blu)",
+							"ja-JP": "RGX 11z Pro フレンジー Lv.5\n(ヴァリアント 2 ブルー)",
+							"ko-KR": "RGX 11z 프로 프렌지 5레벨\n(변형 2 파란색)",
+							"pl-PL": "Frenzy RGX 11z Pro (poziom 5)\n(wersja 2 – niebieska)",
+							"pt-BR": "Frenzy RGX 11z Pro Nível 5\n(Variante 2 Azul)",
+							"ru-RU": "Frenzy \"RGX 11z Pro\" уровень 5\n(расцветка 2 \"Синий\")",
+							"th-TH": "RGX 11z Pro Frenzy เลเวล 5\n(ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "5. Seviye RGX 11z Pro Frenzy\n(Stil 2 - Mavi)",
+							"vi-VN": "Frenzy RGX 11z Pro Cấp 5\n(Dạng 2 Ánh Lam)",
+							"zh-CN": "RGX 11z Pro Frenzy Level 5\n(Variant 2 Blue)",
+							"zh-TW": "RGX 11z Pro 狂弒 等級5\n（幻彩2 藍色）"
+						}
+					}
+				},
+				{
+					"id": "AB20E644-49CA-749A-CF5D-D59507361E9A",
+					"label": "AB20E644-49CA-749A-CF5D-D59507361E9A",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Frenzy Level 5\n(Variant 3 Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فرينزي المستوى 5\n(بديل 3 أصفر)",
+							"de-DE": "Frenzy – RGX 11z Pro Level 5\n(Variante 3, Gelb)",
+							"en-US": "RGX 11z Pro Frenzy Level 5\n(Variant 3 Yellow)",
+							"es-ES": "Frenzy RGX 11z Pro de nivel 5\n(Variante 3: amarillo)",
+							"es-MX": "Frenzy RGX 11z Pro nivel 5\n(Variante 3 Amarilla)",
+							"fr-FR": "Frenzy (RGX 11z Pro) niveau 5\n(variante 3 Jaune)",
+							"id-ID": "RGX 11z Pro Frenzy Level 5\n(Varian 3 Kuning)",
+							"it-IT": "Frenzy RGX 11z Pro livello 5\n(variante 3 Gialla)",
+							"ja-JP": "RGX 11z Pro フレンジー Lv.5\n(ヴァリアント 3 イエロー)",
+							"ko-KR": "RGX 11z 프로 프렌지 5레벨\n(변형 3 노란색)",
+							"pl-PL": "Frenzy RGX 11z Pro (poziom 5)\n(wersja 3 – żółta)",
+							"pt-BR": "Frenzy RGX 11z Pro Nível 5\n(Variante 3 Amarela)",
+							"ru-RU": "Frenzy \"RGX 11z Pro\" уровень 5\n(расцветка 3 \"Желтый\")",
+							"th-TH": "RGX 11z Pro Frenzy เลเวล 5\n(ตัวเลือกที่ 3 สีเหลือง)",
+							"tr-TR": "5. Seviye RGX 11z Pro Frenzy\n(Stil 3 - Sarı)",
+							"vi-VN": "Frenzy RGX 11z Pro Cấp 5\n(Dạng 3 Ánh Vàng)",
+							"zh-CN": "RGX 11z Pro Frenzy Level 5\n(Variant 3 Yellow)",
+							"zh-TW": "RGX 11z Pro 狂弒 等級5\n（幻彩3 黃色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "6F2AEFAB-439D-140A-4DC6-87818E2D72CD",
+					"label": "6F2AEFAB-439D-140A-4DC6-87818E2D72CD",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فرينزي",
+							"de-DE": "FRENZY – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Frenzy",
+							"es-ES": "Frenzy RGX 11z Pro",
+							"es-MX": "Frenzy RGX 11z Pro",
+							"fr-FR": "Frenzy (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Frenzy",
+							"it-IT": "Frenzy RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro フレンジー",
+							"ko-KR": "RGX 11z 프로 프렌지",
+							"pl-PL": "Frenzy RGX 11z Pro",
+							"pt-BR": "Frenzy RGX 11z Pro",
+							"ru-RU": "Frenzy \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Frenzy",
+							"tr-TR": "RGX 11z Pro Frenzy",
+							"vi-VN": "Frenzy RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Frenzy",
+							"zh-TW": "RGX 11z Pro 狂弒"
+						}
+					}
+				},
+				{
+					"id": "496447AE-41F4-278B-FF4A-E09F3272B287",
+					"label": "496447AE-41F4-278B-FF4A-E09F3272B287",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Frenzy Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فرينزي المستوى 2",
+							"de-DE": "Frenzy – RGX 11z Pro Level 2",
+							"en-US": "RGX 11z Pro Frenzy Level 2",
+							"es-ES": "Frenzy RGX 11z Pro de nivel 2",
+							"es-MX": "Frenzy RGX 11z Pro nivel 2",
+							"fr-FR": "Frenzy (RGX 11z Pro) niveau 2",
+							"id-ID": "RGX 11z Pro Frenzy Level 2",
+							"it-IT": "Frenzy RGX 11z Pro livello 2",
+							"ja-JP": "RGX 11z Pro フレンジー Lv.2",
+							"ko-KR": "RGX 11z 프로 프렌지 2레벨",
+							"pl-PL": "Frenzy RGX 11z Pro (poziom 2)",
+							"pt-BR": "Frenzy RGX 11z Pro Nível 2",
+							"ru-RU": "Frenzy \"RGX 11z Pro\" уровень 2",
+							"th-TH": "RGX 11z Pro Frenzy เลเวล 2",
+							"tr-TR": "2. Seviye RGX 11z Pro Frenzy",
+							"vi-VN": "Frenzy RGX 11z Pro Cấp 2",
+							"zh-CN": "RGX 11z Pro Frenzy Level 2",
+							"zh-TW": "RGX 11z Pro 狂弒 等級2"
+						}
+					}
+				},
+				{
+					"id": "0342399F-45E4-869D-4426-CD8DFC9E0007",
+					"label": "0342399F-45E4-869D-4426-CD8DFC9E0007",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Frenzy Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فرينزي المستوى 3",
+							"de-DE": "Frenzy – RGX 11z Pro Level 3",
+							"en-US": "RGX 11z Pro Frenzy Level 3",
+							"es-ES": "Frenzy RGX 11z Pro de nivel 3",
+							"es-MX": "Frenzy RGX 11z Pro nivel 3",
+							"fr-FR": "Frenzy (RGX 11z Pro) niveau 3",
+							"id-ID": "RGX 11z Pro Frenzy Level 3",
+							"it-IT": "Frenzy RGX 11z Pro livello 3",
+							"ja-JP": "RGX 11z Pro フレンジー Lv.3",
+							"ko-KR": "RGX 11z 프로 프렌지 3레벨",
+							"pl-PL": "Frenzy RGX 11z Pro (poziom 3)",
+							"pt-BR": "Frenzy RGX 11z Pro Nível 3",
+							"ru-RU": "Frenzy \"RGX 11z Pro\" уровень 3",
+							"th-TH": "RGX 11z Pro Frenzy เลเวล 3",
+							"tr-TR": "3. Seviye RGX 11z Pro Frenzy",
+							"vi-VN": "Frenzy RGX 11z Pro Cấp 3",
+							"zh-CN": "RGX 11z Pro Frenzy Level 3",
+							"zh-TW": "RGX 11z Pro 狂弒 等級3"
+						}
+					}
+				},
+				{
+					"id": "61CEADEE-4869-1676-4207-228AC4E19664",
+					"label": "61CEADEE-4869-1676-4207-228AC4E19664",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Frenzy Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فرينزي المستوى 4",
+							"de-DE": "Frenzy – RGX 11z Pro Level 4",
+							"en-US": "RGX 11z Pro Frenzy Level 4",
+							"es-ES": "Frenzy RGX 11z Pro de nivel 4",
+							"es-MX": "Frenzy RGX 11z Pro nivel 4",
+							"fr-FR": "Frenzy (RGX 11z Pro) niveau 4",
+							"id-ID": "RGX 11z Pro Frenzy Level 4",
+							"it-IT": "Frenzy RGX 11z Pro livello 4",
+							"ja-JP": "RGX 11z Pro フレンジー Lv.4",
+							"ko-KR": "RGX 11z 프로 프렌지 4레벨",
+							"pl-PL": "Frenzy RGX 11z Pro (poziom 4)",
+							"pt-BR": "Frenzy RGX 11z Pro Nível 4",
+							"ru-RU": "Frenzy \"RGX 11z Pro\" уровень 4",
+							"th-TH": "RGX 11z Pro Frenzy เลเวล 4",
+							"tr-TR": "4. Seviye RGX 11z Pro Frenzy",
+							"vi-VN": "Frenzy RGX 11z Pro Cấp 4",
+							"zh-CN": "RGX 11z Pro Frenzy Level 4",
+							"zh-TW": "RGX 11z Pro 狂弒 等級4"
+						}
+					}
+				},
+				{
+					"id": "17CCFD06-4449-DE46-2170-A29448D8F4AA",
+					"label": "17CCFD06-4449-DE46-2170-A29448D8F4AA",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Frenzy Level 5",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو فرينزي المستوى 5",
+							"de-DE": "Frenzy – RGX 11z Pro Level 5",
+							"en-US": "RGX 11z Pro Frenzy Level 5",
+							"es-ES": "Frenzy RGX 11z Pro de nivel 5",
+							"es-MX": "Frenzy RGX 11z Pro nivel 5",
+							"fr-FR": "Frenzy (RGX 11z Pro) niveau 5",
+							"id-ID": "RGX 11z Pro Frenzy Level 5",
+							"it-IT": "Frenzy RGX 11z Pro livello 5",
+							"ja-JP": "RGX 11z Pro フレンジー Lv.5",
+							"ko-KR": "RGX 11z 프로 프렌지 5레벨",
+							"pl-PL": "Frenzy RGX 11z Pro (poziom 5)",
+							"pt-BR": "Frenzy RGX 11z Pro Nível 5",
+							"ru-RU": "Frenzy \"RGX 11z Pro\" уровень 5",
+							"th-TH": "RGX 11z Pro Frenzy เลเวล 5",
+							"tr-TR": "5. Seviye RGX 11z Pro Frenzy",
+							"vi-VN": "Frenzy RGX 11z Pro Cấp 5",
+							"zh-CN": "RGX 11z Pro Frenzy Level 5",
+							"zh-TW": "RGX 11z Pro 狂弒 等級5"
+						}
+					}
+				}
+			],
+			"id": "D5EA8AE9-4055-9B65-1F39-ED97372D887A",
+			"label": "D5EA8AE9-4055-9B65-1F39-ED97372D887A",
+			"name":
+			{
+				"defaultText": "RGX 11z Pro Frenzy",
+				"localizedByCulture":
+				{
+					"ar-AE": "آر جي إكس 11زي برو فرينزي",
+					"de-DE": "FRENZY – RGX 11z Pro",
+					"en-US": "RGX 11z Pro Frenzy",
+					"es-ES": "Frenzy RGX 11z Pro",
+					"es-MX": "Frenzy RGX 11z Pro",
+					"fr-FR": "Frenzy (RGX 11z Pro)",
+					"id-ID": "RGX 11z Pro Frenzy",
+					"it-IT": "Frenzy RGX 11z Pro",
+					"ja-JP": "RGX 11z Pro フレンジー",
+					"ko-KR": "RGX 11z 프로 프렌지",
+					"pl-PL": "Frenzy RGX 11z Pro",
+					"pt-BR": "Frenzy RGX 11z Pro",
+					"ru-RU": "Frenzy \"RGX 11z Pro\"",
+					"th-TH": "RGX 11z Pro Frenzy",
+					"tr-TR": "RGX 11z Pro Frenzy",
+					"vi-VN": "Frenzy RGX 11z Pro",
+					"zh-CN": "RGX 11z Pro Frenzy",
+					"zh-TW": "RGX 11z Pro 狂弒"
 				}
 			}
 		},
@@ -41389,6 +41981,302 @@
 		},
 		{
 			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
+			"defaultChromaId": "04B12BB8-4BA5-6611-EC16-02862BCFB939",
+			"chromas": [
+				{
+					"id": "04B12BB8-4BA5-6611-EC16-02862BCFB939",
+					"label": "04B12BB8-4BA5-6611-EC16-02862BCFB939",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو غارديان",
+							"de-DE": "Guardian – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Guardian",
+							"es-ES": "Guardian RGX 11z Pro",
+							"es-MX": "Guardian RGX 11z Pro",
+							"fr-FR": "Guardian (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Guardian",
+							"it-IT": "Guardian RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro ガーディアン",
+							"ko-KR": "RGX 11z 프로 가디언",
+							"pl-PL": "Guardian RGX 11z Pro",
+							"pt-BR": "Guardian RGX 11z Pro",
+							"ru-RU": "Guardian \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Guardian",
+							"tr-TR": "RGX 11z Pro Guardian",
+							"vi-VN": "Guardian RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Guardian",
+							"zh-TW": "RGX 11z Pro 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "78736E18-4CCC-D804-665F-8799AEB0600F",
+					"label": "78736E18-4CCC-D804-665F-8799AEB0600F",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Guardian Level 5\n(Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو غارديان المستوى 5\n(بديل 1 أحمر)",
+							"de-DE": "Guardian – RGX 11z Pro Level 5\n(Variante 1, Rot)",
+							"en-US": "RGX 11z Pro Guardian Level 5\n(Variant 1 Red)",
+							"es-ES": "Guardian RGX 11z Pro de nivel 5\n(Variante 1: rojo)",
+							"es-MX": "Guardian RGX 11z Pro nivel 5\n(Variante 1 Roja)",
+							"fr-FR": "Guardian (RGX 11z Pro) niveau 5\n(variante 1 Rouge)",
+							"id-ID": "RGX 11z Pro Guardian Level 5\n(Varian 1 Merah)",
+							"it-IT": "Guardian RGX 11z Pro livello 5\n(variante 1 Rossa)",
+							"ja-JP": "RGX 11z Pro ガーディアン Lv.5\n(ヴァリアント 1 レッド)",
+							"ko-KR": "RGX 11z 프로 가디언 5레벨\n(변형 1 빨간색)",
+							"pl-PL": "Guardian RGX 11z Pro (poziom 5)\n(wersja 1 – czerwona)",
+							"pt-BR": "Guardian RGX 11z Pro Nível 5\n(Variante 1 Vermelha)",
+							"ru-RU": "Guardian \"RGX 11z Pro\" уровень 5\n(расцветка 1 \"Красный\")",
+							"th-TH": "RGX 11z Pro Guardian เลเวล 5\n(ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "5. Seviye RGX 11z Pro Guardian\n(Stil 1 - Kırmızı)",
+							"vi-VN": "Guardian RGX 11z Pro Cấp 5\n(Dạng 1 Ánh Đỏ)",
+							"zh-CN": "RGX 11z Pro Guardian Level 5\n(Variant 1 Red)",
+							"zh-TW": "RGX 11z Pro 捍衛者 等級5\n（幻彩1 紅色）"
+						}
+					}
+				},
+				{
+					"id": "C438DBB7-4ADE-8240-90B5-B88B33AA5BE4",
+					"label": "C438DBB7-4ADE-8240-90B5-B88B33AA5BE4",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Guardian Level 5\n(Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو غارديان المستوى 5\n(بديل 2 أزرق)",
+							"de-DE": "Guardian – RGX 11z Pro Level 5\n(Variante 2, Blau)",
+							"en-US": "RGX 11z Pro Guardian Level 5\n(Variant 2 Blue)",
+							"es-ES": "Guardian RGX 11z Pro de nivel 5\n(Variante 2: azul)",
+							"es-MX": "Guardian RGX 11z Pro nivel 5\n(Variante 2 Azul)",
+							"fr-FR": "Guardian (RGX 11z Pro) niveau 5\n(variante 2 Bleu)",
+							"id-ID": "RGX 11z Pro Guardian Level 5\n(Varian 2 Biru)",
+							"it-IT": "Guardian RGX 11z Pro livello 5\n(variante 2 Blu)",
+							"ja-JP": "RGX 11z Pro ガーディアン Lv.5\n(ヴァリアント 2 ブルー)",
+							"ko-KR": "RGX 11z 프로 가디언 5레벨\n(변형 2 파란색)",
+							"pl-PL": "Guardian RGX 11z Pro (poziom 5)\n(wersja 2 – niebieska)",
+							"pt-BR": "Guardian RGX 11z Pro Nível 5\n(Variante 2 Azul)",
+							"ru-RU": "Guardian \"RGX 11z Pro\" уровень 5\n(расцветка 2 \"Синий\")",
+							"th-TH": "RGX 11z Pro Guardian เลเวล 5\n(ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "5. Seviye RGX 11z Pro Guardian\n(Stil 2 - Mavi)",
+							"vi-VN": "Guardian RGX 11z Pro Cấp 5\n(Dạng 2 Ánh Lam)",
+							"zh-CN": "RGX 11z Pro Guardian Level 5\n(Variant 2 Blue)",
+							"zh-TW": "RGX 11z Pro 捍衛者 等級5\n（幻彩2 藍色）"
+						}
+					}
+				},
+				{
+					"id": "39914E93-4B2A-D52B-2259-718535B08379",
+					"label": "39914E93-4B2A-D52B-2259-718535B08379",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Guardian Level 5\n(Variant 3 Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو غارديان المستوى 5\n(بديل 3 أصفر)",
+							"de-DE": "Guardian – RGX 11z Pro Level 5\n(Variante 3, Gelb)",
+							"en-US": "RGX 11z Pro Guardian Level 5\n(Variant 3 Yellow)",
+							"es-ES": "Guardian RGX 11z Pro de nivel 5\n(Variante 1: amarillo)",
+							"es-MX": "Guardian RGX 11z Pro nivel 5\n(Variante 3 Amarilla)",
+							"fr-FR": "Guardian (RGX 11z Pro) niveau 5\n(variante 3 Jaune)",
+							"id-ID": "RGX 11z Pro Guardian Level 5\n(Varian 3 Kuning)",
+							"it-IT": "Guardian RGX 11z Pro livello 5\n(variante 3 Gialla)",
+							"ja-JP": "RGX 11z Pro ガーディアン Lv.5\n(ヴァリアント 3 イエロー)",
+							"ko-KR": "RGX 11z 프로 가디언 5레벨\n(변형 3 노란색)",
+							"pl-PL": "Guardian RGX 11z Pro (poziom 5)\n(wersja 3 – żółta)",
+							"pt-BR": "Guardian RGX 11z Pro Nível 5\n(Variante 3 Amarela)",
+							"ru-RU": "Guardian \"RGX 11z Pro\" уровень 5\n(расцветка 3 \"Желтый\")",
+							"th-TH": "RGX 11z Pro Guardian เลเวล 5\n(ตัวเลือกที่ 3 สีเหลือง)",
+							"tr-TR": "5. Seviye RGX 11z Pro Guardian\n(Stil 3 - Sarı)",
+							"vi-VN": "Guardian RGX 11z Pro Cấp 5\n(Dạng 3 Ánh Vàng)",
+							"zh-CN": "RGX 11z Pro Guardian Level 5\n(Variant 3 Yellow)",
+							"zh-TW": "RGX 11z Pro 捍衛者 等級5\n（幻彩3 黃色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "43361D49-4331-EE30-E356-0F925E6E17B9",
+					"label": "43361D49-4331-EE30-E356-0F925E6E17B9",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو غارديان",
+							"de-DE": "Guardian – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Guardian",
+							"es-ES": "Guardian RGX 11z Pro",
+							"es-MX": "Guardian RGX 11z Pro",
+							"fr-FR": "Guardian (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Guardian",
+							"it-IT": "Guardian RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro ガーディアン",
+							"ko-KR": "RGX 11z 프로 가디언",
+							"pl-PL": "Guardian RGX 11z Pro",
+							"pt-BR": "Guardian RGX 11z Pro",
+							"ru-RU": "Guardian \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Guardian",
+							"tr-TR": "RGX 11z Pro Guardian",
+							"vi-VN": "Guardian RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Guardian",
+							"zh-TW": "RGX 11z Pro 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "AE053014-4E34-41A4-2D4D-AC87E0498E42",
+					"label": "AE053014-4E34-41A4-2D4D-AC87E0498E42",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Guardian Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو غارديان المستوى 2",
+							"de-DE": "GUARDIAN – RGX 11z PRO LEVEL 2",
+							"en-US": "RGX 11z Pro Guardian Level 2",
+							"es-ES": "Guardian RGX 11z Pro de nivel 2",
+							"es-MX": "Guardian RGX 11z Pro nivel 2",
+							"fr-FR": "Guardian (RGX 11z Pro) niveau 2",
+							"id-ID": "RGX 11z Pro Guardian Level 2",
+							"it-IT": "Guardian RGX 11z Pro livello 2",
+							"ja-JP": "RGX 11z Pro ガーディアン Lv.2",
+							"ko-KR": "RGX 11z 프로 가디언 2레벨",
+							"pl-PL": "Guardian RGX 11z Pro (poziom 2)",
+							"pt-BR": "Guardian RGX 11z Pro Nível 2",
+							"ru-RU": "Guardian \"RGX 11z Pro\" уровень 2",
+							"th-TH": "RGX 11z Pro Guardian เลเวล 2",
+							"tr-TR": "2. Seviye RGX 11z Pro Guardian",
+							"vi-VN": "Guardian RGX 11z Pro Cấp 2",
+							"zh-CN": "RGX 11z Pro Guardian Level 2",
+							"zh-TW": "RGX 11z Pro 捍衛者 等級2"
+						}
+					}
+				},
+				{
+					"id": "7205C0E1-481C-A95D-61EE-F5A1F2DE86A4",
+					"label": "7205C0E1-481C-A95D-61EE-F5A1F2DE86A4",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Guardian Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو غارديان المستوى 3",
+							"de-DE": "Guardian – RGX 11z Pro Level 3",
+							"en-US": "RGX 11z Pro Guardian Level 3",
+							"es-ES": "Guardian RGX 11z Pro de nivel 3",
+							"es-MX": "Guardian RGX 11z Pro nivel 3",
+							"fr-FR": "Guardian (RGX 11z Pro) niveau 3",
+							"id-ID": "RGX 11z Pro Guardian Level 3",
+							"it-IT": "Guardian RGX 11z Pro livello 3",
+							"ja-JP": "RGX 11z Pro ガーディアン Lv.3",
+							"ko-KR": "RGX 11z 프로 가디언 3레벨",
+							"pl-PL": "Guardian RGX 11z Pro (poziom 3)",
+							"pt-BR": "Guardian RGX 11z Pro Nível 3",
+							"ru-RU": "Guardian \"RGX 11z Pro\" уровень 3",
+							"th-TH": "RGX 11z Pro Guardian เลเวล 3",
+							"tr-TR": "3. Seviye RGX 11z Pro Guardian",
+							"vi-VN": "Guardian RGX 11z Pro Cấp 3",
+							"zh-CN": "RGX 11z Pro Guardian Level 3",
+							"zh-TW": "RGX 11z Pro 捍衛者 等級3"
+						}
+					}
+				},
+				{
+					"id": "39F873A7-4FFF-D29E-45AB-E8AC8823CDD1",
+					"label": "39F873A7-4FFF-D29E-45AB-E8AC8823CDD1",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Guardian Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو غارديان المستوى 4",
+							"de-DE": "Guardian – RGX 11z Pro Level 4",
+							"en-US": "RGX 11z Pro Guardian Level 4",
+							"es-ES": "Guardian RGX 11z Pro de nivel 4",
+							"es-MX": "Guardian RGX 11z Pro nivel 4",
+							"fr-FR": "Guardian (RGX 11z Pro) niveau 4",
+							"id-ID": "RGX 11z Pro Guardian Level 4",
+							"it-IT": "Guardian RGX 11z Pro livello 4",
+							"ja-JP": "RGX 11z Pro ガーディアン Lv.4",
+							"ko-KR": "RGX 11z 프로 가디언 4레벨",
+							"pl-PL": "Guardian RGX 11z Pro (poziom 4)",
+							"pt-BR": "Guardian RGX 11z Pro Nível 4",
+							"ru-RU": "Guardian \"RGX 11z Pro\" уровень 4",
+							"th-TH": "RGX 11z Pro Guardian เลเวล 4",
+							"tr-TR": "4. Seviye RGX 11z Pro Guardian",
+							"vi-VN": "Guardian RGX 11z Pro Cấp 4",
+							"zh-CN": "RGX 11z Pro Guardian Level 4",
+							"zh-TW": "RGX 11z Pro 捍衛者 等級4"
+						}
+					}
+				},
+				{
+					"id": "3595B261-40E6-A344-5689-A7A28128895B",
+					"label": "3595B261-40E6-A344-5689-A7A28128895B",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Guardian Level 5",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو غارديان المستوى 5",
+							"de-DE": "Guardian – RGX 11z Pro Level 5",
+							"en-US": "RGX 11z Pro Guardian Level 5",
+							"es-ES": "Guardian RGX 11z Pro de nivel 5",
+							"es-MX": "Guardian RGX 11z Pro nivel 5",
+							"fr-FR": "Guardian (RGX 11z Pro) niveau 5",
+							"id-ID": "RGX 11z Pro Guardian Level 5",
+							"it-IT": "Guardian RGX 11z Pro livello 5",
+							"ja-JP": "RGX 11z Pro ガーディアン Lv.5",
+							"ko-KR": "RGX 11z 프로 가디언 5레벨",
+							"pl-PL": "Guardian RGX 11z Pro (poziom 5)",
+							"pt-BR": "Guardian RGX 11z Pro Nível 5",
+							"ru-RU": "Guardian \"RGX 11z Pro\" уровень 5",
+							"th-TH": "RGX 11z Pro Guardian เลเวล 5",
+							"tr-TR": "5. Seviye RGX 11z Pro Guardian",
+							"vi-VN": "Guardian RGX 11z Pro Cấp 5",
+							"zh-CN": "RGX 11z Pro Guardian Level 5",
+							"zh-TW": "RGX 11z Pro 捍衛者 等級5"
+						}
+					}
+				}
+			],
+			"id": "DA29CE1E-43BB-C043-9CBC-34850517DC23",
+			"label": "DA29CE1E-43BB-C043-9CBC-34850517DC23",
+			"name":
+			{
+				"defaultText": "RGX 11z Pro Guardian",
+				"localizedByCulture":
+				{
+					"ar-AE": "آر جي إكس 11زي برو غارديان",
+					"de-DE": "Guardian – RGX 11z Pro",
+					"en-US": "RGX 11z Pro Guardian",
+					"es-ES": "Guardian RGX 11z Pro",
+					"es-MX": "Guardian RGX 11z Pro",
+					"fr-FR": "Guardian (RGX 11z Pro)",
+					"id-ID": "RGX 11z Pro Guardian",
+					"it-IT": "Guardian RGX 11z Pro",
+					"ja-JP": "RGX 11z Pro ガーディアン",
+					"ko-KR": "RGX 11z 프로 가디언",
+					"pl-PL": "Guardian RGX 11z Pro",
+					"pt-BR": "Guardian RGX 11z Pro",
+					"ru-RU": "Guardian \"RGX 11z Pro\"",
+					"th-TH": "RGX 11z Pro Guardian",
+					"tr-TR": "RGX 11z Pro Guardian",
+					"vi-VN": "Guardian RGX 11z Pro",
+					"zh-CN": "RGX 11z Pro Guardian",
+					"zh-TW": "RGX 11z Pro 捍衛者"
+				}
+			}
+		},
+		{
+			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
 			"defaultChromaId": "3628CC8A-4153-9561-74A3-EA8F1AC7E0E4",
 			"chromas": [
 				{
@@ -50054,6 +50942,302 @@
 		},
 		{
 			"weaponId": "F7E1B454-4AD4-1063-EC0A-159E56B58941",
+			"defaultChromaId": "1539CC4B-444D-B775-F17E-5A9A13F5BA81",
+			"chromas": [
+				{
+					"id": "1539CC4B-444D-B775-F17E-5A9A13F5BA81",
+					"label": "1539CC4B-444D-B775-F17E-5A9A13F5BA81",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Stinger",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو ستينغر",
+							"de-DE": "Stinger – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Stinger",
+							"es-ES": "Stinger RGX 11z Pro",
+							"es-MX": "Stinger RGX 11z Pro",
+							"fr-FR": "Stinger (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Stinger",
+							"it-IT": "Stinger RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro スティンガー",
+							"ko-KR": "RGX 11z 프로 스팅어",
+							"pl-PL": "Stinger RGX 11z Pro",
+							"pt-BR": "Stinger RGX 11z Pro",
+							"ru-RU": "Stinger \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Stinger",
+							"tr-TR": "RGX 11z Pro Stinger",
+							"vi-VN": "Stinger RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Stinger",
+							"zh-TW": "RGX 11z Pro 刺針"
+						}
+					}
+				},
+				{
+					"id": "E5A694A1-465E-C634-39B8-BCBF16ECAB4D",
+					"label": "E5A694A1-465E-C634-39B8-BCBF16ECAB4D",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Stinger Level 5\n(Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو ستينغر المستوى 5\n(بديل 1 أحمر)",
+							"de-DE": "Stinger – RGX 11z Pro Level 5\n(Variante 1, Rot)",
+							"en-US": "RGX 11z Pro Stinger Level 5\n(Variant 1 Red)",
+							"es-ES": "Stinger RGX 11z Pro de nivel 5\n(Variante 1: rojo)",
+							"es-MX": "Stinger RGX 11z Pro nivel 5\n(Variante 1 Roja)",
+							"fr-FR": "Stinger (RGX 11z Pro) niveau 5\n(variante 1 Rouge)",
+							"id-ID": "RGX 11z Pro Stinger Level 5\n(Varian 1 Merah)",
+							"it-IT": "Stinger RGX 11z Pro livello 5\n(variante 1 Rossa)",
+							"ja-JP": "RGX 11z Pro スティンガー Lv.5\n(ヴァリアント 1 レッド)",
+							"ko-KR": "RGX 11z 프로 스팅어 5레벨\n(변형 1 빨간색)",
+							"pl-PL": "Stinger RGX 11z Pro (poziom 5)\n(wersja 1 – czerwona)",
+							"pt-BR": "Stinger RGX 11z Pro Nível 5\n(Variante 1 Vermelha)",
+							"ru-RU": "Stinger \"RGX 11z Pro\" уровень 5\n(расцветка 1 \"Красный\")",
+							"th-TH": "RGX 11z Pro Stinger เลเวล 5\n(ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "5. Seviye RGX 11z Pro Stinger\n(Stil 1 - Kırmızı)",
+							"vi-VN": "Stinger RGX 11z Pro Cấp 5\n(Dạng 1 Ánh Đỏ)",
+							"zh-CN": "RGX 11z Pro Stinger Level 5\n(Variant 1 Red)",
+							"zh-TW": "RGX 11z Pro 刺針 等級5\n（幻彩1 紅色）"
+						}
+					}
+				},
+				{
+					"id": "FA548AE1-4F50-0730-0C4F-B18C473C8542",
+					"label": "FA548AE1-4F50-0730-0C4F-B18C473C8542",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Stinger Level 5\n(Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو ستينغر المستوى 5\n(بديل 2 أزرق)",
+							"de-DE": "Stinger – RGX 11z Pro Level 5\n(Variante 2, Blau)",
+							"en-US": "RGX 11z Pro Stinger Level 5\n(Variant 2 Blue)",
+							"es-ES": "Stinger RGX 11z Pro de nivel 5\n(Variante 2: azul)",
+							"es-MX": "Stinger RGX 11z Pro nivel 5\n(Variante 2 Azul)",
+							"fr-FR": "Stinger (RGX 11z Pro) niveau 5\n(variante 2 Bleu)",
+							"id-ID": "RGX 11z Pro Stinger Level 5\n(Varian 2 Biru)",
+							"it-IT": "Stinger RGX 11z Pro livello 5\n(variante 2 Blu)",
+							"ja-JP": "RGX 11z Pro スティンガー Lv.5\n(ヴァリアント 2 ブルー)",
+							"ko-KR": "RGX 11z 프로 스팅어 5레벨\n(변형 2 파란색)",
+							"pl-PL": "Stinger RGX 11z Pro (POZIOM 5)\n(wersja 2 – niebieska)",
+							"pt-BR": "Stinger RGX 11z Pro Nível 5\n(Variante 2 Azul)",
+							"ru-RU": "Клинок \"RGX 11z Pro\" уровень 5\n(расцветка 2 \"Синий\")",
+							"th-TH": "RGX 11z Pro Stinger เลเวล 5\n(ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "5. Seviye RGX 11z Pro Stinger\n(Stil 2 - Mavi)",
+							"vi-VN": "Stinger RGX 11z Pro Cấp 5\n(Dạng 2 Ánh Lam)",
+							"zh-CN": "RGX 11z Pro Stinger Level 5\n(Variant 2 Blue)",
+							"zh-TW": "RGX 11z Pro 刺針 等級5\n（幻彩2 藍色）"
+						}
+					}
+				},
+				{
+					"id": "3DEBB072-49AE-8ADA-FDD9-E081208B42FA",
+					"label": "3DEBB072-49AE-8ADA-FDD9-E081208B42FA",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Stinger Level 5\n(Variant 3 Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو ستينغر المستوى 5\n(بديل 3 أصفر)",
+							"de-DE": "Stinger – RGX 11z Pro Level 5\n(Variante 3, Gelb)",
+							"en-US": "RGX 11z Pro Stinger Level 5\n(Variant 3 Yellow)",
+							"es-ES": "Stinger RGX 11z Pro de nivel 5\n(Variante 3: amarillo)",
+							"es-MX": "Stinger RGX 11z Pro nivel 5\n(Variante 3 Amarilla)",
+							"fr-FR": "Stinger (RGX 11z Pro) niveau 5\n(variante 3 Jaune)",
+							"id-ID": "RGX 11z Pro Stinger Level 5\n(Varian 3 Kuning)",
+							"it-IT": "Stinger RGX 11z Pro livello 5\n(variante 3 Gialla)",
+							"ja-JP": "RGX 11z Pro スティンガー Lv.5\n(ヴァリアント 3 イエロー)",
+							"ko-KR": "RGX 11z 프로 스팅어 5레벨\n(변형 3 노란색)",
+							"pl-PL": "Stinger RGX 11z Pro (poziom 5)\n(wersja 3 – żółta)",
+							"pt-BR": "Stinger RGX 11z Pro Nível 5\n(Variante 3 Amarela)",
+							"ru-RU": "Клинок \"RGX 11z Pro\" уровень 5\n(расцветка 3 \"Желтый\")",
+							"th-TH": "RGX 11z Pro Stinger เลเวล 5\n(ตัวเลือกที่ 3 สีเหลือง)",
+							"tr-TR": "5. Seviye RGX 11z Pro Stinger\n(Stil 3 - Sarı)",
+							"vi-VN": "Stinger RGX 11z Pro Cấp 5\n(Dạng 3 Ánh Vàng)",
+							"zh-CN": "RGX 11z Pro Stinger Level 5\n(Variant 3 Yellow)",
+							"zh-TW": "RGX 11z Pro 刺針 等級5\n（幻彩3 黃色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "4DBEEBB2-4B39-8AEC-B639-00BC4948D0F3",
+					"label": "4DBEEBB2-4B39-8AEC-B639-00BC4948D0F3",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Stinger",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو ستينغر",
+							"de-DE": "Stinger – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Stinger",
+							"es-ES": "Stinger RGX 11z Pro",
+							"es-MX": "Stinger RGX 11z Pro",
+							"fr-FR": "Stinger (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Stinger",
+							"it-IT": "Stinger RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro スティンガー",
+							"ko-KR": "RGX 11z 프로 스팅어",
+							"pl-PL": "Stinger RGX 11z Pro",
+							"pt-BR": "Stinger RGX 11z Pro",
+							"ru-RU": "Stinger \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Stinger",
+							"tr-TR": "RGX 11z Pro Stinger",
+							"vi-VN": "Stinger RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Stinger",
+							"zh-TW": "RGX 11z Pro 刺針"
+						}
+					}
+				},
+				{
+					"id": "D9B56B1B-42B7-10BF-CAF6-D594861916A9",
+					"label": "D9B56B1B-42B7-10BF-CAF6-D594861916A9",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Stinger Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو ستينغر المستوى 2",
+							"de-DE": "Stinger – RGX 11z Pro Level 2",
+							"en-US": "RGX 11z Pro Stinger Level 2",
+							"es-ES": "Stinger RGX 11z Pro de nivel 2",
+							"es-MX": "Stinger RGX 11z Pro nivel 2",
+							"fr-FR": "Stinger (RGX 11z Pro) niveau 2",
+							"id-ID": "RGX 11z Pro Stinger Level 2",
+							"it-IT": "Stinger RGX 11z Pro livello 2",
+							"ja-JP": "RGX 11z Pro スティンガー Lv.2",
+							"ko-KR": "RGX 11z 프로 스팅어 2레벨",
+							"pl-PL": "Stinger RGX 11z Pro (poziom 2)",
+							"pt-BR": "Stinger RGX 11z Pro Nível 2",
+							"ru-RU": "Stinger \"RGX 11z Pro\" уровень 2",
+							"th-TH": "RGX 11z Pro Stinger เลเวล 2",
+							"tr-TR": "2. Seviye RGX 11z Pro Stinger",
+							"vi-VN": "Stinger RGX 11z Pro Cấp 2",
+							"zh-CN": "RGX 11z Pro Stinger Level 2",
+							"zh-TW": "RGX 11z Pro 刺針 等級2"
+						}
+					}
+				},
+				{
+					"id": "0D146D58-43BE-7CFC-D1F6-CB8441BF5C83",
+					"label": "0D146D58-43BE-7CFC-D1F6-CB8441BF5C83",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Stinger Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو ستينغر المستوى 3",
+							"de-DE": "Stinger – RGX 11z Pro Level 3",
+							"en-US": "RGX 11z Pro Stinger Level 3",
+							"es-ES": "Stinger RGX 11z Pro de nivel 3",
+							"es-MX": "Stinger RGX 11z Pro nivel 3",
+							"fr-FR": "Stinger (RGX 11z Pro) niveau 3",
+							"id-ID": "RGX 11z Pro Stinger Level 3",
+							"it-IT": "Stinger RGX 11z Pro livello 3",
+							"ja-JP": "RGX 11z Pro スティンガー Lv.3",
+							"ko-KR": "RGX 11z 프로 스팅어 3레벨",
+							"pl-PL": "Stinger RGX 11z Pro (poziom 3)",
+							"pt-BR": "Stinger RGX 11z Pro Nível 3",
+							"ru-RU": "Stinger \"RGX 11z Pro\" уровень 3",
+							"th-TH": "RGX 11z Pro Stinger เลเวล 3",
+							"tr-TR": "3. Seviye RGX 11z Pro Stinger",
+							"vi-VN": "Stinger RGX 11z Pro Cấp 3",
+							"zh-CN": "RGX 11z Pro Stinger Level 3",
+							"zh-TW": "RGX 11z Pro 刺針 等級3"
+						}
+					}
+				},
+				{
+					"id": "6A538B3D-4A6C-933D-6B01-D0A20B8AB5BB",
+					"label": "6A538B3D-4A6C-933D-6B01-D0A20B8AB5BB",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Stinger Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو ستينغر المستوى 4",
+							"de-DE": "Stinger – RGX 11z Pro Level 4",
+							"en-US": "RGX 11z Pro Stinger Level 4",
+							"es-ES": "Stinger RGX 11z Pro de nivel 4",
+							"es-MX": "Stinger RGX 11z Pro nivel 4",
+							"fr-FR": "Stinger (RGX 11z Pro) niveau 4",
+							"id-ID": "RGX 11z Pro Stinger Level 4",
+							"it-IT": "Stinger RGX 11z Pro livello 4",
+							"ja-JP": "RGX 11z Pro スティンガー Lv.4",
+							"ko-KR": "RGX 11z 프로 스팅어 4레벨",
+							"pl-PL": "Stinger RGX 11z Pro (poziom 4)",
+							"pt-BR": "Stinger RGX 11z Pro Nível 4",
+							"ru-RU": "Stinger \"RGX 11z Pro\" уровень 4",
+							"th-TH": "RGX 11z Pro Stinger เลเวล 4",
+							"tr-TR": "4. Seviye RGX 11z Pro Stinger",
+							"vi-VN": "Stinger RGX 11z Pro Cấp 4",
+							"zh-CN": "RGX 11z Pro Stinger Level 4",
+							"zh-TW": "RGX 11z Pro 刺針 等級4"
+						}
+					}
+				},
+				{
+					"id": "7DD59C7B-4CA4-1638-4A10-CB998D6B84C8",
+					"label": "7DD59C7B-4CA4-1638-4A10-CB998D6B84C8",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Stinger Level 5",
+						"localizedByCulture":
+						{
+							"ar-AE": "آر جي إكس 11زي برو ستينغر المستوى 5",
+							"de-DE": "Stinger – RGX 11z Pro Level 5",
+							"en-US": "RGX 11z Pro Stinger Level 5",
+							"es-ES": "Stinger RGX 11z Pro de nivel 5",
+							"es-MX": "Stinger RGX 11z Pro nivel 5",
+							"fr-FR": "Stinger (RGX 11z Pro) niveau 5",
+							"id-ID": "RGX 11z Pro Stinger Level 5",
+							"it-IT": "Stinger RGX 11z Pro livello 5",
+							"ja-JP": "RGX 11z Pro スティンガー Lv.5",
+							"ko-KR": "RGX 11z 프로 스팅어 5레벨",
+							"pl-PL": "Stinger RGX 11z Pro (poziom 5)",
+							"pt-BR": "Stinger RGX 11z Pro Nível 5",
+							"ru-RU": "Stinger \"RGX 11z Pro\" уровень 5",
+							"th-TH": "RGX 11z Pro Stinger เลเวล 5",
+							"tr-TR": "5. Seviye RGX 11z Pro Stinger",
+							"vi-VN": "Stinger RGX 11z Pro Cấp 5",
+							"zh-CN": "RGX 11z Pro Stinger Level 5",
+							"zh-TW": "RGX 11z Pro 刺針 等級5"
+						}
+					}
+				}
+			],
+			"id": "282C15E6-4372-2F18-9143-2D9CDD942C4C",
+			"label": "282C15E6-4372-2F18-9143-2D9CDD942C4C",
+			"name":
+			{
+				"defaultText": "RGX 11z Pro Stinger",
+				"localizedByCulture":
+				{
+					"ar-AE": "آر جي إكس 11زي برو ستينغر",
+					"de-DE": "Stinger – RGX 11z Pro",
+					"en-US": "RGX 11z Pro Stinger",
+					"es-ES": "Stinger RGX 11z Pro",
+					"es-MX": "Stinger RGX 11z Pro",
+					"fr-FR": "Stinger (RGX 11z Pro)",
+					"id-ID": "RGX 11z Pro Stinger",
+					"it-IT": "Stinger RGX 11z Pro",
+					"ja-JP": "RGX 11z Pro スティンガー",
+					"ko-KR": "RGX 11z 프로 스팅어",
+					"pl-PL": "Stinger RGX 11z Pro",
+					"pt-BR": "Stinger RGX 11z Pro",
+					"ru-RU": "Stinger \"RGX 11z Pro\"",
+					"th-TH": "RGX 11z Pro Stinger",
+					"tr-TR": "RGX 11z Pro Stinger",
+					"vi-VN": "Stinger RGX 11z Pro",
+					"zh-CN": "RGX 11z Pro Stinger",
+					"zh-TW": "RGX 11z Pro 刺針"
+				}
+			}
+		},
+		{
+			"weaponId": "F7E1B454-4AD4-1063-EC0A-159E56B58941",
 			"defaultChromaId": "C78E4616-4499-7926-0F1E-93977020063F",
 			"chromas": [
 				{
@@ -51699,6 +52883,215 @@
 					"vi-VN": "Stinger Gỗ Hạt Dẻ",
 					"zh-CN": "Varnish Stinger",
 					"zh-TW": "漆面皮革 刺針"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "8CEDED3E-4365-9AA6-EB7E-BDA2CD553D6F",
+			"chromas": [
+				{
+					"id": "8CEDED3E-4365-9AA6-EB7E-BDA2CD553D6F",
+					"label": "8CEDED3E-4365-9AA6-EB7E-BDA2CD553D6F",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Blade",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل آر جي إكس 11زي برو",
+							"de-DE": "Klinge – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Blade",
+							"es-ES": "Hoja RGX 11z Pro",
+							"es-MX": "Cuchilla RGX 11z Pro",
+							"fr-FR": "Lame (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Blade",
+							"it-IT": "Lama RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro ブレード",
+							"ko-KR": "RGX 11z 프로 검",
+							"pl-PL": "Ostrze RGX 11z Pro",
+							"pt-BR": "Lâmina RGX 11z Pro",
+							"ru-RU": "Клинок \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Blade",
+							"tr-TR": "RGX 11z Pro Bıçak",
+							"vi-VN": "Kiếm RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Blade",
+							"zh-TW": "RGX 11z Pro 直刀"
+						}
+					}
+				},
+				{
+					"id": "BCD0308B-4F12-E460-E34C-DBA6B25386DF",
+					"label": "BCD0308B-4F12-E460-E34C-DBA6B25386DF",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Blade Level 2 (Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل آر جي إكس 11زي برو المستوى 2 (بديل 1 أحمر)",
+							"de-DE": "KLINGE – RGX 11z Pro Level 2 (Variante 1, Rot)",
+							"en-US": "RGX 11z Pro Blade Level 2 (Variant 1 Red)",
+							"es-ES": "Hoja RGX 11z Pro de nivel 2 (Variante 1: rojo)",
+							"es-MX": "Cuchilla RGX 11z Pro nivel 2 \n(Variante 1 Roja)",
+							"fr-FR": "Lame (RGX 11z Pro) niveau 2 (variante 1 Rouge)",
+							"id-ID": "RGX 11z Pro Blade Level 2 (Varian 1 Merah)",
+							"it-IT": "Lama RGX 11z Pro livello 2 (variante 1 Rossa)",
+							"ja-JP": "RGX 11z Pro ブレード Lv.2 (ヴァリアント 1 レッド)",
+							"ko-KR": "RGX 11z 프로 검 2레벨 (변형 1 빨간색)",
+							"pl-PL": "Ostrze RGX 11z Pro (poziom 2) (wersja 1 – czerwona)",
+							"pt-BR": "Lâmina RGX 11z Pro Nível 2 (Variante 1 Vermelha)",
+							"ru-RU": "Клинок \"RGX 11z Pro\" уровень 2 (расцветка 1 \"Красный\")",
+							"th-TH": "RGX 11z Pro Blade เลเวล 2 (ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "2. Seviye RGX 11z Pro Bıçak (Stil 1 - Kırmızı)",
+							"vi-VN": "Kiếm RGX 11z Pro Cấp 2 (Dạng 1 Ánh Đỏ)",
+							"zh-CN": "RGX 11z Pro Blade Level 2 (Variant 1 Red)",
+							"zh-TW": "RGX 11z Pro 直刀 等級2（幻彩1 紅色）"
+						}
+					}
+				},
+				{
+					"id": "5A902162-4810-106A-6FC6-87A0318D73D2",
+					"label": "5A902162-4810-106A-6FC6-87A0318D73D2",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Blade Level 2 (Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل آر جي إكس 11زي برو المستوى 2 (بديل 2 أزرق)",
+							"de-DE": "Klinge – RGX 11z Pro Level 2 (Variante 2, Blau)",
+							"en-US": "RGX 11z Pro Blade Level 2 (Variant 2 Blue)",
+							"es-ES": "Hoja RGX 11z Pro de nivel 2 (Variante 2: azul)",
+							"es-MX": "Cuchilla RGX 11z Pro nivel 2 \n(Variante 2 Azul)",
+							"fr-FR": "Lame (RGX 11z Pro) niveau 2 (variante 2 Bleu)",
+							"id-ID": "RGX 11z Pro Blade Level 2 (Varian 2 Biru)",
+							"it-IT": "Lama RGX 11z Pro livello 2 (variante 2 Blu)",
+							"ja-JP": "RGX 11z Pro ブレード Lv.2 (ヴァリアント 2 ブルー)",
+							"ko-KR": "RGX 11z 프로 검 2레벨 (변형 2 파란색)",
+							"pl-PL": "Ostrze RGX 11z Pro (poziom 2) (wersja 2 – niebieska)",
+							"pt-BR": "Lâmina RGX 11z Pro Nível 2 (Variante 2 Azul)",
+							"ru-RU": "Клинок \"RGX 11z Pro\" уровень 2 (расцветка 2 \"Синий\")",
+							"th-TH": "RGX 11z Pro Blade เลเวล 2 (ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "2. Seviye RGX 11z Pro Bıçak (Stil 2 - Mavi)",
+							"vi-VN": "Kiếm RGX 11z Pro Cấp 2 (Dạng 2 Ánh Lam)",
+							"zh-CN": "RGX 11z Pro Blade Level 2 (Variant 2 Blue)",
+							"zh-TW": "RGX 11z Pro 直刀 等級2（幻彩2 藍色）"
+						}
+					}
+				},
+				{
+					"id": "05029E79-4C74-85C3-30EE-78AB3179B600",
+					"label": "05029E79-4C74-85C3-30EE-78AB3179B600",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Blade Level 2 (Variant 3 Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل آر جي إكس 11زي برو المستوى 2 (بديل 3 أصفر)",
+							"de-DE": "Klinge – RGX 11z Pro Level 2 (Variante 3, Gelb)",
+							"en-US": "RGX 11z Pro Blade Level 2 (Variant 3 Yellow)",
+							"es-ES": "Hoja RGX 11z Pro de nivel 2 (Variante 3: amarillo)",
+							"es-MX": "Cuchilla RGX 11z Pro nivel 2 \n(Variante 3 Amarilla)",
+							"fr-FR": "Lame (RGX 11z Pro) niveau 2 (variante 3 Jaune)",
+							"id-ID": "RGX 11z Pro Blade Level 2 (Varian 3 Kuning)",
+							"it-IT": "Lama RGX 11z Pro livello 2 (variante 3 Gialla)",
+							"ja-JP": "RGX 11z Pro ブレード Lv.2 (ヴァリアント 3 イエロー)",
+							"ko-KR": "RGX 11z 프로 검 2레벨 (변형 3 노란색)",
+							"pl-PL": "Ostrze RGX 11z Pro (poziom 2) (wersja 3 – żółta)",
+							"pt-BR": "Lâmina RGX 11z Pro Nível 2 (Variante 3 Amarela)",
+							"ru-RU": "Клинок \"RGX 11z Pro\" уровень 2 (расцветка 3 \"Желтый\")",
+							"th-TH": "RGX 11z Pro Blade เลเวล 2 (ตัวเลือกที่ 3 สีเหลือง)",
+							"tr-TR": "2. Seviye RGX 11z Pro Bıçak (Stil 3 - Sarı)",
+							"vi-VN": "Kiếm RGX 11z Pro Cấp 2 (Dạng 3 Ánh Vàng)",
+							"zh-CN": "RGX 11z Pro Blade Level 2 (Variant 3 Yellow)",
+							"zh-TW": "RGX 11z Pro 直刀 等級2（幻彩3 黃色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "A1762ED3-45BF-2DD5-776F-A18A33171E6F",
+					"label": "A1762ED3-45BF-2DD5-776F-A18A33171E6F",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Blade",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل آر جي إكس 11زي برو",
+							"de-DE": "Klinge – RGX 11z Pro",
+							"en-US": "RGX 11z Pro Blade",
+							"es-ES": "Hoja RGX 11z Pro",
+							"es-MX": "Cuchilla RGX 11z Pro",
+							"fr-FR": "Lame (RGX 11z Pro)",
+							"id-ID": "RGX 11z Pro Blade",
+							"it-IT": "Lama RGX 11z Pro",
+							"ja-JP": "RGX 11z Pro ブレード",
+							"ko-KR": "RGX 11z 프로 검",
+							"pl-PL": "Ostrze RGX 11z Pro",
+							"pt-BR": "Lâmina RGX 11z Pro",
+							"ru-RU": "Клинок \"RGX 11z Pro\"",
+							"th-TH": "RGX 11z Pro Blade",
+							"tr-TR": "RGX 11z Pro Bıçak",
+							"vi-VN": "Kiếm RGX 11z Pro",
+							"zh-CN": "RGX 11z Pro Blade",
+							"zh-TW": "RGX 11z Pro 直刀"
+						}
+					}
+				},
+				{
+					"id": "D67AF30B-4B2A-B1E6-3AC2-6ABA74B885D4",
+					"label": "D67AF30B-4B2A-B1E6-3AC2-6ABA74B885D4",
+					"name":
+					{
+						"defaultText": "RGX 11z Pro Blade Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل آر جي إكس 11زي برو المستوى 2",
+							"de-DE": "Klinge – RGX 11z Pro Level 2",
+							"en-US": "RGX 11z Pro Blade Level 2",
+							"es-ES": "Hoja RGX 11z Pro de nivel 2",
+							"es-MX": "Cuchilla RGX 11z Pro nivel 2",
+							"fr-FR": "Lame (RGX 11z Pro) niveau 2",
+							"id-ID": "RGX 11z Pro Blade Level 2",
+							"it-IT": "Lama RGX 11z Pro livello 2",
+							"ja-JP": "RGX 11z Pro ブレード Lv.2",
+							"ko-KR": "RGX 11z 프로 검 2레벨",
+							"pl-PL": "Ostrze RGX 11z Pro (poziom 2)",
+							"pt-BR": "Lâmina RGX 11z Pro Nível 2",
+							"ru-RU": "Клинок \"RGX 11z Pro\" уровень 2",
+							"th-TH": "RGX 11z Pro Blade เลเวล 2",
+							"tr-TR": "2. Seviye RGX 11z Pro Bıçak",
+							"vi-VN": "Kiếm RGX 11z Pro Cấp 2",
+							"zh-CN": "RGX 11z Pro Blade Level 2",
+							"zh-TW": "RGX 11z Pro 直刀 等級2"
+						}
+					}
+				}
+			],
+			"id": "9FB366B6-46DF-A722-0CF2-9C9B85936F17",
+			"label": "9FB366B6-46DF-A722-0CF2-9C9B85936F17",
+			"name":
+			{
+				"defaultText": "RGX 11z Pro Blade",
+				"localizedByCulture":
+				{
+					"ar-AE": "نصل آر جي إكس 11زي برو",
+					"de-DE": "Klinge – RGX 11z Pro",
+					"en-US": "RGX 11z Pro Blade",
+					"es-ES": "Hoja RGX 11z Pro",
+					"es-MX": "Cuchilla RGX 11z Pro",
+					"fr-FR": "Lame (RGX 11z Pro)",
+					"id-ID": "RGX 11z Pro Blade",
+					"it-IT": "Lama RGX 11z Pro",
+					"ja-JP": "RGX 11z Pro ブレード",
+					"ko-KR": "RGX 11z 프로 검",
+					"pl-PL": "Ostrze RGX 11z Pro",
+					"pt-BR": "Lâmina RGX 11z Pro",
+					"ru-RU": "Клинок \"RGX 11z Pro\"",
+					"th-TH": "RGX 11z Pro Blade",
+					"tr-TR": "RGX 11z Pro Bıçak",
+					"vi-VN": "Kiếm RGX 11z Pro",
+					"zh-CN": "RGX 11z Pro Blade",
+					"zh-TW": "RGX 11z Pro 直刀"
 				}
 			}
 		},
@@ -61548,7 +62941,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة الألوان المبهجة // قوس قزح",
-					"de-DE": "Pride // Banner „Regenbogen“",
+					"de-DE": "Banner „Pride//Regenbogen“",
 					"en-US": "Pride // Rainbow Card",
 					"es-ES": "Tarjeta Orgullo // Arcoíris",
 					"es-MX": "Tarjeta Orgullo // Arcoíris",
@@ -61577,7 +62970,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة الألوان المبهجة // غزل البنات",
-					"de-DE": "Pride // Banner „Zuckerwatte“",
+					"de-DE": "Banner „Pride//Zuckerwatte“",
 					"en-US": "Pride // Cotton Candy Card",
 					"es-ES": "Tarjeta Orgullo // Algodón de azúcar",
 					"es-MX": "Tarjeta Orgullo // Algodón de Azúcar",
@@ -61606,7 +62999,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة الألوان المبهجة // الرئيسي",
-					"de-DE": "Pride // Banner „RGB“",
+					"de-DE": "Banner „Pride//RGB“",
 					"en-US": "Pride // Primary Card",
 					"es-ES": "Tarjeta Orgullo // Principal",
 					"es-MX": "Tarjeta Orgullo // Primordial",
@@ -61635,7 +63028,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة الألوان المبهجة // المجرة",
-					"de-DE": "Pride // Banner „Galaktisch“",
+					"de-DE": "Banner „Pride//Galaktisch“",
 					"en-US": "Pride // Galactic Card",
 					"es-ES": "Tarjeta Orgullo // Galaxia",
 					"es-MX": "Tarjeta Orgullo // Galaxia",
@@ -61664,7 +63057,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة الألوان المبهجة // الغروب",
-					"de-DE": "Pride // Banner „Sonnenuntergang“",
+					"de-DE": "Banner „Pride//Sonnenuntergang“",
 					"en-US": "Pride // Sunset Card",
 					"es-ES": "Tarjeta Orgullo // Ocaso",
 					"es-MX": "Tarjeta Orgullo // Atardecer",
@@ -61693,7 +63086,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة الألوان المبهجة // الغسق",
-					"de-DE": "Pride // Banner „Abenddämmerung“",
+					"de-DE": "Banner „Pride//Abenddämmerung“",
 					"en-US": "Pride // Twilight Card",
 					"es-ES": "Tarjeta Orgullo // Crepúsculo",
 					"es-MX": "Tarjeta Orgullo // Crepúsculo",
@@ -61722,7 +63115,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة الألوان المهبجة // الشراب",
-					"de-DE": "Pride // Banner „Fruchteis“",
+					"de-DE": "Banner „Pride//Fruchteis“",
 					"en-US": "Pride // Sherbet Card",
 					"es-ES": "Tarjeta Orgullo // Sorbete",
 					"es-MX": "Tarjeta Orgullo // Sorbetto",
@@ -61739,6 +63132,35 @@
 					"vi-VN": "Thẻ Sắc Màu Hân Hoan // Kem Tuyết",
 					"zh-CN": "自豪节：雪葩 卡牌",
 					"zh-TW": "平權之光 // 繽紛雪酪 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "CADA2E3F-4B1D-8279-3E1A-49984A71D4D3",
+			"label": "CADA2E3F-4B1D-8279-3E1A-49984A71D4D3",
+			"name":
+			{
+				"defaultText": "RGX 11z Pro Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة آر جي إكس 11زي برو",
+					"de-DE": "Banner „RGX 11z Pro“",
+					"en-US": "RGX 11z Pro Card",
+					"es-ES": "Tarjeta RGX 11z Pro",
+					"es-MX": "Tarjeta RGX 11z Pro",
+					"fr-FR": "Carte RGX 11z Pro",
+					"id-ID": "Kartu RGX 11z Pro",
+					"it-IT": "Carta RGX 11z Pro",
+					"ja-JP": "RGX 11z Pro カード",
+					"ko-KR": "RGX 11z 프로 카드",
+					"pl-PL": "Karta „RGX 11z Pro”",
+					"pt-BR": "Card RGX 11z Pro",
+					"ru-RU": "Карточка \"RGX 11z Pro\"",
+					"th-TH": "การ์ด RGX 11z Pro ",
+					"tr-TR": "RGX 11z Pro Kartı",
+					"vi-VN": "Thẻ RGX 11z Pro",
+					"zh-CN": "RGX 11z Pro Card",
+					"zh-TW": "RGX 11z Pro 玩家卡面"
 				}
 			}
 		},
@@ -66398,7 +67820,7 @@
 					"ja-JP": "アライ",
 					"ko-KR": "아군",
 					"pl-PL": "Sojusznik",
-					"pt-BR": "Aliado",
+					"pt-BR": "Aliade",
 					"ru-RU": "Союзник",
 					"th-TH": "พันธมิตร",
 					"tr-TR": "Dost",
@@ -66425,7 +67847,7 @@
 					"ja-JP": "アライ タイトル",
 					"ko-KR": "아군 칭호",
 					"pl-PL": "Tytuł „Sojusznik”",
-					"pt-BR": "Título Aliado",
+					"pt-BR": "Título Aliade",
 					"ru-RU": "Звание \"Союзник\"",
 					"th-TH": "ฉายาพันธมิตร",
 					"tr-TR": "Dost Unvanı",
@@ -66654,6 +68076,60 @@
 		{
 			"titleText":
 			{
+				"defaultText": "VCT Masters Berlin Winner",
+				"localizedByCulture":
+				{
+					"ar-AE": "الفائز ببطولة VCT Masters برلين",
+					"de-DE": "„VCT Masters Berlin“-Sieger",
+					"en-US": "VCT Masters Berlin Winner",
+					"es-ES": "Ganador del Masters de Berlín del VCT",
+					"es-MX": "Ganador del VCT Masters Berlín",
+					"fr-FR": "Vainqueur des Masters de Berlin",
+					"id-ID": "Pemenang VCT Masters Berlin",
+					"it-IT": "Vincitore Masters VCT di Berlino",
+					"ja-JP": "VCT Masters ベルリンウィナー",
+					"ko-KR": "VCT 마스터스 베를린 우승자",
+					"pl-PL": "Zwycięzca VCT Masters Berlin",
+					"pt-BR": "Vencedor VCT Masters Berlin",
+					"ru-RU": "Победитель VCT Masters Berlin",
+					"th-TH": "ผู้ชนะ VCT Masters Berlin",
+					"tr-TR": "VCT Masters Berlin Galibi",
+					"vi-VN": "Đội Chiến Thắng VCT Masters Berlin",
+					"zh-CN": "VCT Masters Berlin Winner",
+					"zh-TW": "VCT柏林大師賽優勝"
+				}
+			},
+			"id": "00031857-43A9-9545-4E05-58AD0A62B79D",
+			"label": "00031857-43A9-9545-4E05-58AD0A62B79D",
+			"name":
+			{
+				"defaultText": "VCT Masters Berlin Winner Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الفائز ببطولة VCT Masters برلين",
+					"de-DE": "„VCT Masters Berlin“-Siegertitel",
+					"en-US": "VCT Masters Berlin Winner Title",
+					"es-ES": "Título de ganador del Masters de Berlín del VCT",
+					"es-MX": "Título del ganador del VCT Masters Berlín",
+					"fr-FR": "Titre Vainqueur des Masters de Berlin",
+					"id-ID": "Gelar Pemenang VCT Masters Berlin",
+					"it-IT": "Titolo Vincitore Masters VCT di Berlino",
+					"ja-JP": "VCT Masters ベルリンウィナー タイトル",
+					"ko-KR": "VCT 마스터스 베를린 우승자 칭호",
+					"pl-PL": "Tytuł „Zwycięzca VCT Masters Berlin”",
+					"pt-BR": "Título Vencedor VCT Masters Berlin",
+					"ru-RU": "Звание \"Победитель VCT Masters Berlin\"",
+					"th-TH": "ฉายาผู้ชนะ VCT Masters Berlin",
+					"tr-TR": "VCT Masters Berlin Galibi Unvanı",
+					"vi-VN": "Danh Hiệu Đội Chiến Thắng VCT Masters Berlin",
+					"zh-CN": "VCT Masters Berlin Winner Title",
+					"zh-TW": "VCT柏林大師賽優勝 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "VCT Masters Reykjavik Winner",
 				"localizedByCulture":
 				{
@@ -66761,6 +68237,66 @@
 		}
 	],
 	"charms": [
+		{
+			"levels": [
+				{
+					"id": "A3043EC2-4A5B-CA46-D8F6-0399F1E52565",
+					"label": "A3043EC2-4A5B-CA46-D8F6-0399F1E52565",
+					"name":
+					{
+						"defaultText": "Afterglow",
+						"localizedByCulture":
+						{
+							"ar-AE": "Afterglow",
+							"de-DE": "Afterglow",
+							"en-US": "Afterglow",
+							"es-ES": "Afterglow",
+							"es-MX": "Afterglow",
+							"fr-FR": "Afterglow",
+							"id-ID": "Afterglow",
+							"it-IT": "Afterglow",
+							"ja-JP": "Afterglow",
+							"ko-KR": "Afterglow",
+							"pl-PL": "Afterglow",
+							"pt-BR": "Afterglow",
+							"ru-RU": "Afterglow",
+							"th-TH": "Afterglow",
+							"tr-TR": "Afterglow",
+							"vi-VN": "Afterglow",
+							"zh-CN": "Afterglow",
+							"zh-TW": "Afterglow"
+						}
+					}
+				}
+			],
+			"id": "DCE731F8-4560-5F30-6EB5-8AB2E36864EC",
+			"label": "DCE731F8-4560-5F30-6EB5-8AB2E36864EC",
+			"name":
+			{
+				"defaultText": "RGX 11z Pro Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق آر جي إكس 11زي برو",
+					"de-DE": "Talisman „RGX 11z Pro“",
+					"en-US": "RGX 11z Pro Buddy",
+					"es-ES": "Amuleto RGX 11z Pro",
+					"es-MX": "Buddy RGX 11z Pro",
+					"fr-FR": "Porte-bonheur RGX 11z Pro",
+					"id-ID": "Gantungan RGX 11z Pro",
+					"it-IT": "Accessorio RGX 11z Pro",
+					"ja-JP": "RGX 11z Pro バディー",
+					"ko-KR": "RGX 11z 프로 총기 장식",
+					"pl-PL": "Przywieszka „RGX 11z Pro”",
+					"pt-BR": "Chaveiro RGX 11z Pro",
+					"ru-RU": "Брелок \"RGX 11z Pro\"",
+					"th-TH": "บัดดี้ RGX 11z Pro ",
+					"tr-TR": "RGX 11z Pro Uğuru",
+					"vi-VN": "Phụ Kiện RGX 11z Pro",
+					"zh-CN": "RGX 11z Pro Buddy",
+					"zh-TW": "RGX 11z Pro 吊飾"
+				}
+			}
+		},
 		{
 			"levels": [
 				{
@@ -77866,6 +79402,66 @@
 		{
 			"levels": [
 				{
+					"id": "CD431466-46B6-1EA9-ABF3-77A9A42082C9",
+					"label": "CD431466-46B6-1EA9-ABF3-77A9A42082C9",
+					"name":
+					{
+						"defaultText": "Afterglow",
+						"localizedByCulture":
+						{
+							"ar-AE": "Afterglow",
+							"de-DE": "Afterglow",
+							"en-US": "Afterglow",
+							"es-ES": "Afterglow",
+							"es-MX": "Afterglow",
+							"fr-FR": "Afterglow",
+							"id-ID": "Afterglow",
+							"it-IT": "Afterglow",
+							"ja-JP": "Afterglow",
+							"ko-KR": "Afterglow",
+							"pl-PL": "Afterglow",
+							"pt-BR": "Afterglow",
+							"ru-RU": "Afterglow",
+							"th-TH": "Afterglow",
+							"tr-TR": "Afterglow",
+							"vi-VN": "Afterglow",
+							"zh-CN": "Afterglow",
+							"zh-TW": "Afterglow"
+						}
+					}
+				}
+			],
+			"id": "8035DD5D-4DDD-5DBD-165C-9886574FDFF5",
+			"label": "8035DD5D-4DDD-5DBD-165C-9886574FDFF5",
+			"name":
+			{
+				"defaultText": "RGX 11z Pro Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة آر جي إكس 11زي برو",
+					"de-DE": "Graffiti „RGX 11z Pro“",
+					"en-US": "RGX 11z Pro Spray",
+					"es-ES": "Grafiti RGX 11z Pro",
+					"es-MX": "Spray RGX 11z Pro",
+					"fr-FR": "Graffiti RGX 11z Pro",
+					"id-ID": "Spray RGX 11z Pro",
+					"it-IT": "Spray RGX 11z Pro",
+					"ja-JP": "RGX 11z Pro スプレー",
+					"ko-KR": "RGX 11z 프로 스프레이",
+					"pl-PL": "Graffiti „RGX 11z Pro”",
+					"pt-BR": "Spray RGX 11z Pro",
+					"ru-RU": "Граффити \"RGX 11z Pro\"",
+					"th-TH": "สเปรย์ RGX 11z Pro ",
+					"tr-TR": "RGX 11z Pro Spreyi",
+					"vi-VN": "Hình Phun Sơn RGX 11z Pro",
+					"zh-CN": "RGX 11z Pro Spray",
+					"zh-TW": "RGX 11z Pro 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "8262B1A6-488B-E567-35FB-CD84309092DD",
 					"label": "8262B1A6-488B-E567-35FB-CD84309092DD",
 					"name":
@@ -84760,6 +86356,66 @@
 					"vi-VN": "Hình Phun Sơn Thượng Giới",
 					"zh-CN": "天界 涂鸦",
 					"zh-TW": "天月耀春 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "A155E9BA-41FA-A677-2E03-58B333ED7013",
+					"label": "A155E9BA-41FA-A677-2E03-58B333ED7013",
+					"name":
+					{
+						"defaultText": "BiteLipEmoji",
+						"localizedByCulture":
+						{
+							"ar-AE": "BiteLipEmoji",
+							"de-DE": "BiteLipEmoji",
+							"en-US": "BiteLipEmoji",
+							"es-ES": "BiteLipEmoji",
+							"es-MX": "BiteLipEmoji",
+							"fr-FR": "BiteLipEmoji",
+							"id-ID": "BiteLipEmoji",
+							"it-IT": "BiteLipEmoji",
+							"ja-JP": "BiteLipEmoji",
+							"ko-KR": "BiteLipEmoji",
+							"pl-PL": "BiteLipEmoji",
+							"pt-BR": "BiteLipEmoji",
+							"ru-RU": "BiteLipEmoji",
+							"th-TH": "BiteLipEmoji",
+							"tr-TR": "BiteLipEmoji",
+							"vi-VN": "BiteLipEmoji",
+							"zh-CN": "BiteLipEmoji",
+							"zh-TW": "BiteLipEmoji"
+						}
+					}
+				}
+			],
+			"id": "F677065C-449D-DD91-78EF-6FA7D95DED8D",
+			"label": "F677065C-449D-DD91-78EF-6FA7D95DED8D",
+			"name":
+			{
+				"defaultText": "Flames in my Veins Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة عروقي الملتهبة",
+					"de-DE": "Graffiti „Flammen in meinen Adern“",
+					"en-US": "Flames in my Veins Spray",
+					"es-ES": "Grafiti Fuego en las venas",
+					"es-MX": "Spray Fuego en las venas",
+					"fr-FR": "Graffiti Le feu dans mes veines",
+					"id-ID": "Spray Flames in my Veins",
+					"it-IT": "Spray Fuoco nelle vene",
+					"ja-JP": "超熱血 スプレー",
+					"ko-KR": "타오르는 핏줄 스프레이",
+					"pl-PL": "Graffiti „Płomienie w moich żyłach”",
+					"pt-BR": "Spray Meu Sangue Ferve",
+					"ru-RU": "Граффити \"Пламя в крови\"",
+					"th-TH": "สเปรย์ Flames in my Veins ",
+					"tr-TR": "Kanım Kaynıyor Spreyi",
+					"vi-VN": "Hình Phun Sơn Biết Ngầu Rồi Khỏi Khen",
+					"zh-CN": "Flames in my Veins Spray",
+					"zh-TW": "天生熱酷 塗鴉"
 				}
 			}
 		},
