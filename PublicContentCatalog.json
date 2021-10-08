@@ -1,5 +1,5 @@
 {
-	"version": "03.00.00.573400",
+	"version": "03.01.00.578205",
 	"characters": [
 		{
 			"description":
@@ -20,7 +20,7 @@
 					"pl-PL": "Breach, bioniczny reprezentant Szwecji, wystrzeliwuje potężne namierzane wybuchy kinetyczne, które pozwalają przebić się przez szeregi wroga. Zadawane przez niego obrażenia i zakłócenie sprawiają, że żadna walka nie jest wyrównana.",
 					"pt-BR": "Breach, o homem-biônico sueco, dispara poderosos jatos cinéticos para forçar a abertura de um caminho pelo território inimigo. O dano e a interrupção que ele causa garantem que nenhuma luta seja justa.",
 					"ru-RU": "Использующий бионические усиления швед Breach полагается на мощные направленные взрывы, чтобы расчистить путь от агентов противника. Разрушительная сила его умений позволяет получить решающее преимущество в любом бою.",
-					"th-TH": "Breach สามารถยิงพลังระเบิดอันรุนแรงโดยมีพื้นที่ของศัตรู\nเป็นเป้าหมายในการเคลียร์เส้นทาง เขาจะสร้างดาเมจ และการก่อกวนเพื่อให้คู่แข่งต้องเผชิญกับอุปสรรคอันหฤโหดทุกครั้ง",
+					"th-TH": "Breach ไบโอนิคชาวสวีเดนสามารถยิงพลังระเบิดอันรุนแรง เป้าหมายของเขาคือการเคลียร์เส้นทางในสนามรบของศัตรู ทุกความเสียหายและการก่อกวนที่เขาสร้างนั้นรุนแรง จนมั่นใจได้เลยว่าเกมจะไม่ยุติธรรมกับคู่แข่งแน่นอน",
 					"tr-TR": "İnsanüstü güçlere sahip İsveçli Breach, düşman zemininde sert bir şekilde yolu açan, hedeflenebilir kinetik dalgalar gönderir. Sebep olduğu hasar ve darbeler, savaşın dengelerini değiştirecek niteliktedir.",
 					"vi-VN": "Breach, gã Thụy Điển với thân hình đầy máy móc, có thể bắn ra các luồng năng lượng động học mạnh mẽ tới mục tiêu và mở đường xuyên qua lãnh địa của đối phương. Với sát thương đáng kể cùng khả năng gây rối, Breach luôn đảm bảo đồng đội chiếm được thế thượng phong khi giao chiến.",
 					"zh-CN": "仿生瑞典人铁臂发射强大及可瞄准的动力爆破，粗暴地在敌方阵地中清出一条通道。他所造成的伤害与混乱确保战斗毫无公平可言。",
@@ -211,7 +211,7 @@
 							"pl-PL": "WYPOSAŻ ładunek sejsmiczny. STRZEL, by posłać kaskadowy wstrząs na obszarze w kształcie stożka. Oszałamia on i wyrzuca w powietrze każdego na swojej drodze.",
 							"pt-BR": "EQUIPE uma carga sísmica. Dispare para lançar um terremoto em cascata por todo o terreno num grande cone, que estonteia e derruba todos que estiverem na área de efeito.",
 							"ru-RU": "Выбирает сейсмический заряд. Нажмите кнопку ОГОНЬ, чтобы пустить каскадную волну в обширной области перед собой. Любой агент, оказавшийся у нее на пути, оглушается и подбрасывается в воздух.",
-							"th-TH": "ติดตั้ง Seismic Charge กดยิงเพื่อปล่อยแรงสั่น\nสะเทือนที่เคลื่อนผ่านได้ทุกพื้นที่เป็นรูปกรวย\nขนาดใหญ่ แรงสั่นสะเทือนจะทำให้ทุกคนที่ติด\nอยู่มึนงงและสิ้นสติ",
+							"th-TH": "ติดตั้ง Seismic Charge กดยิงเพื่อปล่อยแรงสั่น\nสะเทือนที่เคลื่อนผ่านได้ทุกพื้นที่เป็นรูปกรวย\nขนาดใหญ่ แรงสั่นสะเทือนจะทำให้ทุกคนลอยตัวขึ้นและมีอาการมึนงง",
 							"tr-TR": "Sismik bir yük KUŞAN. Geniş, koni biçimindeki bir alanda tüm zemini dalga dalga etkileyen bir deprem için ATEŞ ET. Deprem, ona yakalanan herkesi sarsar ve havaya savurur.",
 							"vi-VN": "TRANG BỊ 1 Đầu Đạn Đại Xung Chấn. NHẤP BẮN để giải phóng một trận động đất qua mọi địa hình trong phạm vi hình nón. Cơn địa chấn làm choáng và hất tung bất cứ ai trong phạm vi ảnh hưởng.",
 							"zh-CN": "装备地震蓄力弹。按射击即可对锥形范围内的整个地形释放级联地震。该地震会击飞任何受波及的敌人并震晕他们。",
@@ -293,7 +293,7 @@
 					"pl-PL": "Raze z Brazylii wkracza na pole walki ze swą wielką osobowością i wielkim arsenałem. Jej wybuchowy styl gry sprawia, że doskonale radzi sobie z okopanymi wrogami i czyszczeniem niewielkich przestrzeni za pomocą solidnej dawki eksplozji.",
 					"pt-BR": "Raze chega do Brasil em uma explosão de carisma e armas letais. Com seu estilo de jogo \"porradeiro\", ela é craque em desentocar inimigos entrincheirados e limpar espaços apertados com uma bela dose de BUUUM!",
 					"ru-RU": "Raze – мастер взрывного дела из Бразилии, обладательница сильного характера и мощных пушек. Она способна легко справиться с засевшими в обороне противниками или зачистить небольшое помещение. Громко и без лишних церемоний.",
-					"th-TH": "Raze ระเบิดออกจากบราซิลด้วยบุคลิกภาพที่เข้ากับคนอื่นได้ง่ายและปืนอันใหญ่โตของเธอ ด้วยสไตล์การเล่นอันดุเดือด เธอจึงเก่งกาจในการกวาดล้างศัตรูและสร้างช่องว่างด้วยเสียง \"ตู้ม\" จำนวนมหาศาล",
+					"th-TH": "Raze ระเบิดตัวแม่จากบราซิล ด้วยความใจเด็ดและปืนกระบอกเด็ดของเธอ พร้อมสไตล์การเล่นอันดุเดือด เธอจึงเก่งกาจในการกวาดล้างศัตรูและสร้างช่องว่างด้วยเสียง \"ตู้ม\" จำนวนมหาศาล",
 					"tr-TR": "Bomba gibi bir kişiliğe ve kocaman silahlara sahip olan Raze, aramıza Brezilya'dan katılıyor. Kafa göz dalan oyun tarzıyla düşmanları saklandıkları deliklerden çıkarmakta ve dar alanları ''bam bam bam'' temizlemekte üstüne yoktur.",
 					"vi-VN": "Raze là một hiện tượng đến từ Brazil với cá tính nổi bật và những khẩu súng cực bự. Với lối chơi \"bùng nổ\", cô là lựa chọn hoàn hảo trong việc ép đối phương phải ra khỏi nơi ẩn nấp và dọn sạch đối thủ trong những địa hình chật hẹp với những gói thuốc nổ hạng nặng.",
 					"zh-CN": "雷兹拿着她的大家伙大大咧咧地离开了巴西。她善于凭借着粗暴的战斗风格和充足的爆破，冲撞固守着的敌人及清除狭小的甬道。",
@@ -649,7 +649,7 @@
 							"pl-PL": "WYPOSAŻ granat błyskowy. STRZEL, by rzucić. Granat błyskowy eksploduje po krótkiej chwili, oślepiając wszystkich w polu widzenia.",
 							"pt-BR": "EQUIPE uma granada de clarão. DISPARE para jogá-la. A granada de clarão explode após um curto período, cegando qualquer um que estiver na linha de visão.",
 							"ru-RU": "Выбирает ослепляющую гранату. Нажмите кнопку ОГОНЬ, чтобы бросить ее. Граната быстро взрывается, ослепляя всех в зоне видимости.",
-							"th-TH": "ติดตั้งระเบิดแฟลช ยิงเพื่อปา ระเบิดแฟลชจะระเบิดหลังจุดชนวนสั้น ๆ ทำให้ผู้เล่นทุกคนที่มองดูสูญเสียการมองเห็น",
+							"th-TH": "ติดตั้งระเบิดแฟลช ยิงเพื่อปา ระเบิดแฟลชจะระเบิดหลังจุดชนวน\nสั้น ๆ ทำให้ผู้เล่นทุกคนที่มองดูสูญเสียการมองเห็น",
 							"tr-TR": "Bir kör edici bomba KUŞAN. Bombayı fırlatmak için ATEŞ ET. Kör edici bomba kısa bir süre sonra patlayarak görüş menzili içinde bulunan herkesi kör eder.",
 							"vi-VN": "TRANG BỊ 1 lựu đạn mù. BẮN để ném. Lựu đạn mù sẽ nổ sau một thời gian chờ ngắn, làm mù tất cả những ai trong tầm ảnh hưởng.",
 							"zh-CN": "装备闪光榴弹。按【射击】将其掷出。闪光榴弹会在短暂停留后引爆，将范围内的所有人致盲。",
@@ -839,7 +839,7 @@
 					"pl-PL": "Pochodząca z Australii Skye oraz sfora jej bestii utorują drogę przez terytorium wroga. Osłabiające wroga stwory oraz moc leczenia innych sprawią, że Skye wzmocni drużynę i zapewni jej większe bezpieczeństwo.",
 					"pt-BR": "Mandando um salve direto da Austrália, Skye e sua equipe de feras desbravam territórios hostis. Com seus poderes de cura e suas criações que partem pra cima dos inimigos, qualquer equipe ficará mais forte e mais segura tendo Skye como aliada.",
 					"ru-RU": "Австралийка Skye и ее звериная стая прокладывают путь по враждебной территории. Ее создания затрудняют продвижение врага, а сама Skye может лечить союзников. С ней команда будет в безопасности и станет сильнее, чем когда-либо.",
-					"th-TH": "ส่งเสียงโห่ร้องจากออสเตรเลีย Skye และพรรคพวกสัตว์ร้ายของเธอเผาเส้นทางของศัตรูให้ลุกโชน ทีมของคุณจะแข็งแกร่งและปลอดภัยที่สุดเมื่ออยู่เคียงข้าง Skye เธอมาพร้อมกับสิ่งประดิษฐ์ที่ใช้ขัดขวางศัตรู และพลังการฮีลผู้อื่น",
+					"th-TH": "เสียงกู่ร้องแห่งออสเตรเลีย Skye และเหล่าสัตว์ร้ายของเธอ แผดเผาเส้นทางศัตรูให้ลุกโชน ทีมของคุณจะแข็งแกร่งและปลอดภัยที่สุดเมื่ออยู่เคียงข้าง Skye เธอมาพร้อมกับสิ่งประดิษฐ์ที่ใช้ขัดขวางศัตรู และพลังการฮีลผู้อื่น",
 					"tr-TR": "Aramıza Avustralya'dan katılan Skye, beraberinde getirdiği vahşi hayvan ordusuyla birlikte çatışmayı iyiden iyiye kızıştırıyor. Düşmana ayak bağı olan hayvanları ve takım arkadaşlarını iyileştirme yetisiyle, takımının gücünü pekiştiriyor ve takımdaki herkesi kolluyor.",
 					"vi-VN": "Đến từ nước Úc hoang dã, Skye cùng các tinh linh của mình sẽ mở đường đột phá dũng mãnh trong những lãnh địa nguy hiểm. Với dàn tạo vật phong phú có nhiệm vụ quấy rối kẻ địch cùng khả năng hồi máu, cô sẽ luôn mang đến cho đồng đội sự an toàn và cho phép họ thỏa sức chiến đấu ở phong độ cao nhất.",
 					"zh-CN": "丝凯来自澳大利亚，喜欢带着自己的野兽小队在敌方领地上飞驰。她不仅可以派出野兽攻击敌人，还有强大的治疗能力，可以对自己的队友进行强力支援。",
@@ -867,8 +867,8 @@
 							"ko-KR": "태즈매니아 호랑이 장신구를 장착합니다. 발사하면 호랑이를 보내 조종합니다. 조종 중에 발사하면 전방으로 뛰어올라 폭발하며 뇌진탕을 일으키고 직접 타격한 적에게 피해를 입힙니다.",
 							"pl-PL": "WYPOSAŻ błyskotkę z tasmańskim wilkiem. STRZEL, aby wypuścić drapieżnika i przejąć nad nim kontrolę. Kontrolując go, STRZEL, aby skoczyć naprzód, wywołując ogłuszający wybuch i zadając bezpośrednie obrażenia trafionym wrogom.",
 							"pt-BR": "EQUIPE um amuleto de lobo-da-tasmânia. DISPARE para enviar e controlar o predador. Enquanto estiver no controle, DISPARE para saltar para a frente. O lobo gera uma explosão e causa dano aos inimigos diretamente atingidos.",
-							"ru-RU": "Выбирает фигурку тасманского волка. Нажмите кнопку ОГОНЬ, чтобы вызвать хищника и управлять им. Нажмите ОГОНЬ, чтобы животное сделало рывок вперед, вызвало оглушающий взрыв и нанесло урон пораженным врагам.",
-							"th-TH": "ติดตั้งเครื่องประดับเสือแทสเมเนียน ยิงเพื่อ\nปล่อยและควบคุมการเคลื่อนไหวของนักล่านั้น\nเมื่ออยู่ในการควบคุม ยิงเพื่อกระโจนไปข้างหน้า\nเสือจะระเบิดและสร้างความสั่นคลอนเมื่อกระโจน\nพร้อมกับสร้างดาเมจแก่ศัตรูโดยตรง",
+							"ru-RU": "Выбирает фигурку тасманийского волка. Нажмите кнопку ОГОНЬ, чтобы вызвать хищника и управлять им. Нажмите ОГОНЬ, чтобы животное сделало рывок вперед, вызвало оглушающий взрыв и нанесло урон пораженным врагам.",
+							"th-TH": "ติดตั้งเครื่องประดับเสือแทสเมเนียน ยิงเพื่อ\nปล่อยและควบคุมการเคลื่อนไหวของนักล่านั้น\nเมื่ออยู่ในการควบคุม ยิงเพื่อกระโจนไปข้างหน้า\nเสือจะระเบิดและสร้างความกระทบกระเทือนเมื่อกระโจน พร้อมกับสร้างดาเมจแก่ศัตรูโดยตรง",
 							"tr-TR": "Bir Tazmanya kaplanı figürü KUŞAN. Avcıyı gönderip onu kontrol etmek için ATEŞ ET. Hayvanı kontrol ederken birden ileri atılarak sarsıcı bir patlamaya sebep olmak ve doğrudan isabet alan düşmanlara hasar vermek için ATEŞ ET.",
 							"vi-VN": "TRANG BỊ 1 tinh linh mãnh hổ Tasmania. NHẤP BẮN để giải phóng và điều khiển tinh linh mãnh hổ. Khi đang điều khiển, NHẤP BẮN để nhảy về phía trước và phát nổ gây sát thương lên kẻ địch trực tiếp trúng đòn, đồng thời tỏa ra xung chấn làm choáng đối thủ.",
 							"zh-CN": "装备塔斯马尼亚虎饰品。按射击即可派出并控制掠食者。控制过程中，按射击可向前跳跃，爆炸并发出冲击波，对直接命中的敌人造成伤害。",
@@ -921,7 +921,7 @@
 							"ko-KR": "매 장신구를 장착합니다. 발사하면 매를 전방으로 날립니다. 발사를 길게 누르면 조준점 방향으로 매를 유도합니다. 비행 중에 다시 사용하면 매가 섬광으로 변합니다.",
 							"pl-PL": "WYPOSAŻ błyskotkę z jastrzębiem. STRZEL, aby wysłać go do walki. PRZYTRZYMAJ STRZAŁ, aby skierować jastrzębia w kierunku wskazanym przez twój celownik. UŻYJ PONOWNIE jastrzębia podczas jego lotu, aby zmienił się w błysk.",
 							"pt-BR": "EQUIPE um amuleto de falcão. DISPARE para enviá-lo. SEGURE O DISPARO para guiar o falcão na direção da sua mira. REPITA a habilidade enquanto ele estiver voando para transformá-lo em um clarão de luz.",
-							"ru-RU": "Выбирает фигурку ястреба. Нажмите кнопку ОГОНЬ, чтобы послать ястреба вперед. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы ястреб летел в направлении вашего прицела. Во время полета птицы используйте умение снова, чтобы ястреб превратился в ослепляющую вспышку.",
+							"ru-RU": "Выбирает фигурку ястреба. Нажмите кнопку ОГОНЬ, чтобы послать ястреба вперед. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы он летел в направлении вашего прицела. Во время полета птицы используйте умение снова, чтобы ястреб превратился в ослепляющую вспышку.",
 							"th-TH": "ติดตั้งเครื่องประดับเหยี่ยว ยิงเพื่อปล่อยมันออก\nไปข้างหน้า กดยิงค้างไว้เพื่อนำทางเหยี่ยวให้อยู่\nในรัศมีครอสแฮร์ของคุณ กดใช้งานอีกครั้งเมื่อ\nเหยี่ยวยังคงบินอยู่เพื่อแปลงร่างมันเป็นแฟลช",
 							"tr-TR": "Bir şahin figürü KUŞAN. Şahini ileri göndermek için ATEŞ ET. Şahini nişangâhının baktığı tarafa yöneltmek için ATEŞ TUŞUNU BASILI TUT. Şahini havada uçarken kör edici bir bombaya çevirmek için yeteneği TEKRAR KULLAN.",
 							"vi-VN": "TRANG BỊ 1 tinh linh chim ưng. NHẤP BẮN để giải phóng ra phía trước. GIỮ phím BẮN để điều khiển chim ưng theo hướng tâm ngắm. KÍCH HOẠT LẠI kỹ năng khi chim ưng đang bay sẽ biến đổi nó thành một luồng sáng chói lóa, khi phát sáng sẽ gây mất tầm nhìn và tạo ra tiếng động xác nhận nếu có đối thủ trong phạm vi.",
@@ -1112,7 +1112,7 @@
 					"pl-PL": "Cypher, marokański broker informacji, to jednoosobowa sieć inwigilacyjna, pozwalająca śledzić wszelkie poczynania wroga. Żadna tajemnica nie jest bezpieczna. Nikt nie przejdzie niezauważony. Cypher zawsze obserwuje.",
 					"pt-BR": "Cypher, um vendedor de informações do Marrocos, é uma verdadeira rede de vigilância de um homem só que fica de olho em cada movimento dos inimigos. Nenhum segredo está a salvo. Nenhuma manobra passa despercebida. Cypher está sempre vigiando.",
 					"ru-RU": "Торговец информацией из Марокко Cypher может самостоятельно создать целую информационную сеть для отслеживания действий противника. Под неусыпным взором Cypher все тайное становится явным.",
-					"th-TH": "Cypher นายหน้าขายข้อมูลแห่งโมร็อกโก เขาเป็นหน่วยเฝ้าระวังที่ทำงานคนเดียวเพื่อตามติดความเคลื่อนไหวของศัตรูในทุกย่างก้าว ไม่มีความลับใดที่ปลอดภัย ไม่มีการหลบหลีกไหนที่รอดพ้นสายตาของเขา Cypher นั้นจับจ้องอยู่เสมอ\n",
+					"th-TH": "Cypher นายหน้าค้าข้อมูลแห่งโมร็อกโก เขาเป็นหน่วยเฝ้าระวังที่ทำงานเพียงลำพังเพื่อตามติดความเคลื่อนไหวของศัตรูในทุกย่างก้าว ไม่มีความลับใดที่ปลอดภัย ไม่มีการซ่อนเร้นไหนที่รอดพ้นสายตาของเขา เพราะ Cypher นั้นจับจ้องอยู่เสมอ\n",
 					"tr-TR": "Faslı bilgi uzmanı ve tek kişilik gözetleme ağı Cypher, düşmanın her hareketini bilir. Her sırrını duyar. Her manevrasını görür. Cypher'ın gözleri hep üzerinizdedir.",
 					"vi-VN": "Là một chuyên gia môi giới thông tin người Ma-rốc. Cypher có thể theo dõi mọi di chuyển của đối thủ với hệ thống giám sát tinh vi của mình. Mọi bí mật đều sẽ bị phát hiện. Mọi bước đi đều sẽ bị phát giác. Không gì có thể lọt khỏi mắt của Cypher.",
 					"zh-CN": "摩洛哥信息经纪人零可谓是单人监视网络，他监控着敌人的每一步行动。没有绝对安全的秘密，也没有完全隐匿的操作。零始终无所不在。",
@@ -1194,7 +1194,7 @@
 							"ko-KR": "스파이캠을 장착합니다. 발사하면 지정 위치에 스파이캠을 설치합니다. 스킬을 재사용하면 카메라를 조작할 수 있습니다. 조작하는 동안 발사를 누르면 표식용 다트가 발사되며 다트에 맞은 플레이어는 위치가 드러납니다.",
 							"pl-PL": "WYPOSAŻ kamerę szpiegowską. STRZEL, by umieścić kamerę w pożądanym miejscu. UŻYJ PONOWNIE tej umiejętności, by wyświetlić obraz z kamery. Pozostając w tym widoku STRZEL, by wypuścić lotkę oznaczającą. Ujawni ona miejsce każdego trafionego nią gracza.",
 							"pt-BR": "EQUIPE uma câmera de vigilância. DISPARE para colocá-la no local-alvo. REPITA a habilidade para controlar a visão da câmera. Enquanto a controla, DISPARE para lançar um dardo marcador, que revelará a localização de qualquer jogador atingido.",
-							"ru-RU": "Выбирает шпионскую камеру. Нажмите кнопку ОГОНЬ, чтобы поместить камеру на выбранном месте. Используйте умение снова, чтобы управлять камерой. Во время управления камерой нажмите кнопку ОГОНЬ, чтобы выстрелить отслеживающим дротиком. При попадании в игрока дротик отмечает его местонахождение.",
+							"ru-RU": "Выбирает шпионскую камеру. Нажмите кнопку ОГОНЬ, чтобы поместить камеру на выбранном месте. Используйте умение снова, чтобы управлять ей. Во время управления камерой нажмите кнопку ОГОНЬ, чтобы выстрелить отслеживающим дротиком. При попадании в игрока дротик отмечает его местонахождение.",
 							"th-TH": "ติดตั้ง Spycam กดยิงเพื่อติดตั้ง Spycam บน\nตำแหน่งที่ต้องการ กดใช้สกิลนี้อีกครั้งเพื่อเข้า\nควบคุมตัวกล้อง กดยิงในขณะที่ควบคุมกล้อง\nเพื่อปล่อยลูกดอกระบุตำแหน่ง ลูกดอกจะเปิด\nเผยตำแหน่งของผู้เล่นที่ถูกยิงด้วยลูกดอกนี้",
 							"tr-TR": "Bir gizli kamera KUŞAN. Gizli kamerayı hedef konuma yerleştirmek için ATEŞ ET. Bu yeteneği YENİDEN KULLAN ve kamera görüşünü kontrol et. Kamera kontrolü sendeyken ATEŞ ET ve işaretleyen bir iğne fırlat. Bu iğne, isabet ettiği herhangi bir oyuncunun konumunu açığa çıkarır.",
 							"vi-VN": "TRANG BỊ 1 máy quay mật thám. NHẤP BẮN để đặt máy quay mật thám tại vị trí chỉ định. KÍCH HOẠT LẠI kỹ năng này để kiểm soát góc nhìn của máy quay. Khi đang kiểm soát máy quay, NHẤP BẮN để phóng 1 phi tiêu đánh dấu. Phi tiêu này sẽ làm lộ vị trí của người chơi bị bắn trúng.",
@@ -1385,7 +1385,7 @@
 					"pl-PL": "Sova to urodzony w skutej wieczną zimą rosyjskiej tundrze tropiciel, który śledzi, namierza i eliminuje wrogów z bezwzględną skutecznością i precyzją. Jego niestandardowy łuk w połączeniu z niesamowitymi umiejętnościami tropiącymi sprawiają, że nie ma przed nim ucieczki. ",
 					"pt-BR": "Nascido sob o eterno inverno das tundras russas, Sova rastreia, encontra e elimina inimigos com eficiência e precisão implacáveis. Seu arco personalizado e suas habilidades inigualáveis de reconhecimento garantem que nenhuma presa escape. ",
 					"ru-RU": "Рожденный в вечной мерзлоте российского заполярья, Sova выслеживает и уничтожает противников с холодной расчетливостью и эффективностью. Этот первоклассный разведчик, экипированный особым луком, найдет вас, где бы вы ни прятались. ",
-					"th-TH": "เกิดในฤดูหนาวอันยาวนานของทุ่งทุนดราของรัสเซีย Sova ติดตาม ตามล่า และกำจัดศัตรูได้อย่างมีประสิทธิภาพและแม่นยำ ด้วยธนูพิเศษที่เขาดัดแปลงด้วยตนเองและความสามารถในการล่าชั้นเลิศ ต่อให้คุณวิ่งหนีไปสุดขอบฟ้า ก็จะไม่มีวันรอดพ้นจากเงื้อมมือของเขา ",
+					"th-TH": "Sova เกิดในช่วงฤดูหนาวอันยาวนาน ณ.ทุนดราแห่งรัสเซีย เขาติดตาม ตามล่า กำจัดศัตรูได้อย่างเด็ดขาดและแม่นยำ ด้วยธนูพิเศษที่ดัดแปลงเอง พร้อมความสามารถในการล่าชั้นเลิศ ต่อให้คุณหนีไปสุดขอบฟ้าก็ไม่มีวันรอดพ้นจากเงื้อมมือของเขา",
 					"tr-TR": "Rusya'nın uçsuz bucaksız tundralarında yetişen Sova düşmanlarını acımasız bir verimlilik ve titizlikle tespit eder, izlerini sürer ve onları yok eder. Özel yayı ve sıra dışı iz sürme yetenekleri ile ondan kaçsanız da asla saklanamazsınız. ",
 					"vi-VN": "Sinh ra tại vùng lãnh nguyên lạnh giá của nước Nga, Sova có khả năng tìm kiếm, đánh dấu và tiêu diệt đối thủ một cách hiệu quả và chính xác. Sở hữu cây cung đặc chế và những kỹ năng trinh sát hiểm hóc, con mồi của Sova sẽ chẳng bao giờ có thể trốn thoát. ",
 					"zh-CN": "猎枭生长于四季如冬的俄罗斯冻原，他擅长以高效无情且精准无比的方式来追踪、寻觅并歼灭敌人。他的特制战弓及无与伦比的侦察能力相辅相成，令逃窜躲避的你在劫难逃。 ",
@@ -1712,7 +1712,7 @@
 					"pl-PL": "Sova to urodzony w skutej wieczną zimą rosyjskiej tundrze tropiciel, który śledzi, namierza i eliminuje wrogów z bezwzględną skutecznością i precyzją. Jego niestandardowy łuk w połączeniu z niesamowitymi umiejętnościami tropiącymi sprawiają, że nie ma przed nim ucieczki. ",
 					"pt-BR": "Nascido sob o eterno inverno das tundras russas, Sova rastreia, encontra e elimina inimigos com eficiência e precisão implacáveis. Seu arco personalizado e suas habilidades inigualáveis de reconhecimento garantem que nenhuma presa escape. ",
 					"ru-RU": "Рожденный в вечной мерзлоте российского заполярья, Sova выслеживает и уничтожает противников с холодной расчетливостью и эффективностью. Этот первоклассный разведчик, экипированный особым луком, найдет вас, где бы вы ни прятались. ",
-					"th-TH": "เกิดในฤดูหนาวอันยาวนานของทุ่งทุนดราของรัสเซีย Sova ติดตาม ตามล่า และกำจัดศัตรูได้อย่างมีประสิทธิภาพและแม่นยำ ด้วยธนูพิเศษที่เขาดัดแปลงด้วยตนเองและความสามารถในการล่าชั้นเลิศ ต่อให้คุณวิ่งหนีไปสุดขอบฟ้า ก็จะไม่มีวันรอดพ้นจากเงื้อมมือของเขา ",
+					"th-TH": "Sova เกิดในช่วงฤดูหนาวอันยาวนาน ณ.ทุนดราแห่งรัสเซีย เขาติดตาม ตามล่า กำจัดศัตรูได้อย่างเด็ดขาดและแม่นยำ ด้วยธนูพิเศษที่ดัดแปลงเอง พร้อมความสามารถในการล่าชั้นเลิศ ต่อให้คุณหนีไปสุดขอบฟ้าก็ไม่มีวันรอดพ้นจากเงื้อมมือของเขา",
 					"tr-TR": "Rusya'nın uçsuz bucaksız tundralarında yetişen Sova düşmanlarını acımasız bir verimlilik ve titizlikle tespit eder, izlerini sürer ve onları yok eder. Özel yayı ve sıra dışı iz sürme yetenekleri ile ondan kaçsanız da asla saklanamazsınız. ",
 					"vi-VN": "Sinh ra tại vùng lãnh nguyên lạnh giá của nước Nga, Sova có khả năng tìm kiếm, đánh dấu và tiêu diệt đối thủ một cách hiệu quả và chính xác. Sở hữu cây cung đặc chế và những kỹ năng trinh sát hiểm hóc, con mồi của Sova sẽ chẳng bao giờ có thể trốn thoát. ",
 					"zh-CN": "猎枭生长于四季如冬的俄罗斯冻原，他擅长以高效无情且精准无比的方式来追踪、寻觅并歼灭敌人。他的特制战弓及无与伦比的侦察能力相辅相成，令逃窜躲避的你在劫难逃。 ",
@@ -2039,7 +2039,7 @@
 					"pl-PL": "Killjoy, genialna Niemka, zabezpiecza i broni kluczowych pozycji na polu walki, używając do tego pułapek, działek oraz min. Każdy z jej wynalazków jest gotowy ukarać dowolnego napastnika, który jest zbyt głupi, by nie odpuścić.",
 					"pt-BR": "Killjoy, uma alemã genial, defende posições-chave no campo de batalha com uma coleção de armadilhas, torretas e minas. Cada invenção foi desenvolvida para punir qualquer atacante burro o suficiente para não bater em retirada.",
 					"ru-RU": "Гений из Германии Killjoy способна обеспечить надежную защиту ключевых участков карты. Используя собственные высокотехнологичные разработки, она может устанавливать ловушки, турели и мины, представляющие угрозу для любого опрометчивого противника, подобравшегося слишком близко.",
-					"th-TH": "Killjoy อัจฉริยะของประเทศเยอรมันได้เข้าควบคุมและป้องกันตำแหน่งสำคัญในสนามรบด้วยกับดักจำนวนมาก ป้อมปืน และระเบิด ทุกการประดิษฐ์ล้วนถูกสร้างสรรค์มาเพื่อลงโทษผู้โจมตีที่โง่เกินกว่าจะถอยกลับไป",
+					"th-TH": "Killjoy อัจฉริยะของประเทศเยอรมันผู้ควบคุมและป้องกันตำแหน่งสำคัญในสนามรบด้วยกับดักจำนวนมาก ป้อมปืน และระเบิด ทุกการประดิษฐ์ล้วนถูกสร้างสรรค์มาเพื่อลงโทษผู้โจมตีที่โง่เกินกว่าจะถอยกลับไป",
 					"tr-TR": "Alman dâhi Killjoy sahip olduğu tuzaklar, taretler ve mayınlar yardımıyla savaş meydanının kilit noktalarını tutar ve savunur. İcatları, geri çekilecek kadar budala saldırganları cezalandırmak için tasarlandı.",
 					"vi-VN": "Thiên tài đến từ nước Đức, Killjoy có khả năng bảo vệ và thủ vững những vị trí trọng yếu trong chiến trận bằng hàng loạt trụ súng, mìn và cạm bẫy. Mỗi sáng chế đều hoàn hảo trong việc trừng phạt bất cứ kẻ dại dột nào dám xông vào.",
 					"zh-CN": "奇乐是位来自德国的天才，擅长用各种陷阱、炮台、地雷攻占并防守战场上的关键位置。她的每一样发明，都是为了狠狠教训不知进退的愚蠢对手而精心设计。",
@@ -2312,7 +2312,7 @@
 					"pl-PL": "Amerykańska chemiczka Viper wykorzystuje urządzenia z trującymi chemikaliami, by kontrolować pole walki i ograniczać wizję wroga. Jeśli nie wykończy ofiary toksynami, z pewnością zrobi to psychologicznie.",
 					"pt-BR": "Viper, a química dos Estados Unidos, emprega uma variedade de dispositivos químicos venenosos para controlar o campo de batalha e prejudicar a visão do inimigo. Se as toxinas não matarem a presa, seus jogos mentais certamente o farão.",
 					"ru-RU": "Химик из США Viper устанавливает контроль над полем боя с помощью источающих токсичный газ устройств и ограничивает обзор противникам. А тех, кого ей не удастся отравить, она непременно перехитрит.",
-					"th-TH": "Viper สาวนักเคมีชาวอเมริกันใช้อุปกรณ์ทางเคมีที่เป็นพิษเพื่อควบคุมสนามรบและทำลายวิสัยทัศน์ของศัตรู หากไม่ใช่พิษที่สังหารเหยื่อของเธอ ก็คงเป็นเกมสงครามเย็นของเธอนั่นแหละ",
+					"th-TH": "Viper นักเคมีสาวชาวอเมริกัน ผู้ใช้สารเคมีที่เป็นพิษ ควบคุมสนามรบและทำลายวิสัยทัศน์ของศัตรู หากไม่ใช่พิษที่สังหารเหยื่อของเธอ ก็คงเป็นเกมจิตวิทยาของเธอนั่นเอง",
 					"tr-TR": "Amerikalı kimyager Viper zehir yüklü, çeşit çeşit kimyasal cihazıyla savaş alanını kontrol altında tutarken düşmanın görüşünü de altüst eder. Avını zehriyle değilse bile aklıyla mutlaka avcunun içine alır.",
 					"vi-VN": "Chuyên gia hóa học người Mỹ - Viper tung ra một loạt các thiết bị hóa học độc hại để kiểm soát chiến trường và hạn chế tầm nhìn của đối thủ. Nếu kẻ địch không bị tiêu diệt bởi chất độc thì cũng mất mạng bởi sự thâm hiểm của cô.",
 					"zh-CN": "美国化学家蝰蛇擅长部署一系列的剧毒化学装置来掌控战场并削弱敌人的视野。她的猎物纵然在中毒后侥幸存活，也终究难逃她的阴谋诡计。",
@@ -2639,7 +2639,7 @@
 					"pl-PL": "Wywodzący się z Wielkiej Brytanii Phoenix bryluje na polu walki za sprawą swych popisowych mocy, rozjaśniając okolicę błyskiem i stylem. Z towarzyszami lub bez, zawsze rwie się do starcia na własnych zasadach.",
 					"pt-BR": "Chegando com tudo diretamente do Reino Unido, o poder estelar de Phoenix reluz em seu estilo de luta, incendiando o campo de batalha com luz e estilo. Tendo ajuda ou não, ele entra na luta como e quando achar que deve.",
 					"ru-RU": "Представитель Великобритании Phoenix демонстрирует звездную силу во всех аспектах своего боевого стиля: он сражается красиво и ярко, всегда навязывает противнику свои условия и отважно устремляется в бой даже без поддержки.",
-					"th-TH": "ส่งเสียงทักทายมาจากสหราชอาณาจักร พลังของ Phoenix ส่องแสงเรืองรองด้วยสไตล์การต่อสู้ของเขา เผาไหม้สนามรบให้เป็นจุณด้วยแสงสว่างและเปลวไฟ ไม่ว่าเขาจะมีทีมคอยสนับสนุนหรือไม่ เขาก็จะรีบเข้าไปในสงครามด้วยความตั้งใจของเขาเองเสมอ",
+					"th-TH": "Phoenix ผู้มีชื่อเสียงเลื่องลือแห่งสหราชอาณาจักร พลังของเขาลุกโชติช่วงด้วยสไตล์การต่อสู้ ซึ่งเผาไหม้สนามรบให้เป็นจุณด้วยแสงสว่างและเปลวไฟ ไม่ว่าจะมีทีมคอยสนับสนุนหรือไม่ \nเขาก็จะพุ่งสู่สงครามด้วยความตั้งใจของตนเองเสมอ",
 					"tr-TR": "Aramıza Birleşik Krallık'tan katılan ve yıldızlardan aldığı gücü dövüş stilinin her noktasına yansıtan Phoenix, savaş alanını alevlerle ve patlamalarla aydınlatır. Arkasında destek olsun olmasın, bildiği gibi savaşmak için ileri atılacağından şüpheniz olmasın.",
 					"vi-VN": "Xuất thân từ nước Anh đầy mưa gió, sức mạnh của Phoenix nằm ở lối chiến đấu của hắn, với khả năng thiêu đốt cả chiến trường bằng hỏa mù chói lóa. Phoenix luôn tỏa sáng dù là phối hợp tác chiến cùng đồng đội hay chiến đấu độc lập.",
 					"zh-CN": "英国明星不死鸟的战斗风格洋溢着明星风范，他擅长以耀眼的方式点燃全场。无论身后是否有援军，他也会毅然地勇闯战场。",
@@ -2966,7 +2966,7 @@
 					"pl-PL": "Ghańska agentka Astra ujarzmia kosmiczne energie, by przeobrazić pola bitwy według własnego widzimisię. Dzięki temu, że w pełni panuje nad swoją astralną formą i ma niezwykły talent do przewidywania strategicznych posunięć, zawsze wyprzedza o całe eony kolejne działania wroga.",
 					"pt-BR": "Astra, a agente ganense, utiliza energias cósmicas para moldar o campo de batalha a seu bel-prazer. Com total domínio da sua forma astral e um talento estratégico nato, ela está sempre anos-luz à frente dos inimigos.",
 					"ru-RU": "Astra, агент из Ганы, управляет пространством и временем и способна изменять поле битвы. Полный контроль над астральной формой и талант стратегического предвидения позволяют ей опережать врага на целую вечность.",
-					"th-TH": "Astra เอเจนท์ชาวกานาควบคุมพลังแห่งจักรวาลเพื่อปรับรูปแบบสนามรบให้เป็นไปตามความต้องการของเธอ ด้วยความสามารถในการควบคุมร่างดวงดาวของเธอและพรสวรรค์ในการวางแผนกลยุทธ์อย่างลึกซึ้ง เธอมักจะนำหน้าศัตรูอยู่หนึ่งก้าวเสมอ",
+					"th-TH": "Astra เอเจนท์ชาวกานาผู้ควบคุมพลังแห่งจักรวาลเพื่อปรับรูปแบบสนามรบให้เป็นไปตามความต้องการของเธอ ด้วยความสามารถในการควบคุมร่างดวงดาวของเธอและพรสวรรค์ในการวางแผนกลยุทธ์อย่างลึกซึ้ง เธอมักจะนำหน้าศัตรูอยู่หนึ่งก้าวเสมอ",
 					"tr-TR": "Ganalı ajan Astra, kozmosun enerjisini kullanarak savaş meydanını lehine değiştirebiliyor. Astral yolculuğu üzerinde tam kontrole sahip olması ve engin stratejik öngörüsüyle, düşmanın bir sonraki hamlesinden her zaman birkaç ışık yılı önde.",
 					"vi-VN": "Astra là một đặc vụ tới từ Ghana, cô sử dụng năng lượng của vũ trụ để định hình trận chiến theo ý muốn của bản thân. Với khả năng điều khiển thể tinh vân và tài năng chiến thuật bao quát, cô ấy luôn đi trước đối thủ của mình 10 bước.",
 					"zh-CN": "来自加纳的契约者“星界人”可以操控宇宙的能量，按照她的意愿重塑战场。她可以利用自己对星体形态的完全掌握以及超乎常人的战略天赋，抢先一步预判敌人的行动。",
@@ -3048,7 +3048,7 @@
 							"ko-KR": "천상계 형상에서 별을 설치합니다. (궁극기 키) \n\n활성화 시 별 하나를 성운(연막)으로 변형합니다.\n\n별은 사용 시 소멸하며, 잠시 후 다른 곳에 설치할 수 있게 됩니다.\n\n별이 소멸하면 그 자리에 잠시 가짜 성운이 생성됩니다.",
 							"pl-PL": "Umieść Gwiazdki w Postaci Astral (klawisz ulta). \n\nAKTYWUJ Gwiazdkę, aby zmienić ją w Mgławicę (dym).\n\nUŻYJ Gwiazdki, żeby dokonać jej Rozproszenia, pozwalając tym samym na umieszczenie jej po krótkiej chwili w nowym miejscu.\n\nRozproszenie tworzy na krótko fałszywą Mgławicę w miejscu położenia Gwiazdki, nim ta powróci.",
 							"pt-BR": "Posicione Estrelas na Forma Astral (tecla da Ultimate). \n\nATIVE uma Estrela para transformá-la em uma Nebulosa (fumaça).\n\nUTILIZE uma Estrela para dissipá-la, retornando a estrela para ser posicionada em um novo local após um período de tempo.\n\nDissipar forma brevemente uma Nebulosa falsa na localização da Estrela antes de retornar.",
-							"ru-RU": "Разместите звезды в Астральной форме (нажмите клавишу абсолютного умения). \nАКТИВИРУЙТЕ звезду, чтобы преобразовать ее в туманность (газо-пылевое облако).\nВЫБЕРИТЕ звезду, чтобы вызвать \"Рассеивание\". Звезды исчезают, и через некоторое время их можно разместить в другом месте.\nПеред исчезновением на месте звезды ненадолго образуется ложная туманность.",
+							"ru-RU": "Разместите звезды в Астральной форме (нажмите клавишу абсолютного умения).\nАКТИВИРУЙТЕ звезду, чтобы преобразовать ее в туманность (газо-пылевое облако).\nВЫБЕРИТЕ звезду, чтобы вызвать \"Рассеивание\". Звезда исчезает, и через некоторое время ее можно разместить в другом месте.\nПеред исчезновением на месте звезды ненадолго образуется ложная туманность.",
 							"th-TH": "จัดวางดวงดาวใน Astral Form (ปุ่มอัลติเมท) \n\nเปิดใช้งานดวงดาวเพื่อแปลงมันเป็น Nebula (กลุ่มควัน)\n\nกดปุ่มใช้กับดวงดาวเพื่อกระจายมันออก ส่งคืนดาวเพื่อวางในตำแหน่งใหม่หลังจากดีเลย์สั้น ๆ\n\nสลายเป็น Nebula ปลอมในเวลาสั้น ๆ ในตำแหน่งของดาวก่อนที่จะกลับมา",
 							"tr-TR": "Astral Yolcu halindeyken yıldız yerleştir (ulti tuşu). \n\nDönüşerek Yıldız Bulutu (duman) oluşturması için bir yıldızı ETKİNLEŞTİR.\n\nKozmik Çözünüm'le geri almak için bir yıldız KULLAN. Geri alınan yıldızı belli bir süre sonra tekrar yerleştirebilirsin.\n\nKozmik Çözünüm, dönmeden önce yıldızın yerinde kısa süreliğine sahte bir Yıldız Bulutu oluşturur.",
 							"vi-VN": "Sắp xếp các Ngôi Sao ở Thể Tinh Vân (Phím Chiêu Cuối). \n\nKÍCH HOẠT 1 Ngôi Sao để biến đổi nó thành Tinh Vân (khói).\n\nSỬ DỤNG 1 Ngôi Sao để Tán Xạ, đưa ngôi sao đến vị trí mới sau khoảng thời gian trì hoãn.\n\nTán Xạ tạo 1 Tinh Vân giả trong thoáng chốc tại vị trí của Ngôi Sao trước khi đến vị trí mới.",
@@ -3161,7 +3161,7 @@
 							"tr-TR": "TEMEL ATIŞ tuşuyla yıldız yerleştirebileceğin Astral Yolcu haline geçmek için ETKİNLEŞTİR. Yerleştirilen yıldızlar daha sonra etkinleştirilerek Nova Darbesi, Yıldız Bulutu ve Çekim Alanı'na dönüştürülebilir.\n\nKozmik Ayrım yeteneği hazır olduğunda Astral Yolcu halindeyken İKİNCİL ATIŞ tuşuna basarak hedef al ve TEMEL ATIŞ tuşuna basarak iki konum seç. Bu iki konum arasında sonsuz bir Kozmik Ayrım bağlantısı oluşur. Kozmik Ayrım mermileri engeller ve sesleri büyük oranda bastırır.",
 							"vi-VN": "KÍCH HOẠT để chuyển sang Thể Tinh Vân và bạn có thể sắp xếp những Ngôi Sao bằng phím CHẾ ĐỘ CHÍNH. Những Ngôi Sao có thể được tái kích hoạt sau đó để chuyển thành Xung Nhịp Tân Tinh, Tinh Vân hoặc Giếng Trọng Lực.\n\nKhi Phân Chia Vũ Trụ đã tụ đầy, nhấn phím CHẾ ĐỘ PHỤ ở Thể Tinh Vân để bắt đầu ngắm bắn, sau đó nhấn phím CHẾ ĐỘ CHÍNH để chọn 2 vị trí. Một đường Phân Chia Vũ Trụ không có giới hạn sẽ nối 2 điểm đã chọn lại với nhau. Phân Chia Vũ Trụ có khả năng chặn đạn và giảm thanh cực lớn.",
 							"zh-CN": "激活即可进入星体形态，此时按下主射击即可放置恒星。随后，你可重新激活恒星，将其转化为新星脉冲、星云或重力井。\n\n宇宙裂隙充能完毕时，你可在星体形态下通过次要射击进行瞄准，然后用主射击选择两个位置。一道无边无际的宇宙裂隙会在两个位置之间生成，阻挡所有的子弹，并大幅度隔绝声音。",
-							"zh-TW": "按下「啟動」（X）可進入星體型態，使用「主要攻擊鍵」來放置星辰；之後可重新啟動星辰，化作新星震盪、迷濛星雲或引力黑洞。\n\n無垠星幕充能完成時，以星體型態使用「輔助攻擊鍵」開始瞄準，接著使用「主要攻擊鍵」來選擇兩個位置，並在兩點之間製造一個無限延伸的無垠星幕，可擋住所有子彈，並大幅阻隔聲音傳遞。"
+							"zh-TW": "按下「啟動」可進入星體型態，使用「主要攻擊鍵」來放置星辰；之後可重新啟動星辰，化作新星震盪、迷濛星雲或引力黑洞。\n\n無垠星幕充能完成時，以星體型態使用「輔助攻擊鍵」開始瞄準，接著使用「主要攻擊鍵」來選擇兩個位置，並在兩點之間製造一個無限延伸的無垠星幕，可擋住所有子彈，並大幅阻隔聲音傳遞。"
 						}
 					},
 					"label": "41FB69C1-4189-7B37-F117-BCAF1E96F1BF_Ultimate",
@@ -3293,7 +3293,7 @@
 					"pl-PL": "Orbitalny arsenał pochodzącego z USA Brimstone’a zawsze zapewnia jego zespołowi przewagę. Jego zdolność zapewnienia precyzyjnego i bezpiecznego wsparcia czyni go niezrównanym dowódcą w samym sercu akcji.  ",
 					"pt-BR": "Vindo diretamente dos EUA, o arsenal orbital de Brimstone garante que o esquadrão dele esteja sempre em vantagem. Sua capacidade de oferecer utilidade com precisão a distância faz dele um comandante inigualável na linha de frente.  ",
 					"ru-RU": "Уроженец США Brimstone обеспечивает своей команде преимущество перед противником благодаря орбитальной технике. Возможность удаленно оказывать помощь там, где это требуется, делает его несравненным боевым командиром.",
-					"th-TH": "Brimstone เข้าร่วมจาก USA การโจมตีด้วย Orbital Arsenal ของเขามักจะช่วยให้ทีมได้เปรียบเสมอ ทักษะในการสนับสนุนที่แม่นยำและจากระยะทางที่ไกลทำให้เขาเป็นผู้บัญชาการภาคพื้นดินที่ไม่มีใครเทียบได้  ",
+					"th-TH": "Brimstone ผู้เข้าร่วมจาก USA การโจมตีด้วย Orbital Arsenal ของเขามักจะช่วยให้ทีมได้เปรียบเสมอ ทักษะในการสนับสนุนที่แม่นยำจากระยะทางที่ไกลทำให้เขาเป็นผู้บัญชาการภาคพื้นดินที่ไม่มีใครเทียบได้  ",
 					"tr-TR": "Aramıza ABD'den katılan Brimstone'un hava araçları sayesinde takımı her zaman 1-0 öndedir. Gereken her türlü işlevselliği titizlikle ve güvenle sağlaması, muharebe alanında bu kumandanı eşsiz kılar.  ",
 					"vi-VN": "Đến từ hợp chủng quốc Hoa Kỳ - Brimstone luôn đảm bảo lợi thế cho đồng đội bằng những vũ khí tối tân của mình. Những chiêu thức mang lại khả năng hỗ trợ chính xác và đảm bảo an toàn khiến Brimstone xứng đáng là một sĩ quan lục quân vô địch.  ",
 					"zh-CN": "炼狱来自于美国，他使用各种轨道武器来确保他的团队始终能保持优势。他的技能可为前线提供精确而安全的辅助，使他成为无可比拟的前线指挥官。  ",
@@ -3566,7 +3566,7 @@
 					"pl-PL": "Rodowity Japończyk Yoru wyrywa dziury w rzeczywistości, by niepostrzeżenie infiltrować linie wroga. Wykorzystując w równym stopniu podstęp i agresję, z zaskoczenia atakuje każdy kompletnie nieświadomy zagrożenia cel.",
 					"pt-BR": "Yoru, nativo do Japão, abre fendas na realidade para infiltrar as linhas inimigas sem ser visto. Ele usa tanto artimanhas quanto táticas agressivas, e os alvos são abatidos sem saber de onde o ataque veio.",
 					"ru-RU": "Уроженец Японии Yoru способен создавать разрывы в самой реальности, чтобы незаметно пробираться на вражескую территорию. Сила и хитрость позволяют ему заставать врагов врасплох – они даже не успеют понять, откуда пришла смерть.",
-					"th-TH": "Yoru ชายหนุ่มชาวญี่ปุ่นผู้สามารถแหวกมิติเพื่อแฝงตัวไปในกองทัพของศัตรูได้อย่างแนบเนียน ด้วยเล่ห์กลและความดุดันที่เทียบเท่ากัน เขาสามารถกำจัดเป้าหมายได้ก่อนที่พวกมันจะได้ทันตั้งตัวเสียด้วยซ้ำ",
+					"th-TH": "Yoru หนุ่มญี่ปุ่นผู้สามารถแหวกมิติเพื่อเคลื่อนย้ายและแฝงตัวไปในกองทัพศัตรูได้อย่างแนบเนียน ด้วยเล่ห์เหลี่ยมและความดุดันที่มีมากพอกัน เขาสามารถกำจัดเป้าหมายได้ก่อนที่พวกมันจะทันตั้งตัวเสียอีก",
 					"tr-TR": "Japon Yoru, gerçeklikte açtığı geçitlerden geçerek düşman hattına sinsice sızıyor. Yanılsamalardan ve kaba kuvvetten eşit oranda faydalanarak hedeflerini göz açıp kapayıncaya kadar indiriyor.",
 					"vi-VN": "Đến từ Nhật Bản, Yoru có khả năng xé toang thực tại để xâm nhập vào hàng ngũ của địch mà không bị phát hiện. Với kỹ năng vừa đánh lừa vừa tấn công kẻ địch, con mồi của Yoru sẽ chẳng bao giờ biết được mình bị ai hạ gục.",
 					"zh-CN": "来自日本的夜露可直接撕裂现实空间，无声无息地渗透敌人的防线。善于使用伪装又好斗的他，每次都能打对手一个猝不及防。",
@@ -3595,7 +3595,7 @@
 							"pl-PL": "WYPOSAŻ echo, które imituje dźwięk kroków po aktywacji. STRZEL, aby aktywować i posłać echo przed siebie. ALT. STRZAŁ umieszcza echo w wybranym miejscu. UŻYJ nieaktywnego echa, by posłać je naprzód.",
 							"pt-BR": "EQUIPE uma granada de eco que imita passos quando ativada. DISPARE para ativá-la e propagar seu efeito. Use o MODO SECUNDÁRIO para posicioná-la. USE a granada inativa para propagar o som de outra.",
 							"ru-RU": "Выбирает эхо, которое при активации имитирует звук шагов. Нажмите кнопку ОГОНЬ, чтобы послать эхо вперед. Разместите эхо с помощью кнопки АЛЬТ. ОГОНЬ. Нажмите ИСПОЛЬЗОВАТЬ, чтобы послать неактивное эхо вперед.",
-							"th-TH": "ติดตั้งเสียงสะท้อนที่คล้ายกับเสียงฝีเท้าเมื่อเปิดใช้งาน ยิงเพื่อเปิดใช้งานและส่งเสียงสะท้อนออกไปข้างหน้า กดโหมดยิงเสริมเพื่อวางเสียงสะท้อนลง กดใช้เสียงสะท้อนที่ยังไม่ถูกเปิดใช้งานเพื่อส่งไปข้างหน้า",
+							"th-TH": "ติดตั้งเสียงฝีเท้าปลอมเมื่อเปิดใช้งาน ยิงเพื่อเปิดใช้งานและส่งเสียงฝีเท้าไปข้างหน้า กดโหมดยิงเสริมเพื่อวางเสียงฝีเท้าลง กดใช้เสียงฝีเท้าที่ยังไม่ถูกเปิดใช้งานเพื่อส่งไปข้างหน้า",
 							"tr-TR": "Etkinleştirildiğinde ayak seslerini taklit eden bir yanılsama KUŞAN. Yanılsamayı etkinleştirerek ileri göndermek için ATEŞ ET. Yanılsamayı yerleştirmek için ALT. ATIŞ'a bas. Devre dışı halde duran yanılsamayı etkinleştirmek için KULLAN'a bas.",
 							"vi-VN": "TRANG BỊ một vọng âm mô phỏng tiếng bước chân khi kích hoạt, NHẤP BẮN để kích hoạt và phóng vọng âm ra phía trước, NHẤP CHẾ ĐỘ PHỤ để đặt vọng âm tại một vị trí, nhấp phím SỬ DỤNG vọng âm chưa được kích hoạt để phóng ra phía trước.",
 							"zh-CN": "装备回音器，激活后可模仿脚步声。按下射击即可激活回音器，将其向前发射。按下次射击放置回音器。对未激活的回音器按下使用，即可将其向前发射。",
@@ -3649,7 +3649,7 @@
 							"pl-PL": "WYPOSAŻ, by wyrwać niestabilny fragment wymiaru z rzeczywistości. STRZEL, aby rzucić fragmentem i aktywować błysk, który zadziała po kontakcie z twardym elementem otoczenia.",
 							"pt-BR": "EQUIPE para arrancar um fragmento dimensional instável da realidade. DISPARE para lançar o fragmento, ativando um clarão que se dissipa ao atingir uma superfície sólida.",
 							"ru-RU": "Нажмите кнопку умения, чтобы вырвать нестабильный фрагмент реальности. Нажмите кнопку ОГОНЬ, чтобы бросить фрагмент. При столкновении фрагмента с твердой поверхностью возникает ослепляющая вспышка.",
-							"th-TH": "ติดตั้งเพื่อฉีกชิ้นส่วนห้วงมิติที่ไม่เสถียรออกจากความเป็นจริง ยิงเพื่อปาชิ้นส่วนออกไป ทำให้เกิดแสงสว่างวาบที่จะหมุนขึ้นเมื่อกระทบกับพื้นผิวแข็งๆ บนโลก",
+							"th-TH": "ติดตั้งเพื่อฉีกชิ้นส่วนห้วงมิติที่ไม่เสถียรออกจากความเป็นจริง ยิงเพื่อปาชิ้นส่วนออกไป ทำให้เกิดแสงสว่างวาบหลังจากกระทบกับพื้นผิวชั่วครู่",
 							"tr-TR": "Kararsız bir boyut parçacığını gerçeklikten koparıp almak için KUŞAN. Parçacığı fırlatmak için ATEŞ ET. Fırlattığın parçacık sert bir yüzeye çarptığında kör edici bir ışık saçar.",
 							"vi-VN": "NHẤP TRANG BỊ để xé toạc một mảnh vỡ không gian bất định từ thực tại. NHẤP BẮN để ném mảnh vỡ không gian, kích hoạt ánh sáng chói lóa sẽ tích tụ khi va chạm vào bề mặt cứng và làm mù kẻ địch.",
 							"zh-CN": "装备后可从现实中撕裂出一块不稳定的空间碎片。按下射击即可抛出碎片。与世界中的坚硬表面碰撞后，碎片会马上发出闪光。",
@@ -3703,7 +3703,7 @@
 							"pl-PL": "WYPOSAŻ, by wykorzystać uprząż wymiarową. STRZEL, aby wypuścić uprząż przed siebie. ALT. STRZAŁ mocuje uprząż w miejscu. AKTYWUJ ją, by teleportować się w dane miejsce.",
 							"pt-BR": "EQUIPE para preparar um fluxo dimensional. DISPARE para lançar uma extremidade. Use o MODO SECUNDÁRIO para posicionar a outra. ATIVE para se teleportar até a extremidade lançada.",
 							"ru-RU": "Нажмите кнопку умения, чтобы привязать нить портала. Нажмите кнопку ОГОНЬ, чтобы послать нить вперед. Закрепите другой конец нити с помощью кнопки АЛЬТ. ОГОНЬ. Нажмите АКТИВИРОВАТЬ, чтобы телепортироваться по нити.",
-							"th-TH": "ติดตั้งเพื่อควบคุมโซ่ริฟท์ ยิงเพื่อปล่อยโซ่ให้พุ่งไปข้างหน้า กดโหมดยิงเสริมเพื่อวางโซ่ลง กดใช้เพื่อเคลื่อนย้ายไปยังตำแหน่งของโซ่",
+							"th-TH": "ติดตั้งเพื่อควบคุมการเชื่อมโยงของมิติ ยิงเพื่อปล่อยจุดเชื่อมมิติไปข้างหน้า กดโหมดยิงเสริมเพื่อวางจุเชื่อมมิติลง กดใช้เพื่อเคลื่อนย้ายไปยังจุดเชื่อมมิติ",
 							"tr-TR": "Bir boyut geçidi küresi KUŞAN. Küreyi ilerletmek için ATEŞ ET. Küreyi yerleştirmek için ALT. ATIŞ'a bas. Kürenin bulunduğu konuma ışınlanmak için küreyi ETKİNLEŞTİR.",
 							"vi-VN": "NHẤP TRANG BỊ để khai thác sức mạnh của kết nối không gian, NHẤP BẮN để giải phóng kết nối ra phía trước, NHẤP CHẾ ĐỘ PHỤ để đặt kết nối vào vị trí, NHẤP KÍCH HOẠT để dịch chuyển tức thời tới vị trí kết nối.",
 							"zh-CN": "装备后可套上一根裂隙系绳。按下射击即可扔出系绳，向前移动。按下次射击即可将系绳固定在某位置，并在按下激活时，将自己传送到系绳的位置。",
@@ -3757,7 +3757,7 @@
 							"pl-PL": "WYPOSAŻ maskę, która pozwala widzieć między wymiarami. STRZEL, aby przenieść się do wymiaru Yoru, gdzie wrogowie z zewnątrz nie mogą go zobaczyć ani na niego wpłynąć.",
 							"pt-BR": "EQUIPE uma máscara para olhar por entre as dimensões. DISPARE para entrar na dimensão do Yoru, onde você não poderá ser afetado nem visto pelos inimigos lá fora.",
 							"ru-RU": "Выбирает маску, которая позволяет смотреть сквозь измерения. Нажмите кнопку ОГОНЬ, чтобы переместиться в измерение, в котором Yoru неуязвим и невидим для врагов.",
-							"th-TH": "ติดตั้งหน้ากากที่ช่วยให้มองเห็นมิติต่าง ๆ  ยิงเพื่อเข้าไปยังมิติของ Yoru ทำให้ศัตรูที่อยู่ภายนอกไม่สามารถมองเห็นหรือโจมตีเขาได้",
+							"th-TH": "สวมใส่หน้ากากที่สามารถมองเห็นในระหว่างสองมิติได้ กดยิงเพื่อเข้าไปยังอีกมิติของ Yoru ทำให้ศัตรูที่อยู่ภายนอกไม่สามารถมองเห็นหรือโจมตีเขาได้",
 							"tr-TR": "Boyutlararasını görebilen bir maske KUŞAN. Yoru'nun boyutuna geçmek için ATEŞ ET. Yoru'nun boyutundayken dışarıdaki düşmanlar tarafından görülemez ve onlardan etkilenmezsin.",
 							"vi-VN": "NHẤP TRANG BỊ để đeo 1 mặt nạ có khả năng nhìn xuyên qua chiều không gian, NHẤP BẮN để dịch chuyển vào chiều không gian của Yoru, không thể bị kẻ thù ở bên ngoài nhìn thấy hay tác động.",
 							"zh-CN": "装备可让你看见空间空隙的面罩。按下射击即可进入夜的空间，无法被外在敌人看到或受其影响。",
@@ -3839,7 +3839,7 @@
 					"pl-PL": "Sage to istna chińska twierdza, która sprawia, że zarówno ona, jak i jej drużyna mogą czuć się bezpiecznie w każdym miejscu. Potrafi wskrzeszać poległych towarzyszy i odpierać potężne ataki, co czyni z niej ostoję spokoju na piekielnym polu walki.",
 					"pt-BR": "Como uma verdadeira fortaleza chinesa, Sage traz segurança para si mesma e para a equipe aonde quer que vá. Capaz de reviver aliados e rechaçar investidas agressivas, ela oferece um centro de calmaria em meio ao caos da batalha.",
 					"ru-RU": "Защитница Китая Sage обеспечивает безопасность команды в бою. Благодаря возможности воскрешать союзников и сдерживать натиск врага она создает оазис покоя на жутком поле боя.",
-					"th-TH": "Sage เป็นเสมือนดั่งป้อมปราการของจีน เธอมอบความปลอดภัยแก่ตัวเองและเพื่อนร่วมทีมในทุกที่ที่เธอไปโดยอาศัยความสามารถในการชุบชีวิตเพื่อนร่วมทีมและการป้องกันการโจมตี เธอจึงเป็นศูนย์กลางของความสงบท่ามกลางสนามรบอันดุเดือด",
+					"th-TH": "Sage เปรียบเสมือนป้อมปราการของจีน เธอมอบความปลอดภัยแก่ตัวเองและเพื่อนร่วมทีมในทุกที่ที่เธอไปโดยอาศัยความสามารถในการชุบชีวิตเพื่อนร่วมทีมและการป้องกันการโจมตี เธอจึงเป็นศูนย์กลางของความสงบท่ามกลางสนามรบอันดุเดือด",
 					"tr-TR": "Çinli ve kapı gibi Sage gittiği her yerde kendisini ve takımını güvende tutar. Öldürülen silah arkadaşlarını hayata döndürme yeteneği ve agresif saldırıları bertaraf edebilmesiyle, cehennemvari savaş meydanında etrafına huzur verir.",
 					"vi-VN": "Đến từ Trung Quốc, Sage luôn đảm bảo cho mình và đồng đội được an toàn ở bất cứ nơi đâu cô đến. Với khả năng hồi sinh đồng đội đã ngã xuống và đẩy lùi những cuộc tấn công dữ dội, cô là hậu phương vững chắc cho đồng đội trong những trận giao tranh khốc liệt.",
 					"zh-CN": "贤者素有中国堡垒的美誉，她无论到哪都能保护自己和队友。她能复活已故队友并延缓猛烈攻击，为地狱般的战场带来安逸的避风港。",
@@ -4112,7 +4112,7 @@
 					"pl-PL": "Zahartowana w samym sercu Meksyku Reyna przoduje w walce 1 na 1, rozkręcając się z każdym zabójstwem. Ograniczają ją wyłącznie jej własne umiejętności — im lepiej sobie radzi, tym staje się potężniejsza. ",
 					"pt-BR": "Criada no coração do México, Reyna domina o combate individual, destacando-se a cada abate efetuado. Sua capacidade só é limitada por sua própria perícia, tornando-a bastante dependente de desempenho. ",
 					"ru-RU": "Выросшая в самом сердце Мексики Reyna способна одолеть любого в бою один на один, и убийства придают ей сил. Ее мощь ограничена лишь мастерством и очень зависит от успехов в бою.",
-					"th-TH": "หล่อหลอมขึ้นมาจากใจกลางเม็กซิโก Reyna กุมอำนาจในการต่อสู้เดี่ยว โผล่ออกมาพร้อมกับทำการสังหารแทบทุกครั้ง ความสามารถของเธอนั้นถูกจำกัดด้วยทักษะของเธอ ซึ่งทำให้ประสิทธิภาพของเธอนั้นขึ้นอยู่กับการเล่น ",
+					"th-TH": "Reyna ได้รับการหล่อหลอมขึ้นมาจากใจกลางเม็กซิโก เธอกุมอำนาจในการดวล การปรากฎตัวออกมาของเธอมักทำการสังหารได้แทบทุกครั้ง เพราะขอบเขตความสามารถนั้นถูกจำกัดด้วยทักษะดั้งเดิมของเธอจึงทำให้ประสิทธิภาพของเธอนั้นขึ้นอยู่กับการเล่น",
 					"tr-TR": "Meksika'nın kalbinden kopup gelmiş Reyna teke tek çatışmalarda düşmanını ezer ve aldığı her skorla daha da coşar. Yapabilecekleri tamamen saf beceri gerektirir ve onu ciddi şekilde performansa dayalı kılar. ",
 					"vi-VN": "Được tôi luyện tại trung tâm của thành phố Mexico, Reyna luôn áp đảo trong các giao tranh đơn lẻ và trở nên mạnh mẽ hơn với mỗi đối thủ bị cô hạ gục. Sức mạnh của cô chỉ bị giới hạn bởi kỹ năng cá nhân, cũng là điều khiến cô bị lệ thuộc khá nhiều vào phong độ thi đấu của người chơi. ",
 					"zh-CN": "出生于墨西哥城的芮娜是单打独斗之后，每个被她歼灭的敌人都会强化她的力量。她的力量仅受限于她的原始技能，使她格外依赖实战的表现。 ",
@@ -4140,7 +4140,7 @@
 							"ko-KR": "영혼 수확: 레이나가 처치하거나 레이나에게 피해를 입고 3초 이내에 죽은 적은 3초 동안 유지되는 영혼 구슬을 남깁니다.\n포식: 즉시 근처에 있는 영혼 구슬을 흡수하여 짧은 시간 동안 순식간에 체력을 회복합니다. 이 스킬로 회복한 체력이 100을 넘어가면 초과분은 시간이 흐르면서 사라집니다. 여제 활성화 시 이 스킬이 자동으로 사용되며 영혼 구슬을 흡수하지 않습니다.",
 							"pl-PL": "Żniwa Duszy: Wrogowie zabici przez Reynę lub ci, którzy zginęli w ciągu 3 sekund od otrzymania obrażeń od Reyny, zostawiają po sobie pozostające na ziemi przez 3 sekundy Kule Duszy.\nPożarcie: NATYCHMIAST pochłoń pobliską Kulę Duszy, która zapewni szybkie leczenie przez krótki czas. Zdobyte w ten sposób punkty zdrowia przekraczające 100 z czasem zanikną. Jeśli CESARZOWA jest aktywna, umiejętność ta zostanie użyta automatycznie i nie pochłonie Kuli Duszy.",
 							"pt-BR": "Colheita de Almas: inimigos abatidos por Reyna ou abatidos até 3 segundos após sofrerem dano da Reyna deixam Orbes de Alma que duram 3s.\n\nDevorar: INSTANTANEAMENTE consome um Orbe de Alma próximo, curando-se de forma rápida por um curto período. A quantidade de Vida concedida por esta habilidade que ultrapassar 100 decairá ao longo do tempo. Se a habilidade IMPERATRIZ estiver ativa, esta habilidade será conjurada automaticamente e não consumirá o Orbe de Alma.",
-							"ru-RU": "Сбор душ: когда Reyna убивает противника или когда противник умирает в течение 3 секунд после получения урона от Reyna, на 3 секунды появляется сфера души.\nПоглощение: МГНОВЕННО поглощает находящуюся поблизости сферу души, быстро восполняя здоровье. При чрезмерном исцелении и превышении показателя в 100, лишнее здоровье постепенно рассеивается. Используется автоматически и не поглощает сферу во время действия абсолютного умения.",
+							"ru-RU": "Сбор душ: когда Reyna убивает противника или когда противник умирает в течение 3 секунд после получения урона от нее, на 3 секунды появляется сфера души.\nПоглощение: МГНОВЕННО поглощает находящуюся поблизости сферу души, быстро восполняя здоровье. При чрезмерном исцелении и превышении показателя в 100 лишнее здоровье постепенно рассеивается. Используется автоматически и не поглощает сферу во время действия абсолютного умения.",
 							"th-TH": "Soul Harvest: ศัตรูที่ถูกสังหารด้วย Reyna หรือถูกสังหารหลังจากที่ได้รับความเสียหายจาก Reyna เป็นเวลา 3 วินาที ศัตรูนั้นจะทิ้ง Soul Orb ที่สามารถคงอยู่เป็นเวลา 3 วินาที\nDevour: จะใช้ Soul Orb ที่อยู่ใกล้เคียงในทันที และ จะฮีลอย่างต่อเนื่องเป็นระยะเวลาสั้น ๆ พลังชีวิตที่ได้รับจากสกิลนี้ที่เกิน 100 หน่วยจะสลายตัวลงตามระยะเวลา หาก EMPRESS ทำงานอยู่ สกิลนี้จะถูกร่ายโดยอัตโนมัติและไม่ใช้ Soul Orb",
 							"tr-TR": "Ruh Hasadı: Reyna'nın öldürdüğü veya Reyna'dan hasar aldıktan sonra 3 saniye içinde ölen düşmanlar, arkalarında 3 saniyeliğine Ruh Küreleri bırakır.\nSömür: HEMEN yakınlardaki bir ruh küresini tüket ve kısa süreliğine hızla can yenile. Bu yetenek yoluyla edinilen 100'ü aşan can miktarı zaman içinde erir. İMPARATORİÇE etkinse yetenek otomatik olarak kullanılır ve Ruh Küresi harcamaz.",
 							"vi-VN": "Tụ Linh: Kẻ địch bị hạ gục bởi Ryena, hoặc đã nhận sát thương từ Reyna trong vòng 3 giây trước khi bị tiêu diệt sẽ để lại một Linh Ngọc trong 3 giây.\nNuốt chửng: LẬP TỨC hấp thụ 1 linh ngọc ở gần để hồi máu siêu tốc trong một thời gian ngắn. Máu nhận được từ kỹ năng này có thể vượt quá 100 và sẽ giảm dần theo thời gian. Nếu NỮ HOÀNG đang kích hoạt, kỹ năng này sẽ được tự động thi triển và không hấp thụ Linh Ngọc.",
@@ -4302,7 +4302,7 @@
 							"ko-KR": "즉시 광란 상태가 되어 사격, 장착, 재장전 속도가 크게 증가합니다. 영혼 수확의 충전량을 무제한으로 얻습니다. 레이나가 처치하거나 레이나에게 피해를 입고 3초 이내에 죽은 적이 있으면 지속시간이 초기화됩니다.",
 							"pl-PL": "NATYCHMIAST wprowadza w szał, znacznie zwiększając szybkość strzału, wyposażania i przeładowania. Zapewnia nieskończone ładunki umiejętności Żniwa Duszy. Kiedy Reyna zabije wroga lub zginie on w ciągu 3 sekund od otrzymania obrażeń od Reyny, czas trwania zostaje odnowiony.",
 							"pt-BR": "INSTANTANEAMENTE entra em estado de frenesi, aumentando drasticamente as velocidades de disparo, equipagem e recarga de munição. Ganha cargas infinitas das habilidades de Colheita de Almas. A duração é renovada quando um inimigo morrer para Reyna ou em até 3 segundos após sofrer dano de Reyna.",
-							"ru-RU": "СРАЗУ ЖЕ впадает в бешенство, повышая скорость стрельбы и обращения с оружием. Дает бесконечное количество зарядов \"Сбора душ\". Когда Reyna убивает противника или когда противник умирает в течение 3 секунд после получения урона от Reyna, время действия умения продлевается.",
+							"ru-RU": "СРАЗУ ЖЕ впадает в бешенство, значительно повышая скорость стрельбы и обращения с оружием. Дает бесконечное количество зарядов \"Сбора душ\". Когда Reyna убивает противника или когда противник умирает в течение 3 секунд после получения урона от нее, время действия умения продлевается.",
 							"th-TH": "เข้าสู่สถานะบ้าคลั่งในทันที ซึ่งจะเพิ่มความเร็วในการยิง การติดตั้งอุปกรณ์ และการรีโหลดอย่างมาก ได้รับชาร์จไม่จำกัดสำหรับสกิล Soul Harvest เมื่อมีศัตรูตายเพราะ Reyna หรือตายภายใน 3 วินาทีหลังได้รับความเสียหายจาก Reyna ระยะเวลาจะเริ่มนับใหม่อีกครั้ง",
 							"tr-TR": "HEMEN bir coşku haline geç. Atış, kuşanma ve doldurma hızı ciddi şekilde artar. Ruh Hasadı yetenekleri için sonsuz yük kazanırsın. Reyna bir düşmanı öldürdüğünde veya düşman hasar aldıktan 3 saniye sonra öldüğünde, bekleme süresi yenilenir.",
 							"vi-VN": "LẬP TỨC vào trạng thái điên cuồng, tăng mạnh tốc độ bắn, đổi súng và thay đạn. Nhận lượt dùng vô hạn các kỹ năng của Tụ Linh. Khi một kẻ địch bị Reyna hạ gục, hoặc bị hạ gục trong vòng 3 giây sau khi nhận sát thương từ Reyna, thời gian tác dụng sẽ được hồi lại.",
@@ -4385,7 +4385,7 @@
 					"pl-PL": "Omen, upiór wspomnień, poluje pośród cieni. Oślepia wrogów, teleportuje się po polu walki i pozwala, by nieświadomych miejsca kolejnego ataku nieprzyjaciół ogarnęła paranoja.",
 					"pt-BR": "Omen, uma lembrança fantasmagórica, caça nas sombras. Ele cega os inimigos, teleporta-se pelo campo e deixa a paranoia assumir o controle enquanto o adversário tenta descobrir de onde virá seu próximo ataque.",
 					"ru-RU": "Призрак из прошлого Omen наносит удары из тени. Он способен ослеплять врагов и незаметно перемещаться по полю боя, вселяя страх в сердца противников, тщетно пытающихся предугадать, откуда он нападет вновь.",
-					"th-TH": "Omen ออกล่าในเงามืด ดั่งปีศาจแห่งความทรงจำ เขาสามารถหายตัวข้ามสนาม ทำให้ศัตรูสูญเสียการมองเห็น แล้วก็ปล่อยให้ความหวาดระแวงเข้าครอบงำศัตรู ก่อให้เกิดความกลัวว่าเมื่อไหร่ที่เขาจะลงมืออีกครั้ง",
+					"th-TH": "Omen ออกล่าในเงามืด ดั่งปีศาจแห่งความทรงจำ เขาสามารถหายตัวข้ามสนาม ทำให้ศัตรูสูญเสียการมองเห็น แล้วปล่อยให้ความหวาดระแวงเข้าครอบงำศัตรู ก่อให้เกิดความกลัวว่าเมื่อไหร่ที่เขาจะลงมืออีกครั้ง",
 					"tr-TR": "Bir anının hayaleti olan Omen gölgelerin içinde avlanır. Düşmanlarını kör eder, savaş alanını boydan boya kat eder ve paranoyanın, onun ne taraftan saldıracağını anlamaya çalışan rakiplerinin damarlarında gezinmesini sağlar.",
 					"vi-VN": "Tựa như bóng ma của ký ức, Omen săn lùng trong bóng tối. Khả năng khống chế tầm nhìn và dịch chuyển tức thời của hắn khiến mọi đối thủ phải hoang mang tột độ vì có thể bị tấn công bất cứ lúc nào từ bất cứ nơi đâu.",
 					"zh-CN": "身为记忆的幻影，幽影擅长匿伏在阴影中狩猎。他能阻碍敌方的视线并在战场上肆意地瞬移，然后让恐惧占据敌人的内心，使其惊慌失措并试图找出他的下一个目标。",
@@ -4658,7 +4658,7 @@
 					"pl-PL": "Zwinność i uniki Jett, reprezentującej Koreę Południową, pozwalają jej podejmować ryzyko, na jakie inni się nie decydują. Porusza się z niesamowitą szybkością, a jej wrogowie nie wiedzą, co ich trafiło.",
 					"pt-BR": "Representando a Coreia do Sul, sua terra natal, Jett tem um estilo de luta ágil e evasivo que permite que ela assuma riscos como ninguém. Ela corre em meio a qualquer confronto, cortando os inimigos antes mesmo que eles percebam quem ou o que os atingiu.",
 					"ru-RU": "Представляющая Южную Корею Jett быстра и неуловима и может позволить себе рисковать чаще других. В любой стычке она заходит с флангов и быстро уничтожает растерявшегося противника.",
-					"th-TH": "เข้าร่วมรบในฐานะตัวแทนบ้านเกิดของเธอจากประเทศเกาหลีใต้ สไตล์การต่อสู้ที่แสนคล่องตัวและสง่างามของ Jett ทำให้เธอสามารถเผชิญหน้ากับความเสี่ยงในแบบที่ไม่มีใครทำได้ เธอวิ่งวนไปทั่วความชุลมุน เชือดเฉือนศัตรูก่อนที่พวกเขาจะรู้ว่าสิ่งใดได้โจมตีพวกเขา",
+					"th-TH": "Jett คือตัวแทนจากเกาหลีใต้ บ้านเกิดของเธอ ด้วยรูปแบบการต่อสู้ที่คล่องตัวและสง่างาม ทำให้เธอเผชิญหน้ากับความเสี่ยงอย่างที่ไม่มีใครทำได้ เธอวิ่งไปรอบๆจุดปะทะ เชือดเฉือนศัตรูก่อนที่พวกเขาจะรู้ว่าถูกสิ่งใดโจมตี",
 					"tr-TR": "Anavatanı Güney Kore'yi temsil eden Jett'in çevik ve darbelerden kaçmaya dayalı dövüş tarzı, başkalarının alamadığı riskleri almasını sağlar. Her çatışmada üstünlüğünü belli eder ve rakipleri daha nerede olduğunu anlamadan onları kesip biçmeye başlar.",
 					"vi-VN": "Đến từ Hàn Quốc, với phong cách chiến đấu nhanh nhẹn và huyền ảo, Jett có thể thực hiện những pha tấn công liều lĩnh đến bất ngờ. Thoắt ẩn thoắt hiện trong các cuộc giao tranh, cô ra đòn chặn đứng đối thủ trước khi chúng kịp hiểu chuyện gì xảy ra.",
 					"zh-CN": "身为其祖国韩国的代表，捷风灵活闪避的战斗风格让她得以踏入他人无法涉足的险境。她每次都在战场上肆意纵横，甚至在对手还未察觉的情况下除掉对手。",
@@ -4903,7 +4903,7 @@
 							"pl-PL": "Przytrzymanie klawisza skoku podczas spadania pozwala ci szybować w powietrzu.",
 							"pt-BR": "Segurar o botão de pulo durante uma queda permite que você plane no ar.",
 							"ru-RU": "Зажав клавишу прыжка во время падения, можно медленно планировать вниз.",
-							"th-TH": "กดปุ่มกระโดดค้างไว้ขณะที่ตกลงมาจะช่วยให้คุณเหินในอากาศได้",
+							"th-TH": "กดปุ่มกระโดดค้างไว้ขณะที่ตกลงมาจะช่วยให้คุณเหาะในอากาศได้",
 							"tr-TR": "Düşerken zıplama tuşunu basılı tutmak, havada süzülmeni sağlar.",
 							"vi-VN": "Giữ nút nhảy trong khi đang rơi sẽ giúp cho Jett lướt trên không.",
 							"zh-CN": "落下时按住跳跃键可让你在空中滑翔。",
@@ -11462,9 +11462,9 @@
 							"en-US": "Ruin Vandal",
 							"es-ES": "Vandal Ruin",
 							"es-MX": "Vandal Ruina",
-							"fr-FR": "Vandal (Ruines)",
+							"fr-FR": "Vandal (Vestiges)",
 							"id-ID": "Ruin Vandal",
-							"it-IT": "Vandal Rovina",
+							"it-IT": "Vandal Reliquia",
 							"ja-JP": "ルイン ヴァンダル",
 							"ko-KR": "몰락 밴달",
 							"pl-PL": "Vandal Zniszczenia",
@@ -11493,9 +11493,9 @@
 							"en-US": "Ruin Vandal",
 							"es-ES": "Vandal Ruin",
 							"es-MX": "Vandal Ruina",
-							"fr-FR": "Vandal (Ruines)",
+							"fr-FR": "Vandal (Vestiges)",
 							"id-ID": "Ruin Vandal",
-							"it-IT": "Vandal Rovina",
+							"it-IT": "Vandal Reliquia",
 							"ja-JP": "ルイン ヴァンダル",
 							"ko-KR": "몰락 밴달",
 							"pl-PL": "Vandal Zniszczenia",
@@ -11522,9 +11522,9 @@
 					"en-US": "Ruin Vandal",
 					"es-ES": "Vandal Ruin",
 					"es-MX": "Vandal Ruina",
-					"fr-FR": "Vandal (Ruines)",
+					"fr-FR": "Vandal (Vestiges)",
 					"id-ID": "Ruin Vandal",
-					"it-IT": "Vandal Rovina",
+					"it-IT": "Vandal Reliquia",
 					"ja-JP": "ルイン ヴァンダル",
 					"ko-KR": "몰락 밴달",
 					"pl-PL": "Vandal Zniszczenia",
@@ -13363,7 +13363,7 @@
 							"ko-KR": "원탭 밴달 3레벨\n(변형 2 갈색)",
 							"pl-PL": "Vandal Ego (poziom 3)\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Vandal Ego Nível 3\n(Variante 2 Creme)",
-							"ru-RU": "Vandal \"Эго\" уровень 3\n(расцветка 2 \"Темный\")",
+							"ru-RU": "Vandal \"Эго\" уровень 3\n(расцветка 2 \"Хаки\")",
 							"th-TH": "Ego Vandal เลเวล 3\n(ตัวเลือกที่ 2 สีแทน)",
 							"tr-TR": "3. SEVİYE EGO VANDAL\n(STİL 2 - BEJ)",
 							"vi-VN": "Vandal Tự Cao Cấp 3\n(Dạng 2 Ánh Sạm)",
@@ -16287,6 +16287,273 @@
 					"vi-VN": "Phantom Thanh Bình",
 					"zh-CN": "平静幻影",
 					"zh-TW": "奢雕剛玉 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "0D6EAC16-4F0F-1014-E6B2-65AA72F2EDFF",
+			"chromas": [
+				{
+					"id": "0D6EAC16-4F0F-1014-E6B2-65AA72F2EDFF",
+					"label": "0D6EAC16-4F0F-1014-E6B2-65AA72F2EDFF",
+					"name":
+					{
+						"defaultText": "Ruination Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين فانتوم",
+							"de-DE": "Phantom – Zerstörung",
+							"en-US": "Ruination Phantom",
+							"es-ES": "Phantom Ruination",
+							"es-MX": "Phantom Arruinado",
+							"fr-FR": "Phantom (Ruine)",
+							"id-ID": "Ruination Phantom",
+							"it-IT": "Phantom Rovina",
+							"ja-JP": "ルイネーション ファントム",
+							"ko-KR": "대몰락 팬텀",
+							"pl-PL": "Phantom Zrujnowania",
+							"pt-BR": "Phantom Ruína",
+							"ru-RU": "Phantom \"Погибель\"",
+							"th-TH": "Ruination Phantom",
+							"tr-TR": "AFET PHANTOM",
+							"vi-VN": "Phantom Đại Suy Vong",
+							"zh-CN": "Ruination Phantom",
+							"zh-TW": "殞落詛咒 幻象"
+						}
+					}
+				},
+				{
+					"id": "948B7EEA-467E-5FC3-4314-D191305FB68E",
+					"label": "948B7EEA-467E-5FC3-4314-D191305FB68E",
+					"name":
+					{
+						"defaultText": "Ruination Phantom Level 4\n(Variant 1 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين فانتوم المستوى 4\n(بديل 1 أرجواني)",
+							"de-DE": "Phantom – Zerstörung Level 4\n(Variante 1, Violett)",
+							"en-US": "Ruination Phantom Level 4\n(Variant 1 Purple)",
+							"es-ES": "Phantom Ruination de nivel 4\n(variante 1: púrpura)",
+							"es-MX": "Phantom Arruinado nivel 4\n(Variante 1 Morada)",
+							"fr-FR": "Phantom (Ruine) niveau 4\n(variante 1 Violet)",
+							"id-ID": "Ruination Phantom Level 4\n(Varian 1 Ungu)",
+							"it-IT": "Phantom Rovina livello 4\n(variante 1 Viola)",
+							"ja-JP": "ルイネーション ファントム Lv.4\n(ヴァリアント 1 パープル)",
+							"ko-KR": "대몰락 팬텀 4레벨\n(변형 1 보라색)",
+							"pl-PL": "Phantom Zrujnowania (poziom 4)\n(wersja 1 – fioletowa)",
+							"pt-BR": "Phantom Ruína Nível 4\n(Variante 1 Roxa)",
+							"ru-RU": "Phantom \"Погибель\" уровень 4\n(расцветка 1 \"Фиолетовый\")",
+							"th-TH": "Ruination Phantom เลเวล 4\n(ตัวเลือกที่ 1 สีม่วง)",
+							"tr-TR": "4. SEVİYE AFET PHANTOM\n(STİL 1 - MOR)",
+							"vi-VN": "Phantom Đại Suy Vong Cấp 4\n(Dạng 1 Ánh Tím)",
+							"zh-CN": "Ruination Phantom Level 4\n(Variant 1 Purple)",
+							"zh-TW": "殞落詛咒 幻象 等級4\n（幻彩1 紫色）"
+						}
+					}
+				},
+				{
+					"id": "7F466F2F-4C80-1222-5C3F-989486CFABC3",
+					"label": "7F466F2F-4C80-1222-5C3F-989486CFABC3",
+					"name":
+					{
+						"defaultText": "Ruination Phantom Level 4\n(Variant 2 Red/Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين فانتوم المستوى 4\n(بديل 2 أحمر/أصفر)",
+							"de-DE": "Phantom – Zerstörung Level 4\n(Variante 2, Rot/Gelb)",
+							"en-US": "Ruination Phantom Level 4\n(Variant 2 Red/Yellow)",
+							"es-ES": "Phantom Ruination de nivel 4\n(variante 2: rojo/amarillo)",
+							"es-MX": "Phantom Arruinado nivel 4\n(Variante 2 Roja/Amarilla)",
+							"fr-FR": "Phantom (Ruine) niveau 4\n(variante 2 Rouge/Jaune)",
+							"id-ID": "Ruination Phantom Level 4\n(Varian 2 Merah/Kuning)",
+							"it-IT": "Phantom Rovina livello 4\n(variante 2 Rossa/Gialla)",
+							"ja-JP": "ルイネーション ファントム Lv.4\n(ヴァリアント 2 レッド / イエロー)",
+							"ko-KR": "대몰락 팬텀 4레벨\n(변형 2 빨간색/노란색)",
+							"pl-PL": "Phantom Zrujnowania (poziom 4)\n(wersja 2 – czerwona/żółta)",
+							"pt-BR": "Phantom Ruína Nível 4\n(Variante 2 Vermelha/Amarela)",
+							"ru-RU": "Phantom \"Погибель\" уровень 4\n(расцветка 2 \"Красный/Желтый\")",
+							"th-TH": "Ruination Phantom เลเวล 4\n(ตัวเลือกที่ 2 สีแดง/เหลือง)",
+							"tr-TR": "4. SEVİYE AFET PHANTOM\n(STİL 2 - KIRMIZI/SARI)",
+							"vi-VN": "Phantom Đại Suy Vong Cấp 4\n(Dạng 2 Ánh Đỏ/Vàng)",
+							"zh-CN": "Ruination Phantom Level 4\n(Variant 2 Red/Yellow)",
+							"zh-TW": "殞落詛咒 幻象 等級4\n（幻彩2 紅／黃色）"
+						}
+					}
+				},
+				{
+					"id": "0EBB5188-4528-D6F6-7576-BB87E980A2D4",
+					"label": "0EBB5188-4528-D6F6-7576-BB87E980A2D4",
+					"name":
+					{
+						"defaultText": "Ruination Phantom Level 4\n(Variant 3 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين فانتوم المستوى 4\n(بديل 3 أخضر)",
+							"de-DE": "Phantom – Zerstörung Level 4\n(Variante 3, Grün)",
+							"en-US": "Ruination Phantom Level 4\n(Variant 3 Green)",
+							"es-ES": "Phantom Ruination de nivel 4\n(variante 3: verde)",
+							"es-MX": "Phantom Arruinado nivel 4\n(Variante 3 Verde)",
+							"fr-FR": "Phantom (Ruine) niveau 4\n(variante 3 Vert)",
+							"id-ID": "Ruination Phantom Level 4\n(Varian 3 Hijau)",
+							"it-IT": "Phantom Rovina livello 4\n(variante 3 Verde)",
+							"ja-JP": "ルイネーション ファントム Lv.4\n(ヴァリアント 3 グリーン)",
+							"ko-KR": "대몰락 팬텀 4레벨\n(변형 3 녹색)",
+							"pl-PL": "Phantom Zrujnowania (poziom 4)\n(wersja 3 – zielona)",
+							"pt-BR": "Phantom Ruína Nível 4\n(Variante 3 Verde)",
+							"ru-RU": "Phantom \"Погибель\" уровень 4\n(расцветка 3 \"Зеленый\")",
+							"th-TH": "Ruination Phantom เลเวล 4\n(ตัวเลือกที่ 3 สีเขียว)",
+							"tr-TR": "4. SEVİYE AFET PHANTOM\n(STİL 3 - YEŞİL)",
+							"vi-VN": "Phantom Đại Suy Vong Cấp 4\n(Dạng 3 Ánh Lục)",
+							"zh-CN": "Ruination Phantom Level 4\n(Variant 3 Green)",
+							"zh-TW": "殞落詛咒 幻象 等級4\n（幻彩3 綠色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "279E0A89-4DD6-B135-CEF9-8EBB1DF6F2AC",
+					"label": "279E0A89-4DD6-B135-CEF9-8EBB1DF6F2AC",
+					"name":
+					{
+						"defaultText": "Ruination Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين فانتوم",
+							"de-DE": "Phantom – Zerstörung",
+							"en-US": "Ruination Phantom",
+							"es-ES": "Phantom Ruination",
+							"es-MX": "Phantom Arruinado",
+							"fr-FR": "Phantom (Ruine)",
+							"id-ID": "Ruination Phantom",
+							"it-IT": "Phantom Rovina",
+							"ja-JP": "ルイネーション ファントム",
+							"ko-KR": "대몰락 팬텀",
+							"pl-PL": "Phantom Zrujnowania",
+							"pt-BR": "Phantom Ruína",
+							"ru-RU": "Phantom \"Погибель\"",
+							"th-TH": "Ruination Phantom",
+							"tr-TR": "AFET PHANTOM",
+							"vi-VN": "Phantom Đại Suy Vong",
+							"zh-CN": "Ruination Phantom",
+							"zh-TW": "殞落詛咒 幻象"
+						}
+					}
+				},
+				{
+					"id": "9F3ECFF5-4662-075D-1684-1EAA7E604FCD",
+					"label": "9F3ECFF5-4662-075D-1684-1EAA7E604FCD",
+					"name":
+					{
+						"defaultText": "Ruination Phantom Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين فانتوم المستوى 2",
+							"de-DE": "Phantom – Zerstörung Level 2",
+							"en-US": "Ruination Phantom Level 2",
+							"es-ES": "Phantom Ruination de nivel 2",
+							"es-MX": "Phantom Arruinado nivel 2",
+							"fr-FR": "Phantom (Ruine) niveau 2",
+							"id-ID": "Ruination Phantom Level 2",
+							"it-IT": "Phantom Rovina livello 2",
+							"ja-JP": "ルイネーション ファントム Lv.2",
+							"ko-KR": "대몰락 팬텀 2레벨",
+							"pl-PL": "Phantom Zrujnowania (poziom 2)",
+							"pt-BR": "Phantom Ruína Nível 2",
+							"ru-RU": "Phantom \"Погибель\" уровень 2",
+							"th-TH": "Ruination Phantom เลเวล 2",
+							"tr-TR": "2. SEVİYE AFET PHANTOM",
+							"vi-VN": "Phantom Đại Suy Vong Cấp 2",
+							"zh-CN": "Ruination Phantom Level 2",
+							"zh-TW": "殞落詛咒 幻象 等級2"
+						}
+					}
+				},
+				{
+					"id": "770549D5-493B-BE86-2B38-098D394D1406",
+					"label": "770549D5-493B-BE86-2B38-098D394D1406",
+					"name":
+					{
+						"defaultText": "Ruination Phantom Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين فانتوم المستوى 3",
+							"de-DE": "Phantom – Zerstörung Level 3",
+							"en-US": "Ruination Phantom Level 3",
+							"es-ES": "Phantom Ruination de nivel 3",
+							"es-MX": "Phantom Arruinado nivel 3",
+							"fr-FR": "Phantom (Ruine) niveau 3",
+							"id-ID": "Ruination Phantom Level 3",
+							"it-IT": "Phantom Rovina livello 3",
+							"ja-JP": "ルイネーション ファントム Lv.3",
+							"ko-KR": "대몰락 팬텀 3레벨",
+							"pl-PL": "Phantom Zrujnowania (poziom 3)",
+							"pt-BR": "Phantom Ruína Nível 3",
+							"ru-RU": "Phantom \"Погибель\" уровень 3",
+							"th-TH": "Ruination Phantom เลเวล 3",
+							"tr-TR": "3. SEVİYE AFET PHANTOM",
+							"vi-VN": "Phantom Đại Suy Vong Cấp 3",
+							"zh-CN": "Ruination Phantom Level 3",
+							"zh-TW": "殞落詛咒 幻象 等級3"
+						}
+					}
+				},
+				{
+					"id": "9B6F0D5B-4BB9-9B45-2564-A2AAC9D2526B",
+					"label": "9B6F0D5B-4BB9-9B45-2564-A2AAC9D2526B",
+					"name":
+					{
+						"defaultText": "Ruination Phantom Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين فانتوم المستوى 4",
+							"de-DE": "Phantom – Zerstörung Level 4",
+							"en-US": "Ruination Phantom Level 4",
+							"es-ES": "Phantom Ruination de nivel 4",
+							"es-MX": "Phantom Arruinado nivel 4",
+							"fr-FR": "Phantom (Ruine) niveau 4",
+							"id-ID": "Ruination Phantom Level 4",
+							"it-IT": "Phantom Rovina livello 4",
+							"ja-JP": "ルイネーション ファントム Lv.4",
+							"ko-KR": "대몰락 팬텀 4레벨",
+							"pl-PL": "Phantom Zrujnowania (poziom 4)",
+							"pt-BR": "Phantom Ruína Nível 4",
+							"ru-RU": "Phantom \"Погибель\" уровень 4",
+							"th-TH": "Ruination Phantom เลเวล 4",
+							"tr-TR": "4. SEVİYE AFET PHANTOM",
+							"vi-VN": "Phantom Đại Suy Vong Cấp 4",
+							"zh-CN": "Ruination Phantom Level 4",
+							"zh-TW": "殞落詛咒 幻象 等級4"
+						}
+					}
+				}
+			],
+			"id": "5B43D27B-419C-F2BC-53FE-D7829DAD46B3",
+			"label": "5B43D27B-419C-F2BC-53FE-D7829DAD46B3",
+			"name":
+			{
+				"defaultText": "Ruination Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "روينيشين فانتوم",
+					"de-DE": "Phantom – Zerstörung",
+					"en-US": "Ruination Phantom",
+					"es-ES": "Phantom Ruination",
+					"es-MX": "Phantom Arruinado",
+					"fr-FR": "Phantom (Ruine)",
+					"id-ID": "Ruination Phantom",
+					"it-IT": "Phantom Rovina",
+					"ja-JP": "ルイネーション ファントム",
+					"ko-KR": "대몰락 팬텀",
+					"pl-PL": "Phantom Zrujnowania",
+					"pt-BR": "Phantom Ruína",
+					"ru-RU": "Phantom \"Погибель\"",
+					"th-TH": "Ruination Phantom",
+					"tr-TR": "AFET PHANTOM",
+					"vi-VN": "Phantom Đại Suy Vong",
+					"zh-CN": "Ruination Phantom",
+					"zh-TW": "殞落詛咒 幻象"
 				}
 			}
 		},
@@ -20860,7 +21127,7 @@
 							"it-IT": "Bucky Monarca",
 							"ja-JP": "モナーク バッキー",
 							"ko-KR": "모나크 버키",
-							"pl-PL": "Bucky Królewski",
+							"pl-PL": "Bucky Monarchii",
 							"pt-BR": "Bucky Monarquia",
 							"ru-RU": "Bucky \"Властелин\"",
 							"th-TH": "Monarch Bucky",
@@ -20891,7 +21158,7 @@
 							"it-IT": "Bucky Monarca",
 							"ja-JP": "モナーク バッキー",
 							"ko-KR": "모나크 버키",
-							"pl-PL": "Bucky Królewski",
+							"pl-PL": "Bucky Monarchii",
 							"pt-BR": "Bucky Monarquia",
 							"ru-RU": "Bucky \"Властелин\"",
 							"th-TH": "Monarch Bucky",
@@ -20920,7 +21187,7 @@
 					"it-IT": "Bucky Monarca",
 					"ja-JP": "モナーク バッキー",
 					"ko-KR": "모나크 버키",
-					"pl-PL": "Bucky Królewski",
+					"pl-PL": "Bucky Monarchii",
 					"pt-BR": "Bucky Monarquia",
 					"ru-RU": "Bucky \"Властелин\"",
 					"th-TH": "Monarch Bucky",
@@ -24054,7 +24321,7 @@
 							"it-IT": "Frenzy Monarca",
 							"ja-JP": "モナーク フレンジー",
 							"ko-KR": "모나크 프렌지",
-							"pl-PL": "Frenzy Królewski",
+							"pl-PL": "Frenzy Monarchii",
 							"pt-BR": "Frenzy Monarquia",
 							"ru-RU": "Frenzy \"Властелин\"",
 							"th-TH": "Monarch Frenzy",
@@ -24085,7 +24352,7 @@
 							"it-IT": "Frenzy Monarca",
 							"ja-JP": "モナーク フレンジー",
 							"ko-KR": "모나크 프렌지",
-							"pl-PL": "Frenzy Królewski",
+							"pl-PL": "Frenzy Monarchii",
 							"pt-BR": "Frenzy Monarquia",
 							"ru-RU": "Frenzy \"Властелин\"",
 							"th-TH": "Monarch Frenzy",
@@ -24114,7 +24381,7 @@
 					"it-IT": "Frenzy Monarca",
 					"ja-JP": "モナーク フレンジー",
 					"ko-KR": "모나크 프렌지",
-					"pl-PL": "Frenzy Królewski",
+					"pl-PL": "Frenzy Monarchii",
 					"pt-BR": "Frenzy Monarquia",
 					"ru-RU": "Frenzy \"Властелин\"",
 					"th-TH": "Monarch Frenzy",
@@ -26264,7 +26531,7 @@
 							"pl-PL": "Zwykła",
 							"pt-BR": "Padrão",
 							"ru-RU": "Стандарт",
-							"th-TH": "มาตรฐาน",
+							"th-TH": "พื้นฐาน",
 							"tr-TR": "STANDART",
 							"vi-VN": "Thông thường",
 							"zh-CN": "标准",
@@ -26279,27 +26546,27 @@
 					"label": "E7822F41-4DC8-6FAB-A931-4FB1BB7590AB",
 					"name":
 					{
-						"defaultText": "",
+						"defaultText": "FIRE/arm Classic",
 						"localizedByCulture":
 						{
-							"ar-AE": "",
-							"de-DE": "",
-							"en-US": "",
-							"es-ES": "",
-							"es-MX": "",
-							"fr-FR": "",
-							"id-ID": "",
-							"it-IT": "",
-							"ja-JP": "",
-							"ko-KR": "",
-							"pl-PL": "",
-							"pt-BR": "",
-							"ru-RU": "",
-							"th-TH": "",
-							"tr-TR": "",
-							"vi-VN": "",
-							"zh-CN": "",
-							"zh-TW": ""
+							"ar-AE": "سلاح/ناري كلاسيكي",
+							"de-DE": "Classic – FEUER/waffe",
+							"en-US": "FIRE/arm Classic",
+							"es-ES": "Classic FIRE/arm",
+							"es-MX": "Classic Arma/FUEGO",
+							"fr-FR": "Classic (ARME/poing)",
+							"id-ID": "FIRE/arm Classic",
+							"it-IT": "Classic FIRE/arm",
+							"ja-JP": "ファイヤー / アーム クラシック",
+							"ko-KR": "화기 클래식",
+							"pl-PL": "Classic broń/PALNA",
+							"pt-BR": "Classic PIS/tola",
+							"ru-RU": "Classic \"ОГНЕ/стрел\"",
+							"th-TH": "FIRE/arm Classic",
+							"tr-TR": "ROBO/TABANCA CLASSIC",
+							"vi-VN": "SÚNG/lục",
+							"zh-CN": "武/器经典",
+							"zh-TW": "FIRE/arm 制式手槍"
 						}
 					}
 				}
@@ -26323,7 +26590,7 @@
 					"ko-KR": "화기 클래식",
 					"pl-PL": "Classic broń/PALNA",
 					"pt-BR": "Classic PIS/tola",
-					"ru-RU": "ОГНЕ/стрельное оружие Classic",
+					"ru-RU": "Classic \"ОГНЕ/стрел\"",
 					"th-TH": "FIRE/arm Classic",
 					"tr-TR": "ROBO/TABANCA CLASSIC",
 					"vi-VN": "SÚNG/lục",
@@ -26792,7 +27059,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "بريزم III كلاسيك\n(بديل 3 أرجواني)",
-							"de-DE": "Classic – Prisma III (Variante 3, Violett)",
+							"de-DE": "Classic – Prisma III\n(Variante 3, Violett)",
 							"en-US": "Prism III Classic\n(Variant 3 Purple)",
 							"es-ES": "Classic Prism III\n(variante 3: púrpura)",
 							"es-MX": "Classic Prismática III\n(Variante 3 Morada)",
@@ -28652,6 +28919,273 @@
 		},
 		{
 			"weaponId": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+			"defaultChromaId": "D3E54726-42C9-F5A1-6FA4-AF9BCE033EAF",
+			"chromas": [
+				{
+					"id": "D3E54726-42C9-F5A1-6FA4-AF9BCE033EAF",
+					"label": "D3E54726-42C9-F5A1-6FA4-AF9BCE033EAF",
+					"name":
+					{
+						"defaultText": "Ruination Ghost",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غوست",
+							"de-DE": "Ghost – Zerstörung",
+							"en-US": "Ruination Ghost",
+							"es-ES": "Ghost Ruination",
+							"es-MX": "Ghost Arruinada",
+							"fr-FR": "Ghost (Ruine)",
+							"id-ID": "Ruination Ghost",
+							"it-IT": "Ghost Rovina",
+							"ja-JP": "ルイネーション ゴースト",
+							"ko-KR": "대몰락 고스트",
+							"pl-PL": "Ghost Zrujnowania",
+							"pt-BR": "Ghost Ruína",
+							"ru-RU": "Ghost \"Погибель\"",
+							"th-TH": "Ruination Ghost",
+							"tr-TR": "AFET GHOST",
+							"vi-VN": "Ghost Đại Suy Vong",
+							"zh-CN": "Ruination Ghost",
+							"zh-TW": "殞落詛咒 鬼魅"
+						}
+					}
+				},
+				{
+					"id": "3BB2644A-4088-1D9D-BF2D-F1ABD57FDEDF",
+					"label": "3BB2644A-4088-1D9D-BF2D-F1ABD57FDEDF",
+					"name":
+					{
+						"defaultText": "Ruination Ghost Level 4\n(Variant 1 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غوست المستوى 4\n(بديل 1 أرجواني)",
+							"de-DE": "Ghost – Zerstörung Level 4\n(Variante 1, Violett)",
+							"en-US": "Ruination Ghost Level 4\n(Variant 1 Purple)",
+							"es-ES": "Ghost Ruination de nivel 4\n(variante 1: púrpura)",
+							"es-MX": "Ghost Arruinada nivel 4\n(Variante 1 Morada)",
+							"fr-FR": "Ghost (Ruine) niveau 4\n(variante 1 Violet)",
+							"id-ID": "Ruination Ghost Level 4\n(Varian 1 Ungu)",
+							"it-IT": "Ghost Rovina livello 4\n(variante 1 Viola)",
+							"ja-JP": "ルイネーション ゴースト Lv.4\n(ヴァリアント 1 パープル)",
+							"ko-KR": "대몰락 고스트 4레벨\n(변형 1 보라색)",
+							"pl-PL": "Ghost Zrujnowania (poziom 4)\n(wersja 1 – fioletowa)",
+							"pt-BR": "Ghost Ruína Nível 4\n(Variante 1 Roxa)",
+							"ru-RU": "Ghost \"Погибель\" уровень 4\n(расцветка 1 \"Фиолетовый\")",
+							"th-TH": "Ruination Ghost เลเวล 4\n(ตัวเลือกที่ 1 สีม่วง)",
+							"tr-TR": "4. SEVİYE AFET GHOST\n(STİL 1 - MOR)",
+							"vi-VN": "Ghost Đại Suy Vong Cấp 4\n(Dạng 1 Ánh Tím)",
+							"zh-CN": "Ruination Ghost Level 4\n(Variant 1 Purple)",
+							"zh-TW": "殞落詛咒 鬼魅 等級4\n（幻彩1 紫色）"
+						}
+					}
+				},
+				{
+					"id": "F7639E6D-46CC-FC91-7F35-4E85DA576E76",
+					"label": "F7639E6D-46CC-FC91-7F35-4E85DA576E76",
+					"name":
+					{
+						"defaultText": "Ruination Ghost Level 4\n(Variant 2 Red/Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غوست المستوى 4\n(بديل 2 أحمر/أصفر)",
+							"de-DE": "Ghost – Zerstörung Level 4\n(Variante 2, Rot/Gelb)",
+							"en-US": "Ruination Ghost Level 4\n(Variant 2 Red/Yellow)",
+							"es-ES": "Ghost Ruination de nivel 4\n(variante 2: rojo/amarillo)",
+							"es-MX": "Ghost Arruinada nivel 4\n(Variante 2 Roja/Amarilla)",
+							"fr-FR": "Ghost (Ruine) niveau 4\n(variante 2 Rouge/Jaune)",
+							"id-ID": "Ruination Ghost Level 4\n(Varian 2 Merah/Kuning)",
+							"it-IT": "Ghost Rovina livello 4\n(variante 2 Rossa/Gialla)",
+							"ja-JP": "ルイネーション ゴースト Lv.4\n(ヴァリアント 2 レッド / イエロー)",
+							"ko-KR": "대몰락 고스트 4레벨\n(변형 2 빨간색/노란색)",
+							"pl-PL": "Ghost Zrujnowania (poziom 4)\n(wersja 2 – czerwona/żółta)",
+							"pt-BR": "Ghost Ruína Nível 4\n(Variante 2 Vermelha/Amarela)",
+							"ru-RU": "Ghost \"Погибель\" уровень 4\n(расцветка 2 \"Красный/Желтый\")",
+							"th-TH": "Ruination Ghost เลเวล 4\n(ตัวเลือกที่ 2 สีแดง/เหลือง)",
+							"tr-TR": "4. SEVİYE AFET GHOST\n(STİL 2 - KIRMIZI/SARI)",
+							"vi-VN": "Ghost Đại Suy Vong Cấp 4\n(Dạng 2 Ánh Đỏ/Vàng)",
+							"zh-CN": "Ruination Ghost Level 4\n(Variant 2 Red/Yellow)",
+							"zh-TW": "殞落詛咒 鬼魅 等級4\n（幻彩2 紅／黃色）"
+						}
+					}
+				},
+				{
+					"id": "5C363A8E-4EF8-4EBB-E068-CFB18EEBD93A",
+					"label": "5C363A8E-4EF8-4EBB-E068-CFB18EEBD93A",
+					"name":
+					{
+						"defaultText": "Ruination Ghost Level 4\n(Variant 3 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غوست المستوى 4\n(بديل 3 أخضر)",
+							"de-DE": "Ghost – Zerstörung Level 4\n(Variante 3, Grün)",
+							"en-US": "Ruination Ghost Level 4\n(Variant 3 Green)",
+							"es-ES": "Ghost Ruination de nivel 4\n(variante 3: verde)",
+							"es-MX": "Ghost Arruinada nivel 4\n(Variante 3 Verde)",
+							"fr-FR": "Ghost (Ruine) niveau 4\n(variante 3 Vert)",
+							"id-ID": "Ruination Ghost Level 4\n(Varian 3 Hijau)",
+							"it-IT": "Ghost Rovina livello 4\n(variante 3 Verde)",
+							"ja-JP": "ルイネーション ゴースト Lv.4\n(ヴァリアント 3 グリーン)",
+							"ko-KR": "대몰락 고스트 4레벨\n(변형 3 녹색)",
+							"pl-PL": "Ghost Zrujnowania (poziom 4)\n(wersja 3 – zielona)",
+							"pt-BR": "Ghost Ruína Nível 4\n(Variante 3 Verde)",
+							"ru-RU": "Ghost \"Погибель\" уровень 4\n(расцветка 3 \"Зеленый\")",
+							"th-TH": "Ruination Ghost เลเวล 4\n(ตัวเลือกที่ 3 สีเขียว)",
+							"tr-TR": "4. SEVİYE AFET GHOST\n(STİL 3 - YEŞİL)",
+							"vi-VN": "Ghost Đại Suy Vong Cấp 4\n(Dạng 3 Ánh Lục)",
+							"zh-CN": "Ruination Ghost Level 4\n(Variant 3 Green)",
+							"zh-TW": "殞落詛咒 鬼魅 等級4\n（幻彩3 綠色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "5E1F5465-40CD-2C0F-33AB-398C5367D080",
+					"label": "5E1F5465-40CD-2C0F-33AB-398C5367D080",
+					"name":
+					{
+						"defaultText": "Ruination Ghost",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غوست",
+							"de-DE": "Ghost – Zerstörung",
+							"en-US": "Ruination Ghost",
+							"es-ES": "Ghost Ruination",
+							"es-MX": "Ghost Arruinada",
+							"fr-FR": "Ghost (Ruine)",
+							"id-ID": "Ruination Ghost",
+							"it-IT": "Ghost Rovina",
+							"ja-JP": "ルイネーション ゴースト",
+							"ko-KR": "대몰락 고스트",
+							"pl-PL": "Ghost Zrujnowania",
+							"pt-BR": "Ghost Ruína",
+							"ru-RU": "Ghost \"Погибель\"",
+							"th-TH": "Ruination Ghost",
+							"tr-TR": "AFET GHOST",
+							"vi-VN": "Ghost Đại Suy Vong",
+							"zh-CN": "Ruination Ghost",
+							"zh-TW": "殞落詛咒 鬼魅"
+						}
+					}
+				},
+				{
+					"id": "4AC6ACB8-4B37-67FD-39EC-C6800BA7367F",
+					"label": "4AC6ACB8-4B37-67FD-39EC-C6800BA7367F",
+					"name":
+					{
+						"defaultText": "Ruination Ghost Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غوست المستوى 2",
+							"de-DE": "Ghost – Zerstörung Level 2",
+							"en-US": "Ruination Ghost Level 2",
+							"es-ES": "Ghost Ruination de nivel 2",
+							"es-MX": "Ghost Arruinada nivel 2",
+							"fr-FR": "Ghost (Ruine) niveau 2",
+							"id-ID": "Ruination Ghost Level 2",
+							"it-IT": "Ghost Rovina livello 2",
+							"ja-JP": "ルイネーション ゴースト Lv.2",
+							"ko-KR": "대몰락 고스트 2레벨",
+							"pl-PL": "Ghost Zrujnowania (poziom 2)",
+							"pt-BR": "Ghost Ruína Nível 2",
+							"ru-RU": "Ghost \"Погибель\" уровень 2",
+							"th-TH": "Ruination Ghost เลเวล 2",
+							"tr-TR": "2. SEVİYE AFET GHOST",
+							"vi-VN": "Ghost Đại Suy Vong Cấp 2",
+							"zh-CN": "Ruination Ghost Level 2",
+							"zh-TW": "殞落詛咒 鬼魅 等級2"
+						}
+					}
+				},
+				{
+					"id": "E26A2676-4257-A963-CF70-BF9F52F1F318",
+					"label": "E26A2676-4257-A963-CF70-BF9F52F1F318",
+					"name":
+					{
+						"defaultText": "Ruination Ghost Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غوست المستوى 3",
+							"de-DE": "Ghost – Zerstörung Level 3",
+							"en-US": "Ruination Ghost Level 3",
+							"es-ES": "Ghost Ruination de nivel 3",
+							"es-MX": "Ghost Arruinada nivel 3",
+							"fr-FR": "Ghost (Ruine) niveau 3",
+							"id-ID": "Ruination Ghost Level 3",
+							"it-IT": "Ghost Rovina livello 3",
+							"ja-JP": "ルイネーション ゴースト Lv.3",
+							"ko-KR": "대몰락 고스트 3레벨",
+							"pl-PL": "Ghost Zrujnowania (poziom 3)",
+							"pt-BR": "Ghost Ruína Nível 3",
+							"ru-RU": "Ghost \"Погибель\" уровень 3",
+							"th-TH": "Ruination Ghost เลเวล 3",
+							"tr-TR": "3. SEVİYE AFET GHOST",
+							"vi-VN": "Ghost Đại Suy Vong Cấp 3",
+							"zh-CN": "Ruination Ghost Level 3",
+							"zh-TW": "殞落詛咒 鬼魅 等級3"
+						}
+					}
+				},
+				{
+					"id": "B78F3320-444E-B936-637C-258505EA509D",
+					"label": "B78F3320-444E-B936-637C-258505EA509D",
+					"name":
+					{
+						"defaultText": "Ruination Ghost Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غوست المستوى 4",
+							"de-DE": "Ghost – Zerstörung Level 4",
+							"en-US": "Ruination Ghost Level 4",
+							"es-ES": "Ghost Ruination de nivel 4",
+							"es-MX": "Ghost Arruinada nivel 4",
+							"fr-FR": "Ghost (Ruine) niveau 4",
+							"id-ID": "Ruination Ghost Level 4",
+							"it-IT": "Ghost Rovina livello 4",
+							"ja-JP": "ルイネーション ゴースト Lv.4",
+							"ko-KR": "대몰락 고스트 4레벨",
+							"pl-PL": "Ghost Zrujnowania (poziom 4)",
+							"pt-BR": "Ghost Ruína Nível 4",
+							"ru-RU": "Ghost \"Погибель\" уровень 4",
+							"th-TH": "Ruination Ghost เลเวล 4",
+							"tr-TR": "4. SEVİYE AFET GHOST",
+							"vi-VN": "Ghost Đại Suy Vong Cấp 4",
+							"zh-CN": "Ruination Ghost Level 4",
+							"zh-TW": "殞落詛咒 鬼魅 等級4"
+						}
+					}
+				}
+			],
+			"id": "8A513C24-4C4D-AC15-6066-A1B2FF577041",
+			"label": "8A513C24-4C4D-AC15-6066-A1B2FF577041",
+			"name":
+			{
+				"defaultText": "Ruination Ghost",
+				"localizedByCulture":
+				{
+					"ar-AE": "روينيشين غوست",
+					"de-DE": "Ghost – Zerstörung",
+					"en-US": "Ruination Ghost",
+					"es-ES": "Ghost Ruination",
+					"es-MX": "Ghost Arruinada",
+					"fr-FR": "Ghost (Ruine)",
+					"id-ID": "Ruination Ghost",
+					"it-IT": "Ghost Rovina",
+					"ja-JP": "ルイネーション ゴースト",
+					"ko-KR": "대몰락 고스트",
+					"pl-PL": "Ghost Zrujnowania",
+					"pt-BR": "Ghost Ruína",
+					"ru-RU": "Ghost \"Погибель\"",
+					"th-TH": "Ruination Ghost",
+					"tr-TR": "AFET GHOST",
+					"vi-VN": "Ghost Đại Suy Vong",
+					"zh-CN": "Ruination Ghost",
+					"zh-TW": "殞落詛咒 鬼魅"
+				}
+			}
+		},
+		{
+			"weaponId": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
 			"defaultChromaId": "F0D9BAD3-4C59-743E-C5DA-54BAB6D7C328",
 			"chromas": [
 				{
@@ -30004,7 +30538,7 @@
 							"ko-KR": "원탭 고스트 3레벨\n(변형 2 갈색)",
 							"pl-PL": "Ghost Ego (poziom 3)\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Ghost Ego Nível 3\n(Variante 2 Creme)",
-							"ru-RU": "Ghost \"Эго\" уровень 3\n(расцветка 2 \"Темный\")",
+							"ru-RU": "Ghost \"Эго\" уровень 3\n(расцветка 2 \"Хаки\")",
 							"th-TH": "Ego Ghost เลเวล 3\n(ตัวเลือกที่ 2 สีแทน)",
 							"tr-TR": "3. SEVİYE EGO GHOST\n(STİL 2 - BEJ)",
 							"vi-VN": "Ghost Tự Cao Cấp 3\n(Dạng 2 Ánh Sạm)",
@@ -33053,9 +33587,9 @@
 							"en-US": "Ruin Shorty",
 							"es-ES": "Shorty Ruin",
 							"es-MX": "Shorty Ruina",
-							"fr-FR": "Shorty (Ruines)",
+							"fr-FR": "Shorty (Vestiges)",
 							"id-ID": "Ruin Shorty",
-							"it-IT": "Shorty Rovina",
+							"it-IT": "Shorty Reliquia",
 							"ja-JP": "ルイン ショーティー",
 							"ko-KR": "몰락 쇼티",
 							"pl-PL": "Shorty Zniszczenia",
@@ -33084,9 +33618,9 @@
 							"en-US": "Ruin Shorty",
 							"es-ES": "Shorty Ruin",
 							"es-MX": "Shorty Ruina",
-							"fr-FR": "Shorty (Ruines)",
+							"fr-FR": "Shorty (Vestiges)",
 							"id-ID": "Ruin Shorty",
-							"it-IT": "Shorty Rovina",
+							"it-IT": "Shorty Reliquia",
 							"ja-JP": "ルイン ショーティー",
 							"ko-KR": "몰락 쇼티",
 							"pl-PL": "Shorty Zniszczenia",
@@ -33113,9 +33647,9 @@
 					"en-US": "Ruin Shorty",
 					"es-ES": "Shorty Ruin",
 					"es-MX": "Shorty Ruina",
-					"fr-FR": "Shorty (Ruines)",
+					"fr-FR": "Shorty (Vestiges)",
 					"id-ID": "Ruin Shorty",
-					"it-IT": "Shorty Rovina",
+					"it-IT": "Shorty Reliquia",
 					"ja-JP": "ルイン ショーティー",
 					"ko-KR": "몰락 쇼티",
 					"pl-PL": "Shorty Zniszczenia",
@@ -33151,7 +33685,7 @@
 							"it-IT": "Shorty Monarca",
 							"ja-JP": "モナーク ショーティー",
 							"ko-KR": "모나크 쇼티",
-							"pl-PL": "Shorty Królewski",
+							"pl-PL": "Shorty Monarchii",
 							"pt-BR": "Shorty Monarquia",
 							"ru-RU": "Shorty \"Властелин\"",
 							"th-TH": "Monarch Shorty",
@@ -33182,7 +33716,7 @@
 							"it-IT": "Shorty Monarca",
 							"ja-JP": "モナーク ショーティー",
 							"ko-KR": "모나크 쇼티",
-							"pl-PL": "Shorty Królewski",
+							"pl-PL": "Shorty Monarchii",
 							"pt-BR": "Shorty Monarquia",
 							"ru-RU": "Shorty \"Властелин\"",
 							"th-TH": "Monarch Shorty",
@@ -33211,7 +33745,7 @@
 					"it-IT": "Shorty Monarca",
 					"ja-JP": "モナーク ショーティー",
 					"ko-KR": "모나크 쇼티",
-					"pl-PL": "Shorty Królewski",
+					"pl-PL": "Shorty Monarchii",
 					"pt-BR": "Shorty Monarquia",
 					"ru-RU": "Shorty \"Властелин\"",
 					"th-TH": "Monarch Shorty",
@@ -37305,9 +37839,9 @@
 							"en-US": "Ruin Guardian",
 							"es-ES": "Guardian Ruin",
 							"es-MX": "Guardian Ruina",
-							"fr-FR": "Guardian (Ruines)",
+							"fr-FR": "Guardian (Vestiges)",
 							"id-ID": "Ruin Guardian",
-							"it-IT": "Guardian Rovina",
+							"it-IT": "Guardian Reliquia",
 							"ja-JP": "ルイン ガーディアン",
 							"ko-KR": "몰락 가디언",
 							"pl-PL": "Guardian Zniszczenia",
@@ -37336,9 +37870,9 @@
 							"en-US": "Ruin Guardian",
 							"es-ES": "Guardian Ruin",
 							"es-MX": "Guardian Ruina",
-							"fr-FR": "Guardian (Ruines)",
+							"fr-FR": "Guardian (Vestiges)",
 							"id-ID": "Ruin Guardian",
-							"it-IT": "Guardian Rovina",
+							"it-IT": "Guardian Reliquia",
 							"ja-JP": "ルイン ガーディアン",
 							"ko-KR": "몰락 가디언",
 							"pl-PL": "Guardian Zniszczenia",
@@ -37365,9 +37899,9 @@
 					"en-US": "Ruin Guardian",
 					"es-ES": "Guardian Ruin",
 					"es-MX": "Guardian Ruina",
-					"fr-FR": "Guardian (Ruines)",
+					"fr-FR": "Guardian (Vestiges)",
 					"id-ID": "Ruin Guardian",
-					"it-IT": "Guardian Rovina",
+					"it-IT": "Guardian Reliquia",
 					"ja-JP": "ルイン ガーディアン",
 					"ko-KR": "몰락 가디언",
 					"pl-PL": "Guardian Zniszczenia",
@@ -37738,6 +38272,273 @@
 					"vi-VN": "Guardian Hoàng Gia",
 					"zh-CN": "至尊守护",
 					"zh-TW": "紫金狂潮 捍衛者"
+				}
+			}
+		},
+		{
+			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
+			"defaultChromaId": "3F621C8C-4FA8-B50C-969F-C5B4E8BDC3C9",
+			"chromas": [
+				{
+					"id": "3F621C8C-4FA8-B50C-969F-C5B4E8BDC3C9",
+					"label": "3F621C8C-4FA8-B50C-969F-C5B4E8BDC3C9",
+					"name":
+					{
+						"defaultText": "Ruination Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غارديان",
+							"de-DE": "Guardian – Zerstörung",
+							"en-US": "Ruination Guardian",
+							"es-ES": "Guardian Ruination",
+							"es-MX": "Guardian Arruinado",
+							"fr-FR": "Guardian (Ruine)",
+							"id-ID": "Ruination Guardian",
+							"it-IT": "Guardian Rovina",
+							"ja-JP": "ルイネーション ガーディアン",
+							"ko-KR": "대몰락 가디언",
+							"pl-PL": "Guardian Zrujnowania",
+							"pt-BR": "Guardian Ruína",
+							"ru-RU": "Guardian \"Погибель\"",
+							"th-TH": "Ruination Guardian",
+							"tr-TR": "AFET GUARDIAN",
+							"vi-VN": "Guardian Đại Suy Vong",
+							"zh-CN": "Ruination Guardian",
+							"zh-TW": "殞落詛咒 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "82024942-4396-65BF-777A-009FE896437F",
+					"label": "82024942-4396-65BF-777A-009FE896437F",
+					"name":
+					{
+						"defaultText": "Ruination Guardian Level 4\n(Variant 1 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غارديان المستوى 4\n(بديل 1 أرجواني)",
+							"de-DE": "Guardian – Zerstörung Level 4\n(Variante 1, Violett)",
+							"en-US": "Ruination Guardian Level 4\n(Variant 1 Purple)",
+							"es-ES": "Guardian Ruination de nivel 4\n(variante 1: púrpura)",
+							"es-MX": "Guardian Arruinado nivel 4\n(Variante 1 Morada)",
+							"fr-FR": "Guardian (Ruine) niveau 4\n(variante 1 Violet)",
+							"id-ID": "Ruination Guardian Level 4\n(Varian 1 Ungu)",
+							"it-IT": "Guardian Rovina livello 4\n(variante 1 Viola)",
+							"ja-JP": "ルイネーション ガーディアン Lv.4\n(ヴァリアント 1 パープル)",
+							"ko-KR": "대몰락 가디언 4레벨\n(변형 1 보라색)",
+							"pl-PL": "Guardian Zrujnowania (poziom 4)\n(wersja 1 – fioletowa)",
+							"pt-BR": "Guardian Ruína Nível 4\n(Variante 1 Roxa)",
+							"ru-RU": "Guardian \"Погибель\" уровень 4\n(расцветка 1 \"Фиолетовый\")",
+							"th-TH": "Ruination Guardian เลเวล 4\n(ตัวเลือกที่ 1 สีม่วง)",
+							"tr-TR": "4. SEVİYE AFET GUARDIAN\n(STİL 1 - MOR)",
+							"vi-VN": "Guardian Đại Suy Vong Cấp 4\n(Dạng 1 Ánh Tím)",
+							"zh-CN": "Ruination Guardian Level 4\n(Variant 1 Purple)",
+							"zh-TW": "殞落詛咒 捍衛者 等級4\n（幻彩1 紫色）"
+						}
+					}
+				},
+				{
+					"id": "3D0A76D8-4F01-244F-158D-57B59C5FF51E",
+					"label": "3D0A76D8-4F01-244F-158D-57B59C5FF51E",
+					"name":
+					{
+						"defaultText": "Ruination Guardian Level 4\n(Variant 2 Red/Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غارديان المستوى 4\n(بديل 2 أحمر/أصفر)",
+							"de-DE": "Guardian – Zerstörung Level 4\n(Variante 2, Rot/Gelb)",
+							"en-US": "Ruination Guardian Level 4\n(Variant 2 Red/Yellow)",
+							"es-ES": "Guardian Ruination de nivel 4\n(variante 2: rojo/amarillo)",
+							"es-MX": "Guardian Arruinado nivel 4\n(Variante 2 Roja/Amarilla)",
+							"fr-FR": "Guardian (Ruine) niveau 4\n(variante 2 Rouge/Jaune)",
+							"id-ID": "Ruination Guardian Level 4\n(Varian 2 Merah/Kuning)",
+							"it-IT": "Guardian Rovina livello 4\n(variante 2 Rossa/Gialla)",
+							"ja-JP": "ルイネーション ガーディアン Lv.4\n(ヴァリアント 2 レッド / イエロー)",
+							"ko-KR": "대몰락 가디언 4레벨\n(변형 2 빨간색/노란색)",
+							"pl-PL": "Guardian Zrujnowania (poziom 4)\n(wersja 2 – czerwona/zółta)",
+							"pt-BR": "Guardian Ruína Nível 4\n(Variante 2 Vermelha/Amarela)",
+							"ru-RU": "Guardian \"Погибель\" уровень 4\n(расцветка 2 \"Красный/Желтый\")",
+							"th-TH": "Ruination Guardian เลเวล 4\n(ตัวเลือกที่ 2 สีแดง/เหลือง)",
+							"tr-TR": "4. SEVİYE AFET GUARDIAN\n(STİL 2 - KIRMIZI/SARI)",
+							"vi-VN": "Guardian Đại Suy Vong Cấp 4\n(Dạng 2 Ánh Đỏ/Vàng)",
+							"zh-CN": "Ruination Guardian Level 4\n(Variant 2 Red/Yellow)",
+							"zh-TW": "殞落詛咒 捍衛者 等級4\n（幻彩2 紅／黃色）"
+						}
+					}
+				},
+				{
+					"id": "38776B08-42B7-4231-A32C-539251CF6B4A",
+					"label": "38776B08-42B7-4231-A32C-539251CF6B4A",
+					"name":
+					{
+						"defaultText": "Ruination Guardian Level 4\n(Variant 3 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غارديان المستوى 4\n(بديل 3 أخضر)",
+							"de-DE": "Guardian – Zerstörung Level 4\n(Variante 3, Grün)",
+							"en-US": "Ruination Guardian Level 4\n(Variant 3 Green)",
+							"es-ES": "Guardian Ruination de nivel 4\n(variante 3: verde)",
+							"es-MX": "Guardian Arruinado nivel 4\n(Variante 3 Verde)",
+							"fr-FR": "Guardian (Ruine) niveau 4\n(variante 3 Vert)",
+							"id-ID": "Ruination Guardian Level 4\n(Varian 3 Hijau)",
+							"it-IT": "Guardian Rovina livello 4\n(variante 3 Verde)",
+							"ja-JP": "ルイネーション ガーディアン Lv.4\n(ヴァリアント 3 グリーン)",
+							"ko-KR": "대몰락 가디언 4레벨\n(변형 3 녹색)",
+							"pl-PL": "Guardian Zrujnowania (poziom 4)\n(wersja 3 – zielona)",
+							"pt-BR": "Guardian Ruína Nível 4\n(Variante 3 Verde)",
+							"ru-RU": "Guardian \"Погибель\" уровень 4\n(расцветка 3 \"Зеленый\")",
+							"th-TH": "Ruination Guardian เลเวล 4\n(ตัวเลือกที่ 3 สีเขียว)",
+							"tr-TR": "4. SEVİYE AFET GUARDIAN\n(STİL 3 - YEŞİL)",
+							"vi-VN": "Guardian Đại Suy Vong Cấp 4\n(Dạng 3 Ánh Lục)",
+							"zh-CN": "Ruination Guardian Level 4\n(Variant 3 Green)",
+							"zh-TW": "殞落詛咒 捍衛者 等級4\n（幻彩3 綠色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "0E1AF0D5-4DEE-15DB-25B5-31A7DA6F1D52",
+					"label": "0E1AF0D5-4DEE-15DB-25B5-31A7DA6F1D52",
+					"name":
+					{
+						"defaultText": "Ruination Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غارديان",
+							"de-DE": "Guardian – Zerstörung",
+							"en-US": "Ruination Guardian",
+							"es-ES": "Guardian Ruination",
+							"es-MX": "Guardian Arruinado",
+							"fr-FR": "Guardian (Ruine)",
+							"id-ID": "Ruination Guardian",
+							"it-IT": "Guardian Rovina",
+							"ja-JP": "ルイネーション ガーディアン",
+							"ko-KR": "대몰락 가디언",
+							"pl-PL": "Guardian Zrujnowania",
+							"pt-BR": "Guardian Ruína",
+							"ru-RU": "Guardian \"Погибель\"",
+							"th-TH": "Ruination Guardian",
+							"tr-TR": "AFET GUARDIAN",
+							"vi-VN": "Guardian Đại Suy Vong",
+							"zh-CN": "Ruination Guardian",
+							"zh-TW": "殞落詛咒 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "E5686279-4ECB-8DD0-BBC1-5CACF998C392",
+					"label": "E5686279-4ECB-8DD0-BBC1-5CACF998C392",
+					"name":
+					{
+						"defaultText": "Ruination Guardian Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غارديان المستوى 2",
+							"de-DE": "Guardian – Zerstörung Level 2",
+							"en-US": "Ruination Guardian Level 2",
+							"es-ES": "Guardian Ruination de nivel 2",
+							"es-MX": "Guardian Arruinado nivel 2",
+							"fr-FR": "Guardian (Ruine) niveau 2",
+							"id-ID": "Ruination Guardian Level 2",
+							"it-IT": "Guardian Rovina livello 2",
+							"ja-JP": "ルイネーション ガーディアン Lv.2",
+							"ko-KR": "대몰락 가디언 2레벨",
+							"pl-PL": "Guardian Zrujnowania (poziom 2)",
+							"pt-BR": "Guardian Ruína Nível 2",
+							"ru-RU": "Guardian \"Погибель\" уровень 2",
+							"th-TH": "Ruination Guardian เลเวล 2",
+							"tr-TR": "2. SEVİYE AFET GUARDIAN",
+							"vi-VN": "Guardian Đại Suy Vong Cấp 2",
+							"zh-CN": "Ruination Guardian Level 2",
+							"zh-TW": "殞落詛咒 捍衛者 等級2"
+						}
+					}
+				},
+				{
+					"id": "972F5A0C-453A-FA8C-C0E6-7CA9DC4B98BB",
+					"label": "972F5A0C-453A-FA8C-C0E6-7CA9DC4B98BB",
+					"name":
+					{
+						"defaultText": "Ruination Guardian Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غارديان المستوى 3",
+							"de-DE": "Guardian – Zerstörung Level 3",
+							"en-US": "Ruination Guardian Level 3",
+							"es-ES": "Guardian Ruination de nivel 3",
+							"es-MX": "Guardian Arruinado nivel 3",
+							"fr-FR": "Guardian (Ruine) niveau 3",
+							"id-ID": "Ruination Guardian Level 3",
+							"it-IT": "Guardian Rovina livello 3",
+							"ja-JP": "ルイネーション ガーディアン Lv.3",
+							"ko-KR": "대몰락 가디언 3레벨",
+							"pl-PL": "Guardian Zrujnowania (poziom 3)",
+							"pt-BR": "Guardian Ruína Nível 3",
+							"ru-RU": "Guardian \"Погибель\" уровень 3",
+							"th-TH": "Ruination Guardian เลเวล 3",
+							"tr-TR": "3. SEVİYE AFET GUARDIAN",
+							"vi-VN": "Guardian Đại Suy Vong Cấp 3",
+							"zh-CN": "Ruination Guardian Level 3",
+							"zh-TW": "殞落詛咒 捍衛者 等級3"
+						}
+					}
+				},
+				{
+					"id": "26727126-4B2A-B735-EF3E-DF9B98C7BFEE",
+					"label": "26727126-4B2A-B735-EF3E-DF9B98C7BFEE",
+					"name":
+					{
+						"defaultText": "Ruination Guardian Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين غارديان المستوى 4",
+							"de-DE": "Guardian – Zerstörung Level 4",
+							"en-US": "Ruination Guardian Level 4",
+							"es-ES": "Guardian Ruination de nivel 4",
+							"es-MX": "Guardian Arruinado nivel 4",
+							"fr-FR": "Guardian (Ruine) niveau 4",
+							"id-ID": "Ruination Guardian Level 4",
+							"it-IT": "Guardian Rovina livello 4",
+							"ja-JP": "ルイネーション ガーディアン Lv.4",
+							"ko-KR": "대몰락 가디언 4레벨",
+							"pl-PL": "Guardian Zrujnowania (poziom 4)",
+							"pt-BR": "Guardian Ruína Nível 4",
+							"ru-RU": "Guardian \"Погибель\" уровень 4",
+							"th-TH": "Ruination Guardian เลเวล 4",
+							"tr-TR": "4. SEVİYE AFET GUARDIAN",
+							"vi-VN": "Guardian Đại Suy Vong Cấp 4",
+							"zh-CN": "Ruination Guardian Level 4",
+							"zh-TW": "殞落詛咒 捍衛者 等級4"
+						}
+					}
+				}
+			],
+			"id": "8966067D-4023-C88A-DB56-2691F163D335",
+			"label": "8966067D-4023-C88A-DB56-2691F163D335",
+			"name":
+			{
+				"defaultText": "Ruination Guardian",
+				"localizedByCulture":
+				{
+					"ar-AE": "روينيشين غارديان",
+					"de-DE": "Guardian – Zerstörung",
+					"en-US": "Ruination Guardian",
+					"es-ES": "Guardian Ruination",
+					"es-MX": "Guardian Arruinado",
+					"fr-FR": "Guardian (Ruine)",
+					"id-ID": "Ruination Guardian",
+					"it-IT": "Guardian Rovina",
+					"ja-JP": "ルイネーション ガーディアン",
+					"ko-KR": "대몰락 가디언",
+					"pl-PL": "Guardian Zrujnowania",
+					"pt-BR": "Guardian Ruína",
+					"ru-RU": "Guardian \"Погибель\"",
+					"th-TH": "Ruination Guardian",
+					"tr-TR": "AFET GUARDIAN",
+					"vi-VN": "Guardian Đại Suy Vong",
+					"zh-CN": "Ruination Guardian",
+					"zh-TW": "殞落詛咒 捍衛者"
 				}
 			}
 		},
@@ -39356,7 +40157,7 @@
 							"ko-KR": "원탭 가디언 3레벨\n(변형 2 갈색)",
 							"pl-PL": "Guardian Ego (poziom 3)\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Guardian Ego Nível 3\n(Variante 2 Creme)",
-							"ru-RU": "Guardian \"Эго\" уровень 3\n(расцветка 2 \"Темный\")",
+							"ru-RU": "Guardian \"Эго\" уровень 3\n(расцветка 2 \"Хаки\")",
 							"th-TH": "Ego Guardian เลเวล 3\n(ตัวเลือกที่ 2 สีแทน)",
 							"tr-TR": "3. SEVİYE EGO GUARDIAN\n(STİL 2 - BEJ)",
 							"vi-VN": "Guardian Tự Cao Cấp 3\n(Dạng 2 Ánh Sạm)",
@@ -39564,9 +40365,9 @@
 							"en-US": "Ruin Marshal",
 							"es-ES": "Marshal Ruin",
 							"es-MX": "Marshal Ruina",
-							"fr-FR": "Marshal (Ruines)",
+							"fr-FR": "Marshal (Vestiges)",
 							"id-ID": "Ruin Marshal",
-							"it-IT": "Marshal Rovina",
+							"it-IT": "Marshal Reliquia",
 							"ja-JP": "ルイン マーシャル",
 							"ko-KR": "몰락 마샬",
 							"pl-PL": "Marshal Zniszczenia",
@@ -39595,9 +40396,9 @@
 							"en-US": "Ruin Marshal",
 							"es-ES": "Marshal Ruin",
 							"es-MX": "Marshal Ruina",
-							"fr-FR": "Marshal (Ruines)",
+							"fr-FR": "Marshal (Vestiges)",
 							"id-ID": "Ruin Marshal",
-							"it-IT": "Marshal Rovina",
+							"it-IT": "Marshal Reliquia",
 							"ja-JP": "ルイン マーシャル",
 							"ko-KR": "몰락 마샬",
 							"pl-PL": "Marshal Zniszczenia",
@@ -39624,9 +40425,9 @@
 					"en-US": "Ruin Marshal",
 					"es-ES": "Marshal Ruin",
 					"es-MX": "Marshal Ruina",
-					"fr-FR": "Marshal (Ruines)",
+					"fr-FR": "Marshal (Vestiges)",
 					"id-ID": "Ruin Marshal",
-					"it-IT": "Marshal Rovina",
+					"it-IT": "Marshal Reliquia",
 					"ja-JP": "ルイン マーシャル",
 					"ko-KR": "몰락 마샬",
 					"pl-PL": "Marshal Zniszczenia",
@@ -39662,7 +40463,7 @@
 							"it-IT": "Marshal Monarca",
 							"ja-JP": "モナーク マーシャル",
 							"ko-KR": "모나크 마샬",
-							"pl-PL": "Marshal Królewski",
+							"pl-PL": "Marshal Monarchii",
 							"pt-BR": "Marshal Monarquia",
 							"ru-RU": "Marshal \"Властелин\"",
 							"th-TH": "Monarch Marshal",
@@ -39693,7 +40494,7 @@
 							"it-IT": "Marshal Monarca",
 							"ja-JP": "モナーク マーシャル",
 							"ko-KR": "모나크 마샬",
-							"pl-PL": "Marshal Królewski",
+							"pl-PL": "Marshal Monarchii",
 							"pt-BR": "Marshal Monarquia",
 							"ru-RU": "Marshal \"Властелин\"",
 							"th-TH": "Monarch Marshal",
@@ -39722,7 +40523,7 @@
 					"it-IT": "Marshal Monarca",
 					"ja-JP": "モナーク マーシャル",
 					"ko-KR": "모나크 마샬",
-					"pl-PL": "Marshal Królewski",
+					"pl-PL": "Marshal Monarchii",
 					"pt-BR": "Marshal Monarquia",
 					"ru-RU": "Marshal \"Властелин\"",
 					"th-TH": "Monarch Marshal",
@@ -42309,6 +43110,273 @@
 					"vi-VN": "Spectre Thanh Bình",
 					"zh-CN": "平静幽灵",
 					"zh-TW": "奢雕剛玉 惡靈"
+				}
+			}
+		},
+		{
+			"weaponId": "462080D1-4035-2937-7C09-27AA2A5C27A7",
+			"defaultChromaId": "2B9BF65A-43DF-25D7-71DC-C9A21491653B",
+			"chromas": [
+				{
+					"id": "2B9BF65A-43DF-25D7-71DC-C9A21491653B",
+					"label": "2B9BF65A-43DF-25D7-71DC-C9A21491653B",
+					"name":
+					{
+						"defaultText": "Ruination Spectre",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين سبيكتر",
+							"de-DE": "Spectre – Zerstörung",
+							"en-US": "Ruination Spectre",
+							"es-ES": "Spectre Ruination",
+							"es-MX": "Spectre Arruinada",
+							"fr-FR": "Spectre (Ruine)",
+							"id-ID": "Ruination Spectre",
+							"it-IT": "Spectre Rovina",
+							"ja-JP": "ルイネーション スペクター",
+							"ko-KR": "대몰락 스펙터",
+							"pl-PL": "Spectre Zrujnowania",
+							"pt-BR": "Spectre Ruína",
+							"ru-RU": "Spectre \"Погибель\"",
+							"th-TH": "Ruination Spectre",
+							"tr-TR": "AFET SPECTRE",
+							"vi-VN": "Spectre Đại Suy Vong",
+							"zh-CN": "Ruination Spectre",
+							"zh-TW": "殞落詛咒 惡靈"
+						}
+					}
+				},
+				{
+					"id": "30923A5D-4BD6-291B-0515-A39FE82B9F36",
+					"label": "30923A5D-4BD6-291B-0515-A39FE82B9F36",
+					"name":
+					{
+						"defaultText": "Ruination Spectre Level 4\n(Variant 1 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين سبيكتر المستوى 4\n(بديل 1 أرجواني)",
+							"de-DE": "Spectre – Zerstörung Level 4\n(Variante 1, Violett)",
+							"en-US": "Ruination Spectre Level 4\n(Variant 1 Purple)",
+							"es-ES": "Spectre Ruination de nivel 4\n(variante 1: púrpura)",
+							"es-MX": "Spectre Arruinada nivel 4\n(Variante 1 Morada)",
+							"fr-FR": "Spectre (Ruine) niveau 4\n(variante 1 Violet)",
+							"id-ID": "Ruination Spectre Level 4\n(Varian 1 Ungu)",
+							"it-IT": "Spectre Rovina livello 4\n(variante 1 Viola)",
+							"ja-JP": "ルイネーション スペクター Lv.4\n(ヴァリアント 1 パープル)",
+							"ko-KR": "대몰락 스펙터 4레벨\n(변형 1 보라색)",
+							"pl-PL": "Spectre Zrujnowania (poziom 4)\n(wersja 1 – fioletowa)",
+							"pt-BR": "Spectre Ruína Nível 4\n(Variante 1 Roxa)",
+							"ru-RU": "Spectre \"Погибель\" уровень 4\n(расцветка 1 \"Фиолетовый\")",
+							"th-TH": "Ruination Spectre เลเวล 4\n(ตัวเลือกที่ 1 สีม่วง)",
+							"tr-TR": "4. SEVİYE AFET SPECTRE\n(STİL 1 - MOR)",
+							"vi-VN": "Spectre Đại Suy Vong Cấp 4\n(Dạng 1 Ánh Tím)",
+							"zh-CN": "Ruination Spectre Level 4\n(Variant 1 Purple)",
+							"zh-TW": "殞落詛咒 惡靈 等級4\n（幻彩1 紫色）"
+						}
+					}
+				},
+				{
+					"id": "21413F63-40B1-F16C-1EF6-0EBF8C94978D",
+					"label": "21413F63-40B1-F16C-1EF6-0EBF8C94978D",
+					"name":
+					{
+						"defaultText": "Ruination Spectre Level 4\n(Variant 2 Red/Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين سبيكتر المستوى 4\n(بديل 2 أحمر/أصفر)",
+							"de-DE": "Spectre – Zerstörung Level 4\n(Variante 2, Rot/Gelb)",
+							"en-US": "Ruination Spectre Level 4\n(Variant 2 Red/Yellow)",
+							"es-ES": "Spectre Ruination de nivel 4\n(variante 2: rojo/amarillo)",
+							"es-MX": "Spectre Arruinada nivel 4\n(Variante 2 Roja/Amarilla)",
+							"fr-FR": "Spectre (Ruine) niveau 4\n(variante 2 Rouge/Jaune)",
+							"id-ID": "Ruination Spectre Level 4\n(Varian 2 Merah/Kuning)",
+							"it-IT": "Spectre Rovina livello 4\n(variante 2 Rossa/Gialla)",
+							"ja-JP": "ルイネーション スペクター Lv.4\n(ヴァリアント 2 レッド / イエロー)",
+							"ko-KR": "대몰락 스펙터 4레벨\n(변형 2 빨간색/노란색)",
+							"pl-PL": "Spectre Zrujnowania (poziom 4)\n(wersja 2 – czerwona/żółta)",
+							"pt-BR": "Spectre Ruína Nível 4\n(Variante 2 Vermelha/Amarela)",
+							"ru-RU": "Spectre \"Погибель\" уровень 4\n(расцветка 2 \"Красный/Желтый\")",
+							"th-TH": "Ruination Spectre เลเวล 4\n(ตัวเลือกที่ 2 สีแดง/เหลือง)",
+							"tr-TR": "4. SEVİYE AFET SPECTRE\n(STİL 2 - KIRMIZI/SARI)",
+							"vi-VN": "Spectre Đại Suy Vong Cấp 4\n(Dạng 2 Ánh Đỏ/Vàng)",
+							"zh-CN": "Ruination Spectre Level 4\n(Variant 2 Red/Yellow)",
+							"zh-TW": "殞落詛咒 惡靈 等級4\n（幻彩2 紅／黃色）"
+						}
+					}
+				},
+				{
+					"id": "52A4C8C3-47C5-E5B0-DFB3-4E98461BFD96",
+					"label": "52A4C8C3-47C5-E5B0-DFB3-4E98461BFD96",
+					"name":
+					{
+						"defaultText": "Ruination Spectre Level 4\n(Variant 3 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين سبيكتر المستوى 4\n(بديل 3 أخضر)",
+							"de-DE": "Spectre – Zerstörung Level 4\n(Variante 3, Grün)",
+							"en-US": "Ruination Spectre Level 4\n(Variant 3 Green)",
+							"es-ES": "Spectre Ruination de nivel 4\n(variante 3: verde)",
+							"es-MX": "Spectre Arruinada nivel 4\n(Variante 3 Verde)",
+							"fr-FR": "Spectre (Ruine) niveau 4\n(variante 3 Vert)",
+							"id-ID": "Ruination Spectre Level 4\n(Varian 3 Hijau)",
+							"it-IT": "Spectre Rovina livello 4\n(variante 3 Verde)",
+							"ja-JP": "ルイネーション スペクター Lv.4\n(ヴァリアント 3 グリーン)",
+							"ko-KR": "대몰락 스펙터 4레벨\n(변형 3 녹색)",
+							"pl-PL": "Spectre Zrujnowania (poziom 4)\n(wersja 3 – zielona)",
+							"pt-BR": "Spectre Ruína Nível 4\n(Variante 3 Verde)",
+							"ru-RU": "Spectre \"Погибель\" уровень 4\n(расцветка 3 \"Зеленый\")",
+							"th-TH": "Ruination Spectre เลเวล 4\n(ตัวเลือกที่ 3 สีเขียว)",
+							"tr-TR": "4. SEVİYE AFET SPECTRE\n(STİL 3 - YEŞİL)",
+							"vi-VN": "Spectre Đại Suy Vong Cấp 4\n(Dạng 3 Ánh Lục)",
+							"zh-CN": "Ruination Spectre Level 4\n(Variant 3 Green)",
+							"zh-TW": "殞落詛咒 惡靈 等級4\n（幻彩3 綠色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "87220ABC-49A9-7472-AE09-29A6D711BBC3",
+					"label": "87220ABC-49A9-7472-AE09-29A6D711BBC3",
+					"name":
+					{
+						"defaultText": "Ruination Spectre",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين سبيكتر",
+							"de-DE": "Spectre – Zerstörung",
+							"en-US": "Ruination Spectre",
+							"es-ES": "Spectre Ruination",
+							"es-MX": "Spectre Arruinada",
+							"fr-FR": "Spectre (Ruine)",
+							"id-ID": "Ruination Spectre",
+							"it-IT": "Spectre Rovina",
+							"ja-JP": "ルイネーション スペクター",
+							"ko-KR": "대몰락 스펙터",
+							"pl-PL": "Spectre Zrujnowania",
+							"pt-BR": "Spectre Ruína",
+							"ru-RU": "Spectre \"Погибель\"",
+							"th-TH": "Ruination Spectre",
+							"tr-TR": "AFET SPECTRE",
+							"vi-VN": "Spectre Đại Suy Vong",
+							"zh-CN": "Ruination Spectre",
+							"zh-TW": "殞落詛咒 惡靈"
+						}
+					}
+				},
+				{
+					"id": "93E1E10A-49F0-4A06-FE22-D48578F53C6E",
+					"label": "93E1E10A-49F0-4A06-FE22-D48578F53C6E",
+					"name":
+					{
+						"defaultText": "Ruination Spectre Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين سبيكتر المستوى 2",
+							"de-DE": "Spectre – Zerstörung Level 2",
+							"en-US": "Ruination Spectre Level 2",
+							"es-ES": "Spectre Ruination de nivel 2",
+							"es-MX": "Spectre Arruinada nivel 2",
+							"fr-FR": "Spectre (Ruine) niveau 2",
+							"id-ID": "Ruination Spectre Level 2",
+							"it-IT": "Spectre Rovina livello 2",
+							"ja-JP": "ルイネーション スペクター Lv.2",
+							"ko-KR": "대몰락 스펙터 2레벨",
+							"pl-PL": "Spectre Zrujnowania (poziom 2)",
+							"pt-BR": "Spectre Ruína Nível 2",
+							"ru-RU": "Spectre \"Погибель\" уровень 2",
+							"th-TH": "Ruination Spectre เลเวล 2",
+							"tr-TR": "2. SEVİYE AFET SPECTRE",
+							"vi-VN": "Spectre Đại Suy Vong Cấp 2",
+							"zh-CN": "Ruination Spectre Level 2",
+							"zh-TW": "殞落詛咒 惡靈 等級2"
+						}
+					}
+				},
+				{
+					"id": "E5AAE6B1-482E-A508-F706-03A1EB087443",
+					"label": "E5AAE6B1-482E-A508-F706-03A1EB087443",
+					"name":
+					{
+						"defaultText": "Ruination Spectre Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين سبيكتر المستوى 3",
+							"de-DE": "Spectre – Zerstörung Level 3",
+							"en-US": "Ruination Spectre Level 3",
+							"es-ES": "Spectre Ruination de nivel 3",
+							"es-MX": "Spectre Arruinada nivel 3",
+							"fr-FR": "Spectre (Ruine) niveau 3",
+							"id-ID": "Ruination Spectre Level 3",
+							"it-IT": "Spectre Rovina livello 3",
+							"ja-JP": "ルイネーション スペクター Lv.3",
+							"ko-KR": "대몰락 스펙터 3레벨",
+							"pl-PL": "Spectre Zrujnowania (poziom 3)",
+							"pt-BR": "Spectre Ruína Nível 3",
+							"ru-RU": "Spectre \"Погибель\" уровень 3",
+							"th-TH": "Ruination Spectre เลเวล 3",
+							"tr-TR": "3. SEVİYE AFET SPECTRE",
+							"vi-VN": "Spectre Đại Suy Vong Cấp 3",
+							"zh-CN": "Ruination Spectre Level 3",
+							"zh-TW": "殞落詛咒 惡靈 等級3"
+						}
+					}
+				},
+				{
+					"id": "CF105B94-486B-0D11-E82D-DF8F02575FB2",
+					"label": "CF105B94-486B-0D11-E82D-DF8F02575FB2",
+					"name":
+					{
+						"defaultText": "Ruination Spectre Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "روينيشين سبيكتر المستوى 4",
+							"de-DE": "Spectre – Zerstörung Level 4",
+							"en-US": "Ruination Spectre Level 4",
+							"es-ES": "Spectre Ruination de nivel 4",
+							"es-MX": "Spectre Arruinada nivel 4",
+							"fr-FR": "Spectre (Ruine) niveau 4",
+							"id-ID": "Ruination Spectre Level 4",
+							"it-IT": "Spectre Rovina livello 4",
+							"ja-JP": "ルイネーション スペクター Lv.4",
+							"ko-KR": "대몰락 스펙터 4레벨",
+							"pl-PL": "Spectre Zrujnowania (poziom 4)",
+							"pt-BR": "Spectre Ruína Nível 4",
+							"ru-RU": "Spectre \"Погибель\" уровень 4",
+							"th-TH": "Ruination Spectre เลเวล 4",
+							"tr-TR": "4. SEVİYE AFET SPECTRE",
+							"vi-VN": "Spectre Đại Suy Vong Cấp 4",
+							"zh-CN": "Ruination Spectre Level 4",
+							"zh-TW": "殞落詛咒 惡靈 等級4"
+						}
+					}
+				}
+			],
+			"id": "F9C2E823-4EEB-D872-8A4C-D5A0BF8A3B6C",
+			"label": "F9C2E823-4EEB-D872-8A4C-D5A0BF8A3B6C",
+			"name":
+			{
+				"defaultText": "Ruination Spectre",
+				"localizedByCulture":
+				{
+					"ar-AE": "روينيشين سبيكتر",
+					"de-DE": "Spectre – Zerstörung",
+					"en-US": "Ruination Spectre",
+					"es-ES": "Spectre Ruination",
+					"es-MX": "Spectre Arruinada",
+					"fr-FR": "Spectre (Ruine)",
+					"id-ID": "Ruination Spectre",
+					"it-IT": "Spectre Rovina",
+					"ja-JP": "ルイネーション スペクター",
+					"ko-KR": "대몰락 스펙터",
+					"pl-PL": "Spectre Zrujnowania",
+					"pt-BR": "Spectre Ruína",
+					"ru-RU": "Spectre \"Погибель\"",
+					"th-TH": "Ruination Spectre",
+					"tr-TR": "AFET SPECTRE",
+					"vi-VN": "Spectre Đại Suy Vong",
+					"zh-CN": "Ruination Spectre",
+					"zh-TW": "殞落詛咒 惡靈"
 				}
 			}
 		},
@@ -45525,7 +46593,7 @@
 							"ko-KR": "원탭 스팅어 3레벨\n(변형 2 갈색)",
 							"pl-PL": "Stinger Ego (poziom 3)\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Stinger Ego Nível 3\n(Variante 2 Creme)",
-							"ru-RU": "Stinger \"Эго\" уровень 3\n(расцветка 2 \"Темный\")",
+							"ru-RU": "Stinger \"Эго\" уровень 3\n(расцветка 2 \"Хаки\")",
 							"th-TH": "Ego Stinger เลเวล 3\n(ตัวเลือกที่ 2 สีแทน)",
 							"tr-TR": "3. SEVİYE EGO STINGER\n(STİL 2 - BEJ)",
 							"vi-VN": "Stinger Tự Cao Cấp 3\n(Dạng 2 Ánh Sạm)",
@@ -46217,7 +47285,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "خنجر إلدر فلايم",
-							"de-DE": "Nahkampf – Elderflame",
+							"de-DE": "Dolch – Elderflame",
 							"en-US": "Elderflame Dagger",
 							"es-ES": "Daga Elderflame",
 							"es-MX": "Daga Llamantigua",
@@ -46248,7 +47316,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "خنجر إلدر فلايم",
-							"de-DE": "Nahkampf – Elderflame",
+							"de-DE": "Dolch – Elderflame",
 							"en-US": "Elderflame Dagger",
 							"es-ES": "Daga Elderflame",
 							"es-MX": "Daga Llamantigua",
@@ -46306,7 +47374,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "خنجر إلدر فلايم",
-					"de-DE": "Nahkampf – Elderflame",
+					"de-DE": "Dolch – Elderflame",
 					"en-US": "Elderflame Dagger",
 					"es-ES": "Daga Elderflame",
 					"es-MX": "Daga Llamantigua",
@@ -46773,9 +47841,9 @@
 							"en-US": "Ruin Dagger",
 							"es-ES": "Daga Ruin",
 							"es-MX": "Daga Ruina",
-							"fr-FR": "Dague (Ruines)",
+							"fr-FR": "Dague (Vestiges)",
 							"id-ID": "Ruin Dagger",
-							"it-IT": "Pugnale Rovina",
+							"it-IT": "Pugnale Reliquia",
 							"ja-JP": "ルイン ダガー",
 							"ko-KR": "몰락 단검",
 							"pl-PL": "Sztylet Zniszczenia",
@@ -46804,9 +47872,9 @@
 							"en-US": "Ruin Dagger",
 							"es-ES": "Daga Ruin",
 							"es-MX": "Daga Ruina",
-							"fr-FR": "Dague (Ruines)",
+							"fr-FR": "Dague (Vestiges)",
 							"id-ID": "Ruin Dagger",
-							"it-IT": "Pugnale Rovina",
+							"it-IT": "Pugnale Reliquia",
 							"ja-JP": "ルイン ダガー",
 							"ko-KR": "몰락 단검",
 							"pl-PL": "Sztylet Zniszczenia",
@@ -46833,9 +47901,9 @@
 					"en-US": "Ruin Dagger",
 					"es-ES": "Daga Ruin",
 					"es-MX": "Daga Ruina",
-					"fr-FR": "Dague (Ruines)",
+					"fr-FR": "Dague (Vestiges)",
 					"id-ID": "Ruin Dagger",
-					"it-IT": "Pugnale Rovina",
+					"it-IT": "Pugnale Reliquia",
 					"ja-JP": "ルイン ダガー",
 					"ko-KR": "몰락 단검",
 					"pl-PL": "Sztylet Zniszczenia",
@@ -46858,27 +47926,27 @@
 					"label": "D2E296D9-448E-C58F-2229-14A481906686",
 					"name":
 					{
-						"defaultText": "",
+						"defaultText": "Prime Axe",
 						"localizedByCulture":
 						{
-							"ar-AE": "",
-							"de-DE": "",
-							"en-US": "",
-							"es-ES": "",
-							"es-MX": "",
-							"fr-FR": "",
-							"id-ID": "",
-							"it-IT": "",
-							"ja-JP": "",
-							"ko-KR": "",
-							"pl-PL": "",
-							"pt-BR": "",
-							"ru-RU": "",
-							"th-TH": "",
-							"tr-TR": "",
-							"vi-VN": "",
-							"zh-CN": "",
-							"zh-TW": ""
+							"ar-AE": "فأس برايم",
+							"de-DE": "Axt  – Prime",
+							"en-US": "Prime Axe",
+							"es-ES": "Hacha Prime",
+							"es-MX": "Hacha Suprema",
+							"fr-FR": "Hache (Primordial)",
+							"id-ID": "Prime Axe",
+							"it-IT": "Ascia Prime",
+							"ja-JP": "プライム アックス",
+							"ko-KR": "프라임 도끼",
+							"pl-PL": "Topór Prime",
+							"pt-BR": "Machado Sublime",
+							"ru-RU": "Топорик \"Прайм\"",
+							"th-TH": "Prime Axe",
+							"tr-TR": "ASİL BALTA",
+							"vi-VN": "Rìu Hoàng Gia",
+							"zh-CN": "至尊战斧",
+							"zh-TW": "紫金狂潮 戰斧"
 						}
 					}
 				}
@@ -47456,6 +48524,215 @@
 					"vi-VN": "Rìu Tán Sắc III",
 					"zh-CN": "棱镜III 战斧",
 					"zh-TW": "稜鏡III 戰斧"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "28DD8AE8-4C0F-77C6-275D-E2BB310E95EB",
+			"chromas": [
+				{
+					"id": "28DD8AE8-4C0F-77C6-275D-E2BB310E95EB",
+					"label": "28DD8AE8-4C0F-77C6-275D-E2BB310E95EB",
+					"name":
+					{
+						"defaultText": "Blade of the Ruined King",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل الملك المحطَم",
+							"de-DE": "Klinge des gestürzten Königs",
+							"en-US": "Blade of the Ruined King",
+							"es-ES": "Hoja del rey arruinado",
+							"es-MX": "Espada del Rey Arruinado",
+							"fr-FR": "Lame du Roi déchu",
+							"id-ID": "Blade of the Ruined King",
+							"it-IT": "Lama del Re in rovina",
+							"ja-JP": "ルインドキング ブレード",
+							"ko-KR": "몰락한 왕의 검",
+							"pl-PL": "Ostrze Zniszczonego Króla",
+							"pt-BR": "Espada do Rei Destruído",
+							"ru-RU": "Клинок Падшего короля",
+							"th-TH": "Blade of the Ruined King",
+							"tr-TR": "MAHVOLMUŞ KRALIN KILICI",
+							"vi-VN": "Gươm Đại Suy Vong",
+							"zh-CN": "Blade of the Ruined King",
+							"zh-TW": "殞落王者之劍"
+						}
+					}
+				},
+				{
+					"id": "BE97A416-46FE-1539-4BD7-8E9C54F1938B",
+					"label": "BE97A416-46FE-1539-4BD7-8E9C54F1938B",
+					"name":
+					{
+						"defaultText": "Blade of the Ruined King (Variant 1 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل الملك المحطَم (بديل 1 أرجواني)",
+							"de-DE": "Klinge des gestürzten Königs (Variante 1, Violett)",
+							"en-US": "Blade of the Ruined King (Variant 1 Purple)",
+							"es-ES": "Hoja del rey arruinado (variante 1: púrpura)",
+							"es-MX": "Espada del Rey Arruinado (Variante 1 Morada)",
+							"fr-FR": "Lame du Roi déchu (variante 1 Violet)",
+							"id-ID": "Blade of the Ruined King (Varian 1 Ungu)",
+							"it-IT": "Lama del Re in rovina (variante 1 Viola)",
+							"ja-JP": "ルインドキング ブレード (ヴァリアント 1 パープル)",
+							"ko-KR": "몰락한 왕의 검 (변형 1 보라색)",
+							"pl-PL": "Ostrze Zniszczonego Króla (wersja 1 – fioletowa)",
+							"pt-BR": "Espada do Rei Destruído (Variante 1 Roxa)",
+							"ru-RU": "Клинок Падшего короля (расцветка 1 \"Фиолетовый\")",
+							"th-TH": "Blade of the Ruined King (ตัวเลือกที่ 1 สีม่วง)",
+							"tr-TR": "MAHVOLMUŞ KRALIN KILICI (STİL 1 - MOR)",
+							"vi-VN": "Gươm Đại Suy Vong (Dạng 1 Ánh Tím)",
+							"zh-CN": "Blade of the Ruined King (Variant 1 Purple)",
+							"zh-TW": "殞落王者之劍（幻彩1 紫色）"
+						}
+					}
+				},
+				{
+					"id": "FDA6F206-4741-88FE-CC2A-3EB3233D5328",
+					"label": "FDA6F206-4741-88FE-CC2A-3EB3233D5328",
+					"name":
+					{
+						"defaultText": "Blade of the Ruined King (Variant 2 Red/Yellow)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل الملك المحطَم (بديل 2 أحمر/أصفر)",
+							"de-DE": "Klinge des gestürzten Königs (Variante 2, Rot/Gelb)",
+							"en-US": "Blade of the Ruined King (Variant 2 Red/Yellow)",
+							"es-ES": "Hoja del rey arruinado (variante 2: rojo/amarillo)",
+							"es-MX": "Espada del Rey Arruinado (Variante 2 Roja/Amarilla)",
+							"fr-FR": "Lame du Roi déchu (variante 2 Rouge/Jaune)",
+							"id-ID": "Blade of the Ruined King (Varian 2 Merah/Kuning)",
+							"it-IT": "Lama del Re in rovina (variante 2 Rossa/Gialla)",
+							"ja-JP": "ルインドキング ブレード (ヴァリアント 2 レッド / イエロー)",
+							"ko-KR": "몰락한 왕의 검 (변형 2 빨간색/노란색)",
+							"pl-PL": "Ostrze Zniszczonego Króla (wersja 2 – czerwona/zółta)",
+							"pt-BR": "Espada do Rei Destruído (Variante 2 Vermelha/Amarela)",
+							"ru-RU": "Клинок Падшего короля (расцветка 2 \"Красный/Желтый\")",
+							"th-TH": "Blade of the Ruined King (ตัวเลือกที่ 2 สีแดง/เหลือง)",
+							"tr-TR": "MAHVOLMUŞ KRALIN KILICI (STİL 2 - KIRMIZI/SARI)",
+							"vi-VN": "Gươm Đại Suy Vong (Dạng 2 Ánh Đỏ/Vàng)",
+							"zh-CN": "Blade of the Ruined King (Variant 2 Red/Yellow)",
+							"zh-TW": "殞落王者之劍（幻彩2 紅／黃色）"
+						}
+					}
+				},
+				{
+					"id": "DC3845CA-46A1-7501-6B6B-F9B905E3CF44",
+					"label": "DC3845CA-46A1-7501-6B6B-F9B905E3CF44",
+					"name":
+					{
+						"defaultText": "Blade of the Ruined King (Variant 3 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل الملك المحطَم (بديل 3 أخضر)",
+							"de-DE": "Klinge des gestürzten Königs (Variante 3, Grün)",
+							"en-US": "Blade of the Ruined King (Variant 3 Green)",
+							"es-ES": "Hoja del rey arruinado (variante 3: verde)",
+							"es-MX": "Espada del Rey Arruinado (Variante 3 Verde)",
+							"fr-FR": "Lame du Roi déchu (variante 3 Vert)",
+							"id-ID": "Blade of the Ruined King (Varian 3 Hijau)",
+							"it-IT": "Lama del Re in rovina (variante 3 Verde)",
+							"ja-JP": "ルインドキング ブレード (ヴァリアント 3 グリーン)",
+							"ko-KR": "몰락한 왕의 검 (변형 3 녹색)",
+							"pl-PL": "Ostrze Zniszczonego Króla (wersja 3 – zielona)",
+							"pt-BR": "Espada do Rei Destruído (Variante 3 Verde)",
+							"ru-RU": "Клинок Падшего короля (расцветка 3 \"Зеленый\")",
+							"th-TH": "Blade of the Ruined King (ตัวเลือกที่ 3 สีเขียว)",
+							"tr-TR": "MAHVOLMUŞ KRALIN KILICI (STİL 3 - YEŞİL)",
+							"vi-VN": "Gươm Đại Suy Vong (Dạng 3 Ánh Lục)",
+							"zh-CN": "Blade of the Ruined King (Variant 3 Green)",
+							"zh-TW": "殞落王者之劍（幻彩3 綠色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "E94012B1-4A22-63D2-117E-90A2C1375DED",
+					"label": "E94012B1-4A22-63D2-117E-90A2C1375DED",
+					"name":
+					{
+						"defaultText": "Broken Blade of the Ruined King",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل الملك المحطَم المكسور",
+							"de-DE": "Zerbrochene Klinge des gestürzten Königs",
+							"en-US": "Broken Blade of the Ruined King",
+							"es-ES": "Hoja del rey arruinado quebrada",
+							"es-MX": "Espada Rota del Rey Arruinado",
+							"fr-FR": "Lame brisée du Roi déchu",
+							"id-ID": "Broken Blade of the Ruined King",
+							"it-IT": "Lama spezzata del Re in rovina",
+							"ja-JP": "ブロークン ルインドキング ブレード",
+							"ko-KR": "몰락한 왕의 부러진 검",
+							"pl-PL": "Złamane Ostrze Zniszczonego Króla",
+							"pt-BR": "Espada do Rei Destruído Quebrada",
+							"ru-RU": "Сломанный клинок Падшего короля",
+							"th-TH": "Broken Blade of the Ruined King",
+							"tr-TR": "MAHVOLMUŞ KRALIN KIRIK KILICI",
+							"vi-VN": "Tàn Gươm Đại Suy Vong",
+							"zh-CN": "Broken Blade of the Ruined King",
+							"zh-TW": "殞落王者斷刃"
+						}
+					}
+				},
+				{
+					"id": "D0B5FBD7-43EF-D2BC-80CA-66B23C7A1D47",
+					"label": "D0B5FBD7-43EF-D2BC-80CA-66B23C7A1D47",
+					"name":
+					{
+						"defaultText": "Blade of the Ruined King",
+						"localizedByCulture":
+						{
+							"ar-AE": "نصل الملك المحطَم",
+							"de-DE": "Klinge des gestürzten Königs",
+							"en-US": "Blade of the Ruined King",
+							"es-ES": "Hoja del rey arruinado",
+							"es-MX": "Espada del Rey Arruinado",
+							"fr-FR": "Lame du Roi déchu",
+							"id-ID": "Blade of the Ruined King",
+							"it-IT": "Lama del Re in rovina",
+							"ja-JP": "ルインドキング ブレード",
+							"ko-KR": "몰락한 왕의 검",
+							"pl-PL": "Ostrze Zniszczonego Króla",
+							"pt-BR": "Espada do Rei Destruído",
+							"ru-RU": "Клинок Падшего короля",
+							"th-TH": "Blade of the Ruined King",
+							"tr-TR": "MAHVOLMUŞ KRALIN KILICI",
+							"vi-VN": "Gươm Đại Suy Vong",
+							"zh-CN": "Blade of the Ruined King",
+							"zh-TW": "殞落王者之劍"
+						}
+					}
+				}
+			],
+			"id": "B1E9530D-4618-4F2E-1B75-F1A90C91B19E",
+			"label": "B1E9530D-4618-4F2E-1B75-F1A90C91B19E",
+			"name":
+			{
+				"defaultText": "Broken Blade of the Ruined King",
+				"localizedByCulture":
+				{
+					"ar-AE": "نصل الملك المحطَم المكسور",
+					"de-DE": "Zerbrochene Klinge des gestürzten Königs",
+					"en-US": "Broken Blade of the Ruined King",
+					"es-ES": "Hoja del rey arruinado quebrada",
+					"es-MX": "Espada Rota del Rey Arruinado",
+					"fr-FR": "Lame brisée du Roi déchu",
+					"id-ID": "Broken Blade of the Ruined King",
+					"it-IT": "Lama spezzata del Re in rovina",
+					"ja-JP": "ブロークン ルインドキング ブレード",
+					"ko-KR": "몰락한 왕의 부러진 검",
+					"pl-PL": "Złamane Ostrze Zniszczonego Króla",
+					"pt-BR": "Espada do Rei Destruído Quebrada",
+					"ru-RU": "Сломанный клинок Падшего короля",
+					"th-TH": "Broken Blade of the Ruined King",
+					"tr-TR": "MAHVOLMUŞ KRALIN KIRIK KILICI",
+					"vi-VN": "Tàn Gươm Đại Suy Vong",
+					"zh-CN": "Broken Blade of the Ruined King",
+					"zh-TW": "殞落王者斷刃"
 				}
 			}
 		},
@@ -49162,7 +50439,7 @@
 							"ko-KR": "원탭 칼 3레벨\n(변형 2 갈색)",
 							"pl-PL": "Nóż Ego (poziom 3)\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Faca Ego Nível 3\n(Variante 2 Creme)",
-							"ru-RU": "Нож \"Эго\" уровень 3\n(расцветка 2 \"Темный\")",
+							"ru-RU": "Нож \"Эго\" уровень 3\n(расцветка 2 \"Хаки\")",
 							"th-TH": "Ego Knife เลเวล 3\n(ตัวเลือกที่ 2 สีแทน)",
 							"tr-TR": "3. SEVİYE EGO BIÇAK\n(STİL 2 - BEJ)",
 							"vi-VN": "Dao Tự Cao Cấp 3\n(Dạng 2 Ánh Sạm)",
@@ -52979,7 +54256,7 @@
 					"ko-KR": "25° N, 71° W 카드",
 					"pl-PL": "Karta „25° N, 71° W”",
 					"pt-BR": "Card 25 ° N, 71 ° O",
-					"ru-RU": "Карточка \"25° N, 71° W\"",
+					"ru-RU": "Карточка \"25°N, 71°W\"",
 					"th-TH": "การ์ด 25° N, 71° W",
 					"tr-TR": "25° N, 71° W KARTI",
 					"vi-VN": "Thẻ 25 ° B, 71 ° T",
@@ -53647,7 +54924,7 @@
 					"pl-PL": "Karta „ODC. 1 // ZAPŁON”",
 					"pt-BR": "Card EP 1 // IGNIÇÃO",
 					"ru-RU": "Карточка \"ЭПИЗОД 1 // ЗАЖИГАНИЕ\"",
-					"th-TH": "การ์ดตอนที่ 1 // IGNITION",
+					"th-TH": "การ์ด EP 1 // IGNITION",
 					"tr-TR": "01. BLM // KIVILCIM KARTI",
 					"vi-VN": "Thẻ HỒI 1 // BÙNG CHÁY",
 					"zh-CN": "第一季：点燃 卡牌",
@@ -53676,7 +54953,7 @@
 					"pl-PL": "Karta „ODC. 2 // FORMACJA”",
 					"pt-BR": "Card EP 2 // FORMAÇÃO",
 					"ru-RU": "Карточка \"ЭПИЗОД 2 // СТАНОВЛЕНИЕ\"",
-					"th-TH": "การ์ดตอนที่ 2 // FORMATION",
+					"th-TH": "การ์ด EP 2 // FORMATION",
 					"tr-TR": "02. BLM // BİRLİK KARTI",
 					"vi-VN": "Thẻ HỒI 2 // TRẬN THẾ",
 					"zh-CN": "第二季：布局 卡牌",
@@ -54393,9 +55670,9 @@
 					"en-US": "Ruin Card",
 					"es-ES": "Tarjeta Ruin",
 					"es-MX": "Tarjeta Ruina",
-					"fr-FR": "Carte Ruines",
+					"fr-FR": "Carte Vestiges",
 					"id-ID": "Kartu Ruin",
-					"it-IT": "Carta Rovina",
+					"it-IT": "Carta Reliquia",
 					"ja-JP": "ルイン カード",
 					"ko-KR": "몰락 카드",
 					"pl-PL": "Karta „Zniszczenie”",
@@ -54435,6 +55712,35 @@
 					"vi-VN": "Thẻ Hoàng Gia//2.0",
 					"zh-CN": "黄金年代//2.0 卡牌",
 					"zh-TW": "紫金狂潮//2.0 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "D1F2AAE0-4819-2E0E-8B15-61990259A9E3",
+			"label": "D1F2AAE0-4819-2E0E-8B15-61990259A9E3",
+			"name":
+			{
+				"defaultText": "Ruination Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة روينيشين",
+					"de-DE": "Banner „Zerstörung“",
+					"en-US": "Ruination Card",
+					"es-ES": "Tarjeta Ruination",
+					"es-MX": "Tarjeta Arruinada",
+					"fr-FR": "Carte Ruine",
+					"id-ID": "Kartu Ruination",
+					"it-IT": "Carta Rovina",
+					"ja-JP": "ルイネーション カード",
+					"ko-KR": "대몰락 카드",
+					"pl-PL": "Karta „Zrujnowanie”",
+					"pt-BR": "Card Ruína",
+					"ru-RU": "Карточка \"Погибель\"",
+					"th-TH": "การ์ด Ruination",
+					"tr-TR": "AFET KARTI",
+					"vi-VN": "Thẻ Đại Suy Vong",
+					"zh-CN": "Ruination Card",
+					"zh-TW": "殞落詛咒 玩家卡面"
 				}
 			}
 		},
@@ -57989,7 +59295,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "غاضب",
-					"de-DE": "Salzig",
+					"de-DE": "Spielverderber",
 					"en-US": "Salty",
 					"es-ES": "Picado",
 					"es-MX": "Salty",
@@ -57998,9 +59304,9 @@
 					"it-IT": "Irritato",
 					"ja-JP": "塩分高め",
 					"ko-KR": "신경과민",
-					"pl-PL": "Słono",
+					"pl-PL": "Zgorzkniały",
 					"pt-BR": "Esquentadinho",
-					"ru-RU": "Соль",
+					"ru-RU": "Озлобленный",
 					"th-TH": "เซ็งเป็ด",
 					"tr-TR": "Atarlı",
 					"vi-VN": "Cay Cú",
@@ -58016,7 +59322,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "لقب غاضب",
-					"de-DE": "Titel „Salzig“",
+					"de-DE": "Titel „Spielverderber“",
 					"en-US": "Salty Title",
 					"es-ES": "Título Picado",
 					"es-MX": "Título Salty",
@@ -58025,9 +59331,9 @@
 					"it-IT": "Titolo Irritato",
 					"ja-JP": "塩分高め タイトル",
 					"ko-KR": "신경과민 칭호",
-					"pl-PL": "Tytuł „Słono”",
+					"pl-PL": "Tytuł „Zgorzkniały”",
 					"pt-BR": "Título Esquentadinho",
-					"ru-RU": "Звание \"Соль\"",
+					"ru-RU": "Звание \"Озлобленный\"",
 					"th-TH": "ฉายาเซ็งเป็ด",
 					"tr-TR": "ATARLI UNVANI",
 					"vi-VN": "Danh Hiệu Cay Cú",
@@ -58218,7 +59524,7 @@
 					"pt-BR": "Robô",
 					"ru-RU": "Бот",
 					"th-TH": "บอท",
-					"tr-TR": "BOT",
+					"tr-TR": "Bot",
 					"vi-VN": "Robot",
 					"zh-CN": "机器人",
 					"zh-TW": "機械戰警"
@@ -58272,7 +59578,7 @@
 					"pt-BR": "Criação Diferenciada",
 					"ru-RU": "Уникальная сборка",
 					"th-TH": "คนละระดับ",
-					"tr-TR": "ÖZEL ÜRETİM",
+					"tr-TR": "Özel Üretim",
 					"vi-VN": "Thiết Kế Khác Biệt",
 					"zh-CN": "配置不同",
 					"zh-TW": "天生特異"
@@ -58591,7 +59897,7 @@
 					"id-ID": "Pemenang VCT Masters Reykjavik",
 					"it-IT": "Vincitore Masters VCT di Reykjavík",
 					"ja-JP": "VCT Masters レイキャビクウィナー",
-					"ko-KR": "VCT 마스터스 레이캬비크 우승팀",
+					"ko-KR": "VCT 마스터스 레이캬비크 우승자",
 					"pl-PL": "Zwycięzca VCT Masters Reykjavik",
 					"pt-BR": "Vencedor VCT Masters Reykjavik",
 					"ru-RU": "Победитель VCT Masters Reykjavik",
@@ -58618,7 +59924,7 @@
 					"id-ID": "Gelar Pemenang VCT Masters Reykjavik",
 					"it-IT": "Titolo Vincitore Masters VCT di Reykjavík",
 					"ja-JP": "VCT Masters レイキャビクウィナー タイトル",
-					"ko-KR": "VCT 마스터스 레이캬비크 우승팀 칭호",
+					"ko-KR": "VCT 마스터스 레이캬비크 우승자 칭호",
 					"pl-PL": "Tytuł „Zwycięzca VCT Masters Reykjavik”",
 					"pt-BR": "Título Vencedor VCT Masters Reykjavik",
 					"ru-RU": "Звание \"Победитель VCT Masters Reykjavik\"",
@@ -59698,7 +61004,7 @@
 					"pl-PL": "Przywieszka „Moneta EP 1 // 1”",
 					"pt-BR": "Chaveiro Moeda EP 1 // 1",
 					"ru-RU": "Брелок \"Жетон эпизода 1 // 1\"",
-					"th-TH": "บัดดี้ตอนที่ 1 // 1 Coin",
+					"th-TH": "บัดดี้ EP 1 // 1 Coin",
 					"tr-TR": "1. BÖLÜM // 1. PARA UĞURU",
 					"vi-VN": "Phụ Kiện Xu Hồi 1 // 1",
 					"zh-CN": "第1//1季硬币 枪友",
@@ -59758,7 +61064,7 @@
 					"pl-PL": "Przywieszka „Moneta EP 1 // 2”",
 					"pt-BR": "Chaveiro Moeda EP 1 // 2",
 					"ru-RU": "Брелок \"Жетон эпизода 1 // 2\"",
-					"th-TH": "บัดดี้ตอนที่ 1 // 2 Coin",
+					"th-TH": "บัดดี้ EP 1 // 2 Coin",
 					"tr-TR": "1. BÖLÜM // 2. PARA UĞURU",
 					"vi-VN": "Phụ Kiện Xu Hồi 1 // 2",
 					"zh-CN": "第1//2季硬币 枪友",
@@ -59818,7 +61124,7 @@
 					"pl-PL": "Przywieszka „Moneta EP 1 // 3”",
 					"pt-BR": "Chaveiro Moeda EP 1 // 3",
 					"ru-RU": "Брелок \"Жетон эпизода 1 // 3\"",
-					"th-TH": "บัดดี้ตอนที่ 1 // 3 Coin",
+					"th-TH": "บัดดี้ EP 1 // 3 Coin",
 					"tr-TR": "1. BÖLÜM // 3. PARA UĞURU",
 					"vi-VN": "Phụ Kiện Xu HỒI 1 // 3",
 					"zh-CN": "第1//3季硬币枪友",
@@ -59878,7 +61184,7 @@
 					"pl-PL": "Przywieszka „Moneta EP 2 // 1”",
 					"pt-BR": "Chaveiro Moeda EP 2 // 1",
 					"ru-RU": "Брелок \"Жетон эпизода 2 // 1\"",
-					"th-TH": "บัดดี้ตอนที่ 2 // 1 Coin",
+					"th-TH": "บัดดี้ EP 2 // 1 Coin",
 					"tr-TR": "02. BÖLÜM // 1. PARA UĞURU",
 					"vi-VN": "Phụ Kiện Xu HỒI 2 // 1",
 					"zh-CN": "第二季：第一幕硬币 枪友",
@@ -59938,7 +61244,7 @@
 					"pl-PL": "Przywieszka „Moneta EP 2 // 2”",
 					"pt-BR": "Chaveiro Moeda EP 2 // 2",
 					"ru-RU": "Брелок \"Жетон эпизода 2 // 2\"",
-					"th-TH": "บัดดี้ตอนที่ 2 // 2 Coin",
+					"th-TH": "บัดดี้ EP 2 // 2 Coin",
 					"tr-TR": "02. BÖLÜM // 2. PARA UĞURU",
 					"vi-VN": "Phụ Kiện Xu HỒI 2 // 2",
 					"zh-CN": "第二季：第二幕硬币 枪友",
@@ -59998,7 +61304,7 @@
 					"pl-PL": "Przywieszka „Moneta EP 2 // 3”",
 					"pt-BR": "Chaveiro Moeda EP 2 // 3",
 					"ru-RU": "Брелок \"Жетон эпизода 2 // 3\"",
-					"th-TH": "บัดดี้ตอนที่ 2 // 3 Coin",
+					"th-TH": "บัดดี้ EP 2 // 3 Coin",
 					"tr-TR": "02. BÖLÜM // 3. PARA UĞURU",
 					"vi-VN": "Phụ Kiện Xu HỒI 2 // 3",
 					"zh-CN": "第二季：第三幕硬币 枪友",
@@ -61670,7 +62976,7 @@
 					"en-US": "Ruin Watcher Buddy",
 					"es-ES": "Amuleto Vigilante de la ruina",
 					"es-MX": "Buddy Testigo de la Ruina",
-					"fr-FR": "Porte-bonheur Gardien des ruines",
+					"fr-FR": "Porte-bonheur Gardien des vestiges",
 					"id-ID": "Gantungan Ruin Watcher",
 					"it-IT": "Accessorio Guardiano delle rovine",
 					"ja-JP": "ルインウォッチャー バディー",
@@ -62463,6 +63769,66 @@
 					"vi-VN": "Phụ Kiện Netter Treter",
 					"zh-CN": "帅气鞋子枪友",
 					"zh-TW": "德製跑鞋 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D973D345-43F5-C1A3-E40E-B4A2A6F37AE5",
+					"label": "D973D345-43F5-C1A3-E40E-B4A2A6F37AE5",
+					"name":
+					{
+						"defaultText": "King",
+						"localizedByCulture":
+						{
+							"ar-AE": "King",
+							"de-DE": "King",
+							"en-US": "King",
+							"es-ES": "King",
+							"es-MX": "King",
+							"fr-FR": "King",
+							"id-ID": "King",
+							"it-IT": "King",
+							"ja-JP": "King",
+							"ko-KR": "King",
+							"pl-PL": "King",
+							"pt-BR": "King",
+							"ru-RU": "King",
+							"th-TH": "King",
+							"tr-TR": "King",
+							"vi-VN": "King",
+							"zh-CN": "King",
+							"zh-TW": "King"
+						}
+					}
+				}
+			],
+			"id": "E89B2788-4B97-E144-4A62-9F8B4BBE8B2A",
+			"label": "E89B2788-4B97-E144-4A62-9F8B4BBE8B2A",
+			"name":
+			{
+				"defaultText": "Ruination Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق روينيشين",
+					"de-DE": "Talisman „Zerstörung“",
+					"en-US": "Ruination Buddy",
+					"es-ES": "Amuleto Ruination",
+					"es-MX": "Buddy Arruinado",
+					"fr-FR": "Porte-bonheur Ruine",
+					"id-ID": "Gantungan Ruination",
+					"it-IT": "Accessorio Rovina",
+					"ja-JP": "ルイネーション バディー",
+					"ko-KR": "대몰락 총기 장식",
+					"pl-PL": "Przywieszka „Zrujnowanie”",
+					"pt-BR": "Chaveiro Ruína",
+					"ru-RU": "Брелок \"Погибель\"",
+					"th-TH": "บัดดี้ Ruination",
+					"tr-TR": "AFET UĞURU",
+					"vi-VN": "Phụ Kiện Đại Suy Vong",
+					"zh-CN": "Ruination Buddy",
+					"zh-TW": "殞落詛咒 吊飾"
 				}
 			}
 		},
@@ -64318,7 +65684,7 @@
 					"pl-PL": "Przywieszka „EP1: Brąz”",
 					"pt-BR": "EP1: Chaveiro Bronze",
 					"ru-RU": "Брелок \"Эпизод 1: Бронза\"",
-					"th-TH": "บัดดี้ตอนที่ 1: Bronze",
+					"th-TH": "บัดดี้ EP 1: Bronze",
 					"tr-TR": "01. BÖLÜM: BRONZ UĞURU",
 					"vi-VN": "Hồi 1: Phụ Kiện Đồng",
 					"zh-CN": "第一季：黄铜 枪友",
@@ -64378,7 +65744,7 @@
 					"pl-PL": "Przywieszka „EP1: Diament”",
 					"pt-BR": "EP1: Chaveiro Diamante",
 					"ru-RU": "Брелок \"Эпизод 1: Алмаз\"",
-					"th-TH": "บัดดี้ตอนที่ 1: Diamond",
+					"th-TH": "บัดดี้ EP 1: Diamond",
 					"tr-TR": "01. BÖLÜM: ELMAS UĞURU",
 					"vi-VN": "Hồi 1: Phụ Kiện Kim Cương",
 					"zh-CN": "第一季：钻石 枪友",
@@ -64438,7 +65804,7 @@
 					"pl-PL": "Przywieszka „EP1: Złoto”",
 					"pt-BR": "EP1: Chaveiro Ouro",
 					"ru-RU": "Брелок \"Эпизод 1: Золото\"",
-					"th-TH": "บัดดี้ตอนที่ 1: Gold",
+					"th-TH": "บัดดี้ EP 1: Gold",
 					"tr-TR": "01. BÖLÜM: ALTIN UĞURU",
 					"vi-VN": "Hồi 1: Phụ Kiện Vàng",
 					"zh-CN": "第一季：黄金 枪友",
@@ -64498,7 +65864,7 @@
 					"pl-PL": "Przywieszka „EP1: Nieśmiertelny”",
 					"pt-BR": "EP1: Chaveiro Imortal",
 					"ru-RU": "Брелок \"Эпизод 1: Бессмертный\"",
-					"th-TH": "บัดดี้ตอนที่ 1: Immortal",
+					"th-TH": "บัดดี้ EP 1: Immortal",
 					"tr-TR": "01. BÖLÜM: ÖLÜMSÜZLÜK UĞURU",
 					"vi-VN": "Hồi 1: Phụ Kiện Bất Tử",
 					"zh-CN": "第一季：不朽 枪友",
@@ -64558,7 +65924,7 @@
 					"pl-PL": "Przywieszka „EP1: Żelazo”",
 					"pt-BR": "EP1: Chaveiro Ferro",
 					"ru-RU": "Брелок \"Эпизод 1: Железо\"",
-					"th-TH": "บัดดี้ตอนที่ 1: Iron",
+					"th-TH": "บัดดี้ EP 1: Iron",
 					"tr-TR": "01. BÖLÜM: DEMİR UĞURU",
 					"vi-VN": "Hồi 1: Phụ Kiện Sắt",
 					"zh-CN": "第一季：黑铁 枪友",
@@ -64618,7 +65984,7 @@
 					"pl-PL": "Przywieszka „EP1: Platyna”",
 					"pt-BR": "EP1: Chaveiro Platina",
 					"ru-RU": "Брелок \"Эпизод 1: Платина\"",
-					"th-TH": "บัดดี้ตอนที่ 1: Platinum",
+					"th-TH": "บัดดี้ EP 1: Platinum",
 					"tr-TR": "01. BÖLÜM: PLATİN UĞURU",
 					"vi-VN": "Hồi 1: Phụ Kiện Bạch Kim",
 					"zh-CN": "第一季：铂金 枪友",
@@ -64678,7 +66044,7 @@
 					"pl-PL": "Przywieszka „EP1: Promienisty”",
 					"pt-BR": "EP1: Chaveiro Radiante",
 					"ru-RU": "Брелок \"Эпизод 1: Радиант\"",
-					"th-TH": "บัดดี้ตอนที่ 1: Radiant",
+					"th-TH": "บัดดี้ EP 1: Radiant",
 					"tr-TR": "01. BÖLÜM: RADYANT UĞURU",
 					"vi-VN": "Hồi 1: Phụ Kiện Radiant",
 					"zh-CN": "第一季：源人 枪友",
@@ -64738,7 +66104,7 @@
 					"pl-PL": "Przywieszka „EP1: Srebro”",
 					"pt-BR": "EP1: Chaveiro Prata",
 					"ru-RU": "Брелок \"Эпизод 1: Серебро\"",
-					"th-TH": "บัดดี้ตอนที่ 1: Silver",
+					"th-TH": "บัดดี้ EP 1: Silver",
 					"tr-TR": "01. BÖLÜM: GÜMÜŞ UĞURU",
 					"vi-VN": "Hồi 1: Phụ Kiện Bạc",
 					"zh-CN": "第一季：白银 枪友",
@@ -68122,7 +69488,7 @@
 							"de-DE": "Graffiti „Operator-freie Zone“",
 							"en-US": "No Op Spray",
 							"es-ES": "Grafiti No Op",
-							"es-MX": "Spray No es OP",
+							"es-MX": "Spray No Op",
 							"fr-FR": "Graffiti Operator interdit",
 							"id-ID": "Spray No Op",
 							"it-IT": "Spray Abbasso gli Op",
@@ -68151,7 +69517,7 @@
 					"de-DE": "Graffiti „Operator-freie Zone“",
 					"en-US": "No Op Spray",
 					"es-ES": "Grafiti No Op",
-					"es-MX": "Spray No es OP",
+					"es-MX": "Spray No Op",
 					"fr-FR": "Graffiti Operator interdit",
 					"id-ID": "Spray No Op",
 					"it-IT": "Spray Abbasso gli Op",
@@ -71962,7 +73328,7 @@
 							"de-DE": "Graffiti „Keine Odin“",
 							"en-US": "No Odin Spray",
 							"es-ES": "Grafiti Nada de Odin",
-							"es-MX": "Spray Prohibida la Odin",
+							"es-MX": "Spray No Odin",
 							"fr-FR": "Graffiti Odin interdit",
 							"id-ID": "Spray No Odin",
 							"it-IT": "Spray Niente Odin",
@@ -71991,7 +73357,7 @@
 					"de-DE": "Graffiti „Keine Odin“",
 					"en-US": "No Odin Spray",
 					"es-ES": "Grafiti Nada de Odin",
-					"es-MX": "Spray Prohibida la Odin",
+					"es-MX": "Spray No Odin",
 					"fr-FR": "Graffiti Odin interdit",
 					"id-ID": "Spray No Odin",
 					"it-IT": "Spray Niente Odin",
@@ -72561,7 +73927,7 @@
 							"ar-AE": "رسمة كيلجوي! لقد اخترتك!",
 							"de-DE": "Graffiti „Killjoy! Ich wähle dich!“",
 							"en-US": "Killjoy! I Choose You! Spray",
-							"es-ES": "¡Killjoy! Grafiti ¡Te elijo a ti!",
+							"es-ES": "Grafiti ¡Killjoy! ¡Te elijo a ti!",
 							"es-MX": "Spray ¡Killjoy! ¡Yo te elijo!",
 							"fr-FR": "Graffiti Killjoy ! Je te choisis !",
 							"id-ID": "Killjoy! I Choose You! Spray",
@@ -72590,7 +73956,7 @@
 					"ar-AE": "رسمة كيلجوي! لقد اخترتك!",
 					"de-DE": "Graffiti „Killjoy! Ich wähle dich!“",
 					"en-US": "Killjoy! I Choose You! Spray",
-					"es-ES": "¡Killjoy! Grafiti ¡Te elijo a ti!",
+					"es-ES": "Grafiti ¡Killjoy! ¡Te elijo a ti!",
 					"es-MX": "Spray ¡Killjoy! ¡Yo te elijo!",
 					"fr-FR": "Graffiti Killjoy ! Je te choisis !",
 					"id-ID": "Killjoy! I Choose You! Spray",
@@ -72682,7 +74048,7 @@
 							"de-DE": "Graffiti „Kein Guardian“",
 							"en-US": "No Guardian Spray",
 							"es-ES": "Grafiti Sin Guardian",
-							"es-MX": "Spray Prohibida la Guardian",
+							"es-MX": "Spray No Guardian",
 							"fr-FR": "Graffiti Guardian interdit",
 							"id-ID": "Spray No Guardian",
 							"it-IT": "Spray Niente Guardian",
@@ -72711,7 +74077,7 @@
 					"de-DE": "Graffiti „Kein Guardian“",
 					"en-US": "No Guardian Spray",
 					"es-ES": "Grafiti Sin Guardian",
-					"es-MX": "Spray Prohibida la Guardian",
+					"es-MX": "Spray No Guardian",
 					"fr-FR": "Graffiti Guardian interdit",
 					"id-ID": "Spray No Guardian",
 					"it-IT": "Spray Niente Guardian",
@@ -73499,7 +74865,7 @@
 					"ko-KR": "훈련 봇 스프레이",
 					"pl-PL": "Graffiti „Bot treningowy”",
 					"pt-BR": "Spray Robô de Treinamento",
-					"ru-RU": "Граффити \"Тренировочный бот\"",
+					"ru-RU": "Граффити \"Тренирующийся бот\"",
 					"th-TH": "สเปรย์ Training Bot",
 					"tr-TR": "KAS/AN BOT SPREYİ",
 					"vi-VN": "Hình phun sơn Robot Tập Luyện",
@@ -75690,7 +77056,7 @@
 							"ko-KR": "발로란트 GO! Vol. 1 세이지 스프레이",
 							"pl-PL": "Graffiti Sage „VALORANT GO! – Tom 1”",
 							"pt-BR": "Spray Sage VALORANT GO! Vol. 1",
-							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Sage \"",
+							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Sage\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Sage",
 							"tr-TR": "VALORANT GO! 1. CİLT SAGE SPREYİ",
 							"vi-VN": "Hình Phun Sơn Sage VALORANT GO! Vol.1",
@@ -75719,7 +77085,7 @@
 					"ko-KR": "발로란트 GO! Vol. 1 세이지 스프레이",
 					"pl-PL": "Graffiti Sage „VALORANT GO! – Tom 1”",
 					"pt-BR": "Spray Sage VALORANT GO! Vol. 1",
-					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Sage \"",
+					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Sage\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Sage",
 					"tr-TR": "VALORANT GO! 1. CİLT SAGE SPREYİ",
 					"vi-VN": "Hình Phun Sơn Sage VALORANT GO! Vol.1",
@@ -76043,9 +77409,9 @@
 							"en-US": "Ruin Spray",
 							"es-ES": "Grafiti Ruin",
 							"es-MX": "Spray Ruina",
-							"fr-FR": "Graffiti Ruines",
+							"fr-FR": "Graffiti Vestiges",
 							"id-ID": "Spray Ruin",
-							"it-IT": "Spray Rovina",
+							"it-IT": "Spray Reliquia",
 							"ja-JP": "ルイン スプレー",
 							"ko-KR": "몰락 스프레이",
 							"pl-PL": "Graffiti „Zniszczenie”",
@@ -76072,9 +77438,9 @@
 					"en-US": "Ruin Spray",
 					"es-ES": "Grafiti Ruin",
 					"es-MX": "Spray Ruina",
-					"fr-FR": "Graffiti Ruines",
+					"fr-FR": "Graffiti Vestiges",
 					"id-ID": "Spray Ruin",
-					"it-IT": "Spray Rovina",
+					"it-IT": "Spray Reliquia",
 					"ja-JP": "ルイン スプレー",
 					"ko-KR": "몰락 스프레이",
 					"pl-PL": "Graffiti „Zniszczenie”",
@@ -76145,6 +77511,66 @@
 					"vi-VN": "Hình Phun Sơn Hoàng Gia//2.0",
 					"zh-CN": "黄金年代//2.0 涂鸦",
 					"zh-TW": "紫金狂潮//2.0 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "760CB5D5-4710-C012-5797-AB9E72395030",
+					"label": "760CB5D5-4710-C012-5797-AB9E72395030",
+					"name":
+					{
+						"defaultText": "King",
+						"localizedByCulture":
+						{
+							"ar-AE": "King",
+							"de-DE": "King",
+							"en-US": "King",
+							"es-ES": "King",
+							"es-MX": "King",
+							"fr-FR": "King",
+							"id-ID": "King",
+							"it-IT": "King",
+							"ja-JP": "King",
+							"ko-KR": "King",
+							"pl-PL": "King",
+							"pt-BR": "King",
+							"ru-RU": "King",
+							"th-TH": "King",
+							"tr-TR": "King",
+							"vi-VN": "King",
+							"zh-CN": "King",
+							"zh-TW": "King"
+						}
+					}
+				}
+			],
+			"id": "CE90906D-40DA-367B-4A7A-E7A692516EE1",
+			"label": "CE90906D-40DA-367B-4A7A-E7A692516EE1",
+			"name":
+			{
+				"defaultText": "Ruination Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة روينيشين",
+					"de-DE": "Graffiti „Zerstörung“",
+					"en-US": "Ruination Spray",
+					"es-ES": "Grafiti Ruination",
+					"es-MX": "Spray Arruinado",
+					"fr-FR": "Graffiti Ruine",
+					"id-ID": "Spray Ruination",
+					"it-IT": "Spray Rovina",
+					"ja-JP": "ルイネーション スプレー",
+					"ko-KR": "대몰락 스프레이",
+					"pl-PL": "Graffiti „Zrujnowanie”",
+					"pt-BR": "Spray Ruína",
+					"ru-RU": "Граффити \"Погибель\"",
+					"th-TH": "สเปรย์ Ruination",
+					"tr-TR": "AFET SPREYİ",
+					"vi-VN": "Hình phun sơn Đại Suy Vong",
+					"zh-CN": "Ruination Spray",
+					"zh-TW": "殞落詛咒 塗鴉"
 				}
 			}
 		},
@@ -77291,6 +78717,66 @@
 		{
 			"levels": [
 				{
+					"id": "FC4474CB-4B5A-293E-8ABB-4C9A36A3F7AE",
+					"label": "FC4474CB-4B5A-293E-8ABB-4C9A36A3F7AE",
+					"name":
+					{
+						"defaultText": "Can't Teach That Spray",
+						"localizedByCulture":
+						{
+							"ar-AE": "رسمة لا يمكنك تعليم ذلك",
+							"de-DE": "Graffiti „Kann nicht erlernt werden“",
+							"en-US": "Can't Teach That Spray",
+							"es-ES": "Grafiti Esto no se aprende",
+							"es-MX": "Spray Eso No se Aprende",
+							"fr-FR": "Graffiti Ça ne s'apprend pas",
+							"id-ID": "Spray Can't Teach That",
+							"it-IT": "Questa tecnica non s'insegna",
+							"ja-JP": "スーパープレイ スプレー",
+							"ko-KR": "그건 가르쳐줄 수 없어 스프레이",
+							"pl-PL": "Graffiti „Tego nie nauczysz”",
+							"pt-BR": "Spray Siga o Mestre",
+							"ru-RU": "Граффити \"Такому не учат\"",
+							"th-TH": "สเปรย์ Can't Teach That",
+							"tr-TR": "ALAYLI SPREYİ",
+							"vi-VN": "Hình phun sơn Cái Đó Không Dạy Được Đâu",
+							"zh-CN": "Can't Teach That Spray",
+							"zh-TW": "天生好手 塗鴉"
+						}
+					}
+				}
+			],
+			"id": "48601754-442D-98CB-2109-3FB2075500EC",
+			"label": "48601754-442D-98CB-2109-3FB2075500EC",
+			"name":
+			{
+				"defaultText": "Can't Teach That Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة لا يمكنك تعليم ذلك",
+					"de-DE": "Graffiti „Kann nicht erlernt werden“",
+					"en-US": "Can't Teach That Spray",
+					"es-ES": "Grafiti Esto no se aprende",
+					"es-MX": "Spray Eso No se Aprende",
+					"fr-FR": "Graffiti Ça ne s'apprend pas",
+					"id-ID": "Spray Can't Teach That",
+					"it-IT": "Questa tecnica non s'insegna",
+					"ja-JP": "スーパープレイ スプレー",
+					"ko-KR": "그건 가르쳐줄 수 없어 스프레이",
+					"pl-PL": "Graffiti „Tego nie nauczysz”",
+					"pt-BR": "Spray Siga o Mestre",
+					"ru-RU": "Граффити \"Такому не учат\"",
+					"th-TH": "สเปรย์ Can't Teach That",
+					"tr-TR": "ALAYLI SPREYİ",
+					"vi-VN": "Hình phun sơn Cái Đó Không Dạy Được Đâu",
+					"zh-CN": "Can't Teach That Spray",
+					"zh-TW": "天生好手 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "D04D33F8-48CF-112F-F6AA-62AEA1F7FB27",
 					"label": "D04D33F8-48CF-112F-F6AA-62AEA1F7FB27",
 					"name":
@@ -77936,7 +79422,7 @@
 					"pl-PL": "Zwykły",
 					"pt-BR": "Padrão",
 					"ru-RU": "Стандарт",
-					"th-TH": "มาตรฐาน",
+					"th-TH": "พื้นฐาน",
 					"tr-TR": "STANDART",
 					"vi-VN": "Thông thường",
 					"zh-CN": "标准",
@@ -78259,7 +79745,7 @@
 					"ko-KR": "연습",
 					"pl-PL": "TRENING",
 					"pt-BR": "TREINO",
-					"ru-RU": "ТРЕНИРОВКА",
+					"ru-RU": "Тренировка",
 					"th-TH": "ฝึกซ้อม",
 					"tr-TR": "ALIŞTIRMA",
 					"vi-VN": "TẬP LUYỆN",
@@ -78376,7 +79862,7 @@
 					"pl-PL": "AKT 1",
 					"pt-BR": "ATO 1",
 					"ru-RU": "АКТ 1",
-					"th-TH": "ฉากที่ 1",
+					"th-TH": "ACT 1",
 					"tr-TR": "1. KISIM",
 					"vi-VN": "PHẦN 1",
 					"zh-CN": "第一幕",
@@ -78406,7 +79892,7 @@
 					"pl-PL": "AKT 2",
 					"pt-BR": "ATO 2",
 					"ru-RU": "АКТ 2",
-					"th-TH": "ฉากที่ 2",
+					"th-TH": "ACT 2",
 					"tr-TR": "2. KISIM",
 					"vi-VN": "PHẦN 2",
 					"zh-CN": "第二幕",
@@ -78436,7 +79922,7 @@
 					"pl-PL": "AKT 3",
 					"pt-BR": "ATO 3",
 					"ru-RU": "АКТ 3",
-					"th-TH": "ฉากที่ 3",
+					"th-TH": "ACT 3",
 					"tr-TR": "3. KISIM",
 					"vi-VN": "PHẦN 3",
 					"zh-CN": "第三幕",
@@ -78466,7 +79952,7 @@
 					"pl-PL": "ODCINEK 1",
 					"pt-BR": "EPISÓDIO 1",
 					"ru-RU": "ЭПИЗОД 1",
-					"th-TH": "ตอนที่ 1",
+					"th-TH": "\nEPISODE 1",
 					"tr-TR": "1. BÖLÜM",
 					"vi-VN": "HỒI 1",
 					"zh-CN": "第一场",
@@ -78496,7 +79982,7 @@
 					"pl-PL": "AKT 1",
 					"pt-BR": "ATO 1",
 					"ru-RU": "АКТ 1",
-					"th-TH": "ฉากที่ 1",
+					"th-TH": "ACT 1",
 					"tr-TR": "1. KISIM",
 					"vi-VN": "PHẦN 1",
 					"zh-CN": "第一幕",
@@ -78526,7 +80012,7 @@
 					"pl-PL": "AKT 2",
 					"pt-BR": "ATO 2",
 					"ru-RU": "АКТ 2",
-					"th-TH": "ฉากที่ 2",
+					"th-TH": "ACT 2",
 					"tr-TR": "2. KISIM",
 					"vi-VN": "PHẦN 2",
 					"zh-CN": "第二幕",
@@ -78556,7 +80042,7 @@
 					"pl-PL": "AKT 3",
 					"pt-BR": "ATO 3",
 					"ru-RU": "АКТ 3",
-					"th-TH": "ฉากที่ 3",
+					"th-TH": "ACT 3",
 					"tr-TR": "3. KISIM",
 					"vi-VN": "PHẦN 3",
 					"zh-CN": "第三幕",
@@ -78586,7 +80072,7 @@
 					"pl-PL": "ODCINEK 2",
 					"pt-BR": "EPISÓDIO 2",
 					"ru-RU": "ЭПИЗОД 2",
-					"th-TH": "ตอนที่ 2",
+					"th-TH": "\nEPISODE 2",
 					"tr-TR": "2. BÖLÜM",
 					"vi-VN": "HỒI 2",
 					"zh-CN": "第二场",
@@ -78616,7 +80102,7 @@
 					"pl-PL": "AKT 1",
 					"pt-BR": "ATO 1",
 					"ru-RU": "АКТ 1",
-					"th-TH": "ฉากที่ 1",
+					"th-TH": "ACT 1",
 					"tr-TR": "1. KISIM",
 					"vi-VN": "PHẦN 1",
 					"zh-CN": "第一幕",
@@ -78646,7 +80132,7 @@
 					"pl-PL": "AKT 2",
 					"pt-BR": "ATO 2",
 					"ru-RU": "АКТ 2",
-					"th-TH": "ฉากที่ 2",
+					"th-TH": "ACT 2",
 					"tr-TR": "2. KISIM",
 					"vi-VN": "PHẦN 2",
 					"zh-CN": "第二幕",
@@ -78676,7 +80162,7 @@
 					"pl-PL": "AKT 3",
 					"pt-BR": "ATO 3",
 					"ru-RU": "АКТ 3",
-					"th-TH": "ฉากที่ 3",
+					"th-TH": "ACT 3",
 					"tr-TR": "3. KISIM",
 					"vi-VN": "PHẦN 3",
 					"zh-CN": "第三幕",
@@ -78706,8 +80192,8 @@
 					"pl-PL": "ODCINEK 3",
 					"pt-BR": "EPISÓDIO 3",
 					"ru-RU": "ЭПИЗОД 3",
-					"th-TH": "ตอนที่ 3",
-					"tr-TR": "03. BÖLÜM",
+					"th-TH": "\nEPISODE 3",
+					"tr-TR": "3. BÖLÜM",
 					"vi-VN": "HỒI 3",
 					"zh-CN": "第三季",
 					"zh-TW": "第三幕"
