@@ -1,5 +1,5 @@
 {
-	"version": "03.07.00.615012",
+	"version": "03.08.00.620887",
 	"characters": [
 		{
 			"description":
@@ -157,7 +157,7 @@
 							"pl-PL": "WYPOSAŻ ładunek fuzyjny. STRZEL, by wypuścić powolny ładunek przez ścianę. Zada on duże obrażenia każdemu, kto znajdzie się na obszarze jego działania.",
 							"pt-BR": "EQUIPE uma carga de fusão. DISPARE a carga para armar um jato de ação lenta pela parede, que causa alto dano a todos que estiverem na área de efeito.",
 							"ru-RU": "Выбирает взрывной заряд. Нажмите кнопку ОГОНЬ, чтобы запустить заряд через стену и создать взрыв на другой стороне. Взрыв наносит серьезный урон всем, кто попадает в зону поражения.",
-							"th-TH": "ติดตั้ง Fusion Charge กดยิงเพื่อปล่อยระเบิดที่\nจะหน่วงเวลาในการยิงทะลุผ่านกำแพง ระเบิดจะ\nสร้างดาเมจอันรุนแรงแก่ผู้เล่นที่อยู่ในพื้นที่นั้น",
+							"th-TH": "ติดตั้ง Fusion Charge กดยิงเพื่อปล่อยระเบิดที่\nจะหน่วงเวลาในการยิงทะลุผ่านกำแพง ระเบิดจะ\nสร้างความเสียหายอันรุนแรงแก่ผู้เล่นที่อยู่ในพื้นที่นั้น",
 							"tr-TR": "Termonükleer bir yük KUŞAN. Duvarın içinden geçtikten sonra zamanla gerçekleşen patlamalar için ATEŞ ET. Patlayan yük, etki alanında kalan herkese ağır hasar verir.",
 							"vi-VN": "TRANG BỊ 1 đạn nhiệt hạch. NHẤP BẮN để phóng 1 viên đạn nổ chậm xuyên qua tường. Khi phát nổ sẽ gây sát thương lớn lên bất cứ ai trong phạm vi ảnh hưởng.",
 							"zh-CN": "装备聚变蓄力弹。按射击即可发射疾速穿透墙壁的慢效蓄力弹。该冲击会对处于其区域内的人造成严重伤害。",
@@ -322,7 +322,7 @@
 							"pl-PL": "NATYCHMIAST rzuć Bombową Paką, która przyczepia się do powierzchni. UŻYJ PONOWNIE tej umiejętności po rozmieszczeniu ładunku, by go zdetonować, zadając obrażenia i przemieszczając trafione cele.",
 							"pt-BR": "INSTANTANEAMENTE joga uma carga de explosivos que gruda em superfícies. REUSE a habilidade depois de instalar para detonar, causando dano e movendo tudo que for atingido.",
 							"ru-RU": "МГНОВЕННО бросает взрывной ранец, прикрепляющийся к поверхностям. Используйте умение повторно, чтобы взорвать ранец, нанося урон и отталкивая находящихся рядом агентов.",
-							"th-TH": "โยน Blast Pack ที่จะยึดติดกับพื้นผิวทันที กดใช้\nงานสกิลอีกครั้งหลังจากปล่อยออกไปเพื่อจุด\nชนวนระเบิดที่จะสร้างดาเมจและผลักทุกสิ่งที่\nถูกกระทบออกไป",
+							"th-TH": "โยน Blast Pack ที่จะยึดติดกับพื้นผิวทันที กดใช้\nงานสกิลอีกครั้งหลังจากปล่อยออกไปเพื่อจุด\nชนวนระเบิดที่จะสร้างความเสียหายและผลักทุกสิ่งที่\nถูกกระทบออกไป",
 							"tr-TR": "HEMEN, zemine yapışan bir Patlayıcı Çanta fırlat. Elinden çıkan çantayı patlatmak için TEKRAR KULLAN. İsabet ettiği her şeye hasar verir ve onları yerinden oynatır.",
 							"vi-VN": "NGAY LẬP TỨC tung ra Gói Chất Nổ bám dính trên bề mặt địa hình. KÍCH HOẠT LẠI kỹ năng sau khi tung Gói Chất Nổ ra để kích nổ, gây sát thương và làm dịch chuyển bất cứ thứ gì trúng phải.",
 							"zh-CN": "立即投掷一个会粘在表面的冲击包。完成部署后重复使用该技能即可将其引爆，破坏并击飞任何命中的东西。",
@@ -376,7 +376,7 @@
 							"pl-PL": "WYPOSAŻ granat kasetowy. STRZEL, by rzucić granat zadający obrażenia i tworzący mniejsze ładunki, z których każdy zadaje obrażenia celom w jego zasięgu.",
 							"pt-BR": "EQUIPE uma granada múltipla. DISPARE para jogar a granada, que causa dano e cria submunições, cada uma causando dano a qualquer um que estiver em seu alcance.",
 							"ru-RU": "Выбирает кассетную гранату. Нажмите кнопку ОГОНЬ, чтобы бросить гранату, которая взрывается, наносит урон и выпускает гранаты поменьше, наносящие урон всем агентам в радиусе поражения.",
-							"th-TH": "ติดตั้งระเบิดมือ กดยิงเพื่อโยนระเบิดมือออกไป\nการจุดชนวนจะสร้างดาเมจและทำให้เกิดระเบิด\nลูกย่อย ๆ เพิ่มขึ้นมาอีก ซึ่งแต่ละลูกก็จะสร้าง\nดาเมจกับทุกคนที่อยู่ในรัศมีของมัน",
+							"th-TH": "ติดตั้งระเบิดมือ กดยิงเพื่อโยนระเบิดมือออกไป\nการจุดชนวนจะสร้างความเสียหายและทำให้เกิดระเบิด\nลูกย่อย ๆ เพิ่มขึ้นมาอีก ซึ่งแต่ละลูกก็จะสร้าง\nความเสียหายกับทุกคนที่อยู่ในรัศมีของมัน",
 							"tr-TR": "Bir parça tesirli el bombası KUŞAN. Fırlatmak için ATEŞ ET. Hasar veren bomba, her biri menzilindeki herkese hasar veren bombacıklar oluşturur.",
 							"vi-VN": "TRANG BỊ 1 quả lựu đạn chùm. NHẤP BẮN để ném lựu đạn, gây sát thương và tạo ra một loạt các lựu đạn phụ gây thương tích lên bất cứ ai trong tầm ảnh hưởng.",
 							"zh-CN": "装备子母手雷。按射击即可投掷会造成伤害并生成子手雷的子母手雷，每颗子手雷都会对它范围内的任何人造成伤害。",
@@ -484,7 +484,7 @@
 							"pl-PL": "WYPOSAŻ wyrzutnię rakiet. STRZEL, by wypuścić rakietę, która w chwili trafienia zada potężne obrażenia obszarowe.",
 							"pt-BR": "EQUIPE um lança-mísseis. DISPARE um míssil que causa dano devastador em área ao fazer contato com qualquer coisa.",
 							"ru-RU": "Выбирает ракетомет. Нажмите кнопку ОГОНЬ, чтобы выпустить ракету, наносящую огромный урон по большой области при контакте.",
-							"th-TH": "ติดตั้งเครื่องยิงจรวด กดยิงเพื่อปล่อยจรวดที่จะ\nสร้างดาเมจในวงกว้างเมื่อกระทบกับสิ่งใด ๆ",
+							"th-TH": "ติดตั้งเครื่องยิงจรวด กดยิงเพื่อปล่อยจรวดที่จะ\nสร้างความเสียหายในวงกว้างเมื่อกระทบกับสิ่งใด ๆ",
 							"tr-TR": "Bir roketatar KUŞAN. Temas ettiği her şeye muazzam alan hasarı veren bir roket fırlatmak için ATEŞ ET.",
 							"vi-VN": "TRANG BỊ 1 súng phóng tên lửa. NHẤP BẮN để phóng ra 1 quả tên lửa gây sát thương trên diện rộng khi va chạm.",
 							"zh-CN": "装备火箭发射器。按射击即可发射一枚在与任何物体接触时造成大范围伤害的火箭。",
@@ -868,7 +868,7 @@
 							"pl-PL": "WYPOSAŻ błyskotkę z tasmańskim wilkiem. STRZEL, aby wypuścić drapieżnika i przejąć nad nim kontrolę. Kontrolując go, STRZEL, aby skoczyć naprzód, wywołując ogłuszający wybuch i zadając bezpośrednie obrażenia trafionym wrogom.",
 							"pt-BR": "EQUIPE um amuleto de lobo-da-tasmânia. DISPARE para enviar e controlar o predador. Enquanto estiver no controle, DISPARE para saltar para a frente. O lobo gera uma explosão e causa dano aos inimigos diretamente atingidos.",
 							"ru-RU": "Выбирает фигурку тасманийского волка. Нажмите кнопку ОГОНЬ, чтобы вызвать хищника и управлять им. Нажмите ОГОНЬ еще раз, чтобы животное сделало рывок вперед, вызвало оглушающий взрыв и нанесло урон пораженным врагам.",
-							"th-TH": "ติดตั้งเครื่องประดับเสือแทสเมเนียน ยิงเพื่อ\nปล่อยและควบคุมการเคลื่อนไหวของนักล่านั้น\nเมื่ออยู่ในการควบคุม ยิงเพื่อกระโจนไปข้างหน้า\nเสือจะระเบิดและสร้างความกระทบกระเทือนเมื่อกระโจน พร้อมกับสร้างดาเมจแก่ศัตรูโดยตรง",
+							"th-TH": "ติดตั้งเครื่องประดับเสือแทสเมเนียน ยิงเพื่อ\nปล่อยและควบคุมการเคลื่อนไหวของนักล่านั้น\nเมื่ออยู่ในการควบคุม ยิงเพื่อกระโจนไปข้างหน้า\nเสือจะระเบิดและสร้างความกระทบกระเทือนเมื่อกระโจน พร้อมกับสร้างความเสียหายแก่ศัตรูโดยตรง",
 							"tr-TR": "Bir Tazmanya kaplanı figürü KUŞAN. Avcıyı gönderip onu kontrol etmek için ATEŞ ET. Hayvanı kontrol ederken birden ileri atılarak sarsıcı bir patlamaya sebep olmak ve doğrudan isabet alan düşmanlara hasar vermek için ATEŞ ET.",
 							"vi-VN": "TRANG BỊ 1 tinh linh mãnh hổ Tasmania. NHẤP BẮN để giải phóng và điều khiển tinh linh mãnh hổ. Khi đang điều khiển, NHẤP BẮN để nhảy về phía trước và phát nổ gây sát thương lên kẻ địch trực tiếp trúng đòn, đồng thời tỏa ra xung chấn làm choáng đối thủ.",
 							"zh-CN": "装备塔斯马尼亚虎饰品。按射击即可派出并控制掠食者。控制过程中，按射击可向前跳跃，爆炸并发出冲击波，对直接命中的敌人造成伤害。",
@@ -1414,7 +1414,7 @@
 							"pl-PL": "WYPOSAŻ łuk ze strzałą-piorunem. STRZEL, by wypuścić wybuchową strzałę, która w momencie trafienia eksploduje i zadaje obrażenia pobliskim graczom. PRZYTRZYMAJ STRZAŁ, by zwiększyć zasięg pocisku. Przycisk STRZAŁU ALTERNATYWNEGO pozwala zwiększyć liczbę odbić strzały o maksymalnie dwa.",
 							"pt-BR": "EQUIPE um arco com uma flecha de choque. DISPARE para lançar a flecha que explode ao impacto, causando dano aos jogadores próximos. SEGURE DISPARO para estender o alcance do projétil. Use o MODO SECUNDÁRIO para adicionar até dois ricochetes à flecha.",
 							"ru-RU": "Выбирает шоковую стрелу. Нажмите кнопку ОГОНЬ, чтобы выпустить стрелу, летящую по прямой. При столкновении она срабатывает, нанося урон игрокам поблизости. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы увеличить дальность выстрела. Нажатие кнопки АЛЬТ. ОГОНЬ позволяет стреле отскакивать от стен до двух раз.",
-							"th-TH": "ติดตั้งธนูด้วย Shock Bolt กดยิงเพื่อปล่อยลูก\nธนูระเบิดสายฟ้าไปข้างหน้า ซึ่งจะระเบิดเมื่อ\nปะทะและสร้างดาเมจแก่ผู้เล่นใกล้เคียง กดยิง\nค้างไว้เพื่อเพิ่มระยะการยิง กดโหมดการ\nยิงเสริมเพื่อเพิ่มจำนวนการเด้งของลูกธนูได้ถึงสองครั้ง",
+							"th-TH": "ติดตั้งธนูด้วย Shock Bolt กดยิงเพื่อปล่อยลูก\nธนูระเบิดสายฟ้าไปข้างหน้า ซึ่งจะระเบิดเมื่อ\nปะทะและสร้างความเสียหายแก่ผู้เล่นใกล้เคียง กดยิง\nค้างไว้เพื่อเพิ่มระยะการยิง กดโหมดการ\nยิงเสริมเพื่อเพิ่มจำนวนการเด้งของลูกธนูได้ถึงสองครั้ง",
 							"tr-TR": "Şok okuna sahip bir yay KUŞAN. Patlayıcı oku ileri yollamak için ATEŞ ET. Ok çarpışma anında infilak eder ve yakındaki oyunculara hasar verir. Atış mesafesini uzatmak için BASILI TUTARAK ATEŞ ET. Oku iki kereye kadar sektirmek için ALTERNATİF ATIŞ kullan.",
 							"vi-VN": "TRANG BỊ 1 mũi tên điện. NHẤP BẮN để phóng mũi tên ra phía trước. Mũi tên sẽ phát nổ khi va chạm và gây sát thương lên tất cả người chơi trong phạm vi. GIỮ phím BẮN để tăng tầm bắn của mũi tên. NHẤP CHẾ ĐỘ PHỤ để tăng thêm tối đa 2 lần nảy cho mũi tên.",
 							"zh-CN": "为弓装上冲击弩箭。按射击即可将爆破弩箭向前射出，碰撞时会引爆并伤害邻近玩家。按住射击以延伸发射物的射程。按次要射击可使该弩箭多弹射两次。",
@@ -1576,7 +1576,7 @@
 							"pl-PL": "WYPOSAŻ łuk z trzema eksplozjami energii dalekiego zasięgu, przebijającymi ściany. STRZEL, by wypuścić eksplozję energii lecącą na wprost Sovy, zadającą obrażenia i ujawniającą miejsce pobytu przeciwników w jej polu działania. Można jej UŻYĆ PONOWNIE do dwóch razy, dopóki licznik umiejętności jest aktywny.",
 							"pt-BR": "EQUIPE um arco com três disparos de longo alcance que perfuram paredes. DISPARE para atirar um raio de energia diante de Sova, causando dano e revelando a localização dos inimigos que estiverem na linha. A habilidade pode ser REPETIDA até mais duas vezes enquanto o cronômetro de habilidade estiver ativo.",
 							"ru-RU": "Выбирает три стрелы с дальнобойными, пробивающими стены импульсами. Нажмите кнопку ОГОНЬ, чтобы выпустить импульс по прямой перед агентом, нанося урон и раскрывая позицию всех раненых врагов. Умение можно использовать еще два раза, пока активен таймер.",
-							"th-TH": "ติดตั้งธนูด้วยระเบิดพลังงานสูงสามนัดที่\nสามารถยิงได้ไกลและทะลุกำแพงได้ กดยิง\nเพื่อปล่อยระเบิดพลังงานไปยังเบื้องหน้า\nของ Sova เพื่อสร้างดาเมจและเปิดเผย\nตำแหน่งของศัตรูที่อยู่ในแนวการยิง สกิลนี้\nสามารถใช้ซ้ำได้อีกสองครั้งขณะที่ยังอยู่\nในระยะเวลาที่กำหนด",
+							"th-TH": "ติดตั้งธนูด้วยระเบิดพลังงานสูงสามนัดที่\nสามารถยิงได้ไกลและทะลุกำแพงได้ กดยิง\nเพื่อปล่อยระเบิดพลังงานไปยังเบื้องหน้า\nของ Sova เพื่อสร้างความเสียหายและเปิดเผย\nตำแหน่งของศัตรูที่อยู่ในแนวการยิง สกิลนี้\nสามารถใช้ซ้ำได้อีกสองครั้งขณะที่ยังอยู่\nในระยะเวลาที่กำหนด",
 							"tr-TR": "Üç adet duvar delici enerji patlaması ateşleyen bir yay KUŞAN. Sova'nın önünde, bir hat üzerinde enerji patlamaları oluşturmak ve hatta yakalanan düşmanlara hasar verip konumlarını açığa çıkarmak için ATEŞ ET. Bu yetenek, yetenek sayacı etkinken iki kez daha YENİDEN KULLANILABİLİR.",
 							"vi-VN": "TRANG BỊ 1 cây cung với 3 mũi tên cuồng nộ có tầm bắn xa và khả năng xuyên vật thể. NHẤP BẮN để phóng mũi tên cuồng nộ trên đường thẳng, gây sát thương và làm lộ vị trí của đối thủ trên đường đi của mũi tên. Kỹ năng này có thể KÍCH HOẠT LẠI tối đa thêm 2 lần nữa khi đang trong thời gian kích hoạt của kỹ năng.",
 							"zh-CN": "为弓装上三道远程穿墙的能量冲击波。按射击即可向猎枭的前方直线射出一道能量冲击波，对直线上命中的敌人造成伤害并揭露其位置。此技能在激活技能计时期间可再次施放多两次。",
@@ -1741,7 +1741,7 @@
 							"pl-PL": "WYPOSAŻ łuk ze strzałą-piorunem. STRZEL, by wypuścić wybuchową strzałę, która w momencie trafienia eksploduje i zadaje obrażenia pobliskim graczom. PRZYTRZYMAJ STRZAŁ, by zwiększyć zasięg pocisku. Przycisk STRZAŁU ALTERNATYWNEGO pozwala zwiększyć liczbę odbić strzały o maksymalnie dwa.",
 							"pt-BR": "EQUIPE um arco com uma flecha de choque. DISPARE para lançar a flecha que explode ao impacto, causando dano aos jogadores próximos. SEGURE DISPARO para estender o alcance do projétil. Use o MODO SECUNDÁRIO para adicionar até dois ricochetes à flecha.",
 							"ru-RU": "Выбирает шоковую стрелу. Нажмите кнопку ОГОНЬ, чтобы выпустить стрелу, летящую по прямой. При столкновении она срабатывает, нанося урон игрокам поблизости. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы увеличить дальность выстрела. Нажатие кнопки АЛЬТ. ОГОНЬ позволяет стреле отскакивать от стен до двух раз.",
-							"th-TH": "ติดตั้งธนูด้วย Shock Bolt กดยิงเพื่อปล่อยลูก\nธนูระเบิดสายฟ้าไปข้างหน้า ซึ่งจะระเบิดเมื่อ\nปะทะและสร้างดาเมจแก่ผู้เล่นใกล้เคียง กดยิง\nค้างไว้เพื่อเพิ่มระยะการยิง กดโหมดการ\nยิงเสริมเพื่อเพิ่มจำนวนการเด้งของลูกธนูได้ถึงสองครั้ง",
+							"th-TH": "ติดตั้งธนูด้วย Shock Bolt กดยิงเพื่อปล่อยลูก\nธนูระเบิดสายฟ้าไปข้างหน้า ซึ่งจะระเบิดเมื่อ\nปะทะและสร้างความเสียหายแก่ผู้เล่นใกล้เคียง กดยิง\nค้างไว้เพื่อเพิ่มระยะการยิง กดโหมดการ\nยิงเสริมเพื่อเพิ่มจำนวนการเด้งของลูกธนูได้ถึงสองครั้ง",
 							"tr-TR": "Şok okuna sahip bir yay KUŞAN. Patlayıcı oku ileri yollamak için ATEŞ ET. Ok çarpışma anında infilak eder ve yakındaki oyunculara hasar verir. Atış mesafesini uzatmak için BASILI TUTARAK ATEŞ ET. Oku iki kereye kadar sektirmek için ALTERNATİF ATIŞ kullan.",
 							"vi-VN": "TRANG BỊ 1 mũi tên điện. NHẤP BẮN để phóng mũi tên ra phía trước. Mũi tên sẽ phát nổ khi va chạm và gây sát thương lên tất cả người chơi trong phạm vi. GIỮ phím BẮN để tăng tầm bắn của mũi tên. NHẤP CHẾ ĐỘ PHỤ để tăng thêm tối đa 2 lần nảy cho mũi tên.",
 							"zh-CN": "为弓装上冲击弩箭。按射击即可将爆破弩箭向前射出，碰撞时会引爆并伤害邻近玩家。按住射击以延伸发射物的射程。按次要射击可使该弩箭多弹射两次。",
@@ -1903,7 +1903,7 @@
 							"pl-PL": "WYPOSAŻ łuk z trzema eksplozjami energii dalekiego zasięgu, przebijającymi ściany. STRZEL, by wypuścić eksplozję energii lecącą na wprost Sovy, zadającą obrażenia i ujawniającą miejsce pobytu przeciwników w jej polu działania. Można jej UŻYĆ PONOWNIE do dwóch razy, dopóki licznik umiejętności jest aktywny.",
 							"pt-BR": "EQUIPE um arco com três disparos de longo alcance que perfuram paredes. DISPARE para atirar um raio de energia diante de Sova, causando dano e revelando a localização dos inimigos que estiverem na linha. A habilidade pode ser REPETIDA até mais duas vezes enquanto o cronômetro de habilidade estiver ativo.",
 							"ru-RU": "Выбирает три стрелы с дальнобойными, пробивающими стены импульсами. Нажмите кнопку ОГОНЬ, чтобы выпустить импульс по прямой перед агентом, нанося урон и раскрывая позицию всех раненых врагов. Умение можно использовать еще два раза, пока активен таймер.",
-							"th-TH": "ติดตั้งธนูด้วยระเบิดพลังงานสูงสามนัดที่\nสามารถยิงได้ไกลและทะลุกำแพงได้ กดยิง\nเพื่อปล่อยระเบิดพลังงานไปยังเบื้องหน้า\nของ Sova เพื่อสร้างดาเมจและเปิดเผย\nตำแหน่งของศัตรูที่อยู่ในแนวการยิง สกิลนี้\nสามารถใช้ซ้ำได้อีกสองครั้งขณะที่ยังอยู่\nในระยะเวลาที่กำหนด",
+							"th-TH": "ติดตั้งธนูด้วยระเบิดพลังงานสูงสามนัดที่\nสามารถยิงได้ไกลและทะลุกำแพงได้ กดยิง\nเพื่อปล่อยระเบิดพลังงานไปยังเบื้องหน้า\nของ Sova เพื่อสร้างความเสียหายและเปิดเผย\nตำแหน่งของศัตรูที่อยู่ในแนวการยิง สกิลนี้\nสามารถใช้ซ้ำได้อีกสองครั้งขณะที่ยังอยู่\nในระยะเวลาที่กำหนด",
 							"tr-TR": "Üç adet duvar delici enerji patlaması ateşleyen bir yay KUŞAN. Sova'nın önünde, bir hat üzerinde enerji patlamaları oluşturmak ve hatta yakalanan düşmanlara hasar verip konumlarını açığa çıkarmak için ATEŞ ET. Bu yetenek, yetenek sayacı etkinken iki kez daha YENİDEN KULLANILABİLİR.",
 							"vi-VN": "TRANG BỊ 1 cây cung với 3 mũi tên cuồng nộ có tầm bắn xa và khả năng xuyên vật thể. NHẤP BẮN để phóng mũi tên cuồng nộ trên đường thẳng, gây sát thương và làm lộ vị trí của đối thủ trên đường đi của mũi tên. Kỹ năng này có thể KÍCH HOẠT LẠI tối đa thêm 2 lần nữa khi đang trong thời gian kích hoạt của kỹ năng.",
 							"zh-CN": "为弓装上三道远程穿墙的能量冲击波。按射击即可向猎枭的前方直线射出一道能量冲击波，对直线上命中的敌人造成伤害并揭露其位置。此技能在激活技能计时期间可再次施放多两次。",
@@ -2068,7 +2068,7 @@
 							"pl-PL": "WYPOSAŻ granat nanoroju. STRZEL, by rzucić granat. Po wylądowaniu na ziemi nanorój ukrywa się. AKTYWUJ nanorój, by wypuścić niszczycielski rój nanobotów.  ",
 							"pt-BR": "EQUIPE uma granada Nanoenxame. DISPARE para lançar a granada. Ao atingir uma superfície, a Nanoenxame fica oculta. ATIVE a Nanoenxame para acionar um enxame de nanorrobôs que causam dano.",
 							"ru-RU": "Выбирает гранату \"Улей\". Нажмите кнопку ОГОНЬ, чтобы бросить гранату. После приземления граната маскируется. АКТИВИРУЙТЕ \"Улей\", чтобы выпустить рой наносящих урон наноботов.",
-							"th-TH": "ติดตั้งระเบิด Nanoswarm กดยิงเพื่อปาระเบิด\nเมื่อถึงพื้น Nanoswarm จะซ่อนตัวทันที \nเปิดใช้งาน Nanoswarm เพื่อปล่อยฝูง \nNanobots ออกไปสร้างดาเมจ",
+							"th-TH": "ติดตั้งระเบิด Nanoswarm กดยิงเพื่อปาระเบิด\nเมื่อถึงพื้น Nanoswarm จะซ่อนตัวทันที \nเปิดใช้งาน Nanoswarm เพื่อปล่อยฝูง \nNanobots ออกไปสร้างความเสียหาย",
 							"tr-TR": "Nanosürü bombası KUŞAN. Bombayı fırlatmak için ATEŞ ET. Nanosürü bir yere isabet ettiği anda gizlenir. Hasar veren nano robot sürüsünü salmak için Nanosürü'yü ETKİNLEŞTİR.  ",
 							"vi-VN": "TRANG BỊ 1 quả Bom Nano. NHẤP BẮN để quăng về phía trước. Khi chạm đất, Bom Nano sẽ trở nên tàng hình. KÍCH HOẠT Bom Nano để phát tán các hạt Nano siêu nhỏ có khả năng gây sát thương.",
 							"zh-CN": "装备一枚纳米蜂群手雷，按下射击来投掷，纳米蜂群在落地后会隐形。激活纳米蜂群会部署一群能造成伤害的纳米机器人。",
@@ -2449,7 +2449,7 @@
 							"pl-PL": "WYPOSAŻ wyrzutnię chemikaliów. STRZEL, by odpalić kanister, który rozbija się po kontakcie z ziemią. W wyniku tego powstaje tymczasowa chemiczna strefa, która zadaje obrażenia i powoduje podatność.",
 							"pt-BR": "EQUIPE um lançador químico. DISPARE para lançar um cilindro que se rompe ao atingir o chão, gerando uma zona química duradoura que causa dano aos inimigos e aplica Vulnerável a eles.",
 							"ru-RU": "Выбирает капсулу с кислотой. Нажмите кнопку ОГОНЬ, чтобы запустить капсулу, которая разбивается при падении, оставляя после себя лужу кислоты. Попавшие в кислоту противники получают урон и становятся уязвимыми.",
-							"th-TH": "ติดตั้งเครื่องยิงสารเคมี กดยิงเพื่อปล่อย\nกระป๋องที่จะระเบิดเมื่อตกถึงพื้น ก่อให้เกิด\nพื้นที่เขตเคมีที่สร้างดาเมจให้กับศัตรูและ\nสร้างความอ่อนแอกับพวกเขา",
+							"th-TH": "ติดตั้งเครื่องยิงสารเคมี กดยิงเพื่อปล่อย\nกระป๋องที่จะระเบิดเมื่อตกถึงพื้น ก่อให้เกิด\nพื้นที่เขตเคมีที่สร้างความเสียหายให้กับศัตรูและ\nสร้างความอ่อนแอกับพวกเขา",
 							"tr-TR": "Bir kimyasal fırlatıcı KUŞAN. Yere çarptığında parçalanan bir kapsül fırlatmak için ATEŞ ET. Oluşturduğu uzun süreli kimyasal alanda kalan düşmanlar hasar alır ve Savunmasız hale gelir.",
 							"vi-VN": "TRANG BỊ 1 thiết bị phóng hóa chất. NHẤP BẮN để phóng 1 ống hóa chất sẽ vỡ khi chạm đất và tạo ra một vùng hoá chất có khả năng gây sát thương và gây hiệu ứng Suy Yếu.",
 							"zh-CN": "装备化学发射装置。按射击即可发射一枚触地即碎的化学罐，碎裂后会产生一个历久不散的化学区域，对敌人造成伤害并施加脆弱。",
@@ -2668,7 +2668,7 @@
 							"pl-PL": "WYPOSAŻ płomienną ścianę. STRZEL, by stworzyć wędrującą na wprost ognistą linię, która tworzy ścianę ognia blokującą wizję i zadaje obrażenia wszystkim przechodzącym przez nią graczom. PRZYTRZYMAJ STRZAŁ, by nagiąć ścianę w kierunku wskazanym przez twój celownik.",
 							"pt-BR": "EQUIPE uma parede de fogo. DISPARE para criar uma linha de chamas que avança, gerando uma parede de fogo que bloqueia a visão e causa dano a jogadores que passarem por ela. SEGURE DISPARAR para curvá-la na direção da mira.",
 							"ru-RU": "Выбирает огненную стену. Нажмите кнопку ОГОНЬ, чтобы выпустить вперед пламя, образующее стену огня. Она заслоняет обзор и наносит урон проходящим через нее игрокам. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы изогнуть стену в сторону прицела. ",
-							"th-TH": "ติดตั้งกำแพงไฟ กดยิงเพื่อสร้างเส้นทางของไฟ\nไปยังด้านหน้า ทำให้เกิดกำแพงไฟที่จะบดบัง\nวิสัยทัศน์และสร้างดาเมจแก่ศัตรูที่เดินผ่าน \nกดยิงค้างไว้เพื่อโค้งกำแพงตามทิศทาง\nเป้าเล็งของคุณ",
+							"th-TH": "ติดตั้งกำแพงไฟ กดยิงเพื่อสร้างเส้นทางของไฟ\nไปยังด้านหน้า ทำให้เกิดกำแพงไฟที่จะบดบัง\nวิสัยทัศน์และสร้างความเสียหายแก่ศัตรูที่เดินผ่าน \nกดยิงค้างไว้เพื่อโค้งกำแพงตามทิศทาง\nเป้าเล็งของคุณ",
 							"tr-TR": "Bir ateş duvarı KUŞAN. İlerleyen, içinden geçenlerin görüşünü engelleyen ve onlara hasar veren ateş duvarını göndermek için ATEŞ ET. Ateş duvarını nişangâhın yönünde bükmek için BASILI TUTARAK ATEŞ ET.",
 							"vi-VN": "TRANG BỊ 1 bức tường lửa. NHẤP BẮN để phóng 1 tia lửa di chuyển theo đường thẳng ra phía trước, sau đó tạo 1 bức tường lửa có khả năng chắn tầm nhìn và gây sát thương lên người chơi đi ngang qua. GIỮ phím BẮN để bẻ cong tường lửa sang hướng ngắm hồng tâm.",
 							"zh-CN": "装备火焰墙。按射击即可产生一排会前移的火焰，形成一道火墙，可阻挡视野并伤害穿过它的人。按住射击可使火墙朝你准星的方向弯曲。",
@@ -2776,7 +2776,7 @@
 							"pl-PL": "WYPOSAŻ kulę ognia. STRZEL, by rzucić kulę ognia, która eksploduje po krótkiej chwili lub w momencie zderzenia z ziemią, tworząc tymczasowy ognisty obszar zadający przeciwnikom obrażenia.",
 							"pt-BR": "EQUIPE uma bola de fogo. DISPARE para jogar a bola de fogo, que explode após um intervalo ou ao atingir o chão, criando uma zona duradoura que causa dano aos inimigos.",
 							"ru-RU": "Выбирает огненный шар. Нажмите кнопку ОГОНЬ, чтобы бросить огненный шар, который взрывается после задержки или при падении на землю, создавая охваченную огнем область, которая наносит урон противникам.",
-							"th-TH": "ติดตั้งลูกบอลเพลิง กดยิงเพื่อขว้างลูกบอล\nเพลิงที่จะระเบิดหลังจากระยะเวลาที่กำหนด\nหรือเมื่อกระทบกับพื้น ทำให้เกิดบริเวณที่มี\nเพลิงไหม้ซึ่งจะสร้างดาเมจแก่ศัตรู",
+							"th-TH": "ติดตั้งลูกบอลเพลิง กดยิงเพื่อขว้างลูกบอล\nเพลิงที่จะระเบิดหลังจากระยะเวลาที่กำหนด\nหรือเมื่อกระทบกับพื้น ทำให้เกิดบริเวณที่มี\nเพลิงไหม้ซึ่งจะสร้างความเสียหายแก่ศัตรู",
 							"tr-TR": "Bir alev topu KUŞAN. Yere temas ettiğinde ya da bir gecikmenin ardından patlayan alev topunu fırlatmak için ATEŞ ET. Yerde bir süre kalan alev bölgesi düşmanlara hasar verir.",
 							"vi-VN": "TRANG BỊ 1 quả cầu lửa. NHẤP BẮN để ném 1 quả cầu lửa sẽ kích nổ sau khoảng thời gian nhất định hoặc khi chạm đất, tạo ra một vùng lửa cháy có khả năng gây sát thương lên đối thủ.",
 							"zh-CN": "装备火球。按射击即可投掷一颗在一定时间或击中地面后会爆炸的火球，产生一个许久不散的火焰区域，会对敌人造成伤害。",
@@ -2884,7 +2884,7 @@
 							"pl-PL": "PASYWNIE leczy Phoenixa, zamiast zadawać mu obrażenia, kiedy stoi we własnych płomieniach.",
 							"pt-BR": "PASSIVAMENTE, Phoenix é curado em vez de sofrer dano quando fica parado no fogo do próprio Phoenix.",
 							"ru-RU": "Когда Phoenix находится в своем огне, его здоровье восстанавливается.",
-							"th-TH": "ฮีล Phoenix อย่างสม่ำเสมอแทนที่จะรับดาเมจเมื่อคุณอยู่ในเปลวเพลิงของ Phoenix เอง",
+							"th-TH": "ฮีล Phoenix อย่างสม่ำเสมอแทนที่จะรับความเสียหายเมื่อคุณอยู่ในเปลวเพลิงของ Phoenix เอง",
 							"tr-TR": "Kendi ateşinin içinde dururken Phoenix'i hasar almak yerine PASİF OLARAK iyileştir",
 							"vi-VN": "NỘI TẠI: hồi máu cho Phoenix thay vì nhận sát thương khi đứng trong vùng lửa do Phoenix tạo ra.",
 							"zh-CN": "当不死鸟处于自身的火焰时不仅不会受伤害，反而会被动地自愈",
@@ -3376,7 +3376,7 @@
 							"pl-PL": "WYPOSAŻ wyrzutnię granatów zapalających. STRZEL, by wystrzelić granat, który po zatrzymaniu się na ziemi wybucha, tworząc tymczasowy ognisty obszar zadający obrażenia znajdującym się na nim przeciwnikom.",
 							"pt-BR": "EQUIPE um lançador de granadas incendiárias. DISPARE para lançar uma granada que detona no chão, gerando uma zona de fogo que causa dano aos jogadores dentro dela.",
 							"ru-RU": "Выбирает зажигательный гранатомет. Нажмите кнопку ОГОНЬ, чтобы запустить гранату, которая падает и взрывается после остановки, образуя горящую область, в которой все игроки получают урон.",
-							"th-TH": "ติดตั้งเครื่องยิงระเบิดเพลิง กดยิงเพื่อปล่อย\nระเบิดที่จะระเบิดเมื่อตกสู่พื้น ก่อให้เกิดเปลว\nไฟที่จะสร้างดาเมจแก่ผู้เล่นที่อยู่ในบริเวณนั้น",
+							"th-TH": "ติดตั้งเครื่องยิงระเบิดเพลิง กดยิงเพื่อปล่อย\nระเบิดที่จะระเบิดเมื่อตกสู่พื้น ก่อให้เกิดเปลว\nไฟที่จะสร้างความเสียหายแก่ผู้เล่นที่อยู่ในบริเวณนั้น",
 							"tr-TR": "Bir yangın bombası atar KUŞAN. Yerde durduğu anda infilak eden bir bomba fırlatmak için ATEŞ ET. Yerde bir süre kalan alev bölgesi, içindeki oyunculara hasar verir.",
 							"vi-VN": "Brim sử dụng súng phóng lựu để bắn ra một lựu đạn lửa. NHẤP BẮN để phóng lựu đạn theo hướng chỉ định, khi lựu đạn chạm đất sẽ phát nổ và tạo ra một vùng lửa gây sát thương lên cho bất kỳ ai bước qua.",
 							"zh-CN": "装备燃烧手雷发射器。按射击即可发射一枚在落地后静止不动便会引爆的手雷，引爆后会产生一个历久不散的火焰区域，会对区内玩家造成伤害。",
@@ -3484,7 +3484,7 @@
 							"pl-PL": "WYPOSAŻ mapę taktyczną. STRZEL, by odpalić długotrwały laserowy ostrzał orbitalny na wybranym obszarze, zadający duże obrażenia w czasie graczom, którzy znajdą się w strefie ataku.",
 							"pt-BR": "EQUIPE um mapa tático. DISPARE para lançar um ataque prolongado de laser orbital no local selecionado, causando muito dano ao longo do tempo aos jogadores na área selecionada.",
 							"ru-RU": "Выбирает тактическую карту. Нажмите кнопку ОГОНЬ, чтобы запустить орбитальный удар, наносящий высокий периодический урон игрокам, находящимся в выбранной зоне.",
-							"th-TH": "ติดตั้งแผนที่ยุทธวิธี กดยิงเพื่อปล่อย\nOrbital Strike ไปยังพื้นที่ที่กำหนด ซึ่งจะ\nสร้างดาเมจที่จะเพิ่มความรุนแรงขึ้นเรื่อย ๆ\nกับผู้เล่นที่อยู่ในพื้นที่นั้น",
+							"th-TH": "ติดตั้งแผนที่ยุทธวิธี กดยิงเพื่อปล่อย\nOrbital Strike ไปยังพื้นที่ที่กำหนด ซึ่งจะ\nสร้างความเสียหายที่จะเพิ่มความรุนแรงขึ้นเรื่อย ๆ\nกับผู้เล่นที่อยู่ในพื้นที่นั้น",
 							"tr-TR": "Bir taktik harita KUŞAN. Seçili konuma bir süre yerde kalan bir uydu saldırısı lazeri fırlatmak için ATEŞ ET. Seçili alanda kalan oyuncular zaman içinde yüksek hasar alır.",
 							"vi-VN": "Brim mở ra bản đồ chiến thuật. NHẤP BẮN để phóng một chùm tia laser từ quỹ đạo vào vị trí chỉ định, gây sát thương lớn theo thời gian cho tất cả người chơi trong phạm vi ảnh hưởng.",
 							"zh-CN": "装备战术地图。按射击即可在选定位置发射一道许久不散的轨道激光攻击，并对处于该选定区域内的玩家造成高持续伤害。",
@@ -9792,6 +9792,157 @@
 		},
 		{
 			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
+			"defaultChromaId": "F721E71C-4209-3C13-D0AA-59A1DD698933",
+			"chromas": [
+				{
+					"id": "F721E71C-4209-3C13-D0AA-59A1DD698933",
+					"label": "F721E71C-4209-3C13-D0AA-59A1DD698933",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس آريز",
+							"de-DE": "Ares – Nunca Olvidados",
+							"en-US": "Nunca Olvidados Ares",
+							"es-ES": "Ares Nunca Olvidados",
+							"es-MX": "Ares Nunca Olvidados",
+							"fr-FR": "Ares (Nunca Olvidados)",
+							"id-ID": "Nunca Olvidados Ares",
+							"it-IT": "Ares Nunca Olvidados",
+							"ja-JP": "ヌンカ・オルヴィダドス アレス",
+							"ko-KR": "눈까 올비다도스 아레스",
+							"pl-PL": "Ares Nunca Olvidados",
+							"pt-BR": "Ares Nunca Olvidados",
+							"ru-RU": "Ares \"Праздник мертвых\"",
+							"th-TH": "Nunca Olvidados Ares",
+							"tr-TR": "Unutulmaz Ares",
+							"vi-VN": "Ares Nunca Olvidados",
+							"zh-CN": "Nunca Olvidados Ares",
+							"zh-TW": "永垂不朽 戰神"
+						}
+					}
+				},
+				{
+					"id": "5766206F-4A89-9C66-F8B9-5ABFDFED2375",
+					"label": "5766206F-4A89-9C66-F8B9-5ABFDFED2375",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Ares\r\n(Variant 1 Living)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس آريز\n(بديل 1 الحي)",
+							"de-DE": "Ares – Nunca Olvidados\n(Variante 1, Lebendig)",
+							"en-US": "Nunca Olvidados Ares\r\n(Variant 1 Living)",
+							"es-ES": "Ares Nunca Olvidados\n(variante 1: viva)",
+							"es-MX": "Ares Nunca Olvidados\n(Variante 1 Viva)",
+							"fr-FR": "Ares (Nunca Olvidados)\n(variante 1 Vivant)",
+							"id-ID": "Nunca Olvidados Ares\n(Varian 1 Living)",
+							"it-IT": "Ares Nunca Olvidados\n(Variante 1 Viva)",
+							"ja-JP": "ヌンカ・オルヴィダドス アレス\n(ヴァリアント 1 リビング)",
+							"ko-KR": "눈까 올비다도스 아레스\n(변형 1 생명)",
+							"pl-PL": "Ares Nunca Olvidados\n(wersja 1 – ożywiona)",
+							"pt-BR": "Ares Nunca Olvidados\n\n(Variante 1 Mortal)",
+							"ru-RU": "Ares \"Праздник мертвых\"\n(расцветка 1 \"Жизнь\")",
+							"th-TH": "Nunca Olvidados Ares\n(ตัวเลือกที่ 1 Living)",
+							"tr-TR": "Unutulmaz Ares\n(Stil 1 - Hayatta)",
+							"vi-VN": "Ares Nunca Olvidados\n(Dạng 1 Tồn Tại)",
+							"zh-CN": "Nunca Olvidados Ares\r\n(Variant 1 Living)",
+							"zh-TW": "永垂不朽 戰神\n（幻彩1 此生）"
+						}
+					}
+				},
+				{
+					"id": "E30A5369-477A-7B23-EF1F-1EA04F3FF15D",
+					"label": "E30A5369-477A-7B23-EF1F-1EA04F3FF15D",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Ares\r\n(Variant 2 Eternal)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس آريز\n(بديل 2 الخالد)",
+							"de-DE": "Ares – Nunca Olvidados\n(Variante 2, Ewig)",
+							"en-US": "Nunca Olvidados Ares\r\n(Variant 2 Eternal)",
+							"es-ES": "Ares Nunca Olvidados\n(variante 2: eterna)",
+							"es-MX": "Ares Nunca Olvidados\n(Variante 2 Eterna)",
+							"fr-FR": "Ares (Nunca Olvidados)\n(variante 2 Éternel)",
+							"id-ID": "Nunca Olvidados Ares\n(Varian 2 Eternal)",
+							"it-IT": "Ares Nunca Olvidados\n(Variante 2 Eterna)",
+							"ja-JP": "ヌンカ・オルヴィダドス アレス\n(ヴァリアント 2 エターナル)",
+							"ko-KR": "눈까 올비다도스 아레스\n(변형 2 영원)",
+							"pl-PL": "Ares Nunca Olvidados\n(wersja 2 – wieczna)",
+							"pt-BR": "Ares Nunca Olvidados\n\n(Variante 2 Eterna)",
+							"ru-RU": "Ares \"Праздник мертвых\"\n(расцветка 2 \"Вечность\")",
+							"th-TH": "Nunca Olvidados Ares\n(ตัวเลือกที่ 2 Eternal)",
+							"tr-TR": "Unutulmaz Ares\n(Stil 2 - Ölümsüz)",
+							"vi-VN": "Ares Nunca Olvidados\n(Dạng 2 Vĩnh Hằng)",
+							"zh-CN": "Nunca Olvidados Ares\r\n(Variant 2 Eternal)",
+							"zh-TW": "永垂不朽 戰神\n（幻彩2 永恆）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "0DC1EEFC-4B8F-E4C5-0C71-D680ABCF73E7",
+					"label": "0DC1EEFC-4B8F-E4C5-0C71-D680ABCF73E7",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس آريز",
+							"de-DE": "Ares – Nunca Olvidados",
+							"en-US": "Nunca Olvidados Ares",
+							"es-ES": "Ares Nunca Olvidados",
+							"es-MX": "Ares Nunca Olvidados",
+							"fr-FR": "Ares (Nunca Olvidados)",
+							"id-ID": "Nunca Olvidados Ares",
+							"it-IT": "Ares Nunca Olvidados",
+							"ja-JP": "ヌンカ・オルヴィダドス アレス",
+							"ko-KR": "눈까 올비다도스 아레스",
+							"pl-PL": "Ares Nunca Olvidados",
+							"pt-BR": "Ares Nunca Olvidados",
+							"ru-RU": "Ares \"Праздник мертвых\"",
+							"th-TH": "Nunca Olvidados Ares",
+							"tr-TR": "Unutulmaz Ares",
+							"vi-VN": "Ares Nunca Olvidados",
+							"zh-CN": "Nunca Olvidados Ares",
+							"zh-TW": "永垂不朽 戰神"
+						}
+					}
+				}
+			],
+			"id": "7AA16EB6-45EF-1446-FDAA-5F8FBBD04BEE",
+			"label": "7AA16EB6-45EF-1446-FDAA-5F8FBBD04BEE",
+			"name":
+			{
+				"defaultText": "Nunca Olvidados Ares",
+				"localizedByCulture":
+				{
+					"ar-AE": "نونكا أولفيدادوس آريز",
+					"de-DE": "Ares – Nunca Olvidados",
+					"en-US": "Nunca Olvidados Ares",
+					"es-ES": "Ares Nunca Olvidados",
+					"es-MX": "Ares Nunca Olvidados",
+					"fr-FR": "Ares (Nunca Olvidados)",
+					"id-ID": "Nunca Olvidados Ares",
+					"it-IT": "Ares Nunca Olvidados",
+					"ja-JP": "ヌンカ・オルヴィダドス アレス",
+					"ko-KR": "눈까 올비다도스 아레스",
+					"pl-PL": "Ares Nunca Olvidados",
+					"pt-BR": "Ares Nunca Olvidados",
+					"ru-RU": "Ares \"Праздник мертвых\"",
+					"th-TH": "Nunca Olvidados Ares",
+					"tr-TR": "Unutulmaz Ares",
+					"vi-VN": "Ares Nunca Olvidados",
+					"zh-CN": "Nunca Olvidados Ares",
+					"zh-TW": "永垂不朽 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
 			"defaultChromaId": "BE74E099-4391-A1F6-9296-F2A15EAE3725",
 			"chromas": [
 				{
@@ -13045,7 +13196,7 @@
 							"pt-BR": "Vandal Prismática II",
 							"ru-RU": "Vandal \"Призма II\"",
 							"th-TH": "Prism II Vandal",
-							"tr-TR": "PRİZMA II VANDAL",
+							"tr-TR": "Prizma II Vandal",
 							"vi-VN": "Vandal Tán Sắc II",
 							"zh-CN": "棱镜II 狂徒",
 							"zh-TW": "稜鏡II 暴徒"
@@ -13076,7 +13227,7 @@
 							"pt-BR": "Vandal Prismática II",
 							"ru-RU": "Vandal \"Призма II\"",
 							"th-TH": "Prism II Vandal",
-							"tr-TR": "PRİZMA II VANDAL",
+							"tr-TR": "Prizma II Vandal",
 							"vi-VN": "Vandal Tán Sắc II",
 							"zh-CN": "棱镜II 狂徒",
 							"zh-TW": "稜鏡II 暴徒"
@@ -13105,7 +13256,7 @@
 					"pt-BR": "Vandal Prismática II",
 					"ru-RU": "Vandal \"Призма II\"",
 					"th-TH": "Prism II Vandal",
-					"tr-TR": "PRİZMA II VANDAL",
+					"tr-TR": "Prizma II Vandal",
 					"vi-VN": "Vandal Tán Sắc II",
 					"zh-CN": "棱镜II 狂徒",
 					"zh-TW": "稜鏡II 暴徒"
@@ -13202,6 +13353,157 @@
 					"vi-VN": "Vandal K/TAC",
 					"zh-CN": "K/TAC狂徒",
 					"zh-TW": "K/TAC 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "FE846170-4E07-DE82-0F4D-45ADAC6B166D",
+			"chromas": [
+				{
+					"id": "FE846170-4E07-DE82-0F4D-45ADAC6B166D",
+					"label": "FE846170-4E07-DE82-0F4D-45ADAC6B166D",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس فاندال",
+							"de-DE": "Vandal – Nunca Olvidados",
+							"en-US": "Nunca Olvidados Vandal",
+							"es-ES": "Vandal Nunca Olvidados",
+							"es-MX": "Vandal Nunca Olvidados",
+							"fr-FR": "Vandal (Nunca Olvidados)",
+							"id-ID": "Nunca Olvidados Vandal",
+							"it-IT": "Vandal Nunca Olvidados",
+							"ja-JP": "ヌンカ・オルヴィダドス ヴァンダル",
+							"ko-KR": "눈까 올비다도스 밴달",
+							"pl-PL": "Vandal Nunca Olvidados",
+							"pt-BR": "Vandal Nunca Olvidados",
+							"ru-RU": "Vandal \"Праздник мертвых\"",
+							"th-TH": "Nunca Olvidados Vandal",
+							"tr-TR": "Unutulmaz Vandal",
+							"vi-VN": "Vandal Nunca Olvidados",
+							"zh-CN": "Nunca Olvidados Vandal",
+							"zh-TW": "永垂不朽 暴徒"
+						}
+					}
+				},
+				{
+					"id": "F66A6F0F-4047-3F33-4AF5-CEA637485304",
+					"label": "F66A6F0F-4047-3F33-4AF5-CEA637485304",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Vandal\r\n(Variant 1 Living)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس فاندال\n(بديل 1 الحي)",
+							"de-DE": "Vandal – Nunca Olvidados\n(Variante 1, Lebendig)",
+							"en-US": "Nunca Olvidados Vandal\r\n(Variant 1 Living)",
+							"es-ES": "Vandal Nunca Olvidados\n(variante 1: viva)",
+							"es-MX": "Vandal Nunca Olvidados\n(Variante 1 Viva)",
+							"fr-FR": "Vandal (Nunca Olvidados)\n(variante 1 Vivant)",
+							"id-ID": "Nunca Olvidados Vandal\n(Varian 1 Living)",
+							"it-IT": "Vandal Nunca Olvidados\n(Variante 1 Viva)",
+							"ja-JP": "ヌンカ・オルヴィダドス ヴァンダル\n(ヴァリアント 1 リビング)",
+							"ko-KR": "눈까 올비다도스 밴달\n(변형 1 생명)",
+							"pl-PL": "Vandal Nunca Olvidados\n(wersja 1 – ożywiona)",
+							"pt-BR": "Vandal Nunca Olvidados\n\n(Variante 1 Mortal)",
+							"ru-RU": "Vandal \"Праздник мертвых\"\n(расцветка 1 \"Жизнь\")",
+							"th-TH": "Nunca Olvidados Vandal\n(ตัวเลือกที่ 1 Living)",
+							"tr-TR": "Unutulmaz Vandal\n(Stil 1 - Hayatta)",
+							"vi-VN": "Vandal Nunca Olvidados\n(Dạng 1 Tồn Tại)",
+							"zh-CN": "Nunca Olvidados Vandal\r\n(Variant 1 Living)",
+							"zh-TW": "永垂不朽 暴徒\n（幻彩1 此生）"
+						}
+					}
+				},
+				{
+					"id": "9A387542-4B89-E61D-B9D2-C99C44995B71",
+					"label": "9A387542-4B89-E61D-B9D2-C99C44995B71",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Vandal\r\n(Variant 2 Eternal)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس فاندال\n(بديل 2 الخالد)",
+							"de-DE": "Vandal – Nunca Olvidados\n(Variante 2, Ewig)",
+							"en-US": "Nunca Olvidados Vandal\r\n(Variant 2 Eternal)",
+							"es-ES": "Vandal Nunca Olvidados\n(variante 2: eterna)",
+							"es-MX": "Vandal Nunca Olvidados\n(Variante 2 Eterna)",
+							"fr-FR": "Vandal (Nunca Olvidados)\n(variante 2 Éternel)",
+							"id-ID": "Nunca Olvidados Vandal\n(Varian 2 Eternal)",
+							"it-IT": "Vandal Nunca Olvidados\n(Variante 2 Eterna)",
+							"ja-JP": "ヌンカ・オルヴィダドス ヴァンダル\n(ヴァリアント 2 エターナル)",
+							"ko-KR": "눈까 올비다도스 밴달\n(변형 2 영원)",
+							"pl-PL": "Vandal Nunca Olvidados\n(wersja 2 – wieczna)",
+							"pt-BR": "Vandal Nunca Olvidados\n\n(Variante 2 Eterna)",
+							"ru-RU": "Vandal \"Праздник мертвых\"\n(расцветка 2 \"Вечность\")",
+							"th-TH": "Nunca Olvidados Vandal\n(ตัวเลือกที่ 2 Eternal)",
+							"tr-TR": "Unutulmaz Vandal\n(Stil 2 - Ölümsüz)",
+							"vi-VN": "Vandal Nunca Olvidados\n(Dạng 2 Vĩnh Hằng)",
+							"zh-CN": "Nunca Olvidados Vandal\r\n(Variant 2 Eternal)",
+							"zh-TW": "永垂不朽 暴徒\n（幻彩2 永恆）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "A2A15C4E-4102-41BD-102D-378DEC6CEE7F",
+					"label": "A2A15C4E-4102-41BD-102D-378DEC6CEE7F",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس فاندال",
+							"de-DE": "Vandal – Nunca Olvidados",
+							"en-US": "Nunca Olvidados Vandal",
+							"es-ES": "Vandal Nunca Olvidados",
+							"es-MX": "Vandal Nunca Olvidados",
+							"fr-FR": "Vandal (Nunca Olvidados)",
+							"id-ID": "Nunca Olvidados Vandal",
+							"it-IT": "Vandal Nunca Olvidados",
+							"ja-JP": "ヌンカ・オルヴィダドス ヴァンダル",
+							"ko-KR": "눈까 올비다도스 밴달",
+							"pl-PL": "Vandal Nunca Olvidados",
+							"pt-BR": "Vandal Nunca Olvidados",
+							"ru-RU": "Vandal \"Праздник мертвых\"",
+							"th-TH": "Nunca Olvidados Vandal",
+							"tr-TR": "Unutulmaz Vandal",
+							"vi-VN": "Vandal Nunca Olvidados",
+							"zh-CN": "Nunca Olvidados Vandal",
+							"zh-TW": "永垂不朽 暴徒"
+						}
+					}
+				}
+			],
+			"id": "6460E252-48EF-8312-6F4F-2CB5F1B56972",
+			"label": "6460E252-48EF-8312-6F4F-2CB5F1B56972",
+			"name":
+			{
+				"defaultText": "Nunca Olvidados Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "نونكا أولفيدادوس فاندال",
+					"de-DE": "Vandal – Nunca Olvidados",
+					"en-US": "Nunca Olvidados Vandal",
+					"es-ES": "Vandal Nunca Olvidados",
+					"es-MX": "Vandal Nunca Olvidados",
+					"fr-FR": "Vandal (Nunca Olvidados)",
+					"id-ID": "Nunca Olvidados Vandal",
+					"it-IT": "Vandal Nunca Olvidados",
+					"ja-JP": "ヌンカ・オルヴィダドス ヴァンダル",
+					"ko-KR": "눈까 올비다도스 밴달",
+					"pl-PL": "Vandal Nunca Olvidados",
+					"pt-BR": "Vandal Nunca Olvidados",
+					"ru-RU": "Vandal \"Праздник мертвых\"",
+					"th-TH": "Nunca Olvidados Vandal",
+					"tr-TR": "Unutulmaz Vandal",
+					"vi-VN": "Vandal Nunca Olvidados",
+					"zh-CN": "Nunca Olvidados Vandal",
+					"zh-TW": "永垂不朽 暴徒"
 				}
 			}
 		},
@@ -15845,6 +16147,157 @@
 					"vi-VN": "Bulldog Sang Trọng",
 					"zh-CN": "时装爆发",
 					"zh-TW": "時裝 鬥牛犬"
+				}
+			}
+		},
+		{
+			"weaponId": "AE3DE142-4D85-2547-DD26-4E90BED35CF7",
+			"defaultChromaId": "D84359A7-4F3D-D1F1-7809-54B12458F580",
+			"chromas": [
+				{
+					"id": "D84359A7-4F3D-D1F1-7809-54B12458F580",
+					"label": "D84359A7-4F3D-D1F1-7809-54B12458F580",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Bulldog",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس بولدوغ",
+							"de-DE": "Bulldog – Nunca Olvidados",
+							"en-US": "Nunca Olvidados Bulldog",
+							"es-ES": "Bulldog Nunca Olvidados",
+							"es-MX": "Bulldog Nunca Olvidados",
+							"fr-FR": "Bulldog (Nunca Olvidados)",
+							"id-ID": "Nunca Olvidados Bulldog",
+							"it-IT": "Bulldog Nunca Olvidados",
+							"ja-JP": "ヌンカ・オルヴィダドス ブルドッグ",
+							"ko-KR": "눈까 올비다도스 불독",
+							"pl-PL": "Bulldog Nunca Olvidados",
+							"pt-BR": "Bulldog Nunca Olvidados",
+							"ru-RU": "Bulldog \"Праздник мертвых\"",
+							"th-TH": "Nunca Olvidados Bulldog",
+							"tr-TR": "Unutulmaz Bulldog",
+							"vi-VN": "Bulldog Nunca Olvidados",
+							"zh-CN": "Nunca Olvidados Bulldog",
+							"zh-TW": "永垂不朽 鬥牛犬"
+						}
+					}
+				},
+				{
+					"id": "24852266-4F07-5D44-4E2B-97AE8592199D",
+					"label": "24852266-4F07-5D44-4E2B-97AE8592199D",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Bulldog\r\n(Variant 1 Living)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس بولدوغ\n(بديل 1 الحي)",
+							"de-DE": "Bulldog – Nunca Olvidados\n(Variante 1, Lebendig)",
+							"en-US": "Nunca Olvidados Bulldog\r\n(Variant 1 Living)",
+							"es-ES": "Bulldog Nunca Olvidados\n(variante 1: viva)",
+							"es-MX": "Bulldog Nunca Olvidados\n(Variante 1 Viva)",
+							"fr-FR": "Bulldog (Nunca Olvidados)\n(variante 1 Vivant)",
+							"id-ID": "Nunca Olvidados Bulldog\n(Varian 1 Living)",
+							"it-IT": "Bulldog Nunca Olvidados\n(Variante 1 Viva)",
+							"ja-JP": "ヌンカ・オルヴィダドス ブルドッグ\n(ヴァリアント 1 リビング)",
+							"ko-KR": "눈까 올비다도스 불독\n(변형 1 생명)",
+							"pl-PL": "Bulldog Nunca Olvidados\n(wersja 1 – ożywiona)",
+							"pt-BR": "Bulldog Nunca Olvidados\n\n(Variante 1 Mortal)",
+							"ru-RU": "Bulldog \"Праздник мертвых\"\n(расцветка 1 \"Жизнь\")",
+							"th-TH": "Nunca Olvidados Bulldog\n(ตัวเลือกที่ 1 Living)",
+							"tr-TR": "Unutulmaz Bulldog\n(Stil 1 - Hayatta)",
+							"vi-VN": "Bulldog Nunca Olvidados\n(Dạng 1 Tồn Tại)",
+							"zh-CN": "Nunca Olvidados Bulldog\r\n(Variant 1 Living)",
+							"zh-TW": "永垂不朽 鬥牛犬\n（幻彩1 此生）"
+						}
+					}
+				},
+				{
+					"id": "E10D44B1-49FB-A8A3-71C4-BAA3CD117BEB",
+					"label": "E10D44B1-49FB-A8A3-71C4-BAA3CD117BEB",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Bulldog\r\n(Variant 2 Eternal)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس بولدوغ\n(بديل 2 الخالد)",
+							"de-DE": "Bulldog – Nunca Olvidados\n(Variante 2, Ewig)",
+							"en-US": "Nunca Olvidados Bulldog\r\n(Variant 2 Eternal)",
+							"es-ES": "Bulldog Nunca Olvidados\n(variante 2: eterna)",
+							"es-MX": "Bulldog Nunca Olvidados\n(Variante 2 Eterna)",
+							"fr-FR": "Bulldog (Nunca Olvidados)\n(variante 2 Éternel)",
+							"id-ID": "Nunca Olvidados Bulldog\n(Varian 2 Eternal)",
+							"it-IT": "Bulldog Nunca Olvidados\n(Variante 2 Eterna)",
+							"ja-JP": "ヌンカ・オルヴィダドス ブルドッグ\n(ヴァリアント 2 エターナル)",
+							"ko-KR": "눈까 올비다도스 불독\n(변형 2 영원)",
+							"pl-PL": "Bulldog Nunca Olvidados\n(wersja 2 – wieczna)",
+							"pt-BR": "Bulldog Nunca Olvidados\n\n(Variante 2 Eterna)",
+							"ru-RU": "Bulldog \"Праздник мертвых\"\n(расцветка 2 \"Вечность\")",
+							"th-TH": "Nunca Olvidados Bulldog\n(ตัวเลือกที่ 2 Eternal)",
+							"tr-TR": "Unutulmaz Bulldog\n(Stil 2 - Ölümsüz)",
+							"vi-VN": "Bulldog Nunca Olvidados\n(Dạng 2 Vĩnh Hằng)",
+							"zh-CN": "Nunca Olvidados Bulldog\r\n(Variant 2 Eternal)",
+							"zh-TW": "永垂不朽 鬥牛犬\n（幻彩2 永恆）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "47815B56-43D7-1312-8B3E-5DA445F71E31",
+					"label": "47815B56-43D7-1312-8B3E-5DA445F71E31",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Bulldog",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس بولدوغ",
+							"de-DE": "Bulldog – Nunca Olvidados",
+							"en-US": "Nunca Olvidados Bulldog",
+							"es-ES": "Bulldog Nunca Olvidados",
+							"es-MX": "Bulldog Nunca Olvidados",
+							"fr-FR": "Bulldog (Nunca Olvidados)",
+							"id-ID": "Nunca Olvidados Bulldog",
+							"it-IT": "Bulldog Nunca Olvidados",
+							"ja-JP": "ヌンカ・オルヴィダドス ブルドッグ",
+							"ko-KR": "눈까 올비다도스 불독",
+							"pl-PL": "Bulldog Nunca Olvidados",
+							"pt-BR": "Bulldog Nunca Olvidados",
+							"ru-RU": "Bulldog \"Праздник мертвых\"",
+							"th-TH": "Nunca Olvidados Bulldog",
+							"tr-TR": "Unutulmaz Bulldog",
+							"vi-VN": "Bulldog Nunca Olvidados",
+							"zh-CN": "Nunca Olvidados Bulldog",
+							"zh-TW": "永垂不朽 鬥牛犬"
+						}
+					}
+				}
+			],
+			"id": "9C91E507-4241-33D1-C63A-AEB9EC3D9D03",
+			"label": "9C91E507-4241-33D1-C63A-AEB9EC3D9D03",
+			"name":
+			{
+				"defaultText": "Nunca Olvidados Bulldog",
+				"localizedByCulture":
+				{
+					"ar-AE": "نونكا أولفيدادوس بولدوغ",
+					"de-DE": "Bulldog – Nunca Olvidados",
+					"en-US": "Nunca Olvidados Bulldog",
+					"es-ES": "Bulldog Nunca Olvidados",
+					"es-MX": "Bulldog Nunca Olvidados",
+					"fr-FR": "Bulldog (Nunca Olvidados)",
+					"id-ID": "Nunca Olvidados Bulldog",
+					"it-IT": "Bulldog Nunca Olvidados",
+					"ja-JP": "ヌンカ・オルヴィダドス ブルドッグ",
+					"ko-KR": "눈까 올비다도스 불독",
+					"pl-PL": "Bulldog Nunca Olvidados",
+					"pt-BR": "Bulldog Nunca Olvidados",
+					"ru-RU": "Bulldog \"Праздник мертвых\"",
+					"th-TH": "Nunca Olvidados Bulldog",
+					"tr-TR": "Unutulmaz Bulldog",
+					"vi-VN": "Bulldog Nunca Olvidados",
+					"zh-CN": "Nunca Olvidados Bulldog",
+					"zh-TW": "永垂不朽 鬥牛犬"
 				}
 			}
 		},
@@ -23860,7 +24313,7 @@
 							"pt-BR": "Bucky Prismática II",
 							"ru-RU": "Bucky \"Призма II\"",
 							"th-TH": "Prism II Bucky",
-							"tr-TR": "PRİZMA II BUCKY",
+							"tr-TR": "Prizma II Bucky",
 							"vi-VN": "Bucky Tán Sắc II",
 							"zh-CN": "棱镜II 喷子",
 							"zh-TW": "稜鏡II 重砲"
@@ -23891,7 +24344,7 @@
 							"pt-BR": "Bucky Prismática II",
 							"ru-RU": "Bucky \"Призма II\"",
 							"th-TH": "Prism II Bucky",
-							"tr-TR": "PRİZMA II BUCKY",
+							"tr-TR": "Prizma II Bucky",
 							"vi-VN": "Bucky Tán Sắc II",
 							"zh-CN": "棱镜II 喷子",
 							"zh-TW": "稜鏡II 重砲"
@@ -23920,7 +24373,7 @@
 					"pt-BR": "Bucky Prismática II",
 					"ru-RU": "Bucky \"Призма II\"",
 					"th-TH": "Prism II Bucky",
-					"tr-TR": "PRİZMA II BUCKY",
+					"tr-TR": "Prizma II Bucky",
 					"vi-VN": "Bucky Tán Sắc II",
 					"zh-CN": "棱镜II 喷子",
 					"zh-TW": "稜鏡II 重砲"
@@ -27594,6 +28047,157 @@
 					"vi-VN": "Frenzy Sang Trọng",
 					"zh-CN": "时装狂暴",
 					"zh-TW": "時裝 狂弒"
+				}
+			}
+		},
+		{
+			"weaponId": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+			"defaultChromaId": "BE6209B7-4946-3D5B-9CBE-73896A9A2821",
+			"chromas": [
+				{
+					"id": "BE6209B7-4946-3D5B-9CBE-73896A9A2821",
+					"label": "BE6209B7-4946-3D5B-9CBE-73896A9A2821",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس فرينزي",
+							"de-DE": "Frenzy – Nunca Olvidados",
+							"en-US": "Nunca Olvidados Frenzy",
+							"es-ES": "Frenzy Nunca Olvidados",
+							"es-MX": "Frenzy Nunca Olvidados",
+							"fr-FR": "Frenzy (Nunca Olvidados)",
+							"id-ID": "Nunca Olvidados Frenzy",
+							"it-IT": "Frenzy Nunca Olvidados",
+							"ja-JP": "ヌンカ・オルヴィダドス フレンジー",
+							"ko-KR": "눈까 올비다도스 프렌지",
+							"pl-PL": "Frenzy Nunca Olvidados",
+							"pt-BR": "Frenzy Nunca Olvidados",
+							"ru-RU": "Frenzy \"Праздник мертвых\"",
+							"th-TH": "Nunca Olvidados Frenzy",
+							"tr-TR": "Unutulmaz Frenzy",
+							"vi-VN": "Frenzy Nunca Olvidados",
+							"zh-CN": "Nunca Olvidados Frenzy",
+							"zh-TW": "永垂不朽 狂弒"
+						}
+					}
+				},
+				{
+					"id": "D94D7AA6-4E62-3D41-51BE-C0BCDDA68C76",
+					"label": "D94D7AA6-4E62-3D41-51BE-C0BCDDA68C76",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Frenzy\r\n(Variant 1 Living)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس فرينزي\n(بديل 1 الحي)",
+							"de-DE": "Frenzy – Nunca Olvidados\n(Variante 1, Lebendig)",
+							"en-US": "Nunca Olvidados Frenzy\r\n(Variant 1 Living)",
+							"es-ES": "Frenzy Nunca Olvidados\n(variante 1: viva)",
+							"es-MX": "Frenzy Nunca Olvidados\n(Variante 1 Viva)",
+							"fr-FR": "Frenzy (Nunca Olvidados)\n(variante 1 Vivant)",
+							"id-ID": "Nunca Olvidados Frenzy\n(Varian 1 Living)",
+							"it-IT": "Frenzy Nunca Olvidados\n(Variante 1 Viva)",
+							"ja-JP": "ヌンカ・オルヴィダドス フレンジー\n(ヴァリアント 1 リビング)",
+							"ko-KR": "눈까 올비다도스 프렌지\n(변형 1 생명)",
+							"pl-PL": "Frenzy Nunca Olvidados\n(wersja 1 – ożywiona)",
+							"pt-BR": "Frenzy Nunca Olvidados\n\n(Variante 1 Mortal)",
+							"ru-RU": "Frenzy \"Праздник мертвых\"\n(расцветка 1 \"Жизнь\")",
+							"th-TH": "Nunca Olvidados Frenzy\n(ตัวเลือกที่ 1 Living)",
+							"tr-TR": "Unutulmaz Frenzy\n(Stil 1 - Hayatta)",
+							"vi-VN": "Frenzy Nunca Olvidados\n(Dạng 1 Tồn Tại)",
+							"zh-CN": "Nunca Olvidados Frenzy\r\n(Variant 1 Living)",
+							"zh-TW": "永垂不朽 狂弒\n（幻彩1 此生）"
+						}
+					}
+				},
+				{
+					"id": "7BBAB796-4518-F154-9DF9-ABAD72FDB9D7",
+					"label": "7BBAB796-4518-F154-9DF9-ABAD72FDB9D7",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Frenzy\r\n(Variant 2 Eternal)",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس فرينزي\n(بديل 2 الخالد)",
+							"de-DE": "Frenzy – Nunca Olvidados\n(Variante 2, Ewig)",
+							"en-US": "Nunca Olvidados Frenzy\r\n(Variant 2 Eternal)",
+							"es-ES": "Frenzy Nunca Olvidados\n(variante 2: eterna)",
+							"es-MX": "Frenzy Nunca Olvidados\n(Variante 2 Eterna)",
+							"fr-FR": "Frenzy (Nunca Olvidados)\n(variante 2 Éternel)",
+							"id-ID": "Nunca Olvidados Frenzy\n(Varian 2 Eternal)",
+							"it-IT": "Frenzy Nunca Olvidados\n(Variante 2 Eterna)",
+							"ja-JP": "ヌンカ・オルヴィダドス フレンジー\n(ヴァリアント 2 エターナル)",
+							"ko-KR": "눈까 올비다도스 프렌지\n(변형 2 영원)",
+							"pl-PL": "Frenzy Nunca Olvidados\n(wersja 2 – wieczna)",
+							"pt-BR": "Frenzy Nunca Olvidados\n\n(Variante 2 Eterna)",
+							"ru-RU": "Frenzy \"Праздник мертвых\"\n(расцветка 2 \"Вечность\")",
+							"th-TH": "Nunca Olvidados Frenzy\n(ตัวเลือกที่ 2 Eternal)",
+							"tr-TR": "Unutulmaz Frenzy\n(Stil 2 - Ölümsüz)",
+							"vi-VN": "Frenzy Nunca Olvidados\n(Dạng 2 Vĩnh Hằng)",
+							"zh-CN": "Nunca Olvidados Frenzy\r\n(Variant 2 Eternal)",
+							"zh-TW": "永垂不朽 狂弒\n（幻彩2 永恆）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "55869FB8-4A79-E684-2000-028FA9F54060",
+					"label": "55869FB8-4A79-E684-2000-028FA9F54060",
+					"name":
+					{
+						"defaultText": "Nunca Olvidados Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "نونكا أولفيدادوس فرينزي",
+							"de-DE": "Frenzy – Nunca Olvidados",
+							"en-US": "Nunca Olvidados Frenzy",
+							"es-ES": "Frenzy Nunca Olvidados",
+							"es-MX": "Frenzy Nunca Olvidados",
+							"fr-FR": "Frenzy (Nunca Olvidados)",
+							"id-ID": "Nunca Olvidados Frenzy",
+							"it-IT": "Frenzy Nunca Olvidados",
+							"ja-JP": "ヌンカ・オルヴィダドス フレンジー",
+							"ko-KR": "눈까 올비다도스 프렌지",
+							"pl-PL": "Frenzy Nunca Olvidados",
+							"pt-BR": "Frenzy Nunca Olvidados",
+							"ru-RU": "Frenzy \"Праздник мертвых\"",
+							"th-TH": "Nunca Olvidados Frenzy",
+							"tr-TR": "Unutulmaz Frenzy",
+							"vi-VN": "Frenzy Nunca Olvidados",
+							"zh-CN": "Nunca Olvidados Frenzy",
+							"zh-TW": "永垂不朽 狂弒"
+						}
+					}
+				}
+			],
+			"id": "A878B90B-4D32-6E85-D49E-82BFBA69471F",
+			"label": "A878B90B-4D32-6E85-D49E-82BFBA69471F",
+			"name":
+			{
+				"defaultText": "Nunca Olvidados Frenzy",
+				"localizedByCulture":
+				{
+					"ar-AE": "نونكا أولفيدادوس فرينزي",
+					"de-DE": "Frenzy – Nunca Olvidados",
+					"en-US": "Nunca Olvidados Frenzy",
+					"es-ES": "Frenzy Nunca Olvidados",
+					"es-MX": "Frenzy Nunca Olvidados",
+					"fr-FR": "Frenzy (Nunca Olvidados)",
+					"id-ID": "Nunca Olvidados Frenzy",
+					"it-IT": "Frenzy Nunca Olvidados",
+					"ja-JP": "ヌンカ・オルヴィダドス フレンジー",
+					"ko-KR": "눈까 올비다도스 프렌지",
+					"pl-PL": "Frenzy Nunca Olvidados",
+					"pt-BR": "Frenzy Nunca Olvidados",
+					"ru-RU": "Frenzy \"Праздник мертвых\"",
+					"th-TH": "Nunca Olvidados Frenzy",
+					"tr-TR": "Unutulmaz Frenzy",
+					"vi-VN": "Frenzy Nunca Olvidados",
+					"zh-CN": "Nunca Olvidados Frenzy",
+					"zh-TW": "永垂不朽 狂弒"
 				}
 			}
 		},
@@ -35290,7 +35894,7 @@
 							"pt-BR": "Sheriff Prismática II",
 							"ru-RU": "Sheriff \"Призма II\"",
 							"th-TH": "Prism II Sheriff",
-							"tr-TR": "PRİZMA II SHERIFF",
+							"tr-TR": "Prizma II Sheriff",
 							"vi-VN": "Sheriff Tán Sắc II",
 							"zh-CN": "棱镜II 警长",
 							"zh-TW": "稜鏡II 神射"
@@ -35321,7 +35925,7 @@
 							"pt-BR": "Sheriff Prismática II",
 							"ru-RU": "Sheriff \"Призма II\"",
 							"th-TH": "Prism II Sheriff",
-							"tr-TR": "PRİZMA II SHERIFF",
+							"tr-TR": "Prizma II Sheriff",
 							"vi-VN": "Sheriff Tán Sắc II",
 							"zh-CN": "棱镜II 警长",
 							"zh-TW": "稜鏡II 神射"
@@ -35350,7 +35954,7 @@
 					"pt-BR": "Sheriff Prismática II",
 					"ru-RU": "Sheriff \"Призма II\"",
 					"th-TH": "Prism II Sheriff",
-					"tr-TR": "PRİZMA II SHERIFF",
+					"tr-TR": "Prizma II Sheriff",
 					"vi-VN": "Sheriff Tán Sắc II",
 					"zh-CN": "棱镜II 警长",
 					"zh-TW": "稜鏡II 神射"
@@ -37765,7 +38369,7 @@
 							"pt-BR": "Shorty Prismática II",
 							"ru-RU": "Shorty \"Призма II\"",
 							"th-TH": "Prism II Shorty",
-							"tr-TR": "PRİZMA II SHORTY",
+							"tr-TR": "Prizma II Shorty\n",
 							"vi-VN": "Shorty Tán Sắc II",
 							"zh-CN": "棱镜II 矬子",
 							"zh-TW": "稜鏡II 短管"
@@ -37796,7 +38400,7 @@
 							"pt-BR": "Shorty Prismática II",
 							"ru-RU": "Shorty \"Призма II\"",
 							"th-TH": "Prism II Shorty",
-							"tr-TR": "PRİZMA II SHORTY",
+							"tr-TR": "Prizma II Shorty\n",
 							"vi-VN": "Shorty Tán Sắc II",
 							"zh-CN": "棱镜II 矬子",
 							"zh-TW": "稜鏡II 短管"
@@ -37825,7 +38429,7 @@
 					"pt-BR": "Shorty Prismática II",
 					"ru-RU": "Shorty \"Призма II\"",
 					"th-TH": "Prism II Shorty",
-					"tr-TR": "PRİZMA II SHORTY",
+					"tr-TR": "Prizma II Shorty\n",
 					"vi-VN": "Shorty Tán Sắc II",
 					"zh-CN": "棱镜II 矬子",
 					"zh-TW": "稜鏡II 短管"
@@ -51628,7 +52232,7 @@
 							"pt-BR": "Stinger Prismática II",
 							"ru-RU": "Stinger \"Призма II\"",
 							"th-TH": "Prism II Stinger",
-							"tr-TR": "PRİZMA II STINGER",
+							"tr-TR": "Prizma II Stinger",
 							"vi-VN": "Stinger Tán Sắc II",
 							"zh-CN": "棱镜II 迅刺",
 							"zh-TW": "稜鏡II 刺針"
@@ -51659,7 +52263,7 @@
 							"pt-BR": "Stinger Prismática II",
 							"ru-RU": "Stinger \"Призма II\"",
 							"th-TH": "Prism II Stinger",
-							"tr-TR": "PRİZMA II STINGER",
+							"tr-TR": "Prizma II Stinger",
 							"vi-VN": "Stinger Tán Sắc II",
 							"zh-CN": "棱镜II 迅刺",
 							"zh-TW": "稜鏡II 刺針"
@@ -51688,7 +52292,7 @@
 					"pt-BR": "Stinger Prismática II",
 					"ru-RU": "Stinger \"Призма II\"",
 					"th-TH": "Prism II Stinger",
-					"tr-TR": "PRİZMA II STINGER",
+					"tr-TR": "Prizma II Stinger",
 					"vi-VN": "Stinger Tán Sắc II",
 					"zh-CN": "棱镜II 迅刺",
 					"zh-TW": "稜鏡II 刺針"
@@ -55747,6 +56351,157 @@
 					"vi-VN": "Dao Trừng Phạt",
 					"zh-CN": "神击匕首",
 					"zh-TW": "機轟雷擊 小刀"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "95D2E7AA-4121-9DB5-8A9A-54A0C18410D8",
+			"chromas": [
+				{
+					"id": "95D2E7AA-4121-9DB5-8A9A-54A0C18410D8",
+					"label": "95D2E7AA-4121-9DB5-8A9A-54A0C18410D8",
+					"name":
+					{
+						"defaultText": "Catrina",
+						"localizedByCulture":
+						{
+							"ar-AE": "كاترينا",
+							"de-DE": "Catrina",
+							"en-US": "Catrina",
+							"es-ES": "Catrina",
+							"es-MX": "Catrina",
+							"fr-FR": "Catrina",
+							"id-ID": "Catrina",
+							"it-IT": "Catrina",
+							"ja-JP": "カトリーナ",
+							"ko-KR": "까뜨리나",
+							"pl-PL": "Catrina",
+							"pt-BR": "Catrina",
+							"ru-RU": "Катрина",
+							"th-TH": "Catrina",
+							"tr-TR": "Catrina",
+							"vi-VN": "Catrina",
+							"zh-CN": "Catrina",
+							"zh-TW": "卡特里娜"
+						}
+					}
+				},
+				{
+					"id": "BF7EB630-4852-01FE-FDE4-689BD889A2E9",
+					"label": "BF7EB630-4852-01FE-FDE4-689BD889A2E9",
+					"name":
+					{
+						"defaultText": "Catrina\r\n(Variant 1 Living)",
+						"localizedByCulture":
+						{
+							"ar-AE": "كاترينا\n(بديل 1 الحي)",
+							"de-DE": "Catrina\n(Variante 1, Lebendig)",
+							"en-US": "Catrina\r\n(Variant 1 Living)",
+							"es-ES": "Catrina\n(variante 1: viva)",
+							"es-MX": "Catrina\n(Variante 1 Viva)",
+							"fr-FR": "Catrina\n(variante 1 Vivant)",
+							"id-ID": "Catrina\n(Varian 1 Living)",
+							"it-IT": "Catrina\n(Variante 1 Viva)",
+							"ja-JP": "カトリーナ\n(ヴァリアント 1 リビング)",
+							"ko-KR": "까뜨리나 (변형 1 생명)",
+							"pl-PL": "Catrina\n(wersja 1 – ożywiona)",
+							"pt-BR": "Catrina (Variante 1 Mortal)",
+							"ru-RU": "Катрина\n(расцветка 1 \"Жизнь\")",
+							"th-TH": "Catrina\n(ตัวเลือกที่ 1 Living)",
+							"tr-TR": "Catrina\n(Stil 1 - Hayatta)",
+							"vi-VN": "Catrina\n(Dạng 1 Tồn Tại)",
+							"zh-CN": "Catrina\r\n(Variant 1 Living)",
+							"zh-TW": "卡特里娜\n（幻彩1 此生）"
+						}
+					}
+				},
+				{
+					"id": "D32D79D4-4308-C3A1-D9C7-5D87D33D4E12",
+					"label": "D32D79D4-4308-C3A1-D9C7-5D87D33D4E12",
+					"name":
+					{
+						"defaultText": "Catrina\r\n(Variant 2 Eternal)",
+						"localizedByCulture":
+						{
+							"ar-AE": "كاترينا\n(بديل 2 الخالد)",
+							"de-DE": "Catrina\n(Variante 2, Ewig)",
+							"en-US": "Catrina\r\n(Variant 2 Eternal)",
+							"es-ES": "Catrina\n(variante 2: eterna)",
+							"es-MX": "Catrina\n(Variante 2 Eterna)",
+							"fr-FR": "Catrina\n(variante 2 Éternel)",
+							"id-ID": "Catrina\n(Varian 2 Eternal)",
+							"it-IT": "Catrina\n(Variante 2 Eterna)",
+							"ja-JP": "カトリーナ\n(ヴァリアント 2 エターナル)",
+							"ko-KR": "까뜨리나 (변형 2 영원)",
+							"pl-PL": "Catrina\n(wersja 2 – wieczna)",
+							"pt-BR": "Catrina (Variante 2 Eterna)",
+							"ru-RU": "Катрина\n(расцветка 2 \"Вечность\")",
+							"th-TH": "Catrina\n(ตัวเลือกที่ 2 Eternal)",
+							"tr-TR": "Catrina\n(Stil 2 - Ölümsüz)",
+							"vi-VN": "Catrina\n(Dạng 2 Vĩnh Hằng)",
+							"zh-CN": "Catrina\r\n(Variant 2 Eternal)",
+							"zh-TW": "卡特里娜\n（幻彩2 永恆）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "DC5E3CFC-466A-4819-E93B-2BA5F1847915",
+					"label": "DC5E3CFC-466A-4819-E93B-2BA5F1847915",
+					"name":
+					{
+						"defaultText": "Catrina",
+						"localizedByCulture":
+						{
+							"ar-AE": "كاترينا",
+							"de-DE": "Catrina",
+							"en-US": "Catrina",
+							"es-ES": "Catrina",
+							"es-MX": "Catrina",
+							"fr-FR": "Catrina",
+							"id-ID": "Catrina",
+							"it-IT": "Catrina",
+							"ja-JP": "カトリーナ",
+							"ko-KR": "까뜨리나",
+							"pl-PL": "Catrina",
+							"pt-BR": "Catrina",
+							"ru-RU": "Катрина",
+							"th-TH": "Catrina",
+							"tr-TR": "Catrina",
+							"vi-VN": "Catrina",
+							"zh-CN": "Catrina",
+							"zh-TW": "卡特里娜"
+						}
+					}
+				}
+			],
+			"id": "8E760310-4D95-354B-A910-049EAA4D2FC6",
+			"label": "8E760310-4D95-354B-A910-049EAA4D2FC6",
+			"name":
+			{
+				"defaultText": "Catrina",
+				"localizedByCulture":
+				{
+					"ar-AE": "كاترينا",
+					"de-DE": "Catrina",
+					"en-US": "Catrina",
+					"es-ES": "Catrina",
+					"es-MX": "Catrina",
+					"fr-FR": "Catrina",
+					"id-ID": "Catrina",
+					"it-IT": "Catrina",
+					"ja-JP": "カトリーナ",
+					"ko-KR": "까뜨리나",
+					"pl-PL": "Catrina",
+					"pt-BR": "Catrina",
+					"ru-RU": "Катрина",
+					"th-TH": "Catrina",
+					"tr-TR": "Catrina",
+					"vi-VN": "Catrina",
+					"zh-CN": "Catrina",
+					"zh-TW": "卡特里娜"
 				}
 			}
 		},
@@ -63745,6 +64500,35 @@
 			}
 		},
 		{
+			"id": "D33681D4-4168-0107-2B07-A19C57B96E96",
+			"label": "D33681D4-4168-0107-2B07-A19C57B96E96",
+			"name":
+			{
+				"defaultText": "Nunca Olvidados Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة نونكا أولفيدادوس",
+					"de-DE": "Banner „Nunca Olvidados“",
+					"en-US": "Nunca Olvidados Card",
+					"es-ES": "Tarjeta Nunca Olvidados",
+					"es-MX": "Tarjeta Nunca Olvidados",
+					"fr-FR": "Carte Nunca Olvidados",
+					"id-ID": "Kartu Nunca Olvidados",
+					"it-IT": "Carta Nunca Olvidados",
+					"ja-JP": "ヌンカ・オルヴィダドス カード",
+					"ko-KR": "눈까 올비다도스 카드",
+					"pl-PL": "Karta „Nunca Olvidados”",
+					"pt-BR": "Card Nunca Olvidados",
+					"ru-RU": "Карточка \"Праздник мертвых\"",
+					"th-TH": "การ์ด Nunca Olvidados ",
+					"tr-TR": "Unutulmaz Kartı",
+					"vi-VN": "Thẻ Nunca Olvidados",
+					"zh-CN": "Nunca Olvidados Card",
+					"zh-TW": "永垂不朽 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "F7B44175-49BE-3909-A34F-C68D6E3CECC3",
 			"label": "F7B44175-49BE-3909-A34F-C68D6E3CECC3",
 			"name":
@@ -64842,7 +65626,7 @@
 					"ar-AE": "الأول",
 					"de-DE": "Primus",
 					"en-US": "First",
-					"es-ES": "Pionero",
+					"es-ES": "Primero",
 					"es-MX": "Vanguardia",
 					"fr-FR": "Premier",
 					"id-ID": "Pertama",
@@ -64869,7 +65653,7 @@
 					"ar-AE": "لقب الأول",
 					"de-DE": "Titel „Primus“",
 					"en-US": "First Title",
-					"es-ES": "Título Pionero",
+					"es-ES": "Título Primero",
 					"es-MX": "Título Vanguardia",
 					"fr-FR": "Titre Premier",
 					"id-ID": "Gelar Pertama",
@@ -64985,7 +65769,7 @@
 					"ja-JP": "ゲートクラッシャー タイトル",
 					"ko-KR": "관문 충돌자 칭호",
 					"pl-PL": "Tytuł „Nieproszony gość”",
-					"pt-BR": "Título Transportador Espacial",
+					"pt-BR": "Título Infiltrado",
 					"ru-RU": "Звание \"Незваный гость\"",
 					"th-TH": "ฉายาทลายประตู",
 					"tr-TR": "ÇATKAPI UNVANI",
@@ -65733,7 +66517,7 @@
 					"ar-AE": "لقب العائد",
 					"de-DE": "Titel „Wiedergänger“",
 					"en-US": "Revenant Title",
-					"es-ES": "Título Espectro",
+					"es-ES": "Título Aparición",
 					"es-MX": "Título Renacido",
 					"fr-FR": "Titre Revenant",
 					"id-ID": "Gelar Kebangkitan",
@@ -65741,7 +66525,7 @@
 					"ja-JP": "レヴナント タイトル",
 					"ko-KR": "망령 칭호",
 					"pl-PL": "Tytuł „Zjawa”",
-					"pt-BR": "Título Aparição",
+					"pt-BR": "Título Revenã",
 					"ru-RU": "Звание \"Призрак\"",
 					"th-TH": "ฉายาผู้รอดพ้นจากความตาย",
 					"tr-TR": "HORTLAK UNVANI",
@@ -66875,7 +67659,7 @@
 					"ja-JP": "レイス タイトル",
 					"ko-KR": "레이스 칭호",
 					"pl-PL": "Tytuł „Widmo”",
-					"pt-BR": "Título Wraith",
+					"pt-BR": "Título Aparição",
 					"ru-RU": "Звание \"Привидение\"",
 					"th-TH": "ฉายาภูติผี",
 					"tr-TR": "ÖCÜ UNVANI",
@@ -67743,7 +68527,7 @@
 					"ru-RU": "Звание \"Бот\"",
 					"th-TH": "ฉายาบอท",
 					"tr-TR": "BOT UNVANI",
-					"vi-VN": "Danh hiệu Robot",
+					"vi-VN": "Danh hiệu Vô Hại",
 					"zh-CN": "机器人 称号",
 					"zh-TW": "機械戰警 稱號"
 				}
@@ -68082,7 +68866,7 @@
 					"ar-AE": "الفائز ببطولة VCT Masters برلين",
 					"de-DE": "„VCT Masters Berlin“-Sieger",
 					"en-US": "VCT Masters Berlin Winner",
-					"es-ES": "Ganador del Masters de Berlín del VCT",
+					"es-ES": "Ganador del VCT Masters de Berlín",
 					"es-MX": "Ganador del VCT Masters Berlín",
 					"fr-FR": "Vainqueur des Masters de Berlin",
 					"id-ID": "Pemenang VCT Masters Berlin",
@@ -68109,7 +68893,7 @@
 					"ar-AE": "لقب الفائز ببطولة VCT Masters برلين",
 					"de-DE": "„VCT Masters Berlin“-Siegertitel",
 					"en-US": "VCT Masters Berlin Winner Title",
-					"es-ES": "Título de ganador del Masters de Berlín del VCT",
+					"es-ES": "Título de ganador del VCT Masters de Berlín",
 					"es-MX": "Título del ganador del VCT Masters Berlín",
 					"fr-FR": "Titre Vainqueur des Masters de Berlin",
 					"id-ID": "Gelar Pemenang VCT Masters Berlin",
@@ -68136,7 +68920,7 @@
 					"ar-AE": "الفائز ببطولة VCT Masters ريكيافيك",
 					"de-DE": "„VCT Masters Reykjavík“-Sieger",
 					"en-US": "VCT Masters Reykjavik Winner",
-					"es-ES": "Ganador del Masters de Reikiavik del VCT",
+					"es-ES": "Ganador del VCT Masters de Reikiavik",
 					"es-MX": "Ganador del VCT Masters Reikiavik",
 					"fr-FR": "Vainqueur des Masters de Reykjavik",
 					"id-ID": "Pemenang VCT Masters Reykjavik",
@@ -68163,7 +68947,7 @@
 					"ar-AE": "لقب الفائز ببطولة VCT Masters ريكيافيك",
 					"de-DE": "Titel „VCT Masters Reykjavík Sieger“",
 					"en-US": "VCT Masters Reykjavik Winner Title",
-					"es-ES": "Título de ganador del Masters de Reikiavik del VCT",
+					"es-ES": "Título de ganador del VCT Masters de Reikiavik",
 					"es-MX": "Título Ganador del VCT Masters Reikiavik",
 					"fr-FR": "Titre Vainqueur des Masters de Reykjavik",
 					"id-ID": "Gelar Pemenang VCT Masters Reykjavik",
