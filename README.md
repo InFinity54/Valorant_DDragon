@@ -7,6 +7,9 @@ _Data Dragon_ is a package of files you can use for your projects about [_Valora
 
 Don't forget that new patchs will be added right after their release on Riot Games' Developers website, but it takes often many days to come.
 
+## Notes about this repository
+This repository will only regroup all patchs released after, and including, patch 3.00, because Riot didn't release any static data about the game before the 3.00 patch.
+
 ## Additional contents in this repository
 This repository don't store any addtional content.
 
