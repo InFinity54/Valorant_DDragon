@@ -1,5 +1,5 @@
 {
-	"version": "03.08.00.620887",
+	"version": "03.09.00.627832",
 	"characters": [
 		{
 			"description":
@@ -922,7 +922,7 @@
 							"pl-PL": "WYPOSAŻ błyskotkę z jastrzębiem. STRZEL, aby wysłać go do walki. PRZYTRZYMAJ STRZAŁ, aby skierować jastrzębia w kierunku wskazanym przez twój celownik. UŻYJ PONOWNIE jastrzębia podczas jego lotu, aby zmienił się w błysk.",
 							"pt-BR": "EQUIPE um amuleto de falcão. DISPARE para enviá-lo. SEGURE O DISPARO para guiar o falcão na direção da sua mira. REPITA a habilidade enquanto ele estiver voando para transformá-lo em um clarão de luz.",
 							"ru-RU": "Выбирает фигурку ястреба. Нажмите кнопку ОГОНЬ, чтобы послать ястреба вперед. УДЕРЖИВАЙТЕ кнопку ОГОНЬ, чтобы он летел в направлении вашего прицела. Во время полета птицы используйте умение снова, чтобы ястреб превратился в ослепляющую вспышку.",
-							"th-TH": "ติดตั้งเครื่องประดับเหยี่ยว ยิงเพื่อปล่อยมันออก\nไปข้างหน้า กดยิงค้างไว้เพื่อนำทางเหยี่ยวให้อยู่\nในรัศมีครอสแฮร์ของคุณ กดใช้งานอีกครั้งเมื่อ\nเหยี่ยวยังคงบินอยู่เพื่อแปลงร่างมันเป็นแฟลช",
+							"th-TH": "ติดตั้งเครื่องประดับเหยี่ยว ยิงเพื่อปล่อยมันออก\nไปข้างหน้า กดยิงค้างไว้เพื่อนำทางเหยี่ยวให้อยู่\nในรัศมีเป้าเล็งของคุณ กดใช้งานอีกครั้งเมื่อ\nเหยี่ยวยังคงบินอยู่เพื่อแปลงร่างมันเป็นแฟลช",
 							"tr-TR": "Bir şahin figürü KUŞAN. Şahini ileri göndermek için ATEŞ ET. Şahini nişangâhının baktığı tarafa yöneltmek için ATEŞ TUŞUNU BASILI TUT. Şahini havada uçarken kör edici bir bombaya çevirmek için yeteneği TEKRAR KULLAN.",
 							"vi-VN": "TRANG BỊ 1 tinh linh chim ưng. NHẤP BẮN để giải phóng ra phía trước. GIỮ phím BẮN để điều khiển chim ưng theo hướng tâm ngắm. KÍCH HOẠT LẠI kỹ năng khi chim ưng đang bay sẽ biến đổi nó thành một luồng sáng chói lóa, khi phát sáng sẽ gây mất tầm nhìn và tạo ra tiếng động xác nhận nếu có đối thủ trong phạm vi.",
 							"zh-CN": "装备飞鹰饰品。按射击即可将其派出。按住射击使用你的准星指引飞鹰的前进方向。在飞鹰飞行时按下重新使用，即可将其变为闪光弹。",
@@ -1302,7 +1302,7 @@
 							"ko-KR": "적 플레이어가 처치된 즉시 조준한 후 사용하면 생존한 모든 적 플레이어의 위치가 드러납니다.",
 							"pl-PL": "NATYCHMIAST użyj na zabitym wrogim graczu widocznym w twoim celowniku, by ujawnić miejsce pobytu wszystkich żywych przeciwników.",
 							"pt-BR": "Use INSTANTANEAMENTE num jogador inimigo morto na sua mira para revelar a localização de todos os jogadores inimigos ainda vivos.",
-							"ru-RU": "При использовании на мертвом противнике МГНОВЕННО раскрывает местоположение всех живых врагов.",
+							"ru-RU": "При МГНОВЕННОМ использовании на мертвом противнике раскрывает местоположение всех живых врагов.",
 							"th-TH": "ใช้ร่างของศัตรูที่ถูกสังหารอยู่ในเบื้องหน้าของ\nคุณเพื่อเปิดเผยตำแหน่งของศัตรูที่ยังมีชีวิตอยู่ทันที",
 							"tr-TR": "Nişangâhından gördüğün ölü bir düşman üzerinde ANINDA kullan ve hayatta olan diğer tüm düşmanların konumunu ortaya çıkar.",
 							"vi-VN": "NGAY LẬP TỨC sử dụng lên 1 đối thủ đã bị hạ gục trong hồng tâm để làm lộ vị trí của tất cả đối thủ còn sống.",
@@ -1385,7 +1385,7 @@
 					"pl-PL": "Sova to urodzony w skutej wieczną zimą rosyjskiej tundrze tropiciel, który śledzi, namierza i eliminuje wrogów z bezwzględną skutecznością i precyzją. Jego niestandardowy łuk w połączeniu z niesamowitymi umiejętnościami tropiącymi sprawiają, że nie ma przed nim ucieczki. ",
 					"pt-BR": "Nascido sob o eterno inverno das tundras russas, Sova rastreia, encontra e elimina inimigos com eficiência e precisão implacáveis. Seu arco personalizado e suas habilidades inigualáveis de reconhecimento garantem que nenhuma presa escape. ",
 					"ru-RU": "Рожденный в вечной мерзлоте российского заполярья, Sova выслеживает и уничтожает противников с холодной расчетливостью и эффективностью. Этот первоклассный разведчик, экипированный особым луком, найдет вас, где бы вы ни прятались. ",
-					"th-TH": "Sova เกิดในช่วงฤดูหนาวอันยาวนาน ณ.ทุนดราแห่งรัสเซีย เขาติดตาม ตามล่า กำจัดศัตรูได้อย่างเด็ดขาดและแม่นยำ ด้วยธนูพิเศษที่ดัดแปลงเอง พร้อมความสามารถในการล่าชั้นเลิศ ต่อให้คุณหนีไปสุดขอบฟ้าก็ไม่มีวันรอดพ้นจากเงื้อมมือของเขา",
+					"th-TH": "Sova เกิดในช่วงฤดูหนาวอันยาวนาน ณ ทุ้งทุนดราแห่งรัสเซีย เขาติดตาม ตามล่า กำจัดศัตรูได้อย่างเด็ดขาดและแม่นยำ ด้วยธนูพิเศษที่ดัดแปลงเอง พร้อมความสามารถในการล่าชั้นเลิศ ต่อให้คุณหนีไปสุดขอบฟ้าก็ไม่มีวันรอดพ้นจากเงื้อมมือของเขา",
 					"tr-TR": "Rusya'nın uçsuz bucaksız tundralarında yetişen Sova düşmanlarını acımasız bir verimlilik ve titizlikle tespit eder, izlerini sürer ve onları yok eder. Özel yayı ve sıra dışı iz sürme yetenekleri ile ondan kaçsanız da asla saklanamazsınız. ",
 					"vi-VN": "Sinh ra tại vùng lãnh nguyên lạnh giá của nước Nga, Sova có khả năng tìm kiếm, đánh dấu và tiêu diệt đối thủ một cách hiệu quả và chính xác. Sở hữu cây cung đặc chế và những kỹ năng trinh sát hiểm hóc, con mồi của Sova sẽ chẳng bao giờ có thể trốn thoát. ",
 					"zh-CN": "猎枭生长于四季如冬的俄罗斯冻原，他擅长以高效无情且精准无比的方式来追踪、寻觅并歼灭敌人。他的特制战弓及无与伦比的侦察能力相辅相成，令逃窜躲避的你在劫难逃。 ",
@@ -1712,7 +1712,7 @@
 					"pl-PL": "Sova to urodzony w skutej wieczną zimą rosyjskiej tundrze tropiciel, który śledzi, namierza i eliminuje wrogów z bezwzględną skutecznością i precyzją. Jego niestandardowy łuk w połączeniu z niesamowitymi umiejętnościami tropiącymi sprawiają, że nie ma przed nim ucieczki. ",
 					"pt-BR": "Nascido sob o eterno inverno das tundras russas, Sova rastreia, encontra e elimina inimigos com eficiência e precisão implacáveis. Seu arco personalizado e suas habilidades inigualáveis de reconhecimento garantem que nenhuma presa escape. ",
 					"ru-RU": "Рожденный в вечной мерзлоте российского заполярья, Sova выслеживает и уничтожает противников с холодной расчетливостью и эффективностью. Этот первоклассный разведчик, экипированный особым луком, найдет вас, где бы вы ни прятались. ",
-					"th-TH": "Sova เกิดในช่วงฤดูหนาวอันยาวนาน ณ.ทุนดราแห่งรัสเซีย เขาติดตาม ตามล่า กำจัดศัตรูได้อย่างเด็ดขาดและแม่นยำ ด้วยธนูพิเศษที่ดัดแปลงเอง พร้อมความสามารถในการล่าชั้นเลิศ ต่อให้คุณหนีไปสุดขอบฟ้าก็ไม่มีวันรอดพ้นจากเงื้อมมือของเขา",
+					"th-TH": "Sova เกิดในช่วงฤดูหนาวอันยาวนาน ณ ทุ้งทุนดราแห่งรัสเซีย เขาติดตาม ตามล่า กำจัดศัตรูได้อย่างเด็ดขาดและแม่นยำ ด้วยธนูพิเศษที่ดัดแปลงเอง พร้อมความสามารถในการล่าชั้นเลิศ ต่อให้คุณหนีไปสุดขอบฟ้าก็ไม่มีวันรอดพ้นจากเงื้อมมือของเขา",
 					"tr-TR": "Rusya'nın uçsuz bucaksız tundralarında yetişen Sova düşmanlarını acımasız bir verimlilik ve titizlikle tespit eder, izlerini sürer ve onları yok eder. Özel yayı ve sıra dışı iz sürme yetenekleri ile ondan kaçsanız da asla saklanamazsınız. ",
 					"vi-VN": "Sinh ra tại vùng lãnh nguyên lạnh giá của nước Nga, Sova có khả năng tìm kiếm, đánh dấu và tiêu diệt đối thủ một cách hiệu quả và chính xác. Sở hữu cây cung đặc chế và những kỹ năng trinh sát hiểm hóc, con mồi của Sova sẽ chẳng bao giờ có thể trốn thoát. ",
 					"zh-CN": "猎枭生长于四季如冬的俄罗斯冻原，他擅长以高效无情且精准无比的方式来追踪、寻觅并歼灭敌人。他的特制战弓及无与伦比的侦察能力相辅相成，令逃窜躲避的你在劫难逃。 ",
@@ -2395,7 +2395,7 @@
 							"pl-PL": "WYPOSAŻ wyrzutnię emitera gazu przebijającą otoczenie. STRZEL, by wypuścić długą linię emiterów gazu. UŻYJ PONOWNIE umiejętności, by stworzyć wysoką ścianę toksycznego gazu, który wykorzystuje paliwo. Tej umiejętności można UŻYĆ PONOWNIE więcej niż raz.",
 							"pt-BR": "EQUIPE um lançador de emissores de gás que penetra a área. DISPARE para lançar uma linha de emissores. REPITA a habilidade para criar uma parede alta de gás tóxico que drena combustível. A habilidade pode ser REPETIDA.",
 							"ru-RU": "Выбирает распылители газа, проникающие сквозь препятствия. Нажмите кнопку ОГОНЬ, чтобы выстрелить длинной очередью распылителей. При повторном использовании распылители образуют стену ядовитого дыма, расходуя топливо. Умение можно применять больше одного раза.",
-							"th-TH": "ติดตั้งเครื่องยิงอุปกรณ์ประจุควันที่สามารถ\nทะลวงพื้นดิน กดยิงเพื่อติดตั้งอุปกรณ์\nประจุควันเป็นแนวยาว ใช้งานอีกครั้งเพื่อสร้าง\nกำแพงควันพิษตามจำนวนเชื้อเพลิงที่มีอยู่\nสกิลนี้สามารถใช้ซ้ำได้มากกว่าหนึ่งครั้ง",
+							"th-TH": "ติดตั้งเครื่องยิงอุปกรณ์ประจุควันที่สามารถ\nทะลวงพื้นดิน กดยิงเพื่อติดตั้งอุปกรณ์\nประจุควันเป็นแนวยาว และกดใช้งานอีกครั้งเพื่อสร้าง\nกำแพงควันพิษตามจำนวนเชื้อเพลิงที่มีอยู่\nสกิลนี้สามารถใช้ซ้ำได้มากกว่าหนึ่งครั้ง",
 							"tr-TR": "Yüzeyleri delip geçen bir gaz salgılayıcı fırlatıcısı KUŞAN. Gaz salgılayıcılardan uzun bir hat oluşturmak için ATEŞ ET. Yeteneği TEKRAR KULLAN ve yakıt karşılığında yüksek bir zehir duvarı oluştur. Bu yetenek birden fazla kez TEKRAR KULLANILABİLİR.",
 							"vi-VN": "TRANG BỊ 1 thiết bị tạo hóa chất có khả năng bắn xuyên địa hình. NHẤP BẮN để đặt một hàng dài các máy tạo hóa chất. KÍCH HOẠT LẠI kỹ năng này sẽ tiêu hao nhiên liệu và tạo ra 1 bức tường hóa chất. Kỹ năng này có thể KÍCH HOẠT LẠI nhiều hơn 1 lần.",
 							"zh-CN": "装备可穿透地形障碍的毒气发射器装置。按射击即可部署一长排毒气发射器。重复使用技能会消耗燃料来产生毒气高墙。此技能可多次重复使用。",
@@ -2966,7 +2966,7 @@
 					"pl-PL": "Ghańska agentka Astra ujarzmia kosmiczne energie, by przeobrazić pola bitwy według własnego widzimisię. Dzięki temu, że w pełni panuje nad swoją astralną formą i ma niezwykły talent do przewidywania strategicznych posunięć, zawsze wyprzedza o całe eony kolejne działania wroga.",
 					"pt-BR": "Astra, a agente ganense, utiliza energias cósmicas para moldar o campo de batalha a seu bel-prazer. Com total domínio da sua forma astral e um talento estratégico nato, ela está sempre anos-luz à frente dos inimigos.",
 					"ru-RU": "Astra, агент из Ганы, управляет пространством и временем и способна изменять поле битвы. Полный контроль над астральной формой и талант стратегического предвидения позволяют ей опережать врага на целую вечность.",
-					"th-TH": "Astra เอเจนท์ชาวกานาผู้ควบคุมพลังแห่งจักรวาลเพื่อปรับรูปแบบสนามรบให้เป็นไปตามความต้องการของเธอ ด้วยความสามารถในการควบคุมร่างดวงดาวของเธอและพรสวรรค์ในการวางแผนกลยุทธ์อย่างลึกซึ้ง เธอมักจะนำหน้าศัตรูอยู่หนึ่งก้าวเสมอ",
+					"th-TH": "Astra เอเจนท์ชาวกานาผู้ควบคุมพลังแห่งจักรวาลเพื่อปรับรูปแบบสนามรบให้เป็นไปตามความต้องการของเธอ ด้วยความสามารถในการควบคุมร่างดวงดาวและพรสวรรค์ในการวางแผนกลยุทธ์อย่างลึกซึ้งของเธอ เธอมักจะนำหน้าศัตรูอยู่หนึ่งก้าวเสมอ",
 					"tr-TR": "Ganalı ajan Astra, kozmosun enerjisini kullanarak savaş meydanını lehine değiştirebiliyor. Astral yolculuğu üzerinde tam kontrole sahip olması ve engin stratejik öngörüsüyle, düşmanın bir sonraki hamlesinden her zaman birkaç ışık yılı önde.",
 					"vi-VN": "Astra là một đặc vụ tới từ Ghana, cô sử dụng năng lượng của vũ trụ để định hình trận chiến theo ý muốn của bản thân. Với khả năng điều khiển thể tinh vân và tài năng chiến thuật bao quát, cô ấy luôn đi trước đối thủ của mình 10 bước.",
 					"zh-CN": "来自加纳的契约者“星界人”可以操控宇宙的能量，按照她的意愿重塑战场。她可以利用自己对星体形态的完全掌握以及超乎常人的战略天赋，抢先一步预判敌人的行动。",
@@ -9601,6 +9601,99 @@
 					"vi-VN": "Ares Lục Quân",
 					"zh-CN": "步兵战神",
 					"zh-TW": "機動步兵 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
+			"defaultChromaId": "69636CCB-4CB8-17A5-D5E9-0DB277E53972",
+			"chromas": [
+				{
+					"id": "69636CCB-4CB8-17A5-D5E9-0DB277E53972",
+					"label": "69636CCB-4CB8-17A5-D5E9-0DB277E53972",
+					"name":
+					{
+						"defaultText": "Goldwing Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "غولدوينغ آريز",
+							"de-DE": "Ares – Goldwing",
+							"en-US": "Goldwing Ares",
+							"es-ES": "Ares Goldwing",
+							"es-MX": "Ares Filo Dorado",
+							"fr-FR": "Ares (Aile d'or)",
+							"id-ID": "Goldwing Ares",
+							"it-IT": "Ares Aladoro",
+							"ja-JP": "ゴールドウイング アレス",
+							"ko-KR": "골드윙 아레스",
+							"pl-PL": "Ares Złotoskrzydły",
+							"pt-BR": "Ares Asas Douradas",
+							"ru-RU": "Ares \"Хохлома\"",
+							"th-TH": "Goldwing Ares",
+							"tr-TR": "Altın Kanat Ares",
+							"vi-VN": "Ares Họa Tiết Vàng",
+							"zh-CN": "Goldwing Ares",
+							"zh-TW": "黃金之翼 戰神"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "6916019F-405F-B5F1-D2C6-2D8E4C27CF17",
+					"label": "6916019F-405F-B5F1-D2C6-2D8E4C27CF17",
+					"name":
+					{
+						"defaultText": "Goldwing Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "غولدوينغ آريز",
+							"de-DE": "Ares – Goldwing",
+							"en-US": "Goldwing Ares",
+							"es-ES": "Ares Goldwing",
+							"es-MX": "Ares Filo Dorado",
+							"fr-FR": "Ares (Aile d'or)",
+							"id-ID": "Goldwing Ares",
+							"it-IT": "Ares Aladoro",
+							"ja-JP": "ゴールドウイング アレス",
+							"ko-KR": "골드윙 아레스",
+							"pl-PL": "Ares Złotoskrzydły",
+							"pt-BR": "Ares Asas Douradas",
+							"ru-RU": "Ares \"Хохлома\"",
+							"th-TH": "Goldwing Ares",
+							"tr-TR": "Altın Kanat Ares",
+							"vi-VN": "Ares Họa Tiết Vàng",
+							"zh-CN": "Goldwing Ares",
+							"zh-TW": "黃金之翼 戰神"
+						}
+					}
+				}
+			],
+			"id": "9D2B497B-434D-07FC-EA0F-EE96DE4BFFA1",
+			"label": "9D2B497B-434D-07FC-EA0F-EE96DE4BFFA1",
+			"name":
+			{
+				"defaultText": "Goldwing Ares",
+				"localizedByCulture":
+				{
+					"ar-AE": "غولدوينغ آريز",
+					"de-DE": "Ares – Goldwing",
+					"en-US": "Goldwing Ares",
+					"es-ES": "Ares Goldwing",
+					"es-MX": "Ares Filo Dorado",
+					"fr-FR": "Ares (Aile d'or)",
+					"id-ID": "Goldwing Ares",
+					"it-IT": "Ares Aladoro",
+					"ja-JP": "ゴールドウイング アレス",
+					"ko-KR": "골드윙 아레스",
+					"pl-PL": "Ares Złotoskrzydły",
+					"pt-BR": "Ares Asas Douradas",
+					"ru-RU": "Ares \"Хохлома\"",
+					"th-TH": "Goldwing Ares",
+					"tr-TR": "Altın Kanat Ares",
+					"vi-VN": "Ares Họa Tiết Vàng",
+					"zh-CN": "Goldwing Ares",
+					"zh-TW": "黃金之翼 戰神"
 				}
 			}
 		},
@@ -16303,6 +16396,99 @@
 		},
 		{
 			"weaponId": "AE3DE142-4D85-2547-DD26-4E90BED35CF7",
+			"defaultChromaId": "49C0B811-4C16-B68F-B074-4F81D8F0563C",
+			"chromas": [
+				{
+					"id": "49C0B811-4C16-B68F-B074-4F81D8F0563C",
+					"label": "49C0B811-4C16-B68F-B074-4F81D8F0563C",
+					"name":
+					{
+						"defaultText": "Genesis Bulldog",
+						"localizedByCulture":
+						{
+							"ar-AE": "جينيسيس بولدوغ",
+							"de-DE": "Bulldog – Genesis",
+							"en-US": "Genesis Bulldog",
+							"es-ES": "Bulldog Genesis",
+							"es-MX": "Bulldog Génesis",
+							"fr-FR": "Bulldog (Genèse)",
+							"id-ID": "Genesis Bulldog",
+							"it-IT": "Bulldog Genesi",
+							"ja-JP": "ジェネシス ブルドッグ",
+							"ko-KR": "제네시스 불독",
+							"pl-PL": "Bulldog Genezy",
+							"pt-BR": "Bulldog Gênese",
+							"ru-RU": "Bulldog \"Истоки\"",
+							"th-TH": "Genesis Bulldog",
+							"tr-TR": "Başlangıç Bulldog",
+							"vi-VN": "Bulldog Khởi Nguyên",
+							"zh-CN": "Genesis Bulldog",
+							"zh-TW": "宇宙創始 鬥牛犬"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "C5711665-4126-FA98-510F-5F8C82F52911",
+					"label": "C5711665-4126-FA98-510F-5F8C82F52911",
+					"name":
+					{
+						"defaultText": "Genesis Bulldog",
+						"localizedByCulture":
+						{
+							"ar-AE": "جينيسيس بولدوغ",
+							"de-DE": "Bulldog – Genesis",
+							"en-US": "Genesis Bulldog",
+							"es-ES": "Bulldog Genesis",
+							"es-MX": "Bulldog Génesis",
+							"fr-FR": "Bulldog (Genèse)",
+							"id-ID": "Genesis Bulldog",
+							"it-IT": "Bulldog Genesi",
+							"ja-JP": "ジェネシス ブルドッグ",
+							"ko-KR": "제네시스 불독",
+							"pl-PL": "Bulldog Genezy",
+							"pt-BR": "Bulldog Gênese",
+							"ru-RU": "Bulldog \"Истоки\"",
+							"th-TH": "Genesis Bulldog",
+							"tr-TR": "Başlangıç Bulldog",
+							"vi-VN": "Bulldog Khởi Nguyên",
+							"zh-CN": "Genesis Bulldog",
+							"zh-TW": "宇宙創始 鬥牛犬"
+						}
+					}
+				}
+			],
+			"id": "90E750E8-4A42-F5FC-9160-3EA5E5522C6E",
+			"label": "90E750E8-4A42-F5FC-9160-3EA5E5522C6E",
+			"name":
+			{
+				"defaultText": "Genesis Bulldog",
+				"localizedByCulture":
+				{
+					"ar-AE": "جينيسيس بولدوغ",
+					"de-DE": "Bulldog – Genesis",
+					"en-US": "Genesis Bulldog",
+					"es-ES": "Bulldog Genesis",
+					"es-MX": "Bulldog Génesis",
+					"fr-FR": "Bulldog (Genèse)",
+					"id-ID": "Genesis Bulldog",
+					"it-IT": "Bulldog Genesi",
+					"ja-JP": "ジェネシス ブルドッグ",
+					"ko-KR": "제네시스 불독",
+					"pl-PL": "Bulldog Genezy",
+					"pt-BR": "Bulldog Gênese",
+					"ru-RU": "Bulldog \"Истоки\"",
+					"th-TH": "Genesis Bulldog",
+					"tr-TR": "Başlangıç Bulldog",
+					"vi-VN": "Bulldog Khởi Nguyên",
+					"zh-CN": "Genesis Bulldog",
+					"zh-TW": "宇宙創始 鬥牛犬"
+				}
+			}
+		},
+		{
+			"weaponId": "AE3DE142-4D85-2547-DD26-4E90BED35CF7",
 			"defaultChromaId": "28CF13A9-4457-027E-2C1F-6388CCC870F0",
 			"chromas": [
 				{
@@ -17303,6 +17489,157 @@
 					"vi-VN": "Phantom Quang Phổ",
 					"zh-CN": "Spectrum Phantom",
 					"zh-TW": "光炫聲譜 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "0BDDB2DC-44C0-A476-CA06-629B1F110515",
+			"chromas": [
+				{
+					"id": "0BDDB2DC-44C0-A476-CA06-629B1F110515",
+					"label": "0BDDB2DC-44C0-A476-CA06-629B1F110515",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 فانتوم",
+							"de-DE": "Phantom – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Phantom",
+							"es-ES": "Phantom Radiant Crisis 001",
+							"es-MX": "Phantom Crisis Radiante 001",
+							"fr-FR": "Phantom (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Phantom",
+							"it-IT": "Phantom Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 ファントム",
+							"ko-KR": "레디언트 크라이시스 001 팬텀",
+							"pl-PL": "Phantom Promienistego Kryzysu 001",
+							"pt-BR": "Phantom Crise Radiante 001",
+							"ru-RU": "Phantom \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Phantom",
+							"tr-TR": "Radyant Krizi 001 Phantom",
+							"vi-VN": "Phantom Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Phantom",
+							"zh-TW": "輻能危機001 幻象"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "52C3BBF6-491F-FEF1-FAA9-E19DF06A687C",
+					"label": "52C3BBF6-491F-FEF1-FAA9-E19DF06A687C",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 فانتوم",
+							"de-DE": "Phantom – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Phantom",
+							"es-ES": "Phantom Radiant Crisis 001",
+							"es-MX": "Phantom Crisis Radiante 001",
+							"fr-FR": "Phantom (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Phantom",
+							"it-IT": "Phantom Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 ファントム",
+							"ko-KR": "레디언트 크라이시스 001 팬텀",
+							"pl-PL": "Phantom Promienistego Kryzysu 001",
+							"pt-BR": "Phantom Crise Radiante 001",
+							"ru-RU": "Phantom \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Phantom",
+							"tr-TR": "Radyant Krizi 001 Phantom",
+							"vi-VN": "Phantom Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Phantom",
+							"zh-TW": "輻能危機001 幻象"
+						}
+					}
+				},
+				{
+					"id": "E9084AE2-462E-B567-1439-4797BB26D5F4",
+					"label": "E9084AE2-462E-B567-1439-4797BB26D5F4",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Phantom Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 فانتوم المستوى 2",
+							"de-DE": "Phantom – Radiant-Krise 001 Level 2",
+							"en-US": "Radiant Crisis 001 Phantom Level 2",
+							"es-ES": "Phantom Radiant Crisis 001 de nivel 2",
+							"es-MX": "Phantom Crisis Radiante 001 Nivel 2",
+							"fr-FR": "Phantom (Crise des radiants 001) niveau 2",
+							"id-ID": "Radiant Crisis 001 Phantom Level 2",
+							"it-IT": "Phantom Crisi radianti 001 livello 2",
+							"ja-JP": "レディアントクライシス 001 ファントム Lv.2",
+							"ko-KR": "레디언트 크라이시스 001 팬텀 2레벨",
+							"pl-PL": "Phantom Promienistego Kryzysu 001 (poziom 2)",
+							"pt-BR": "Phantom Crise Radiante 001 Nível 2",
+							"ru-RU": "Phantom \"Инцидент с радиантами 001\" уровень 2",
+							"th-TH": "Radiant Crisis 001 Phantom เลเวล 2",
+							"tr-TR": "2. Seviye Radyant Krizi 001 Phantom",
+							"vi-VN": "Phantom Khủng Hoảng Radiant 001 Cấp 2",
+							"zh-CN": "Radiant Crisis 001 Phantom Level 2",
+							"zh-TW": "輻能危機001 幻象 等級2"
+						}
+					}
+				},
+				{
+					"id": "84764CD7-41FD-C3E0-523F-D88D101C40CC",
+					"label": "84764CD7-41FD-C3E0-523F-D88D101C40CC",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Phantom Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 فانتوم المستوى 3",
+							"de-DE": "Phantom – Radiant-Krise 001 Level 3",
+							"en-US": "Radiant Crisis 001 Phantom Level 3",
+							"es-ES": "Phantom Radiant Crisis 001 de nivel 3",
+							"es-MX": "Phantom Crisis Radiante 001 Nivel 3",
+							"fr-FR": "Phantom (Crise des radiants 001) niveau 3",
+							"id-ID": "Radiant Crisis 001 Phantom Level 3",
+							"it-IT": "Phantom Crisi radianti 001 livello 3",
+							"ja-JP": "レディアントクライシス 001 ファントム Lv.3",
+							"ko-KR": "레디언트 크라이시스 001 팬텀 3레벨",
+							"pl-PL": "Phantom Promienistego Kryzysu 001 (poziom 3)",
+							"pt-BR": "Phantom Crise Radiante 001 Nível 3",
+							"ru-RU": "Phantom \"Инцидент с радиантами 001\" уровень 3",
+							"th-TH": "Radiant Crisis 001 Phantom เลเวล 3",
+							"tr-TR": "3. Seviye Radyant Krizi 001 Phantom",
+							"vi-VN": "Phantom Khủng Hoảng Radiant 001 Cấp 3",
+							"zh-CN": "Radiant Crisis 001 Phantom Level 3",
+							"zh-TW": "輻能危機001 幻象 等級3"
+						}
+					}
+				}
+			],
+			"id": "2371D9E1-498C-1AD1-4F10-D1A339C7FDA2",
+			"label": "2371D9E1-498C-1AD1-4F10-D1A339C7FDA2",
+			"name":
+			{
+				"defaultText": "Radiant Crisis 001 Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "راديانت كرايسيس 001 فانتوم",
+					"de-DE": "Phantom – Radiant-Krise 001",
+					"en-US": "Radiant Crisis 001 Phantom",
+					"es-ES": "Phantom Radiant Crisis 001",
+					"es-MX": "Phantom Crisis Radiante 001",
+					"fr-FR": "Phantom (Crise des radiants 001)",
+					"id-ID": "Radiant Crisis 001 Phantom",
+					"it-IT": "Phantom Crisi radianti 001",
+					"ja-JP": "レディアントクライシス 001 ファントム",
+					"ko-KR": "레디언트 크라이시스 001 팬텀",
+					"pl-PL": "Phantom Promienistego Kryzysu 001",
+					"pt-BR": "Phantom Crise Radiante 001",
+					"ru-RU": "Phantom \"Инцидент с радиантами 001\"",
+					"th-TH": "Radiant Crisis 001 Phantom",
+					"tr-TR": "Radyant Krizi 001 Phantom",
+					"vi-VN": "Phantom Khủng Hoảng Radiant 001",
+					"zh-CN": "Radiant Crisis 001 Phantom",
+					"zh-TW": "輻能危機001 幻象"
 				}
 			}
 		},
@@ -20026,6 +20363,186 @@
 		},
 		{
 			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "18D326DE-48F5-762F-98BE-86B51BD29A7A",
+			"chromas": [
+				{
+					"id": "18D326DE-48F5-762F-98BE-86B51BD29A7A",
+					"label": "18D326DE-48F5-762F-98BE-86B51BD29A7A",
+					"name":
+					{
+						"defaultText": "Aero Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فانتوم",
+							"de-DE": "Phantom – Aero",
+							"en-US": "Aero Phantom",
+							"es-ES": "Phantom Aero",
+							"es-MX": "Phantom Aero",
+							"fr-FR": "Phantom (Aéro)",
+							"id-ID": "Aero Phantom",
+							"it-IT": "Phantom Aero",
+							"ja-JP": "エアロ ファントム",
+							"ko-KR": "에어로 팬텀",
+							"pl-PL": "Phantom Powietrzny",
+							"pt-BR": "Phantom Aero",
+							"ru-RU": "Phantom \"Полет\"",
+							"th-TH": "Aero Phantom",
+							"tr-TR": "Havai Frenzy",
+							"vi-VN": "Phantom Aero",
+							"zh-CN": "Aero Phantom",
+							"zh-TW": "航創未來 幻象"
+						}
+					}
+				},
+				{
+					"id": "47F5012A-40CC-1C3D-2E9A-649B86251A94",
+					"label": "47F5012A-40CC-1C3D-2E9A-649B86251A94",
+					"name":
+					{
+						"defaultText": "Aero Phantom\r\n(Variant 1 Cream/Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فانتوم\n(بديل 1 كريم/وردي)",
+							"de-DE": "Phantom – Aero\n(Variante 1, Creme/Pink)",
+							"en-US": "Aero Phantom\r\n(Variant 1 Cream/Pink)",
+							"es-ES": "Phantom Aero\n(variante 1: crema/rosa)",
+							"es-MX": "Phantom Aero\n(Variante 1 Crema/Rosa)",
+							"fr-FR": "Phantom (Aéro)\n(variante 1 Crème/Rose)",
+							"id-ID": "Aero Phantom\n(Varian 1 Krem/Merah Muda)",
+							"it-IT": "Phantom Aero\n(variante 1 Crema/Rosa)",
+							"ja-JP": "エアロ ファントム\n(ヴァリアント 1 クリーム / ピンク)",
+							"ko-KR": "에어로 팬텀\n(변형 1 크림색/분홍색)",
+							"pl-PL": "Phantom Powietrzny\n(wersja 1 – kremowa/różowa)",
+							"pt-BR": "Phantom Aero\n\n(Variante 1 Creme/Rosa)",
+							"ru-RU": "Phantom \"Полет\"\n(расцветка 1 \"Кремовый/Розовый\")",
+							"th-TH": "Aero Phantom\n(ตัวเลือกที่ 1 สีครีม/ชมพู)",
+							"tr-TR": "Havai Phantom\n(Stil 1 - Krem Rengi/Pembe)",
+							"vi-VN": "Phantom Aero\n(Dạng 1 Ánh Kem/Hồng)",
+							"zh-CN": "Aero Phantom\r\n(Variant 1 Cream/Pink)",
+							"zh-TW": "航創未來 幻象\n（幻彩1 奶油／粉色）"
+						}
+					}
+				},
+				{
+					"id": "9D91766B-49E3-9A8E-BEE8-96B16F82F932",
+					"label": "9D91766B-49E3-9A8E-BEE8-96B16F82F932",
+					"name":
+					{
+						"defaultText": "Aero Phantom\r\n(Variant 2 Purple/Gray)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فانتوم\n(بديل 2 أرجواني/رمادي)",
+							"de-DE": "Phantom – Aero\n(Variante 2, Violett/Grau)",
+							"en-US": "Aero Phantom\r\n(Variant 2 Purple/Gray)",
+							"es-ES": "Phantom Aero\n(variante 2: púrpura/gris)",
+							"es-MX": "Phantom Aero\n(Variante 2 Morado/Gris)",
+							"fr-FR": "Phantom (Aéro)\n(variante 2 Violet/Gris)",
+							"id-ID": "Aero Phantom\n(Varian 2 Ungu/Abu-abu)",
+							"it-IT": "Phantom Aero\n(variante 2 Viola/Grigia)",
+							"ja-JP": "エアロ ファントム\n(ヴァリアント 2 パープル / グレー)",
+							"ko-KR": "에어로 팬텀\n(변형 2 보라색/회색)",
+							"pl-PL": "Phantom Powietrzny\n(wersja 2 – fioletowa/szara)",
+							"pt-BR": "Phantom Aero\n\n(Variante 2 Roxa/Cinza)",
+							"ru-RU": "Phantom \"Полет\"\n(расцветка 2 \"Фиолетовый/Серый\")",
+							"th-TH": "Aero Phantom\n(ตัวเลือกที่ 2 สีม่วง/เทา)",
+							"tr-TR": "Havai Frenzy\n(Stil 2 - Mor/Gri)",
+							"vi-VN": "Phantom Aero\n(Dạng 2 Ánh Tím/Xám)",
+							"zh-CN": "Aero Phantom\r\n(Variant 2 Purple/Gray)",
+							"zh-TW": "航創未來 幻象\n（幻彩2 紫／灰色）"
+						}
+					}
+				},
+				{
+					"id": "F68C67C6-4495-5961-414E-FC891F63766B",
+					"label": "F68C67C6-4495-5961-414E-FC891F63766B",
+					"name":
+					{
+						"defaultText": "Aero Phantom\n(Variant 3 Green/Black)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فانتوم\n(بديل 3 أخضر/أسود)",
+							"de-DE": "Phantom – Aero\n(Variante 3, Grün/Schwarz)",
+							"en-US": "Aero Phantom\n(Variant 3 Green/Black)",
+							"es-ES": "Phantom Aero\n(variante 3: verde/negro)",
+							"es-MX": "Phantom Aero\n(Variante 3 Verde/Negro)",
+							"fr-FR": "Phantom (Aéro)\n(variante 3 Vert/Noir)",
+							"id-ID": "Aero Phantom\n(Varian 3 Hijau/Hitam)",
+							"it-IT": "Phantom Aero\n(variante 3 Verde/Nera)",
+							"ja-JP": "エアロ ファントム\n(ヴァリアント 3 グリーン / ブラック)",
+							"ko-KR": "에어로 팬텀\n(변형 3 녹색/검은색)",
+							"pl-PL": "Phantom Powietrzny\n(wersja 3 – zielona/czarna)",
+							"pt-BR": "Phantom Aero\n(Variante 3 Verde/Preta)",
+							"ru-RU": "Phantom \"Полет\"\n(расцветка 3 \"Зеленый/Черный\")",
+							"th-TH": "Aero Phantom\n(ตัวเลือกที่ 3 สีเขียว/ดำ)",
+							"tr-TR": "Havai Frenzy\n(Stil 3 - Yeşil/Siyah)",
+							"vi-VN": "Phantom Aero\n(Dạng 3 Ánh Lục/Đen)",
+							"zh-CN": "Aero Phantom\n(Variant 3 Green/Black)",
+							"zh-TW": "航創未來 幻象\n（幻彩3 綠／黑色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "24A1644C-4AA9-50CC-9CA3-4AA7BE12339D",
+					"label": "24A1644C-4AA9-50CC-9CA3-4AA7BE12339D",
+					"name":
+					{
+						"defaultText": "Aero Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فانتوم",
+							"de-DE": "Phantom – Aero",
+							"en-US": "Aero Phantom",
+							"es-ES": "Phantom Aero",
+							"es-MX": "Phantom Aero",
+							"fr-FR": "Phantom (Aéro)",
+							"id-ID": "Aero Phantom",
+							"it-IT": "Phantom Aero",
+							"ja-JP": "エアロ ファントム",
+							"ko-KR": "에어로 팬텀",
+							"pl-PL": "Phantom Powietrzny",
+							"pt-BR": "Phantom Aero",
+							"ru-RU": "Phantom \"Полет\"",
+							"th-TH": "Aero Phantom",
+							"tr-TR": "Havai Frenzy",
+							"vi-VN": "Phantom Aero",
+							"zh-CN": "Aero Phantom",
+							"zh-TW": "航創未來 幻象"
+						}
+					}
+				}
+			],
+			"id": "56F075B7-4171-A977-90AC-D5AD786F1478",
+			"label": "56F075B7-4171-A977-90AC-D5AD786F1478",
+			"name":
+			{
+				"defaultText": "Aero Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "إيرو فانتوم",
+					"de-DE": "Phantom – Aero",
+					"en-US": "Aero Phantom",
+					"es-ES": "Phantom Aero",
+					"es-MX": "Phantom Aero",
+					"fr-FR": "Phantom (Aéro)",
+					"id-ID": "Aero Phantom",
+					"it-IT": "Phantom Aero",
+					"ja-JP": "エアロ ファントム",
+					"ko-KR": "에어로 팬텀",
+					"pl-PL": "Phantom Powietrzny",
+					"pt-BR": "Phantom Aero",
+					"ru-RU": "Phantom \"Полет\"",
+					"th-TH": "Aero Phantom",
+					"tr-TR": "Havai Frenzy",
+					"vi-VN": "Phantom Aero",
+					"zh-CN": "Aero Phantom",
+					"zh-TW": "航創未來 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
 			"defaultChromaId": "98850230-4AB7-8A9A-B9C9-4DA19B5BD33F",
 			"chromas": [
 				{
@@ -22006,6 +22523,99 @@
 		},
 		{
 			"weaponId": "EC845BF4-4F79-DDDA-A3DA-0DB3774B2794",
+			"defaultChromaId": "088ABB71-4DBA-3CE9-9DCB-DCBA15C42327",
+			"chromas": [
+				{
+					"id": "088ABB71-4DBA-3CE9-9DCB-DCBA15C42327",
+					"label": "088ABB71-4DBA-3CE9-9DCB-DCBA15C42327",
+					"name":
+					{
+						"defaultText": "Goldwing Judge",
+						"localizedByCulture":
+						{
+							"ar-AE": "غولدوينغ جادج",
+							"de-DE": "Judge – Goldwing",
+							"en-US": "Goldwing Judge",
+							"es-ES": "Judge Goldwing",
+							"es-MX": "Judge Filo Dorado",
+							"fr-FR": "Judge (Aile d'or)",
+							"id-ID": "Goldwing Judge",
+							"it-IT": "Judge Aladoro",
+							"ja-JP": "ゴールドウイング ジャッジ",
+							"ko-KR": "골드윙 저지",
+							"pl-PL": "Judge Złotoskrzydły",
+							"pt-BR": "Judge Asas Douradas",
+							"ru-RU": "Judge \"Хохлома\"",
+							"th-TH": "Goldwing Judge",
+							"tr-TR": "Altın Kanat Judge",
+							"vi-VN": "Judge Họa Tiết Vàng",
+							"zh-CN": "Goldwing Judge",
+							"zh-TW": "黃金之翼 判官"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "77DD3407-4580-9734-A0BB-6B80A4E5BE3E",
+					"label": "77DD3407-4580-9734-A0BB-6B80A4E5BE3E",
+					"name":
+					{
+						"defaultText": "Goldwing Judge",
+						"localizedByCulture":
+						{
+							"ar-AE": "غولدوينغ جادج",
+							"de-DE": "Judge – Goldwing",
+							"en-US": "Goldwing Judge",
+							"es-ES": "Judge Goldwing",
+							"es-MX": "Judge Filo Dorado",
+							"fr-FR": "Judge (Aile d'or)",
+							"id-ID": "Goldwing Judge",
+							"it-IT": "Judge Aladoro",
+							"ja-JP": "ゴールドウイング ジャッジ",
+							"ko-KR": "골드윙 저지",
+							"pl-PL": "Judge Złotoskrzydły",
+							"pt-BR": "Judge Asas Douradas",
+							"ru-RU": "Judge \"Хохлома\"",
+							"th-TH": "Goldwing Judge",
+							"tr-TR": "Altın Kanat Judge",
+							"vi-VN": "Judge Họa Tiết Vàng",
+							"zh-CN": "Goldwing Judge",
+							"zh-TW": "黃金之翼 判官"
+						}
+					}
+				}
+			],
+			"id": "37735CF0-4C4F-6EFD-6222-8582622D68A0",
+			"label": "37735CF0-4C4F-6EFD-6222-8582622D68A0",
+			"name":
+			{
+				"defaultText": "Goldwing Judge",
+				"localizedByCulture":
+				{
+					"ar-AE": "غولدوينغ جادج",
+					"de-DE": "Judge – Goldwing",
+					"en-US": "Goldwing Judge",
+					"es-ES": "Judge Goldwing",
+					"es-MX": "Judge Filo Dorado",
+					"fr-FR": "Judge (Aile d'or)",
+					"id-ID": "Goldwing Judge",
+					"it-IT": "Judge Aladoro",
+					"ja-JP": "ゴールドウイング ジャッジ",
+					"ko-KR": "골드윙 저지",
+					"pl-PL": "Judge Złotoskrzydły",
+					"pt-BR": "Judge Asas Douradas",
+					"ru-RU": "Judge \"Хохлома\"",
+					"th-TH": "Goldwing Judge",
+					"tr-TR": "Altın Kanat Judge",
+					"vi-VN": "Judge Họa Tiết Vàng",
+					"zh-CN": "Goldwing Judge",
+					"zh-TW": "黃金之翼 判官"
+				}
+			}
+		},
+		{
+			"weaponId": "EC845BF4-4F79-DDDA-A3DA-0DB3774B2794",
 			"defaultChromaId": "1D01F834-43C6-F2BA-AD12-FEAF075BE7E3",
 			"chromas": [
 				{
@@ -23563,6 +24173,157 @@
 		},
 		{
 			"weaponId": "910BE174-449B-C412-AB22-D0873436B21B",
+			"defaultChromaId": "AF1B507F-4F44-5917-DCE8-E8893944D73D",
+			"chromas": [
+				{
+					"id": "AF1B507F-4F44-5917-DCE8-E8893944D73D",
+					"label": "AF1B507F-4F44-5917-DCE8-E8893944D73D",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Bucky",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 باكي",
+							"de-DE": "Bucky – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Bucky",
+							"es-ES": "Bucky Radiant Crisis 001",
+							"es-MX": "Bucky Crisis Radiante 001",
+							"fr-FR": "Bucky (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Bucky",
+							"it-IT": "Bucky Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 バッキー",
+							"ko-KR": "레디언트 크라이시스 001 버키",
+							"pl-PL": "Bucky Promienistego Kryzysu 001",
+							"pt-BR": "Bucky Crise Radiante 001",
+							"ru-RU": "Bucky \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Bucky",
+							"tr-TR": "Radyant Krizi 001 Bucky",
+							"vi-VN": "Bucky Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Bucky",
+							"zh-TW": "輻能危機001 重砲"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "BDDFD0BA-49A1-0F4F-E32A-D5A1ED29D5FC",
+					"label": "BDDFD0BA-49A1-0F4F-E32A-D5A1ED29D5FC",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Bucky",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 باكي",
+							"de-DE": "Bucky – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Bucky",
+							"es-ES": "Bucky Radiant Crisis 001",
+							"es-MX": "Bucky Crisis Radiante 001",
+							"fr-FR": "Bucky (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Bucky",
+							"it-IT": "Bucky Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 バッキー",
+							"ko-KR": "레디언트 크라이시스 001 버키",
+							"pl-PL": "Bucky Promienistego Kryzysu 001",
+							"pt-BR": "Bucky Crise Radiante 001",
+							"ru-RU": "Bucky \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Bucky",
+							"tr-TR": "Radyant Krizi 001 Bucky",
+							"vi-VN": "Bucky Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Bucky",
+							"zh-TW": "輻能危機001 重砲"
+						}
+					}
+				},
+				{
+					"id": "9485C7EC-4869-5454-165F-08898E934835",
+					"label": "9485C7EC-4869-5454-165F-08898E934835",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Bucky Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 باكي المستوى 2",
+							"de-DE": "Bucky – Radiant-Krise 001 Level 2",
+							"en-US": "Radiant Crisis 001 Bucky Level 2",
+							"es-ES": "Bucky Radiant Crisis 001 de nivel 2",
+							"es-MX": "Bucky Crisis Radiante 001 Nivel 2",
+							"fr-FR": "Bucky (Crise des radiants 001) niveau 2",
+							"id-ID": "Radiant Crisis 001 Bucky Level 2",
+							"it-IT": "Bucky Crisi radianti 001 livello 2",
+							"ja-JP": "レディアントクライシス 001 バッキー Lv.2",
+							"ko-KR": "레디언트 크라이시스 001 버키 2레벨",
+							"pl-PL": "Bucky Promienistego Kryzysu 001 (poziom 2)",
+							"pt-BR": "Bucky Crise Radiante 001 Nível 2",
+							"ru-RU": "Bucky \"Инцидент с радиантами 001\" уровень 2",
+							"th-TH": "Radiant Crisis 001 Bucky เลเวล 2",
+							"tr-TR": "2. Seviye Radyant Krizi 001 Bucky",
+							"vi-VN": "Bucky Khủng Hoảng Radiant 001 Cấp 2",
+							"zh-CN": "Radiant Crisis 001 Bucky Level 2",
+							"zh-TW": "輻能危機001 重砲 等級2"
+						}
+					}
+				},
+				{
+					"id": "587F57BF-495D-2201-1DB4-71AA270DD589",
+					"label": "587F57BF-495D-2201-1DB4-71AA270DD589",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Bucky Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 باكي المستوى 3",
+							"de-DE": "Bucky – Radiant-Krise 001 Level 3",
+							"en-US": "Radiant Crisis 001 Bucky Level 3",
+							"es-ES": "Bucky Radiant Crisis 001 de nivel 3",
+							"es-MX": "Bucky Crisis Radiante 001 Nivel 3",
+							"fr-FR": "Bucky (Crise des radiants 001) niveau 3",
+							"id-ID": "Radiant Crisis 001 Bucky Level 3",
+							"it-IT": "Bucky Crisi radianti 001 livello 3",
+							"ja-JP": "レディアントクライシス 001 バッキー Lv.3",
+							"ko-KR": "레디언트 크라이시스 001 버키 3레벨",
+							"pl-PL": "Bucky Promienistego Kryzysu 001 (poziom 3)",
+							"pt-BR": "Bucky Crise Radiante 001 Nível 3",
+							"ru-RU": "Bucky \"Инцидент с радиантами 001\" уровень 3",
+							"th-TH": "Radiant Crisis 001 Bucky เลเวล 3",
+							"tr-TR": "3. Seviye Radyant Krizi 001 Bucky",
+							"vi-VN": "Bucky Khủng Hoảng Radiant 001 Cấp 3",
+							"zh-CN": "Radiant Crisis 001 Bucky Level 3",
+							"zh-TW": "輻能危機001 重砲 等級3"
+						}
+					}
+				}
+			],
+			"id": "31072CDA-4041-B4F0-119A-3692EA598321",
+			"label": "31072CDA-4041-B4F0-119A-3692EA598321",
+			"name":
+			{
+				"defaultText": "Radiant Crisis 001 Bucky",
+				"localizedByCulture":
+				{
+					"ar-AE": "راديانت كرايسيس 001 باكي",
+					"de-DE": "Bucky – Radiant-Krise 001",
+					"en-US": "Radiant Crisis 001 Bucky",
+					"es-ES": "Bucky Radiant Crisis 001",
+					"es-MX": "Bucky Crisis Radiante 001",
+					"fr-FR": "Bucky (Crise des radiants 001)",
+					"id-ID": "Radiant Crisis 001 Bucky",
+					"it-IT": "Bucky Crisi radianti 001",
+					"ja-JP": "レディアントクライシス 001 バッキー",
+					"ko-KR": "레디언트 크라이시스 001 버키",
+					"pl-PL": "Bucky Promienistego Kryzysu 001",
+					"pt-BR": "Bucky Crise Radiante 001",
+					"ru-RU": "Bucky \"Инцидент с радиантами 001\"",
+					"th-TH": "Radiant Crisis 001 Bucky",
+					"tr-TR": "Radyant Krizi 001 Bucky",
+					"vi-VN": "Bucky Khủng Hoảng Radiant 001",
+					"zh-CN": "Radiant Crisis 001 Bucky",
+					"zh-TW": "輻能危機001 重砲"
+				}
+			}
+		},
+		{
+			"weaponId": "910BE174-449B-C412-AB22-D0873436B21B",
 			"defaultChromaId": "17F8E996-4440-2011-DA74-1DAC76F5671A",
 			"chromas": [
 				{
@@ -24830,6 +25591,99 @@
 					"vi-VN": "Bucky Trưng Diện",
 					"zh-CN": "艺廊喷子",
 					"zh-TW": "藝境 重砲"
+				}
+			}
+		},
+		{
+			"weaponId": "910BE174-449B-C412-AB22-D0873436B21B",
+			"defaultChromaId": "F3D8DFC5-4C46-4219-189B-3D91C9D1629A",
+			"chromas": [
+				{
+					"id": "F3D8DFC5-4C46-4219-189B-3D91C9D1629A",
+					"label": "F3D8DFC5-4C46-4219-189B-3D91C9D1629A",
+					"name":
+					{
+						"defaultText": "Genesis Bucky",
+						"localizedByCulture":
+						{
+							"ar-AE": "جينيسيس باكي",
+							"de-DE": "Bucky – Genesis",
+							"en-US": "Genesis Bucky",
+							"es-ES": "Bucky Genesis",
+							"es-MX": "Bucky Génesis",
+							"fr-FR": "Bucky (Genèse)",
+							"id-ID": "Genesis Bucky",
+							"it-IT": "Bucky Genesi",
+							"ja-JP": "ジェネシス バッキー",
+							"ko-KR": "제네시스 버키",
+							"pl-PL": "Bucky Genezy",
+							"pt-BR": "Bucky Gênese",
+							"ru-RU": "Bucky \"Истоки\"",
+							"th-TH": "Genesis Bucky",
+							"tr-TR": "Başlangıç Bucky",
+							"vi-VN": "Bucky Khởi Nguyên",
+							"zh-CN": "Genesis Bucky",
+							"zh-TW": "宇宙創始 重砲"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "BB3E45B2-4C4F-E0CB-C094-3A95261BBA35",
+					"label": "BB3E45B2-4C4F-E0CB-C094-3A95261BBA35",
+					"name":
+					{
+						"defaultText": "Genesis Bucky",
+						"localizedByCulture":
+						{
+							"ar-AE": "جينيسيس باكي",
+							"de-DE": "Bucky – Genesis",
+							"en-US": "Genesis Bucky",
+							"es-ES": "Bucky Genesis",
+							"es-MX": "Bucky Génesis",
+							"fr-FR": "Bucky (Genèse)",
+							"id-ID": "Genesis Bucky",
+							"it-IT": "Bucky Genesi",
+							"ja-JP": "ジェネシス バッキー",
+							"ko-KR": "제네시스 버키",
+							"pl-PL": "Bucky Genezy",
+							"pt-BR": "Bucky Gênese",
+							"ru-RU": "Bucky \"Истоки\"",
+							"th-TH": "Genesis Bucky",
+							"tr-TR": "Başlangıç Bucky",
+							"vi-VN": "Bucky Khởi Nguyên",
+							"zh-CN": "Genesis Bucky",
+							"zh-TW": "宇宙創始 重砲"
+						}
+					}
+				}
+			],
+			"id": "DAF3C0D8-4C6F-23C0-20CC-96B0386B548F",
+			"label": "DAF3C0D8-4C6F-23C0-20CC-96B0386B548F",
+			"name":
+			{
+				"defaultText": "Genesis Bucky",
+				"localizedByCulture":
+				{
+					"ar-AE": "جينيسيس باكي",
+					"de-DE": "Bucky – Genesis",
+					"en-US": "Genesis Bucky",
+					"es-ES": "Bucky Genesis",
+					"es-MX": "Bucky Génesis",
+					"fr-FR": "Bucky (Genèse)",
+					"id-ID": "Genesis Bucky",
+					"it-IT": "Bucky Genesi",
+					"ja-JP": "ジェネシス バッキー",
+					"ko-KR": "제네시스 버키",
+					"pl-PL": "Bucky Genezy",
+					"pt-BR": "Bucky Gênese",
+					"ru-RU": "Bucky \"Истоки\"",
+					"th-TH": "Genesis Bucky",
+					"tr-TR": "Başlangıç Bucky",
+					"vi-VN": "Bucky Khởi Nguyên",
+					"zh-CN": "Genesis Bucky",
+					"zh-TW": "宇宙創始 重砲"
 				}
 			}
 		},
@@ -28389,6 +29243,186 @@
 		},
 		{
 			"weaponId": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+			"defaultChromaId": "E98C4846-4E91-0BBB-2715-04AA0CF08D60",
+			"chromas": [
+				{
+					"id": "E98C4846-4E91-0BBB-2715-04AA0CF08D60",
+					"label": "E98C4846-4E91-0BBB-2715-04AA0CF08D60",
+					"name":
+					{
+						"defaultText": "Aero Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فرينزي",
+							"de-DE": "Frenzy – Aero",
+							"en-US": "Aero Frenzy",
+							"es-ES": "Frenzy Aero",
+							"es-MX": "Frenzy Aero",
+							"fr-FR": "Frenzy (Aéro)",
+							"id-ID": "Aero Frenzy",
+							"it-IT": "Frenzy Aero",
+							"ja-JP": "エアロ フレンジー",
+							"ko-KR": "에어로 프렌지",
+							"pl-PL": "Frenzy Powietrzny",
+							"pt-BR": "Frenzy Aero",
+							"ru-RU": "Frenzy \"Полет\"",
+							"th-TH": "Aero Frenzy",
+							"tr-TR": "Havai Frenzy",
+							"vi-VN": "Frenzy Aero",
+							"zh-CN": "Aero Frenzy",
+							"zh-TW": "航創未來 狂弒"
+						}
+					}
+				},
+				{
+					"id": "ED6D508B-46E9-E99B-53D9-DC99BCFA7616",
+					"label": "ED6D508B-46E9-E99B-53D9-DC99BCFA7616",
+					"name":
+					{
+						"defaultText": "Aero Frenzy\r\n(Variant 1 Cream/Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فرينزي\n(بديل 1 كريم/وردي)",
+							"de-DE": "Frenzy – Aero\n(Variante 1, Creme/Pink)",
+							"en-US": "Aero Frenzy\r\n(Variant 1 Cream/Pink)",
+							"es-ES": "Frenzy Aero\n(variante 1: crema/rosa)",
+							"es-MX": "Frenzy Aero\n(Variante 1 Crema/Rosa)",
+							"fr-FR": "Frenzy (Aéro)\n(variante 1 Crème/Rose)",
+							"id-ID": "Aero Frenzy\n(Varian 1 Krem/Merah Muda)",
+							"it-IT": "Frenzy Aero\n(variante 1 Crema/Rosa)",
+							"ja-JP": "エアロ フレンジー\n(ヴァリアント 1 クリーム / ピンク)",
+							"ko-KR": "에어로 프렌지\n(변형 1 크림색/분홍색)",
+							"pl-PL": "Frenzy Powietrzny\n(wersja 1 – kremowa/różowa)",
+							"pt-BR": "Frenzy Aero\n\n(Variante 1 Creme/Rosa)",
+							"ru-RU": "Frenzy \"Полет\"\n(расцветка 1 \"Кремовый/Розовый\")",
+							"th-TH": "Aero Frenzy\n(ตัวเลือกที่ 1 สีครีม/ชมพู)",
+							"tr-TR": "Havai Frenzy\n(Stil 1 - Krem Rengi/Pembe)",
+							"vi-VN": "Frenzy Aero\n(Dạng 1 Ánh Kem/Hồng)",
+							"zh-CN": "Aero Frenzy\r\n(Variant 1 Cream/Pink)",
+							"zh-TW": "航創未來 狂弒\n（幻彩1 奶油／粉色）"
+						}
+					}
+				},
+				{
+					"id": "C7000344-4716-02D3-2F14-709783064DBF",
+					"label": "C7000344-4716-02D3-2F14-709783064DBF",
+					"name":
+					{
+						"defaultText": "Aero Frenzy\r\n(Variant 2 Purple/Gray)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فرينزي\n(بديل 2 أرجواني/رمادي)",
+							"de-DE": "Frenzy – Aero\n(Variante 2, Violett/Grau)",
+							"en-US": "Aero Frenzy\r\n(Variant 2 Purple/Gray)",
+							"es-ES": "Frenzy Aero\n(variante 2: púrpura/gris)",
+							"es-MX": "Frenzy Aero\n(Variante 2 Morado/Gris)",
+							"fr-FR": "Frenzy (Aéro)\n(variante 2 Violet/Gris)",
+							"id-ID": "Aero Frenzy\n(Varian 2 Ungu/Abu-abu)",
+							"it-IT": "Frenzy Aero\n(variante 2 Viola/Grigia)",
+							"ja-JP": "エアロ フレンジー\n(ヴァリアント 2 パープル / グレー)",
+							"ko-KR": "에어로 프렌지\n(변형 2 보라색/회색)",
+							"pl-PL": "Frenzy Powietrzny\n(wersja 2 – fioletowa/szara)",
+							"pt-BR": "Frenzy Aero\n\n(Variante 2 Roxa/Cinza)",
+							"ru-RU": "Frenzy \"Полет\"\n(расцветка 2 \"Фиолетовый/Серый\")",
+							"th-TH": "Aero Frenzy\n(ตัวเลือกที่ 2 สีม่วง/เทา)",
+							"tr-TR": "Havai Frenzy\n(Stil 2 - Mor/Gri)",
+							"vi-VN": "Frenzy Aero\n(Dạng 2 Ánh Tím/Xám)",
+							"zh-CN": "Aero Frenzy\r\n(Variant 2 Purple/Gray)",
+							"zh-TW": "航創未來 狂弒\n（幻彩2 紫／灰色）"
+						}
+					}
+				},
+				{
+					"id": "741206D9-4876-69D3-C451-1B8487C7B434",
+					"label": "741206D9-4876-69D3-C451-1B8487C7B434",
+					"name":
+					{
+						"defaultText": "Aero Frenzy\n(Variant 3 Green/Black)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فرينزي\n(بديل 3 أخضر/أسود)",
+							"de-DE": "Frenzy – Aero\n(Variante 3, Grün/Schwarz)",
+							"en-US": "Aero Frenzy\n(Variant 3 Green/Black)",
+							"es-ES": "Frenzy Aero\n(variante 3: verde/negro)",
+							"es-MX": "Frenzy Aero\n(Variante 3 Verde/Negro)",
+							"fr-FR": "Frenzy (Aéro)\n(variante 3 Vert/Noir)",
+							"id-ID": "Aero Frenzy\n(Varian 3 Hijau/Hitam)",
+							"it-IT": "Frenzy Aero\n(variante 3 Verde/Nera)",
+							"ja-JP": "エアロ フレンジー\n(ヴァリアント 3 グリーン / ブラック)",
+							"ko-KR": "에어로 프렌지\n(변형 3 녹색/검은색)",
+							"pl-PL": "Frenzy Powietrzny\n(wersja 3 – zielona/czarna)",
+							"pt-BR": "Frenzy Aero\n(Variante 3 Verde/Preta)",
+							"ru-RU": "Frenzy \"Полет\"\n(расцветка 3 \"Зеленый/Черный\")",
+							"th-TH": "Aero Frenzy\n(ตัวเลือกที่ 3 สีเขียว/ดำ)",
+							"tr-TR": "Havai Frenzy\n(Stil 3 - Yeşil/Siyah)",
+							"vi-VN": "Frenzy Aero\n(Dạng 3 Ánh Lục/Đen)",
+							"zh-CN": "Aero Frenzy\n(Variant 3 Green/Black)",
+							"zh-TW": "航創未來 狂弒\n（幻彩3 綠／黑色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "2F69BFE0-4126-4D2B-91B4-C9A2CB1909DA",
+					"label": "2F69BFE0-4126-4D2B-91B4-C9A2CB1909DA",
+					"name":
+					{
+						"defaultText": "Aero Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو فرينزي",
+							"de-DE": "Frenzy – Aero",
+							"en-US": "Aero Frenzy",
+							"es-ES": "Frenzy Aero",
+							"es-MX": "Frenzy Aero",
+							"fr-FR": "Frenzy (Aéro)",
+							"id-ID": "Aero Frenzy",
+							"it-IT": "Frenzy Aero",
+							"ja-JP": "エアロ フレンジー",
+							"ko-KR": "에어로 프렌지",
+							"pl-PL": "Frenzy Powietrzny",
+							"pt-BR": "Frenzy Aero",
+							"ru-RU": "Frenzy \"Полет\"",
+							"th-TH": "Aero Frenzy",
+							"tr-TR": "Havai Frenzy",
+							"vi-VN": "Frenzy Aero",
+							"zh-CN": "Aero Frenzy",
+							"zh-TW": "航創未來 狂弒"
+						}
+					}
+				}
+			],
+			"id": "12E6F520-460B-E69B-0617-BAB9FFF1A134",
+			"label": "12E6F520-460B-E69B-0617-BAB9FFF1A134",
+			"name":
+			{
+				"defaultText": "Aero Frenzy",
+				"localizedByCulture":
+				{
+					"ar-AE": "إيرو فرينزي",
+					"de-DE": "Frenzy – Aero",
+					"en-US": "Aero Frenzy",
+					"es-ES": "Frenzy Aero",
+					"es-MX": "Frenzy Aero",
+					"fr-FR": "Frenzy (Aéro)",
+					"id-ID": "Aero Frenzy",
+					"it-IT": "Frenzy Aero",
+					"ja-JP": "エアロ フレンジー",
+					"ko-KR": "에어로 프렌지",
+					"pl-PL": "Frenzy Powietrzny",
+					"pt-BR": "Frenzy Aero",
+					"ru-RU": "Frenzy \"Полет\"",
+					"th-TH": "Aero Frenzy",
+					"tr-TR": "Havai Frenzy",
+					"vi-VN": "Frenzy Aero",
+					"zh-CN": "Aero Frenzy",
+					"zh-TW": "航創未來 狂弒"
+				}
+			}
+		},
+		{
+			"weaponId": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
 			"defaultChromaId": "B5C7C3D6-4242-C174-470C-7B9BC1D188C4",
 			"chromas": [
 				{
@@ -29475,6 +30509,157 @@
 		},
 		{
 			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "5830B4B7-4F7B-F63B-FF47-61AAA2736484",
+			"chromas": [
+				{
+					"id": "5830B4B7-4F7B-F63B-FF47-61AAA2736484",
+					"label": "5830B4B7-4F7B-F63B-FF47-61AAA2736484",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 كلاسيك",
+							"de-DE": "Classic – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Classic",
+							"es-ES": "Classic Radiant Crisis 001",
+							"es-MX": "Classic Crisis Radiante 001",
+							"fr-FR": "Classic (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Classic",
+							"it-IT": "Classic Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 クラシック",
+							"ko-KR": "레디언트 크라이시스 001 클래식",
+							"pl-PL": "Classic Promienistego Kryzysu 001",
+							"pt-BR": "Classic Crise Radiante 001",
+							"ru-RU": "Classic \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Classic",
+							"tr-TR": "Radyant Krizi 001 Classic",
+							"vi-VN": "Classic Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Classic",
+							"zh-TW": "輻能危機001 制式手槍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "13F3818C-4518-CF39-51F6-8CAD1DC5BFC6",
+					"label": "13F3818C-4518-CF39-51F6-8CAD1DC5BFC6",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 كلاسيك",
+							"de-DE": "Classic – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Classic",
+							"es-ES": "Classic Radiant Crisis 001",
+							"es-MX": "Classic Crisis Radiante 001",
+							"fr-FR": "Classic (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Classic",
+							"it-IT": "Classic Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 クラシック",
+							"ko-KR": "레디언트 크라이시스 001 클래식",
+							"pl-PL": "Classic Promienistego Kryzysu 001",
+							"pt-BR": "Classic Crise Radiante 001",
+							"ru-RU": "Classic \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Classic",
+							"tr-TR": "Radyant Krizi 001 Classic",
+							"vi-VN": "Classic Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Classic",
+							"zh-TW": "輻能危機001 制式手槍"
+						}
+					}
+				},
+				{
+					"id": "E70A810D-4DC6-7D09-CB28-EABE004DF4BB",
+					"label": "E70A810D-4DC6-7D09-CB28-EABE004DF4BB",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Classic Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 كلاسيك المستوى 2",
+							"de-DE": "Classic – Radiant-Krise 001 Level 2",
+							"en-US": "Radiant Crisis 001 Classic Level 2",
+							"es-ES": "Classic Radiant Crisis 001 de nivel 2",
+							"es-MX": "Classic Crisis Radiante 001 Nivel 2",
+							"fr-FR": "Classic (Crise des radiants 001) niveau 2",
+							"id-ID": "Radiant Crisis 001 Classic Level 2",
+							"it-IT": "Classic Crisi radianti 001 livello 2",
+							"ja-JP": "レディアントクライシス 001 クラシック Lv.2",
+							"ko-KR": "레디언트 크라이시스 001 클래식 2레벨",
+							"pl-PL": "Classic Promienistego Kryzysu 001 (poziom 2)",
+							"pt-BR": "Classic Crise Radiante 001 Nível 2",
+							"ru-RU": "Classic \"Инцидент с радиантами 001\" уровень 2",
+							"th-TH": "Radiant Crisis 001 Classic เลเวล 2",
+							"tr-TR": "2. Seviye Radyant Krizi 001 Classic",
+							"vi-VN": "Classic Khủng Hoảng Radiant 001 Cấp 2",
+							"zh-CN": "Radiant Crisis 001 Classic Level 2",
+							"zh-TW": "輻能危機001 制式手槍 等級2"
+						}
+					}
+				},
+				{
+					"id": "499135D0-4848-C78C-21FC-5699A262FA95",
+					"label": "499135D0-4848-C78C-21FC-5699A262FA95",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Classic Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 كلاسيك المستوى 3",
+							"de-DE": "Classic – Radiant-Krise 001 Level 3",
+							"en-US": "Radiant Crisis 001 Classic Level 3",
+							"es-ES": "Classic Radiant Crisis 001 de nivel 3",
+							"es-MX": "Classic Crisis Radiante 001 Nivel 3",
+							"fr-FR": "Classic (Crise des radiants 001) niveau 3",
+							"id-ID": "Radiant Crisis 001 Classic Level 3",
+							"it-IT": "Classic Crisi radianti 001 livello 3",
+							"ja-JP": "レディアントクライシス 001 クラシック Lv.3",
+							"ko-KR": "레디언트 크라이시스 001 클래식 3레벨",
+							"pl-PL": "Classic Promienistego Kryzysu 001 (poziom 3)",
+							"pt-BR": "Classic Crise Radiante 001 Nível 3",
+							"ru-RU": "Classic \"Инцидент с радиантами 001\" уровень 3",
+							"th-TH": "Radiant Crisis 001 Classic เลเวล 3",
+							"tr-TR": "3. Seviye Radyant Krizi 001 Classic",
+							"vi-VN": "Classic Khủng Hoảng Radiant 001 Cấp 3",
+							"zh-CN": "Radiant Crisis 001 Classic Level 3",
+							"zh-TW": "輻能危機001 制式手槍 等級3"
+						}
+					}
+				}
+			],
+			"id": "A95D08BE-4E56-1189-801B-D9AA4EFE32FA",
+			"label": "A95D08BE-4E56-1189-801B-D9AA4EFE32FA",
+			"name":
+			{
+				"defaultText": "Radiant Crisis 001 Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "راديانت كرايسيس 001 كلاسيك",
+					"de-DE": "Classic – Radiant-Krise 001",
+					"en-US": "Radiant Crisis 001 Classic",
+					"es-ES": "Classic Radiant Crisis 001",
+					"es-MX": "Classic Crisis Radiante 001",
+					"fr-FR": "Classic (Crise des radiants 001)",
+					"id-ID": "Radiant Crisis 001 Classic",
+					"it-IT": "Classic Crisi radianti 001",
+					"ja-JP": "レディアントクライシス 001 クラシック",
+					"ko-KR": "레디언트 크라이시스 001 클래식",
+					"pl-PL": "Classic Promienistego Kryzysu 001",
+					"pt-BR": "Classic Crise Radiante 001",
+					"ru-RU": "Classic \"Инцидент с радиантами 001\"",
+					"th-TH": "Radiant Crisis 001 Classic",
+					"tr-TR": "Radyant Krizi 001 Classic",
+					"vi-VN": "Classic Khủng Hoảng Radiant 001",
+					"zh-CN": "Radiant Crisis 001 Classic",
+					"zh-TW": "輻能危機001 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
 			"defaultChromaId": "900BECAB-4E59-38D1-C668-449A236142CC",
 			"chromas": [
 				{
@@ -30042,7 +31227,7 @@
 							"tr-TR": "ŞAKIYANÇELİK CLASSIC",
 							"vi-VN": "Classic Kim Ca",
 							"zh-CN": "松钢经典",
-							"zh-TW": "冷銀秘鋼 制式手槍"
+							"zh-TW": "冷銀祕鋼 制式手槍"
 						}
 					}
 				}
@@ -30073,7 +31258,7 @@
 							"tr-TR": "ŞAKIYANÇELİK CLASSIC",
 							"vi-VN": "Classic Kim Ca",
 							"zh-CN": "松钢经典",
-							"zh-TW": "冷銀秘鋼 制式手槍"
+							"zh-TW": "冷銀祕鋼 制式手槍"
 						}
 					}
 				}
@@ -30102,7 +31287,7 @@
 					"tr-TR": "ŞAKIYANÇELİK CLASSIC",
 					"vi-VN": "Classic Kim Ca",
 					"zh-CN": "松钢经典",
-					"zh-TW": "冷銀秘鋼 制式手槍"
+					"zh-TW": "冷銀祕鋼 制式手槍"
 				}
 			}
 		},
@@ -30405,6 +31590,99 @@
 					"vi-VN": "Classic LỤC/cầm tay",
 					"zh-CN": "武/器经典",
 					"zh-TW": "FIRE/arm 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "BD17826F-42C9-7011-76AE-87B024402C2A",
+			"chromas": [
+				{
+					"id": "BD17826F-42C9-7011-76AE-87B024402C2A",
+					"label": "BD17826F-42C9-7011-76AE-87B024402C2A",
+					"name":
+					{
+						"defaultText": "Goldwing Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "غولدوينغ كلاسيك",
+							"de-DE": "Classic – Goldwing",
+							"en-US": "Goldwing Classic",
+							"es-ES": "Classic Goldwing",
+							"es-MX": "Classic Filo Dorado",
+							"fr-FR": "Classic (Aile d'or)",
+							"id-ID": "Goldwing Classic",
+							"it-IT": "Classic Aladoro",
+							"ja-JP": "ゴールドウイング クラシック",
+							"ko-KR": "골드윙 클래식",
+							"pl-PL": "Classic Złotoskrzydły",
+							"pt-BR": "Classic Asas Douradas",
+							"ru-RU": "Classic \"Хохлома\"",
+							"th-TH": "Goldwing Classic",
+							"tr-TR": "Altın Kanat Classic",
+							"vi-VN": "Classic Họa Tiết Vàng",
+							"zh-CN": "Goldwing Classic",
+							"zh-TW": "黃金之翼 制式手槍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "EAD87FF8-4CAD-E895-FD07-57B4DB148022",
+					"label": "EAD87FF8-4CAD-E895-FD07-57B4DB148022",
+					"name":
+					{
+						"defaultText": "Goldwing Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "غولدوينغ كلاسيك",
+							"de-DE": "Classic – Goldwing",
+							"en-US": "Goldwing Classic",
+							"es-ES": "Classic Goldwing",
+							"es-MX": "Classic Filo Dorado",
+							"fr-FR": "Classic (Aile d'or)",
+							"id-ID": "Goldwing Classic",
+							"it-IT": "Classic Aladoro",
+							"ja-JP": "ゴールドウイング クラシック",
+							"ko-KR": "골드윙 클래식",
+							"pl-PL": "Classic Złotoskrzydły",
+							"pt-BR": "Classic Asas Douradas",
+							"ru-RU": "Classic \"Хохлома\"",
+							"th-TH": "Goldwing Classic",
+							"tr-TR": "Altın Kanat Classic",
+							"vi-VN": "Classic Họa Tiết Vàng",
+							"zh-CN": "Goldwing Classic",
+							"zh-TW": "黃金之翼 制式手槍"
+						}
+					}
+				}
+			],
+			"id": "1180C78D-4B0D-491E-EFDC-CFA5D948FA27",
+			"label": "1180C78D-4B0D-491E-EFDC-CFA5D948FA27",
+			"name":
+			{
+				"defaultText": "Goldwing Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "غولدوينغ كلاسيك",
+					"de-DE": "Classic – Goldwing",
+					"en-US": "Goldwing Classic",
+					"es-ES": "Classic Goldwing",
+					"es-MX": "Classic Filo Dorado",
+					"fr-FR": "Classic (Aile d'or)",
+					"id-ID": "Goldwing Classic",
+					"it-IT": "Classic Aladoro",
+					"ja-JP": "ゴールドウイング クラシック",
+					"ko-KR": "골드윙 클래식",
+					"pl-PL": "Classic Złotoskrzydły",
+					"pt-BR": "Classic Asas Douradas",
+					"ru-RU": "Classic \"Хохлома\"",
+					"th-TH": "Goldwing Classic",
+					"tr-TR": "Altın Kanat Classic",
+					"vi-VN": "Classic Họa Tiết Vàng",
+					"zh-CN": "Goldwing Classic",
+					"zh-TW": "黃金之翼 制式手槍"
 				}
 			}
 		},
@@ -32444,6 +33722,99 @@
 					"vi-VN": "Ghost Lục Quân",
 					"zh-CN": "步兵幽魂",
 					"zh-TW": "機動步兵 鬼魅"
+				}
+			}
+		},
+		{
+			"weaponId": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+			"defaultChromaId": "2679F649-4492-4442-DA6E-A5B841BF9ED2",
+			"chromas": [
+				{
+					"id": "2679F649-4492-4442-DA6E-A5B841BF9ED2",
+					"label": "2679F649-4492-4442-DA6E-A5B841BF9ED2",
+					"name":
+					{
+						"defaultText": "Goldwing Ghost",
+						"localizedByCulture":
+						{
+							"ar-AE": "غولدوينغ غوست",
+							"de-DE": "Ghost – Goldwing",
+							"en-US": "Goldwing Ghost",
+							"es-ES": "Ghost Goldwing",
+							"es-MX": "Ghost Filo Dorado",
+							"fr-FR": "Ghost (Aile d'or)",
+							"id-ID": "Goldwing Ghost",
+							"it-IT": "Ghost Aladoro",
+							"ja-JP": "ゴールドウイング ゴースト",
+							"ko-KR": "골드윙 고스트",
+							"pl-PL": "Ghost Złotoskrzydły",
+							"pt-BR": "Ghost Asas Douradas",
+							"ru-RU": "Ghost \"Хохлома\"",
+							"th-TH": "Goldwing Ghost",
+							"tr-TR": "Altın Kanat Ghost",
+							"vi-VN": "Ghost Họa Tiết Vàng",
+							"zh-CN": "Goldwing Ghost",
+							"zh-TW": "黃金之翼 鬼魅"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "9130E35D-49BB-027D-C536-96A8B63C3F1C",
+					"label": "9130E35D-49BB-027D-C536-96A8B63C3F1C",
+					"name":
+					{
+						"defaultText": "Goldwing Ghost",
+						"localizedByCulture":
+						{
+							"ar-AE": "غولدوينغ غوست",
+							"de-DE": "Ghost – Goldwing",
+							"en-US": "Goldwing Ghost",
+							"es-ES": "Ghost Goldwing",
+							"es-MX": "Ghost Filo Dorado",
+							"fr-FR": "Ghost (Aile d'or)",
+							"id-ID": "Goldwing Ghost",
+							"it-IT": "Ghost Aladoro",
+							"ja-JP": "ゴールドウイング ゴースト",
+							"ko-KR": "골드윙 고스트",
+							"pl-PL": "Ghost Złotoskrzydły",
+							"pt-BR": "Ghost Asas Douradas",
+							"ru-RU": "Ghost \"Хохлома\"",
+							"th-TH": "Goldwing Ghost",
+							"tr-TR": "Altın Kanat Ghost",
+							"vi-VN": "Ghost Họa Tiết Vàng",
+							"zh-CN": "Goldwing Ghost",
+							"zh-TW": "黃金之翼 鬼魅"
+						}
+					}
+				}
+			],
+			"id": "44BE88B3-4A0E-64C8-950D-66A969E71F7E",
+			"label": "44BE88B3-4A0E-64C8-950D-66A969E71F7E",
+			"name":
+			{
+				"defaultText": "Goldwing Ghost",
+				"localizedByCulture":
+				{
+					"ar-AE": "غولدوينغ غوست",
+					"de-DE": "Ghost – Goldwing",
+					"en-US": "Goldwing Ghost",
+					"es-ES": "Ghost Goldwing",
+					"es-MX": "Ghost Filo Dorado",
+					"fr-FR": "Ghost (Aile d'or)",
+					"id-ID": "Goldwing Ghost",
+					"it-IT": "Ghost Aladoro",
+					"ja-JP": "ゴールドウイング ゴースト",
+					"ko-KR": "골드윙 고스트",
+					"pl-PL": "Ghost Złotoskrzydły",
+					"pt-BR": "Ghost Asas Douradas",
+					"ru-RU": "Ghost \"Хохлома\"",
+					"th-TH": "Goldwing Ghost",
+					"tr-TR": "Altın Kanat Ghost",
+					"vi-VN": "Ghost Họa Tiết Vàng",
+					"zh-CN": "Goldwing Ghost",
+					"zh-TW": "黃金之翼 鬼魅"
 				}
 			}
 		},
@@ -37973,6 +39344,128 @@
 		},
 		{
 			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+			"defaultChromaId": "E93656E2-42F9-8EB1-8B74-E5829F3EB08E",
+			"chromas": [
+				{
+					"id": "E93656E2-42F9-8EB1-8B74-E5829F3EB08E",
+					"label": "E93656E2-42F9-8EB1-8B74-E5829F3EB08E",
+					"name":
+					{
+						"defaultText": "Arcane Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "أركين شيريف",
+							"de-DE": "Sheriff – Arcane",
+							"en-US": "Arcane Sheriff",
+							"es-ES": "Sheriff Arcane",
+							"es-MX": "Sheriff Arcane",
+							"fr-FR": "Sheriff (Arcane)",
+							"id-ID": "Arcane Sheriff",
+							"it-IT": "Sheriff Arcane",
+							"ja-JP": "Arcane シェリフ",
+							"ko-KR": "아케인 셰리프",
+							"pl-PL": "Sheriff Arcane",
+							"pt-BR": "Sheriff Arcane",
+							"ru-RU": "Sheriff \"Аркейн\"",
+							"th-TH": "Arcane Sheriff",
+							"tr-TR": "Arcane Sheriff",
+							"vi-VN": "Sheriff Arcane",
+							"zh-CN": "Arcane Sheriff",
+							"zh-TW": "奧術 神射"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "9EE1D68F-4B51-8EF1-B620-EFA9760B0D02",
+					"label": "9EE1D68F-4B51-8EF1-B620-EFA9760B0D02",
+					"name":
+					{
+						"defaultText": "Arcane Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "أركين شيريف",
+							"de-DE": "Sheriff – Arcane",
+							"en-US": "Arcane Sheriff",
+							"es-ES": "Sheriff Arcane",
+							"es-MX": "Sheriff Arcane",
+							"fr-FR": "Sheriff (Arcane)",
+							"id-ID": "Arcane Sheriff",
+							"it-IT": "Sheriff Arcane",
+							"ja-JP": "Arcane シェリフ",
+							"ko-KR": "아케인 셰리프",
+							"pl-PL": "Sheriff Arcane",
+							"pt-BR": "Sheriff Arcane",
+							"ru-RU": "Sheriff \"Аркейн\"",
+							"th-TH": "Arcane Sheriff",
+							"tr-TR": "Arcane Sheriff",
+							"vi-VN": "Sheriff Arcane",
+							"zh-CN": "Arcane Sheriff",
+							"zh-TW": "奧術 神射"
+						}
+					}
+				},
+				{
+					"id": "114A5CE1-43AC-2CD8-3A9A-ADBDFA32220E",
+					"label": "114A5CE1-43AC-2CD8-3A9A-ADBDFA32220E",
+					"name":
+					{
+						"defaultText": "Arcane Sheriff Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "أركين شيريف المستوى 2",
+							"de-DE": "Sheriff – Arcane (Level 2)",
+							"en-US": "Arcane Sheriff Level 2",
+							"es-ES": "Sheriff Arcane de nivel 2",
+							"es-MX": "Sheriff Arcane Nivel 2",
+							"fr-FR": "Sheriff (Arcane) niveau 2",
+							"id-ID": "Arcane Sheriff Level 2",
+							"it-IT": "Sheriff Arcane livello 2",
+							"ja-JP": "Arcane シェリフ Lv.2",
+							"ko-KR": "아케인 셰리프 2레벨",
+							"pl-PL": "Sheriff Arcane (poziom 2)",
+							"pt-BR": "Sheriff Arcane Nível 2",
+							"ru-RU": "Sheriff \"Аркейн\" уровень 2",
+							"th-TH": "Arcane Sheriff เลเวล 2",
+							"tr-TR": "2. Seviye Arcane Sheriff",
+							"vi-VN": "Sheriff Arcane Cấp 2",
+							"zh-CN": "Arcane Sheriff Level 2",
+							"zh-TW": "奧術 神射 等級2"
+						}
+					}
+				}
+			],
+			"id": "84D840C5-4479-4395-D823-E7ACBE634C5E",
+			"label": "84D840C5-4479-4395-D823-E7ACBE634C5E",
+			"name":
+			{
+				"defaultText": "Arcane Sheriff",
+				"localizedByCulture":
+				{
+					"ar-AE": "أركين شيريف",
+					"de-DE": "Sheriff – Arcane",
+					"en-US": "Arcane Sheriff",
+					"es-ES": "Sheriff Arcane",
+					"es-MX": "Sheriff Arcane",
+					"fr-FR": "Sheriff (Arcane)",
+					"id-ID": "Arcane Sheriff",
+					"it-IT": "Sheriff Arcane",
+					"ja-JP": "Arcane シェリフ",
+					"ko-KR": "아케인 셰리프",
+					"pl-PL": "Sheriff Arcane",
+					"pt-BR": "Sheriff Arcane",
+					"ru-RU": "Sheriff \"Аркейн\"",
+					"th-TH": "Arcane Sheriff",
+					"tr-TR": "Arcane Sheriff",
+					"vi-VN": "Sheriff Arcane",
+					"zh-CN": "Arcane Sheriff",
+					"zh-TW": "奧術 神射"
+				}
+			}
+		},
+		{
+			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
 			"defaultChromaId": "3BC59F13-4259-9BA0-1B15-18BC8B61A642",
 			"chromas": [
 				{
@@ -38526,6 +40019,99 @@
 					"vi-VN": "Shorty Thần Đồng",
 					"zh-CN": "神童矬子",
 					"zh-TW": "天才少女 短管"
+				}
+			}
+		},
+		{
+			"weaponId": "42DA8CCC-40D5-AFFC-BEEC-15AA47B42EDA",
+			"defaultChromaId": "25533658-431E-9634-6CB5-C7B94E535C87",
+			"chromas": [
+				{
+					"id": "25533658-431E-9634-6CB5-C7B94E535C87",
+					"label": "25533658-431E-9634-6CB5-C7B94E535C87",
+					"name":
+					{
+						"defaultText": "Genesis Shorty",
+						"localizedByCulture":
+						{
+							"ar-AE": "جينيسيس شورتي",
+							"de-DE": "Shorty – Genesis",
+							"en-US": "Genesis Shorty",
+							"es-ES": "Shorty Genesis",
+							"es-MX": "Shorty Génesis",
+							"fr-FR": "Shorty (Genèse)",
+							"id-ID": "Genesis Shorty",
+							"it-IT": "Shorty Genesi",
+							"ja-JP": "ジェネシス ショーティー",
+							"ko-KR": "제네시스 쇼티",
+							"pl-PL": "Shorty Genezy",
+							"pt-BR": "Shorty Gênese",
+							"ru-RU": "Shorty \"Истоки\"",
+							"th-TH": "Genesis Shorty",
+							"tr-TR": "Başlangıç Shorty",
+							"vi-VN": "Shorty Khởi Nguyên",
+							"zh-CN": "Genesis Shorty",
+							"zh-TW": "宇宙創始 短管"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "F5F8FB4F-4C3A-EE60-ED0C-BFB8CDED09FC",
+					"label": "F5F8FB4F-4C3A-EE60-ED0C-BFB8CDED09FC",
+					"name":
+					{
+						"defaultText": "Genesis Shorty",
+						"localizedByCulture":
+						{
+							"ar-AE": "جينيسيس شورتي",
+							"de-DE": "Shorty – Genesis",
+							"en-US": "Genesis Shorty",
+							"es-ES": "Shorty Genesis",
+							"es-MX": "Shorty Génesis",
+							"fr-FR": "Shorty (Genèse)",
+							"id-ID": "Genesis Shorty",
+							"it-IT": "Shorty Genesi",
+							"ja-JP": "ジェネシス ショーティー",
+							"ko-KR": "제네시스 쇼티",
+							"pl-PL": "Shorty Genezy",
+							"pt-BR": "Shorty Gênese",
+							"ru-RU": "Shorty \"Истоки\"",
+							"th-TH": "Genesis Shorty",
+							"tr-TR": "Başlangıç Shorty",
+							"vi-VN": "Shorty Khởi Nguyên",
+							"zh-CN": "Genesis Shorty",
+							"zh-TW": "宇宙創始 短管"
+						}
+					}
+				}
+			],
+			"id": "FCB18A37-4A0D-ECD3-EE2C-C38496ED5AE2",
+			"label": "FCB18A37-4A0D-ECD3-EE2C-C38496ED5AE2",
+			"name":
+			{
+				"defaultText": "Genesis Shorty",
+				"localizedByCulture":
+				{
+					"ar-AE": "جينيسيس شورتي",
+					"de-DE": "Shorty – Genesis",
+					"en-US": "Genesis Shorty",
+					"es-ES": "Shorty Genesis",
+					"es-MX": "Shorty Génesis",
+					"fr-FR": "Shorty (Genèse)",
+					"id-ID": "Genesis Shorty",
+					"it-IT": "Shorty Genesi",
+					"ja-JP": "ジェネシス ショーティー",
+					"ko-KR": "제네시스 쇼티",
+					"pl-PL": "Shorty Genezy",
+					"pt-BR": "Shorty Gênese",
+					"ru-RU": "Shorty \"Истоки\"",
+					"th-TH": "Genesis Shorty",
+					"tr-TR": "Başlangıç Shorty",
+					"vi-VN": "Shorty Khởi Nguyên",
+					"zh-CN": "Genesis Shorty",
+					"zh-TW": "宇宙創始 短管"
 				}
 			}
 		},
@@ -41197,6 +42783,99 @@
 		},
 		{
 			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
+			"defaultChromaId": "F3D3F7F3-46F2-A9D7-1C0C-CA89605ED120",
+			"chromas": [
+				{
+					"id": "F3D3F7F3-46F2-A9D7-1C0C-CA89605ED120",
+					"label": "F3D3F7F3-46F2-A9D7-1C0C-CA89605ED120",
+					"name":
+					{
+						"defaultText": "Standard",
+						"localizedByCulture":
+						{
+							"ar-AE": "قياسي",
+							"de-DE": "Standard",
+							"en-US": "Standard",
+							"es-ES": "Estándar",
+							"es-MX": "Estándar",
+							"fr-FR": "Standard",
+							"id-ID": "Standar",
+							"it-IT": "Standard",
+							"ja-JP": "スタンダード",
+							"ko-KR": "기본",
+							"pl-PL": "Zwykły",
+							"pt-BR": "Padrão",
+							"ru-RU": "Стандарт",
+							"th-TH": "Standard",
+							"tr-TR": "Standart",
+							"vi-VN": "Thông Thường",
+							"zh-CN": "Standard",
+							"zh-TW": "標準"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "8F557248-48E2-28A5-3AD4-ECA783FDE786",
+					"label": "8F557248-48E2-28A5-3AD4-ECA783FDE786",
+					"name":
+					{
+						"defaultText": "Genesis Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "جينيسيس أوبيريتور",
+							"de-DE": "Operator – Genesis",
+							"en-US": "Genesis Operator",
+							"es-ES": "Operator Genesis",
+							"es-MX": "Operator Génesis",
+							"fr-FR": "Operator (Genèse)",
+							"id-ID": "Genesis Operator",
+							"it-IT": "Operator Genesi",
+							"ja-JP": "ジェネシス オペレーター",
+							"ko-KR": "제네시스 오퍼레이터",
+							"pl-PL": "Operator Genezy",
+							"pt-BR": "Operator Gênese",
+							"ru-RU": "Operator \"Истоки\"",
+							"th-TH": "Genesis Operator",
+							"tr-TR": "Başlangıç Operator",
+							"vi-VN": "Operator Khởi Nguyên",
+							"zh-CN": "Genesis Operator",
+							"zh-TW": "宇宙創始 間諜"
+						}
+					}
+				}
+			],
+			"id": "DE8D2FF4-49E0-C0A9-D29B-2DA688220A01",
+			"label": "DE8D2FF4-49E0-C0A9-D29B-2DA688220A01",
+			"name":
+			{
+				"defaultText": "Genesis Operator",
+				"localizedByCulture":
+				{
+					"ar-AE": "جينيسيس أوبيريتور",
+					"de-DE": "Operator – Genesis",
+					"en-US": "Genesis Operator",
+					"es-ES": "Operator Genesis",
+					"es-MX": "Operator Génesis",
+					"fr-FR": "Operator (Genèse)",
+					"id-ID": "Genesis Operator",
+					"it-IT": "Operator Genesi",
+					"ja-JP": "ジェネシス オペレーター",
+					"ko-KR": "제네시스 오퍼레이터",
+					"pl-PL": "Operator Genezy",
+					"pt-BR": "Operator Gênese",
+					"ru-RU": "Operator \"Истоки\"",
+					"th-TH": "Genesis Operator",
+					"tr-TR": "Başlangıç Operator",
+					"vi-VN": "Operator Khởi Nguyên",
+					"zh-CN": "Genesis Operator",
+					"zh-TW": "宇宙創始 間諜"
+				}
+			}
+		},
+		{
+			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
 			"defaultChromaId": "54EA8BA8-4BCB-EB63-70D2-4DA7520FADE2",
 			"chromas": [
 				{
@@ -43454,7 +45133,7 @@
 							"tr-TR": "ŞAKIYANÇELİK GUARDIAN",
 							"vi-VN": "Guardian Kim Ca",
 							"zh-CN": "松钢守护",
-							"zh-TW": "冷銀秘鋼 捍衛者"
+							"zh-TW": "冷銀祕鋼 捍衛者"
 						}
 					}
 				}
@@ -43485,7 +45164,7 @@
 							"tr-TR": "ŞAKIYANÇELİK GUARDIAN",
 							"vi-VN": "Guardian Kim Ca",
 							"zh-CN": "松钢守护",
-							"zh-TW": "冷銀秘鋼 捍衛者"
+							"zh-TW": "冷銀祕鋼 捍衛者"
 						}
 					}
 				}
@@ -43514,7 +45193,7 @@
 					"tr-TR": "ŞAKIYANÇELİK GUARDIAN",
 					"vi-VN": "Guardian Kim Ca",
 					"zh-CN": "松钢守护",
-					"zh-TW": "冷銀秘鋼 捍衛者"
+					"zh-TW": "冷銀祕鋼 捍衛者"
 				}
 			}
 		},
@@ -44595,6 +46274,186 @@
 					"vi-VN": "Guardian Oni",
 					"zh-CN": "邪鬼守护",
 					"zh-TW": "惡鬼 捍衛者"
+				}
+			}
+		},
+		{
+			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
+			"defaultChromaId": "FE2861DE-4738-79A8-7A45-6BB09BCA2852",
+			"chromas": [
+				{
+					"id": "FE2861DE-4738-79A8-7A45-6BB09BCA2852",
+					"label": "FE2861DE-4738-79A8-7A45-6BB09BCA2852",
+					"name":
+					{
+						"defaultText": "Aero Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو غارديان",
+							"de-DE": "Guardian – Aero",
+							"en-US": "Aero Guardian",
+							"es-ES": "Guardian Aero",
+							"es-MX": "Guardian Aero",
+							"fr-FR": "Guardian (Aéro)",
+							"id-ID": "Aero Guardian",
+							"it-IT": "Guardian Aero",
+							"ja-JP": "エアロ ガーディアン",
+							"ko-KR": "에어로 가디언",
+							"pl-PL": "Guardian Powietrzny",
+							"pt-BR": "Guardian Aero",
+							"ru-RU": "Guardian \"Полет\"",
+							"th-TH": "Aero Guardian",
+							"tr-TR": "Havai Guardian",
+							"vi-VN": "Guardian Aero",
+							"zh-CN": "Aero Guardian",
+							"zh-TW": "航創未來 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "5DFC67E3-4584-E012-E47D-079EDCA1301F",
+					"label": "5DFC67E3-4584-E012-E47D-079EDCA1301F",
+					"name":
+					{
+						"defaultText": "Aero Guardian\r\n(Variant 1 Cream/Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو غارديان\n(بديل 1 كريم/وردي)",
+							"de-DE": "Guardian – Aero\n(Variante 1, Creme/Pink)",
+							"en-US": "Aero Guardian\r\n(Variant 1 Cream/Pink)",
+							"es-ES": "Guardian Aero\n(variante 1: crema/rosa)",
+							"es-MX": "Guardian Aero\n(Variante 1 Crema/Rosa)",
+							"fr-FR": "Guardian (Aéro)\n(variante 1 Crème/Rose)",
+							"id-ID": "Aero Guardian\n(Varian 1 Krem/Merah Muda)",
+							"it-IT": "Guardian Aero\n(variante 1 Crema/Rosa)",
+							"ja-JP": "エアロ ガーディアン\n(ヴァリアント 1 クリーム / ピンク)",
+							"ko-KR": "에어로 가디언\n(변형 1 크림색/분홍색)",
+							"pl-PL": "Guardian Powietrzny\n(wersja 1 – kremowa/różowa)",
+							"pt-BR": "Guardian Aero\n\n(Variante 1 Creme/Rosa)",
+							"ru-RU": "Guardian \"Полет\"\n(расцветка 1 \"Кремовый/Розовый\")",
+							"th-TH": "Aero Guardian\n(ตัวเลือกที่ 1 สีครีม/ชมพู)",
+							"tr-TR": "Havai Guardian\n(Stil 1 - Krem Rengi/Pembe)",
+							"vi-VN": "Guardian Aero\n(Dạng 1 Ánh Kem/Hồng)",
+							"zh-CN": "Aero Guardian\r\n(Variant 1 Cream/Pink)",
+							"zh-TW": "航創未來 捍衛者\n（幻彩1 奶油／粉色）"
+						}
+					}
+				},
+				{
+					"id": "D014A470-4DF7-6EE8-195D-389421E991BA",
+					"label": "D014A470-4DF7-6EE8-195D-389421E991BA",
+					"name":
+					{
+						"defaultText": "Aero Guardian\r\n(Variant 2 Purple/Gray)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو غارديان\n(بديل 2 أرجواني/رمادي)",
+							"de-DE": "Guardian – Aero\n(Variante 2, Violett/Grau)",
+							"en-US": "Aero Guardian\r\n(Variant 2 Purple/Gray)",
+							"es-ES": "Guardian Aero\n(variante 2: púrpura/gris)",
+							"es-MX": "Guardian Aero\n(Variante 2 Morado/Gris)",
+							"fr-FR": "Guardian (Aéro)\n(variante 2 Violet/Gris)",
+							"id-ID": "Aero Guardian\n(Varian 2 Ungu/Abu-abu)",
+							"it-IT": "Guardian Aero\n(variante 2 Viola/Grigia)",
+							"ja-JP": "エアロ ガーディアン\n(ヴァリアント 2 パープル / グレー)",
+							"ko-KR": "에어로 가디언\n(변형 2 보라색/회색)",
+							"pl-PL": "Guardian Powietrzny\n(wersja 2 – fioletowa/szara)",
+							"pt-BR": "Guardian Aero\n\n(Variante 2 Roxa/Cinza)",
+							"ru-RU": "Guardian \"Полет\"\n(расцветка 2 \"Фиолетовый/Серый\")",
+							"th-TH": "Aero Guardian\n(ตัวเลือกที่ 2 สีม่วง/เทา)",
+							"tr-TR": "Havai Guardian\n(Stil 2 - Mor/Gri)",
+							"vi-VN": "Guardian Aero\n(Dạng 2 Ánh Tím/Xám)",
+							"zh-CN": "Aero Guardian\r\n(Variant 2 Purple/Gray)",
+							"zh-TW": "航創未來 捍衛者\n（幻彩2 紫／灰色）"
+						}
+					}
+				},
+				{
+					"id": "C95FCC38-45A0-A6F5-CC54-D6B28F41C937",
+					"label": "C95FCC38-45A0-A6F5-CC54-D6B28F41C937",
+					"name":
+					{
+						"defaultText": "Aero Guardian\n(Variant 3 Green/Black)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو غارديان\n(بديل 3 أخضر/أسود)",
+							"de-DE": "Guardian – Aero\n(Variante 3, Grün/Schwarz)",
+							"en-US": "Aero Guardian\n(Variant 3 Green/Black)",
+							"es-ES": "Guardian Aero\n(variante 3: verde/negro)",
+							"es-MX": "Guardian Aero\n(Variante 3 Verde/Negro)",
+							"fr-FR": "Guardian (Aéro)\n(variante 3 Vert/Noir)",
+							"id-ID": "Aero Guardian\n(Varian 3 Hijau/Hitam)",
+							"it-IT": "Guardian Aero\n(variante 3 Verde/Nera)",
+							"ja-JP": "エアロ ガーディアン\n(ヴァリアント 3 グリーン / ブラック)",
+							"ko-KR": "에어로 가디언\n(변형 3 녹색/검은색)",
+							"pl-PL": "Guardian Powietrzny\n(wersja 3 – zielona/czarna)",
+							"pt-BR": "Guardian Aero\n(Variante 3 Verde/Preta)",
+							"ru-RU": "Guardian \"Полет\"\n(расцветка 3 \"Зеленый/Черный\")",
+							"th-TH": "Aero Guardian\n(ตัวเลือกที่ 3 สีเขียว/ดำ)",
+							"tr-TR": "Havai Guardian\n(Stil 3 - Yeşil/Siyah)",
+							"vi-VN": "Guardian Aero\n(Dạng 3 Ánh Lục/Đen)",
+							"zh-CN": "Aero Guardian\n(Variant 3 Green/Black)",
+							"zh-TW": "航創未來 捍衛者\n（幻彩3 綠／黑色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "D52EB83D-4BC0-085D-3EC7-24B2C92281BF",
+					"label": "D52EB83D-4BC0-085D-3EC7-24B2C92281BF",
+					"name":
+					{
+						"defaultText": "Aero Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو غارديان",
+							"de-DE": "Guardian – Aero",
+							"en-US": "Aero Guardian",
+							"es-ES": "Guardian Aero",
+							"es-MX": "Guardian Aero",
+							"fr-FR": "Guardian (Aéro)",
+							"id-ID": "Aero Guardian",
+							"it-IT": "Guardian Aero",
+							"ja-JP": "エアロ ガーディアン",
+							"ko-KR": "에어로 가디언",
+							"pl-PL": "Guardian Powietrzny",
+							"pt-BR": "Guardian Aero",
+							"ru-RU": "Guardian \"Полет\"",
+							"th-TH": "Aero Guardian",
+							"tr-TR": "Havai Guardian",
+							"vi-VN": "Guardian Aero",
+							"zh-CN": "Aero Guardian",
+							"zh-TW": "航創未來 捍衛者"
+						}
+					}
+				}
+			],
+			"id": "93309EF5-4F43-411A-5759-C794EB584C7C",
+			"label": "93309EF5-4F43-411A-5759-C794EB584C7C",
+			"name":
+			{
+				"defaultText": "Aero Guardian",
+				"localizedByCulture":
+				{
+					"ar-AE": "إيرو غارديان",
+					"de-DE": "Guardian – Aero",
+					"en-US": "Aero Guardian",
+					"es-ES": "Guardian Aero",
+					"es-MX": "Guardian Aero",
+					"fr-FR": "Guardian (Aéro)",
+					"id-ID": "Aero Guardian",
+					"it-IT": "Guardian Aero",
+					"ja-JP": "エアロ ガーディアン",
+					"ko-KR": "에어로 가디언",
+					"pl-PL": "Guardian Powietrzny",
+					"pt-BR": "Guardian Aero",
+					"ru-RU": "Guardian \"Полет\"",
+					"th-TH": "Aero Guardian",
+					"tr-TR": "Havai Guardian",
+					"vi-VN": "Guardian Aero",
+					"zh-CN": "Aero Guardian",
+					"zh-TW": "航創未來 捍衛者"
 				}
 			}
 		},
@@ -46247,7 +48106,7 @@
 							"tr-TR": "ŞAKIYANÇELİK MARSHAL",
 							"vi-VN": "Marshal Kim Ca",
 							"zh-CN": "松钢元帅",
-							"zh-TW": "冷銀秘鋼 警長"
+							"zh-TW": "冷銀祕鋼 警長"
 						}
 					}
 				}
@@ -46278,7 +48137,7 @@
 							"tr-TR": "ŞAKIYANÇELİK MARSHAL",
 							"vi-VN": "Marshal Kim Ca",
 							"zh-CN": "松钢元帅",
-							"zh-TW": "冷銀秘鋼 警長"
+							"zh-TW": "冷銀祕鋼 警長"
 						}
 					}
 				}
@@ -46307,7 +48166,7 @@
 					"tr-TR": "ŞAKIYANÇELİK MARSHAL",
 					"vi-VN": "Marshal Kim Ca",
 					"zh-CN": "松钢元帅",
-					"zh-TW": "冷銀秘鋼 警長"
+					"zh-TW": "冷銀祕鋼 警長"
 				}
 			}
 		},
@@ -47952,6 +49811,157 @@
 					"vi-VN": "Spectre VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷 幽灵",
 					"zh-TW": "特戰英豪 GO！第1集 惡靈"
+				}
+			}
+		},
+		{
+			"weaponId": "462080D1-4035-2937-7C09-27AA2A5C27A7",
+			"defaultChromaId": "750DDA5B-4AAC-6381-82F6-6B9C08DD783B",
+			"chromas": [
+				{
+					"id": "750DDA5B-4AAC-6381-82F6-6B9C08DD783B",
+					"label": "750DDA5B-4AAC-6381-82F6-6B9C08DD783B",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Spectre",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 سبيكتر",
+							"de-DE": "Spectre – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Spectre",
+							"es-ES": "Spectre Radiant Crisis 001",
+							"es-MX": "Spectre Crisis Radiante 001",
+							"fr-FR": "Spectre (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Spectre",
+							"it-IT": "Spectre Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 スペクター",
+							"ko-KR": "레디언트 크라이시스 001 스펙터",
+							"pl-PL": "Spectre Promienistego Kryzysu 001",
+							"pt-BR": "Spectre Crise Radiante 001",
+							"ru-RU": "Spectre \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Spectre",
+							"tr-TR": "Radyant Krizi 001 Spectre",
+							"vi-VN": "Spectre Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Spectre",
+							"zh-TW": "輻能危機001 惡靈"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "B39AED48-4BB5-089B-3F60-17AA27E45733",
+					"label": "B39AED48-4BB5-089B-3F60-17AA27E45733",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Spectre",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 سبيكتر",
+							"de-DE": "Spectre – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Spectre",
+							"es-ES": "Spectre Radiant Crisis 001",
+							"es-MX": "Spectre Crisis Radiante 001",
+							"fr-FR": "Spectre (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Spectre",
+							"it-IT": "Spectre Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 スペクター",
+							"ko-KR": "레디언트 크라이시스 001 스펙터",
+							"pl-PL": "Spectre Promienistego Kryzysu 001",
+							"pt-BR": "Spectre Crise Radiante 001",
+							"ru-RU": "Spectre \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Spectre",
+							"tr-TR": "Radyant Krizi 001 Spectre",
+							"vi-VN": "Spectre Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Spectre",
+							"zh-TW": "輻能危機001 惡靈"
+						}
+					}
+				},
+				{
+					"id": "ECAC2484-4837-B580-A15D-0AAB63D56DBF",
+					"label": "ECAC2484-4837-B580-A15D-0AAB63D56DBF",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Spectre Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 سبيكتر المستوى 2",
+							"de-DE": "Spectre – Radiant-Krise 001 Level 2",
+							"en-US": "Radiant Crisis 001 Spectre Level 2",
+							"es-ES": "Spectre Radiant Crisis 001 de nivel 2",
+							"es-MX": "Spectre Crisis Radiante 001 Nivel 2",
+							"fr-FR": "Spectre (Crise des radiants 001) niveau 2",
+							"id-ID": "Radiant Crisis 001 Spectre Level 2",
+							"it-IT": "Spectre Crisi radianti 001 livello 2",
+							"ja-JP": "レディアントクライシス 001 スペクター Lv.2",
+							"ko-KR": "레디언트 크라이시스 001 스펙터 2레벨",
+							"pl-PL": "Spectre Promienistego Kryzysu 001 (poziom 2)",
+							"pt-BR": "Spectre Crise Radiante 001 Nível 2",
+							"ru-RU": "Spectre \"Инцидент с радиантами 001\" уровень 2",
+							"th-TH": "Radiant Crisis 001 Spectre เลเวล 2",
+							"tr-TR": "2. Seviye Radyant Krizi 001 Spectre",
+							"vi-VN": "Spectre Khủng Hoảng Radiant 001 Cấp 2",
+							"zh-CN": "Radiant Crisis 001 Spectre Level 2",
+							"zh-TW": "輻能危機001 惡靈 等級2"
+						}
+					}
+				},
+				{
+					"id": "199D6F90-4A79-9C54-8830-529652499249",
+					"label": "199D6F90-4A79-9C54-8830-529652499249",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Spectre Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 سبيكتر المستوى 3",
+							"de-DE": "Spectre – Radiant-Krise 001 Level 3",
+							"en-US": "Radiant Crisis 001 Spectre Level 3",
+							"es-ES": "Spectre Radiant Crisis 001 de nivel 3",
+							"es-MX": "Spectre Crisis Radiante 001 Nivel 3",
+							"fr-FR": "Spectre (Crise des radiants 001) niveau 3",
+							"id-ID": "Radiant Crisis 001 Spectre Level 3",
+							"it-IT": "Spectre Crisi radianti 001 livello 3",
+							"ja-JP": "レディアントクライシス 001 スペクター Lv.3",
+							"ko-KR": "레디언트 크라이시스 001 스펙터 3레벨",
+							"pl-PL": "Spectre Promienistego Kryzysu 001 (poziom 3)",
+							"pt-BR": "Spectre Crise Radiante 001 Nível 3",
+							"ru-RU": "Spectre \"Инцидент с радиантами 001\" уровень 3",
+							"th-TH": "Radiant Crisis 001 Spectre เลเวล 3",
+							"tr-TR": "3. Seviye Radyant Krizi 001 Spectre",
+							"vi-VN": "Spectre Khủng Hoảng Radiant 001 Cấp 3",
+							"zh-CN": "Radiant Crisis 001 Spectre Level 3",
+							"zh-TW": "輻能危機001 惡靈 等級3"
+						}
+					}
+				}
+			],
+			"id": "780A93E6-46AA-50C7-5E73-B885C5F6A141",
+			"label": "780A93E6-46AA-50C7-5E73-B885C5F6A141",
+			"name":
+			{
+				"defaultText": "Radiant Crisis 001 Spectre",
+				"localizedByCulture":
+				{
+					"ar-AE": "راديانت كرايسيس 001 سبيكتر",
+					"de-DE": "Spectre – Radiant-Krise 001",
+					"en-US": "Radiant Crisis 001 Spectre",
+					"es-ES": "Spectre Radiant Crisis 001",
+					"es-MX": "Spectre Crisis Radiante 001",
+					"fr-FR": "Spectre (Crise des radiants 001)",
+					"id-ID": "Radiant Crisis 001 Spectre",
+					"it-IT": "Spectre Crisi radianti 001",
+					"ja-JP": "レディアントクライシス 001 スペクター",
+					"ko-KR": "레디언트 크라이시스 001 스펙터",
+					"pl-PL": "Spectre Promienistego Kryzysu 001",
+					"pt-BR": "Spectre Crise Radiante 001",
+					"ru-RU": "Spectre \"Инцидент с радиантами 001\"",
+					"th-TH": "Radiant Crisis 001 Spectre",
+					"tr-TR": "Radyant Krizi 001 Spectre",
+					"vi-VN": "Spectre Khủng Hoảng Radiant 001",
+					"zh-CN": "Radiant Crisis 001 Spectre",
+					"zh-TW": "輻能危機001 惡靈"
 				}
 			}
 		},
@@ -50246,6 +52256,186 @@
 					"vi-VN": "Spectre Minima",
 					"zh-CN": "小型幽灵",
 					"zh-TW": "極簡武力 惡靈"
+				}
+			}
+		},
+		{
+			"weaponId": "462080D1-4035-2937-7C09-27AA2A5C27A7",
+			"defaultChromaId": "5F339B4D-4F97-5592-EA37-7B9668D7C6ED",
+			"chromas": [
+				{
+					"id": "5F339B4D-4F97-5592-EA37-7B9668D7C6ED",
+					"label": "5F339B4D-4F97-5592-EA37-7B9668D7C6ED",
+					"name":
+					{
+						"defaultText": "Aero Spectre",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو سبيكتر",
+							"de-DE": "Spectre – Aero",
+							"en-US": "Aero Spectre",
+							"es-ES": "Spectre Aero",
+							"es-MX": "Spectre Aero",
+							"fr-FR": "Spectre (Aéro)",
+							"id-ID": "Aero Spectre",
+							"it-IT": "Spectre Aero",
+							"ja-JP": "エアロ スペクター",
+							"ko-KR": "에어로 스펙터",
+							"pl-PL": "Spectre Powietrzny",
+							"pt-BR": "Spectre Aero",
+							"ru-RU": "Spectre \"Полет\"",
+							"th-TH": "Aero Spectre",
+							"tr-TR": "Havai Spectre",
+							"vi-VN": "Spectre Aero",
+							"zh-CN": "Aero Spectre",
+							"zh-TW": "航創未來 惡靈"
+						}
+					}
+				},
+				{
+					"id": "3206B73C-4E77-FBD7-4CD7-7D9403CE0494",
+					"label": "3206B73C-4E77-FBD7-4CD7-7D9403CE0494",
+					"name":
+					{
+						"defaultText": "Aero Spectre\r\n(Variant 1 Cream/Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو سبيكتر\n(بديل 1 كريم/وردي)",
+							"de-DE": "SPECTRE – AERO \n(VARIANTE 1, CREME/PINK)",
+							"en-US": "Aero Spectre\r\n(Variant 1 Cream/Pink)",
+							"es-ES": "Spectre Aero\n(variante 1: crema/rosa)",
+							"es-MX": "Spectre Aero\n(Variante 1 Crema/Rosa)",
+							"fr-FR": "Spectre (Aéro)\n(variante 1 Crème/Rose)",
+							"id-ID": "Aero Spectre\n(Varian 1 Krem/Merah Muda)",
+							"it-IT": "Spectre Aero\n(variante 1 Crema/Rosa)",
+							"ja-JP": "エアロ スペクター\n(ヴァリアント 1 クリーム / ピンク)",
+							"ko-KR": "에어로 스펙터\n(변형 1 크림색/분홍색)",
+							"pl-PL": "Spectre Powietrzny\n(wersja 1 – kremowa/różowa)",
+							"pt-BR": "Spectre Aero\n\n(Variante 1 Creme/Rosa)",
+							"ru-RU": "Spectre \"Полет\"\n(расцветка 1 \"Кремовый/Розовый\")",
+							"th-TH": "Aero Spectre\n(ตัวเลือกที่ 1 สีครีม/ชมพู)",
+							"tr-TR": "Havai Spectre\n(Stil 1 - Krem Rengi/Pembe)",
+							"vi-VN": "Spectre Aero\n(Dạng 1 Ánh Kem/Hồng)",
+							"zh-CN": "Aero Spectre\r\n(Variant 1 Cream/Pink)",
+							"zh-TW": "航創未來 惡靈\n（幻彩1 奶油／粉色）"
+						}
+					}
+				},
+				{
+					"id": "4995DD99-469B-B3B2-093A-9C839B9E7D8B",
+					"label": "4995DD99-469B-B3B2-093A-9C839B9E7D8B",
+					"name":
+					{
+						"defaultText": "Aero Spectre\r\n(Variant 2 Purple/Gray)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو سبيكتر\n(بديل 2 أرجواني/رمادي)",
+							"de-DE": "SPECTRE – AERO\n(VARIANTE 2, VIOLETT/GRAU)",
+							"en-US": "Aero Spectre\r\n(Variant 2 Purple/Gray)",
+							"es-ES": "Spectre Aero\n(variante 2: púrpura/gris)",
+							"es-MX": "Spectre Aero\n(Variante 2 Morado/Gris)",
+							"fr-FR": "Spectre (Aéro)\n(variante 2 Violet/Gris)",
+							"id-ID": "Aero Spectre\n(Varian 2 Ungu/Abu-abu)",
+							"it-IT": "Spectre Aero\n(variante 2 Viola/Grigia)",
+							"ja-JP": "エアロ スペクター\n(ヴァリアント 2 パープル / グレー)",
+							"ko-KR": "에어로 스펙터\n(변형 2 보라색/회색)",
+							"pl-PL": "Spectre Powietrzny\n(wersja 2 – fioletowa/szara)",
+							"pt-BR": "Spectre Aero\n\n(Variante 2 Roxa/Cinza)",
+							"ru-RU": "Spectre \"Полет\"\n(расцветка 2 \"Фиолетовый/Серый\")",
+							"th-TH": "Aero Spectre\n(ตัวเลือกที่ 2 สีม่วง/เทา)",
+							"tr-TR": "Havai Spectre\n(Stil 2 - Mor/Gri)",
+							"vi-VN": "Spectre Aero\n(Dạng 2 Ánh Tím/Xám)",
+							"zh-CN": "Aero Spectre\r\n(Variant 2 Purple/Gray)",
+							"zh-TW": "航創未來 惡靈\n（幻彩2 紫／灰色）"
+						}
+					}
+				},
+				{
+					"id": "C4ACC065-4D86-2718-647D-0484CE17DFEC",
+					"label": "C4ACC065-4D86-2718-647D-0484CE17DFEC",
+					"name":
+					{
+						"defaultText": "Aero Spectre\n(Variant 3 Green/Black)",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو سبيكتر\n(بديل 3 أخضر/أسود)",
+							"de-DE": "SPECTRE – AERO\n(VARIANTE 3, GRÜN/SCHWARZ)",
+							"en-US": "Aero Spectre\n(Variant 3 Green/Black)",
+							"es-ES": "Spectre Aero\n(variante 3: verde/negro)",
+							"es-MX": "Spectre Aero\n(Variante 3 Verde/Negro)",
+							"fr-FR": "Spectre (Aéro)\n(variante 3 Vert/Noir)",
+							"id-ID": "Aero Spectre\n(Varian 3 Hijau/Hitam)",
+							"it-IT": "Spectre Aero\n(variante 3 Verde/Nera)",
+							"ja-JP": "エアロ スペクター\n(ヴァリアント 3 グリーン / ブラック)",
+							"ko-KR": "에어로 스펙터\n(변형 3 녹색/검은색)",
+							"pl-PL": "Spectre Powietrzny\n(wersja 3 – zielona/czarna)",
+							"pt-BR": "Spectre Aero\n(Variante 3 Verde/Preta)",
+							"ru-RU": "Spectre \"Полет\"\n(расцветка 3 \"Зеленый/Черный\")",
+							"th-TH": "Aero Spectre\n(ตัวเลือกที่ 3 สีเขียว/ดำ)",
+							"tr-TR": "Havai Spectre\n(Stil 3 - Yeşil/Siyah)",
+							"vi-VN": "Spectre Aero\n(Dạng 3 Ánh Lục/Đen)",
+							"zh-CN": "Aero Spectre\n(Variant 3 Green/Black)",
+							"zh-TW": "航創未來 惡靈\n（幻彩3 綠／黑色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "CC3BB43A-4078-E7E6-5B43-3BA42FB9D7FB",
+					"label": "CC3BB43A-4078-E7E6-5B43-3BA42FB9D7FB",
+					"name":
+					{
+						"defaultText": "Aero Spectre",
+						"localizedByCulture":
+						{
+							"ar-AE": "إيرو سبيكتر",
+							"de-DE": "Spectre – Aero",
+							"en-US": "Aero Spectre",
+							"es-ES": "Spectre Aero",
+							"es-MX": "Spectre Aero",
+							"fr-FR": "Spectre (Aéro)",
+							"id-ID": "Aero Spectre",
+							"it-IT": "Spectre Aero",
+							"ja-JP": "エアロ スペクター",
+							"ko-KR": "에어로 스펙터",
+							"pl-PL": "Spectre Powietrzny",
+							"pt-BR": "Spectre Aero",
+							"ru-RU": "Spectre \"Полет\"",
+							"th-TH": "Aero Spectre",
+							"tr-TR": "Havai Spectre",
+							"vi-VN": "Spectre Aero",
+							"zh-CN": "Aero Spectre",
+							"zh-TW": "航創未來 惡靈"
+						}
+					}
+				}
+			],
+			"id": "FBAEDF2B-4A8B-1949-DDAA-27AB3F6D8AE4",
+			"label": "FBAEDF2B-4A8B-1949-DDAA-27AB3F6D8AE4",
+			"name":
+			{
+				"defaultText": "Aero Spectre",
+				"localizedByCulture":
+				{
+					"ar-AE": "إيرو سبيكتر",
+					"de-DE": "Spectre – Aero",
+					"en-US": "Aero Spectre",
+					"es-ES": "Spectre Aero",
+					"es-MX": "Spectre Aero",
+					"fr-FR": "Spectre (Aéro)",
+					"id-ID": "Aero Spectre",
+					"it-IT": "Spectre Aero",
+					"ja-JP": "エアロ スペクター",
+					"ko-KR": "에어로 스펙터",
+					"pl-PL": "Spectre Powietrzny",
+					"pt-BR": "Spectre Aero",
+					"ru-RU": "Spectre \"Полет\"",
+					"th-TH": "Aero Spectre",
+					"tr-TR": "Havai Spectre",
+					"vi-VN": "Spectre Aero",
+					"zh-CN": "Aero Spectre",
+					"zh-TW": "航創未來 惡靈"
 				}
 			}
 		},
@@ -54276,6 +56466,128 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "2870C012-4AD1-43D2-348D-2A98CC640833",
+			"chromas": [
+				{
+					"id": "2870C012-4AD1-43D2-348D-2A98CC640833",
+					"label": "2870C012-4AD1-43D2-348D-2A98CC640833",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Baseball Bat",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 مضرب بيسبول",
+							"de-DE": "Baseballschläger – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Baseball Bat",
+							"es-ES": "Bate de béisbol Radiant Crisis 001",
+							"es-MX": "Bate de Béisbol Crisis Radiante 001",
+							"fr-FR": "Batte de base-ball (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Baseball Bat",
+							"it-IT": "Mazza da baseball Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 ベースボールバット",
+							"ko-KR": "레디언트 크라이시스 001 야구 방망이",
+							"pl-PL": "Kij Baseballowy Promienistego Kryzysu 001",
+							"pt-BR": "Taco de Beisebol Crise Radiante 001",
+							"ru-RU": "Бейсбольная бита \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Baseball Bat",
+							"tr-TR": "Radyant Krizi 001 Beyzbol Sopası",
+							"vi-VN": "Gậy Bóng Chày Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Baseball Bat",
+							"zh-TW": "輻能危機001 球棒"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "30DE237A-4FB3-90F5-3630-65BE64D01423",
+					"label": "30DE237A-4FB3-90F5-3630-65BE64D01423",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Baseball Bat",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 مضرب بيسبول",
+							"de-DE": "Baseballschläger – Radiant-Krise 001",
+							"en-US": "Radiant Crisis 001 Baseball Bat",
+							"es-ES": "Bate de béisbol Radiant Crisis 001",
+							"es-MX": "Bate de Béisbol Crisis Radiante 001",
+							"fr-FR": "Batte de base-ball (Crise des radiants 001)",
+							"id-ID": "Radiant Crisis 001 Baseball Bat",
+							"it-IT": "Mazza da baseball Crisi radianti 001",
+							"ja-JP": "レディアントクライシス 001 ベースボールバット",
+							"ko-KR": "레디언트 크라이시스 001 야구 방망이",
+							"pl-PL": "Kij Baseballowy Promienistego Kryzysu 001",
+							"pt-BR": "Taco de Beisebol Crise Radiante 001",
+							"ru-RU": "Бейсбольная бита \"Инцидент с радиантами 001\"",
+							"th-TH": "Radiant Crisis 001 Baseball Bat",
+							"tr-TR": "Radyant Krizi 001 Beyzbol Sopası",
+							"vi-VN": "Gậy Bóng Chày Khủng Hoảng Radiant 001",
+							"zh-CN": "Radiant Crisis 001 Baseball Bat",
+							"zh-TW": "輻能危機001 球棒"
+						}
+					}
+				},
+				{
+					"id": "11A7DFD4-4FC9-A806-6B20-FDA57C1AA331",
+					"label": "11A7DFD4-4FC9-A806-6B20-FDA57C1AA331",
+					"name":
+					{
+						"defaultText": "Radiant Crisis 001 Baseball Bat Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "راديانت كرايسيس 001 مضرب بيسبول المستوى 2",
+							"de-DE": "Baseballschläger – Radiant-Krise 001 Level 2",
+							"en-US": "Radiant Crisis 001 Baseball Bat Level 2",
+							"es-ES": "Bate de béisbol Radiant Crisis 001 de nivel 2",
+							"es-MX": "Bate de Béisbol Crisis Radiante 001 Nivel 2",
+							"fr-FR": "Batte de base-ball (Crise des radiants 001) niveau 2",
+							"id-ID": "Radiant Crisis 001 Baseball Bat Level 2",
+							"it-IT": "Mazza da baseball Crisi radianti 001 livello 2",
+							"ja-JP": "レディアントクライシス 001 ベースボールバット Lv.2",
+							"ko-KR": "레디언트 크라이시스 001 야구 방망이 2레벨",
+							"pl-PL": "Kij Baseballowy Promienistego Kryzysu 001 (poziom 2)",
+							"pt-BR": "Taco de Beisebol Crise Radiante 001 Nível 2",
+							"ru-RU": "Бейсбольная бита \"Инцидент с радиантами 001\" уровень 2",
+							"th-TH": "Radiant Crisis 001 Baseball Bat เลเวล 2",
+							"tr-TR": "2. Seviye Radyant Krizi 001 Beyzbol Sopası",
+							"vi-VN": "Gậy Bóng Chày Khủng Hoảng Radiant 001 Cấp 2",
+							"zh-CN": "Radiant Crisis 001 Baseball Bat Level 2",
+							"zh-TW": "輻能危機001 球棒 等級2"
+						}
+					}
+				}
+			],
+			"id": "71020826-483D-34F8-8DA7-928F87942C10",
+			"label": "71020826-483D-34F8-8DA7-928F87942C10",
+			"name":
+			{
+				"defaultText": "Radiant Crisis 001 Baseball Bat",
+				"localizedByCulture":
+				{
+					"ar-AE": "راديانت كرايسيس 001 مضرب بيسبول",
+					"de-DE": "Baseballschläger – Radiant-Krise 001",
+					"en-US": "Radiant Crisis 001 Baseball Bat",
+					"es-ES": "Bate de béisbol Radiant Crisis 001",
+					"es-MX": "Bate de Béisbol Crisis Radiante 001",
+					"fr-FR": "Batte de base-ball (Crise des radiants 001)",
+					"id-ID": "Radiant Crisis 001 Baseball Bat",
+					"it-IT": "Mazza da baseball Crisi radianti 001",
+					"ja-JP": "レディアントクライシス 001 ベースボールバット",
+					"ko-KR": "레디언트 크라이시스 001 야구 방망이",
+					"pl-PL": "Kij Baseballowy Promienistego Kryzysu 001",
+					"pt-BR": "Taco de Beisebol Crise Radiante 001",
+					"ru-RU": "Бейсбольная бита \"Инцидент с радиантами 001\"",
+					"th-TH": "Radiant Crisis 001 Baseball Bat",
+					"tr-TR": "Radyant Krizi 001 Beyzbol Sopası",
+					"vi-VN": "Gậy Bóng Chày Khủng Hoảng Radiant 001",
+					"zh-CN": "Radiant Crisis 001 Baseball Bat",
+					"zh-TW": "輻能危機001 球棒"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "82988B47-4439-3B28-CBBE-899D381B291E",
 			"chromas": [
 				{
@@ -54884,7 +57196,7 @@
 							"tr-TR": "ŞAKIYANÇELİK",
 							"vi-VN": "Kim Ca",
 							"zh-CN": "松钢",
-							"zh-TW": "冷銀秘鋼"
+							"zh-TW": "冷銀祕鋼"
 						}
 					}
 				}
@@ -54915,7 +57227,7 @@
 							"tr-TR": "ŞAKIYANÇELİK",
 							"vi-VN": "Kim Ca",
 							"zh-CN": "松钢",
-							"zh-TW": "冷銀秘鋼"
+							"zh-TW": "冷銀祕鋼"
 						}
 					}
 				}
@@ -54944,7 +57256,7 @@
 					"tr-TR": "ŞAKIYANÇELİK",
 					"vi-VN": "Kim Ca",
 					"zh-CN": "松钢",
-					"zh-TW": "冷銀秘鋼"
+					"zh-TW": "冷銀祕鋼"
 				}
 			}
 		},
@@ -57019,6 +59331,99 @@
 					"vi-VN": "Dao Găm Uốn Lượn",
 					"zh-CN": "样条匕首",
 					"zh-TW": "百轉弧光 匕首"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "550D4B9C-4FE9-0F15-D4E9-3F9466685596",
+			"chromas": [
+				{
+					"id": "550D4B9C-4FE9-0F15-D4E9-3F9466685596",
+					"label": "550D4B9C-4FE9-0F15-D4E9-3F9466685596",
+					"name":
+					{
+						"defaultText": "Genesis Arc",
+						"localizedByCulture":
+						{
+							"ar-AE": "جينيسيس قوس",
+							"de-DE": "Arc – Genesis",
+							"en-US": "Genesis Arc",
+							"es-ES": "Arco Genesis",
+							"es-MX": "Arco Génesis",
+							"fr-FR": "Arc (Genèse)",
+							"id-ID": "Genesis Arc",
+							"it-IT": "Elettroarco Genesi",
+							"ja-JP": "ジェネシス アーク",
+							"ko-KR": "제네시스 아크",
+							"pl-PL": "Arc Genezy",
+							"pt-BR": "Arco Gênese",
+							"ru-RU": "Изогнутый клинок \"Истоки\"",
+							"th-TH": "Genesis Arc",
+							"tr-TR": "Başlangıç Muşta",
+							"vi-VN": "Arc Khởi Nguyên",
+							"zh-CN": "Genesis Arc",
+							"zh-TW": "宇宙創始 弧刃"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "A080B538-4593-B092-D29C-04B80E6E983F",
+					"label": "A080B538-4593-B092-D29C-04B80E6E983F",
+					"name":
+					{
+						"defaultText": "Genesis Arc",
+						"localizedByCulture":
+						{
+							"ar-AE": "جينيسيس قوس",
+							"de-DE": "Arc – Genesis",
+							"en-US": "Genesis Arc",
+							"es-ES": "Arco Genesis",
+							"es-MX": "Arco Génesis",
+							"fr-FR": "Arc (Genèse)",
+							"id-ID": "Genesis Arc",
+							"it-IT": "Elettroarco Genesi",
+							"ja-JP": "ジェネシス アーク",
+							"ko-KR": "제네시스 아크",
+							"pl-PL": "Arc Genezy",
+							"pt-BR": "Arco Gênese",
+							"ru-RU": "Изогнутый клинок \"Истоки\"",
+							"th-TH": "Genesis Arc",
+							"tr-TR": "Başlangıç Muşta",
+							"vi-VN": "Arc Khởi Nguyên",
+							"zh-CN": "Genesis Arc",
+							"zh-TW": "宇宙創始 弧刃"
+						}
+					}
+				}
+			],
+			"id": "3209E2AF-4703-088B-EBEF-8DA89B4CEF87",
+			"label": "3209E2AF-4703-088B-EBEF-8DA89B4CEF87",
+			"name":
+			{
+				"defaultText": "Genesis Arc",
+				"localizedByCulture":
+				{
+					"ar-AE": "جينيسيس قوس",
+					"de-DE": "Arc – Genesis",
+					"en-US": "Genesis Arc",
+					"es-ES": "Arco Genesis",
+					"es-MX": "Arco Génesis",
+					"fr-FR": "Arc (Genèse)",
+					"id-ID": "Genesis Arc",
+					"it-IT": "Elettroarco Genesi",
+					"ja-JP": "ジェネシス アーク",
+					"ko-KR": "제네시스 아크",
+					"pl-PL": "Arc Genezy",
+					"pt-BR": "Arco Gênese",
+					"ru-RU": "Изогнутый клинок \"Истоки\"",
+					"th-TH": "Genesis Arc",
+					"tr-TR": "Başlangıç Muşta",
+					"vi-VN": "Arc Khởi Nguyên",
+					"zh-CN": "Genesis Arc",
+					"zh-TW": "宇宙創始 弧刃"
 				}
 			}
 		},
@@ -59565,7 +61970,7 @@
 					"tr-TR": "KARŞI KARŞIYA // PHOENIX VE JETT KARTI",
 					"vi-VN": " Thẻ ĐỐI ĐẦU // Phoenix + Jett",
 					"zh-CN": "对决//不死鸟+捷风 卡牌",
-					"zh-TW": "宿命對決//菲尼克斯vs婕提 玩家卡面"
+					"zh-TW": "宿命對決//菲尼克斯 vs 婕提 玩家卡面"
 				}
 			}
 		},
@@ -60058,7 +62463,7 @@
 					"tr-TR": "KARŞI KARŞIYA // RAZE VE KILLJOY KARTI",
 					"vi-VN": " Thẻ ĐỐI ĐẦU // Raze + Killjoy",
 					"zh-CN": "对决//雷泽+科尔乔伊 卡牌",
-					"zh-TW": "宿命對決//芮茲vs愷宙 玩家卡面"
+					"zh-TW": "宿命對決//芮茲 vs 愷宙 玩家卡面"
 				}
 			}
 		},
@@ -60116,7 +62521,7 @@
 					"tr-TR": "KARŞI KARŞIYA // VANDAL VE PHANTOM KARTI",
 					"vi-VN": "Thẻ ĐỐI ĐẦU// Vandal + Phantom",
 					"zh-CN": "对决//狂徒+幻影 卡牌",
-					"zh-TW": "宿命對決//暴徒vs幻象 玩家卡面"
+					"zh-TW": "宿命對決//暴徒 vs 幻象 玩家卡面"
 				}
 			}
 		},
@@ -60145,7 +62550,7 @@
 					"tr-TR": "KAPANIŞ: KARŞI KARŞIYA // VANDAL VE PHANTOM KARTI",
 					"vi-VN": "Hồi Kết: Thẻ ĐỐI ĐẦU // Vandal + Phantom",
 					"zh-CN": "终局：对决//狂徒+幻影 卡牌",
-					"zh-TW": "後記：宿命對決//暴徒vs幻象 玩家卡面"
+					"zh-TW": "後記：宿命對決//暴徒 vs 幻象 玩家卡面"
 				}
 			}
 		},
@@ -60174,7 +62579,65 @@
 					"tr-TR": "GİZLİ KÖKEN KARTI",
 					"vi-VN": "Thẻ Dòng Dõi Bí Ẩn",
 					"zh-CN": "神秘血统 卡牌",
-					"zh-TW": "神秘家世 玩家卡面"
+					"zh-TW": "神祕家世 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "2EE6D025-4AAC-3A67-0F6E-DBA827ACC75F",
+			"label": "2EE6D025-4AAC-3A67-0F6E-DBA827ACC75F",
+			"name":
+			{
+				"defaultText": "Arcane Mysteries Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة ألغاز أركين",
+					"de-DE": "Banner „Arcane-Mysterien“",
+					"en-US": "Arcane Mysteries Card",
+					"es-ES": "Tarjeta Misterios de Arcane",
+					"es-MX": "Tarjeta Misterios de Arcane",
+					"fr-FR": "Carte Mystères d'Arcane",
+					"id-ID": "Kartu Arcane Mysteries",
+					"it-IT": "Carta Misteri di Arcane",
+					"ja-JP": "Arcane ミステリー カード",
+					"ko-KR": "아케인 수수께끼 카드",
+					"pl-PL": "Karta „Sekrety Arcane”",
+					"pt-BR": "Card Mistérios de Arcane",
+					"ru-RU": "Карточка \"Аркейн: тайны\"",
+					"th-TH": "การ์ด Arcane Mysteries",
+					"tr-TR": "Arcane Gizemleri Kartı",
+					"vi-VN": "Thẻ Bí Ẩn Arcane",
+					"zh-CN": "Arcane Mysteries Card",
+					"zh-TW": "奧術之謎 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "ACF37618-43DE-2A3E-CCF9-EA9C3CB4DD33",
+			"label": "ACF37618-43DE-2A3E-CCF9-EA9C3CB4DD33",
+			"name":
+			{
+				"defaultText": "Welcome to the Undercity Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة أهلًا بك في مدينة القاع",
+					"de-DE": "Banner „Willkommen in der Unterstadt“",
+					"en-US": "Welcome to the Undercity Card",
+					"es-ES": "Tarjeta Bienvenidos a la Ciudad Subterránea",
+					"es-MX": "Tarjeta Ven al Distrito Suburbano",
+					"fr-FR": "Carte Bienvenue dans la Ville souterraine",
+					"id-ID": "Kartu Welcome to the Undercity",
+					"it-IT": "Carta Benvenuto nella Città sotterranea",
+					"ja-JP": "地下都市へようこそ カード",
+					"ko-KR": "지하도시에 오신 것을 환영합니다 카드",
+					"pl-PL": "Karta „Witamy w Mieście pod Miastem”",
+					"pt-BR": "Card Boas-vindas à Subferia",
+					"ru-RU": "Карточка \"Добро пожаловать в Нижний город\"",
+					"th-TH": "การ์ด Welcome to the Undercity",
+					"tr-TR": "Altşehre Hoş Geldin Kartı",
+					"vi-VN": "Thẻ Chào Mừng Đến Thế Giới Ngầm",
+					"zh-CN": "Welcome to the Undercity Card",
+					"zh-TW": "歡迎來到地下城 玩家卡面"
 				}
 			}
 		},
@@ -61450,7 +63913,7 @@
 					"tr-TR": "Ne Kadim Sırrı Ya? Kartı",
 					"vi-VN": "Thẻ Quả Là Một Bí Ẩn Cổ Đại",
 					"zh-CN": "好一个远古神秘物 卡牌",
-					"zh-TW": "古老秘事 玩家卡面"
+					"zh-TW": "古老祕事 玩家卡面"
 				}
 			}
 		},
@@ -61711,7 +64174,7 @@
 					"tr-TR": "KARŞI KARŞIYA // OMEN VE SAGE KARTI",
 					"vi-VN": "Thẻ ĐỐI ĐẦU // Omen + Sage",
 					"zh-CN": "对战 // 幽影+贤者 卡牌",
-					"zh-TW": "宿命對決//歐門vs聖祈 玩家卡面"
+					"zh-TW": "宿命對決//歐門 vs 聖祈 玩家卡面"
 				}
 			}
 		},
@@ -61885,7 +64348,7 @@
 					"tr-TR": "KARŞI KARŞIYA // ZAFER VE BOZGUN KARTI",
 					"vi-VN": "Thẻ ĐỐI ĐẦU // Chiến Thắng + Thất Bại",
 					"zh-CN": "对战 // 胜利+败北 卡牌",
-					"zh-TW": "宿命對決//凱旋vs戰敗 玩家卡面"
+					"zh-TW": "宿命對決//凱旋 vs 戰敗 玩家卡面"
 				}
 			}
 		},
@@ -61943,7 +64406,7 @@
 					"tr-TR": "KARŞI KARŞIYA // BIND VE ICEBOX KARTI",
 					"vi-VN": "Thẻ ĐỐI ĐẦU // Bind + Icebox",
 					"zh-CN": "对抗//劫境之地+极地寒港 卡牌",
-					"zh-TW": "宿命對決//劫境之地vs極地寒港 玩家卡面"
+					"zh-TW": "宿命對決//劫境之地 vs 極地寒港 玩家卡面"
 				}
 			}
 		},
@@ -62030,7 +64493,7 @@
 					"tr-TR": "﻿KARŞI KARŞIYA // SOVA VE CYPHER KARTI",
 					"vi-VN": "Thẻ ĐỐI ĐẦU // Sova + Cypher",
 					"zh-CN": "对抗//猎枭+零 卡牌",
-					"zh-TW": "宿命對決//蘇法vs瑟符 玩家卡面"
+					"zh-TW": "宿命對決//蘇法 vs 瑟符 玩家卡面"
 				}
 			}
 		},
@@ -62378,7 +64841,7 @@
 					"tr-TR": "ŞAKIYANÇELİK KARTI",
 					"vi-VN": "Thẻ Kim Ca",
 					"zh-CN": "松钢 卡牌",
-					"zh-TW": "冷銀秘鋼 玩家卡面"
+					"zh-TW": "冷銀祕鋼 玩家卡面"
 				}
 			}
 		},
@@ -62581,7 +65044,7 @@
 					"tr-TR": "KARŞI KARŞIYA // REYNA VE VIPER KARTI",
 					"vi-VN": "Thẻ ĐỐI ĐẦU // Reyna + Viper",
 					"zh-CN": "大对战 //芮娜与蝰蛇 卡牌",
-					"zh-TW": "宿命對決//蕾娜vs薇蝮 玩家卡面"
+					"zh-TW": "宿命對決//蕾娜 vs 薇蝮 玩家卡面"
 				}
 			}
 		},
@@ -62683,7 +65146,7 @@
 					"ar-AE": "بطاقة طيور الثلج",
 					"de-DE": "Banner „Schneevogel“",
 					"en-US": "Snowbirds Card",
-					"es-ES": "Tarjeta Pájaros de nieve",
+					"es-ES": "Tarjeta Verano nevado",
 					"es-MX": "Tarjeta Aves de Nieve",
 					"fr-FR": "Carte La montagne ça vous gagne",
 					"id-ID": "Kartu Snowbirds",
@@ -62886,7 +65349,7 @@
 					"ar-AE": "بطاقة العملية المكشوفة",
 					"de-DE": "Banner „Nackte Op“",
 					"en-US": "Naked Op Card",
-					"es-ES": "Tarjeta Operación al desnudo",
+					"es-ES": "Tarjeta Operator renacentista",
 					"es-MX": "Tarjeta Op al Desnudo",
 					"fr-FR": "Carte Operator antique",
 					"id-ID": "Kartu Naked Op",
@@ -62915,7 +65378,7 @@
 					"ar-AE": "الخاتمة: بطاقة العملية المكشوفة",
 					"de-DE": "Banner „Epilog: Nackte Op“",
 					"en-US": "Epilogue: Naked Op Card",
-					"es-ES": "Epílogo: Tarjeta Operación al desnudo",
+					"es-ES": "Epílogo: Tarjeta Operator renacentista",
 					"es-MX": "Tarjeta Epílogo: Op al Desnudo",
 					"fr-FR": "Carte Épilogue : Operator antique",
 					"id-ID": "Epilogue: Kartu Naked Op",
@@ -63248,7 +65711,7 @@
 					"tr-TR": "Karşı Karşıya // Phoenix ve Phoenix Kartı",
 					"vi-VN": "Thẻ Đối Đầu // Phoenix + Phoenix",
 					"zh-CN": "Versus // Phoenix + Phoenix Card",
-					"zh-TW": "宿命對決//菲尼克斯vs菲尼克斯 玩家卡面"
+					"zh-TW": "宿命對決//菲尼克斯 vs 菲尼克斯 玩家卡面"
 				}
 			}
 		},
@@ -63297,7 +65760,7 @@
 					"fr-FR": "Carte Inarrêtable // Reyna",
 					"id-ID": "Kartu Unstoppable // Reyna",
 					"it-IT": "Carta Inarrestabile // Reyna",
-					"ja-JP": "UNSTOPPABLE // レイナ カード",
+					"ja-JP": "アンストッパブル // レイナ カード",
 					"ko-KR": "저지 불가 // 레이나 카드",
 					"pl-PL": "Karta „Nie do powstrzymania // Reyna”",
 					"pt-BR": "Card Implacável // Reyna",
@@ -63423,6 +65886,383 @@
 					"vi-VN": "Thẻ Súng Teknika",
 					"zh-CN": "Teknika Firearms Card",
 					"zh-TW": "高科技槍械 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "F3A3D5D6-4005-58F7-8A87-E5B489B2DB70",
+			"label": "F3A3D5D6-4005-58F7-8A87-E5B489B2DB70",
+			"name":
+			{
+				"defaultText": "On Cooldown Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة ضمن فترة التبريد",
+					"de-DE": "Banner „Abklingzeit läuft“",
+					"en-US": "On Cooldown Card",
+					"es-ES": "Tarjeta En enfriamiento",
+					"es-MX": "Tarjeta En Enfriamiento",
+					"fr-FR": "Carte En récupération",
+					"id-ID": "Kartu On Cooldown",
+					"it-IT": "Carta Raffreddamento",
+					"ja-JP": "クールダウン中 カード",
+					"ko-KR": "재사용 대기 중 카드",
+					"pl-PL": "Karta „Odnawia się”",
+					"pt-BR": "Card Curtindo o Frio",
+					"ru-RU": "Карточка \"Отдыхаем\"",
+					"th-TH": "การ์ด On Cooldown",
+					"tr-TR": "Beklemede Kartı",
+					"vi-VN": "Thẻ Đang Hồi Chiêu",
+					"zh-CN": "On Cooldown Card",
+					"zh-TW": "冷卻中 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "AA7261E8-49B3-A489-D23F-39B935122F09",
+			"label": "AA7261E8-49B3-A489-D23F-39B935122F09",
+			"name":
+			{
+				"defaultText": "Living The Nightmare Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الكابوس الحي",
+					"de-DE": "Banner „Wahrgewordener Albtraum“",
+					"en-US": "Living The Nightmare Card",
+					"es-ES": "Tarjeta Viviendo una pesadilla",
+					"es-MX": "Tarjeta Viviendo la pesadilla",
+					"fr-FR": "Carte Cauchemar ambulant",
+					"id-ID": "Kartu Living The Nightmare",
+					"it-IT": "Carta Incubo ad occhi aperti",
+					"ja-JP": "楽しい悪夢 カード",
+					"ko-KR": "살아난 악몽 카드",
+					"pl-PL": "Karta „Koszmar na jawie”",
+					"pt-BR": "Card Vivendo o Pesadelo",
+					"ru-RU": "Карточка \"Хеллоуин\"",
+					"th-TH": "การ์ด Living The Nightmare",
+					"tr-TR": "Kâbuslarda Yaşam Kartı",
+					"vi-VN": "Thẻ Sống Trong Ác Mộng",
+					"zh-CN": "Living The Nightmare Card",
+					"zh-TW": "夢魘化身 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "F126D573-468E-A790-2C31-228BB651FA79",
+			"label": "F126D573-468E-A790-2C31-228BB651FA79",
+			"name":
+			{
+				"defaultText": "Live Wire Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة المفعم بالطاقة",
+					"de-DE": "Banner „Unter Strom“",
+					"en-US": "Live Wire Card",
+					"es-ES": "Tarjeta Alta tensión",
+					"es-MX": "Tarjeta Cable de alta tensión",
+					"fr-FR": "Carte Câble électrique",
+					"id-ID": "Kartu Live Wire",
+					"it-IT": "Carta Cavo scoperto",
+					"ja-JP": "ライブワイヤー カード",
+					"ko-KR": "활선 카드",
+					"pl-PL": "Karta „Pod napięciem”",
+					"pt-BR": "Card Eletrizante",
+					"ru-RU": "Карточка \"Под напряжением\"",
+					"th-TH": "การ์ด Live Wire",
+					"tr-TR": "Dikkat: Çarpar Kartı",
+					"vi-VN": "Thẻ Phóng Điện",
+					"zh-CN": "Live Wire Card",
+					"zh-TW": "電力四射 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "3FB00AEF-42DE-DD97-8A85-69B127437E8D",
+			"label": "3FB00AEF-42DE-DD97-8A85-69B127437E8D",
+			"name":
+			{
+				"defaultText": "Kingdoms Divided Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الممالك المقسّمة",
+					"de-DE": "Banner „Gespaltene Königreiche“",
+					"en-US": "Kingdoms Divided Card",
+					"es-ES": "Tarjeta Reinos divididos",
+					"es-MX": "Tarjeta Reinos Divididos",
+					"fr-FR": " \n \t\t\nCarte Deux mondes séparés",
+					"id-ID": "Kartu Kingdoms Divided",
+					"it-IT": "Carta Regni divisi",
+					"ja-JP": "分かたれた王国 カード",
+					"ko-KR": "분리된 세계 카드",
+					"pl-PL": "Karta „Królestwa rozdarte”",
+					"pt-BR": "Card Kingdom Fragmentada",
+					"ru-RU": "Карточка \"Разделение Kingdom\"",
+					"th-TH": "การ์ด Kingdoms Divided",
+					"tr-TR": "Bölünmüş Kingdom'lar Kartı",
+					"vi-VN": "Thẻ Vương Quốc Chia Cắt",
+					"zh-CN": "Kingdoms Divided Card",
+					"zh-TW": "分裂國度 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "C59B3A9B-467B-54B7-3E4D-A0A3107CBEFE",
+			"label": "C59B3A9B-467B-54B7-3E4D-A0A3107CBEFE",
+			"name":
+			{
+				"defaultText": "Chamber ID Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة هوية تشامبر",
+					"de-DE": "Banner „Chamber-ID“",
+					"en-US": "Chamber ID Card",
+					"es-ES": "Tarjeta ID de Chamber",
+					"es-MX": "Tarjeta ID de Chamber",
+					"fr-FR": "Carte ID de Chamber",
+					"id-ID": "Kartu Chamber ID",
+					"it-IT": "Carta ID Chamber",
+					"ja-JP": "チェンバー ID カード",
+					"ko-KR": "체임버 ID 카드",
+					"pl-PL": "Karta „ID Chambera”",
+					"pt-BR": "Card ID de Chamber",
+					"ru-RU": "Карточка \"Chamber ID\"",
+					"th-TH": "การ์ด Chamber ID",
+					"tr-TR": "Chamber Kimlik Kartı",
+					"vi-VN": "Thẻ ID Chamber",
+					"zh-CN": "Chamber ID Card",
+					"zh-TW": "錢博爾ID 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "89FDD50E-439B-EBEB-0EF2-AF8271550943",
+			"label": "89FDD50E-439B-EBEB-0EF2-AF8271550943",
+			"name":
+			{
+				"defaultText": "Goldwing Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة غولدوينغ",
+					"de-DE": "Banner „Goldwing“",
+					"en-US": "Goldwing Card",
+					"es-ES": "Tarjeta Goldwing",
+					"es-MX": "Tarjeta Filo Dorado",
+					"fr-FR": "Carte Aile d'or",
+					"id-ID": "Kartu Goldwing",
+					"it-IT": "Carta Aladoro",
+					"ja-JP": "ゴールドウイング カード",
+					"ko-KR": "골드윙 카드",
+					"pl-PL": "Karta „Złotoskrzydły”",
+					"pt-BR": "Card Asas Douradas",
+					"ru-RU": "Карточка \"Хохлома\"",
+					"th-TH": "การ์ด Goldwing",
+					"tr-TR": "Altın Kanat Kartı",
+					"vi-VN": "Thẻ Họa Tiết Vàng",
+					"zh-CN": "Goldwing Card",
+					"zh-TW": "黃金之翼 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "1E3FCF2B-44F9-3565-22AF-2380D8149329",
+			"label": "1E3FCF2B-44F9-3565-22AF-2380D8149329",
+			"name":
+			{
+				"defaultText": "Versus // KAY/O + Brimstone Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة المواجهة // كاي/أو + بريمستون",
+					"de-DE": "Banner „Versus // KAY/O + Brimstone“",
+					"en-US": "Versus // KAY/O + Brimstone Card",
+					"es-ES": "Tarjeta Versus // KAY/O + Brimstone",
+					"es-MX": "Versus // Tarjeta KAY/O + Brimstone",
+					"fr-FR": "Carte Versus // KAY/O + Brimstone",
+					"id-ID": "Kartu Versus // KAY/O + Brimstone",
+					"it-IT": "Carta Versus // KAY/O e Brimstone",
+					"ja-JP": "VERSUS // KAY/O + ブリムストーン カード",
+					"ko-KR": "VS // 케이/오 + 브림스톤 카드",
+					"pl-PL": "Karta „Versus // KAY/O + Brimstone”",
+					"pt-BR": "Card Versus // KAY/O + Brimstone",
+					"ru-RU": "Карточка \"Противостояние\" (KAY/O + Brimstone)",
+					"th-TH": "การ์ด Versus // KAY/O + Brimstone",
+					"tr-TR": "Karşı Karşıya // KAY/O ve Brimstone Kartı",
+					"vi-VN": "Thẻ Đối Đầu // KAY/O + Brimstone",
+					"zh-CN": "Versus // KAY/O + Brimstone Card",
+					"zh-TW": "宿命對決//KAY/O vs 布史東 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "89AAB939-4035-EA86-831D-C7964690BE09",
+			"label": "89AAB939-4035-EA86-831D-C7964690BE09",
+			"name":
+			{
+				"defaultText": "Kodiak Steel Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة فولاذ كودياك",
+					"de-DE": "Banner „Kodiak-Stahl“",
+					"en-US": "Kodiak Steel Card",
+					"es-ES": "Tarjeta Acero de Kodiak",
+					"es-MX": "Tarjeta Acero Kodiak",
+					"fr-FR": "Carte Acier Kodiak",
+					"id-ID": "Kartu Kodiak Steel",
+					"it-IT": "Carta Acciaio Kodiak",
+					"ja-JP": "コディアック・スチール カード",
+					"ko-KR": "코디악 스틸 카드",
+					"pl-PL": "Karta „Kodiakowa stal”",
+					"pt-BR": "Card Aço Kodiak",
+					"ru-RU": "Карточка \"Kodiak Steel\"",
+					"th-TH": "การ์ด Kodiak Steel",
+					"tr-TR": "Kodiak Çeliği Kartı",
+					"vi-VN": "Thẻ Thép Kodiak",
+					"zh-CN": "Kodiak Steel Card",
+					"zh-TW": "熊掌鋼刃 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "5488FCD7-41D5-0890-E90A-8D9099807D9B",
+			"label": "5488FCD7-41D5-0890-E90A-8D9099807D9B",
+			"name":
+			{
+				"defaultText": "Genesis Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة جينيسيس",
+					"de-DE": "Banner „Genesis“",
+					"en-US": "Genesis Card",
+					"es-ES": "Tarjeta Genesis",
+					"es-MX": "Tarjeta Génesis",
+					"fr-FR": "Carte Genèse",
+					"id-ID": "Kartu Genesis",
+					"it-IT": "Carta Genesi",
+					"ja-JP": "ジェネシス カード",
+					"ko-KR": "제네시스 카드",
+					"pl-PL": "Karta „Geneza”",
+					"pt-BR": "Card Gênese",
+					"ru-RU": "Карточка \"Истоки\"",
+					"th-TH": "การ์ด Genesis",
+					"tr-TR": "Başlangıç Kartı",
+					"vi-VN": "Thẻ Khởi Nguyên",
+					"zh-CN": "Genesis Card",
+					"zh-TW": "宇宙創始 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "0BC3B158-40B0-AB2A-4B8B-04BE15E3B7D1",
+			"label": "0BC3B158-40B0-AB2A-4B8B-04BE15E3B7D1",
+			"name":
+			{
+				"defaultText": "Downtime // Omen Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة فترة التوقف // أومين",
+					"de-DE": "Banner „Entspannung // Omen“",
+					"en-US": "Downtime // Omen Card",
+					"es-ES": "Tarjeta Descanso // Omen",
+					"es-MX": "Tarjeta Inactividad // Omen",
+					"fr-FR": "Carte Maintenance // Omen",
+					"id-ID": "Kartu Downtime // Omen",
+					"it-IT": "Carta Fuori servizio // Omen",
+					"ja-JP": "オフショット // オーメン カード",
+					"ko-KR": "쉬는 시간 // 오멘 카드",
+					"pl-PL": "Karta „Przestój // Omen”",
+					"pt-BR": "Card Tempo Livre // Omen",
+					"ru-RU": "Карточка \"Заслуженный отдых // Omen\"",
+					"th-TH": "การ์ด Downtime // Omen",
+					"tr-TR": "Mola // Omen Kartı",
+					"vi-VN": "Thẻ Nghỉ Ngơi // Omen",
+					"zh-CN": "Downtime // Omen Card",
+					"zh-TW": "閒暇時刻//歐門 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "7B240A91-4925-8BB6-7812-60B49543E145",
+			"label": "7B240A91-4925-8BB6-7812-60B49543E145",
+			"name":
+			{
+				"defaultText": "Epilogue: Downtime // Omen Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الخاتمة: فترة التوقف // أومين",
+					"de-DE": "Banner „Epilog: Entspannung // Omen“",
+					"en-US": "Epilogue: Downtime // Omen Card",
+					"es-ES": "Epílogo: Tarjeta Descanso // Omen",
+					"es-MX": "Epílogo: Tarjeta Inactividad // Omen",
+					"fr-FR": "Carte Épilogue : Maintenance // Omen",
+					"id-ID": "Kartu Epilogue: Downtime // Omen",
+					"it-IT": "Carta Epilogo: Fuori servizio // Omen",
+					"ja-JP": "エピローグ: オフショット // オーメン カード",
+					"ko-KR": "에필로그: 쉬는 시간 // 오멘 카드",
+					"pl-PL": "Karta „Epilog: Przestój // Omen”",
+					"pt-BR": "Epílogo: Card Tempo Livre // Omen",
+					"ru-RU": "Карточка \"Эпилог: заслуженный отдых // Omen\"",
+					"th-TH": "การ์ดบทส่งท้าย: Downtime // Omen",
+					"tr-TR": "Kapanış: Mola // Omen Kartı",
+					"vi-VN": "Hồi Kết: Thẻ Nghỉ Ngơi // Omen",
+					"zh-CN": "Epilogue: Downtime // Omen Card",
+					"zh-TW": "後記：閒暇時刻//歐門 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "B7880750-49F6-9623-FC0D-779F0E88FEDB",
+			"label": "B7880750-49F6-9623-FC0D-779F0E88FEDB",
+			"name":
+			{
+				"defaultText": "Unstoppable // Viper Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة لا يقهر // فايبر",
+					"de-DE": "Banner „Unaufhaltbar // Viper“",
+					"en-US": "Unstoppable // Viper Card",
+					"es-ES": "Tarjeta Imparable // Viper",
+					"es-MX": "Tarjeta Imparable // Viper",
+					"fr-FR": "Carte Inarrêtable // Viper",
+					"id-ID": "Kartu Unstoppable // Viper",
+					"it-IT": "Carta Inarrestabile // Viper",
+					"ja-JP": "アンストッパブル // ヴァイパー カード",
+					"ko-KR": "저지 불가 // 바이퍼 카드",
+					"pl-PL": "Karta „Nie do powstrzymania // Viper”",
+					"pt-BR": "Card Implacável // Viper",
+					"ru-RU": "Карточка \"Неудержимая // Viper\"",
+					"th-TH": "การ์ด Unstoppable // Viper",
+					"tr-TR": "Durdurulamaz // Viper Kartı",
+					"vi-VN": "Thẻ Vô Phương Chống Đỡ // Viper",
+					"zh-CN": "Unstoppable // Viper Card",
+					"zh-TW": "勢不可擋//薇蝮 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "A60742E6-418C-365A-9133-7C8E08720BFA",
+			"label": "A60742E6-418C-365A-9133-7C8E08720BFA",
+			"name":
+			{
+				"defaultText": "Crying Sage Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة سايج الباكية",
+					"de-DE": "Banner „Weinende Sage“",
+					"en-US": "Crying Sage Card",
+					"es-ES": "Tarjeta Lágrimas de Sage",
+					"es-MX": "Tarjeta Sage Llorona",
+					"fr-FR": "Carte Sage qui pleure",
+					"id-ID": "Kartu Crying Sage",
+					"it-IT": "Carta Sage piangente",
+					"ja-JP": "涙目セージ カード",
+					"ko-KR": "우는 세이지 카드",
+					"pl-PL": "Karta „Zrozpaczona Sage”",
+					"pt-BR": "Card Sage Chorona",
+					"ru-RU": "Карточка \"Плачущая Sage\"",
+					"th-TH": "การ์ด Crying Sage",
+					"tr-TR": "Ağlayan Sage Kartı",
+					"vi-VN": "Thẻ Sage Mít Ướt",
+					"zh-CN": "Crying Sage Card",
+					"zh-TW": "聖祈哭哭 玩家卡面"
 				}
 			}
 		},
@@ -63567,7 +66407,36 @@
 					"tr-TR": "KARŞI KARŞIYA // YORU VE PHOENIX KARTI",
 					"vi-VN": "Thẻ Đối Đầu // Yoru + Phoenix",
 					"zh-CN": "Versus // Yoru + Phoenix Card",
-					"zh-TW": "宿命對決//夜戮vs菲尼克斯 玩家卡面"
+					"zh-TW": "宿命對決//夜戮 vs 菲尼克斯 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "1EC054A0-4184-8802-57FB-0AB81599BEFD",
+			"label": "1EC054A0-4184-8802-57FB-0AB81599BEFD",
+			"name":
+			{
+				"defaultText": "Arcane Jinx Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة جينكس أركين",
+					"de-DE": "Banner „Arcane-Jinx“",
+					"en-US": "Arcane Jinx Card",
+					"es-ES": "Tarjeta Jinx de Arcane",
+					"es-MX": "Tarjeta Jinx Arcane",
+					"fr-FR": "Carte Jinx d'Arcane",
+					"id-ID": "Kartu Arcane Jinx",
+					"it-IT": "Carta Jinx di Arcane",
+					"ja-JP": "Arcane ジンクス カード",
+					"ko-KR": "아케인 징크스 카드",
+					"pl-PL": "Karta „Arcane Jinx”",
+					"pt-BR": "Card Jinx de Arcane",
+					"ru-RU": "Карточка \"Аркейн: Джинкс\"",
+					"th-TH": "การ์ด Arcane Jinx",
+					"tr-TR": "Arcane Jinx Kartı",
+					"vi-VN": "Thẻ Jinx Arcane",
+					"zh-CN": "Arcane Jinx Card",
+					"zh-TW": "奧術吉茵珂絲 玩家卡面"
 				}
 			}
 		},
@@ -64670,6 +67539,35 @@
 					"vi-VN": "Thẻ Oni",
 					"zh-CN": "邪鬼 卡牌",
 					"zh-TW": "惡鬼 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "9EF2F845-4AB5-2350-EA38-0795BB21ED05",
+			"label": "9EF2F845-4AB5-2350-EA38-0795BB21ED05",
+			"name":
+			{
+				"defaultText": "Arcane Embrace Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة عناق أركين",
+					"de-DE": "Banner „Arcane-Umarmung“",
+					"en-US": "Arcane Embrace Card",
+					"es-ES": "Tarjeta Abrazo de Arcane",
+					"es-MX": "Tarjeta Abrazo Arcane",
+					"fr-FR": "Carte Câlin d'Arcane",
+					"id-ID": "Kartu Arcane Embrace",
+					"it-IT": "Carta Abbraccio di Arcane",
+					"ja-JP": "Arcane 抱擁 カード",
+					"ko-KR": "아케인 포옹 카드",
+					"pl-PL": "Karta „Objęcia Arcane”",
+					"pt-BR": "Card Abraço Arcane",
+					"ru-RU": "Карточка \"Аркейн: объятия\"",
+					"th-TH": "การ์ด Arcane Embrace",
+					"tr-TR": "Arcane'in Sinesi Kartı",
+					"vi-VN": "Thẻ Cái Ôm Arcane",
+					"zh-CN": "Arcane Embrace Card",
+					"zh-TW": "奧術擁抱 玩家卡面"
 				}
 			}
 		},
@@ -68320,6 +71218,384 @@
 		{
 			"titleText":
 			{
+				"defaultText": "Hardstuck",
+				"localizedByCulture":
+				{
+					"ar-AE": "عالق في مكانه",
+					"de-DE": "Steckenbleiber",
+					"en-US": "Hardstuck",
+					"es-ES": "Atascado",
+					"es-MX": "Atascado",
+					"fr-FR": "Au fond",
+					"id-ID": "Tersudut",
+					"it-IT": "Tristemente immobile",
+					"ja-JP": "道連れだ",
+					"ko-KR": "만년 심해",
+					"pl-PL": "Ani rusz",
+					"pt-BR": "Afundado",
+					"ru-RU": "Застрявший",
+					"th-TH": "แรงค์ไม่ขึ้น",
+					"tr-TR": "Kulağı Kesik",
+					"vi-VN": "Kẹt Cứng",
+					"zh-CN": "Hardstuck",
+					"zh-TW": "爬分卡卡"
+				}
+			},
+			"id": "CBAB01C3-4626-2418-F52B-9DB472572908",
+			"label": "CBAB01C3-4626-2418-F52B-9DB472572908",
+			"name":
+			{
+				"defaultText": "Hardstuck Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب عالق في مكانه",
+					"de-DE": "Titel „Steckenbleiber“",
+					"en-US": "Hardstuck Title",
+					"es-ES": "Título Atascado",
+					"es-MX": "Título Atascado",
+					"fr-FR": "Titre Au fond",
+					"id-ID": "Gelar Tersudut",
+					"it-IT": "Titolo Tristemente immobile",
+					"ja-JP": "道連れだ タイトル",
+					"ko-KR": "만년 심해 칭호",
+					"pl-PL": "Tytuł „Ani rusz”",
+					"pt-BR": "Título Afundado",
+					"ru-RU": "Звание \"Застрявший\"",
+					"th-TH": "ฉายาแรงค์ไม่ขึ้น",
+					"tr-TR": "Kulağı Kesik Unvanı",
+					"vi-VN": "Danh Hiệu Kẹt Cứng",
+					"zh-CN": "Hardstuck Title",
+					"zh-TW": "爬分卡卡 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Haunted",
+				"localizedByCulture":
+				{
+					"ar-AE": "المسكون",
+					"de-DE": "Heimsuchung",
+					"en-US": "Haunted",
+					"es-ES": "Fantasma",
+					"es-MX": "Embrujado",
+					"fr-FR": "Hanté",
+					"id-ID": "Angker",
+					"it-IT": "Infestato",
+					"ja-JP": "ホーンテッド",
+					"ko-KR": "귀신 들린 자",
+					"pl-PL": "Nawiedzony",
+					"pt-BR": "Assombrado",
+					"ru-RU": "Проклятый",
+					"th-TH": "ผีสิง",
+					"tr-TR": "Lanetli",
+					"vi-VN": "Ma Ám",
+					"zh-CN": "Haunted",
+					"zh-TW": "撞鬼專家"
+				}
+			},
+			"id": "EEA7D1B0-4A94-59D7-B131-5998A1B3B9F9",
+			"label": "EEA7D1B0-4A94-59D7-B131-5998A1B3B9F9",
+			"name":
+			{
+				"defaultText": "Haunted Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب المسكون",
+					"de-DE": "Titel „Heimsuchung“",
+					"en-US": "Haunted Title",
+					"es-ES": "Título Fantasma",
+					"es-MX": "Título Embrujado",
+					"fr-FR": "Titre Hanté",
+					"id-ID": "Gelar Angker",
+					"it-IT": "Titolo Infestato",
+					"ja-JP": "ホーンテッド タイトル",
+					"ko-KR": "귀신 들린 자 칭호",
+					"pl-PL": "Tytuł „Nawiedzony”",
+					"pt-BR": "Título Assombrado",
+					"ru-RU": "Звание \"Проклятый\"",
+					"th-TH": "ฉายาผีสิง",
+					"tr-TR": "Lanetli Unvanı",
+					"vi-VN": "Danh Hiệu Ma Ám",
+					"zh-CN": "Haunted Title",
+					"zh-TW": "撞鬼專家 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Unstoppable",
+				"localizedByCulture":
+				{
+					"ar-AE": "لا يقهر",
+					"de-DE": "Unaufhaltbare Macht",
+					"en-US": "Unstoppable",
+					"es-ES": "Imparable",
+					"es-MX": "Imparable",
+					"fr-FR": "Inarrêtable",
+					"id-ID": "Tak Terbendung",
+					"it-IT": "Inarrestabile",
+					"ja-JP": "アンストッパブル ",
+					"ko-KR": "저지 불가",
+					"pl-PL": "Nie do powstrzymania",
+					"pt-BR": "Implacável",
+					"ru-RU": "Неудержимый",
+					"th-TH": "ฉุดไม่อยู่",
+					"tr-TR": "Durdurulamaz",
+					"vi-VN": "Vô Phương Chống Đỡ",
+					"zh-CN": "Unstoppable",
+					"zh-TW": "勢不可擋"
+				}
+			},
+			"id": "25C60422-4246-FE96-9AC1-D88E7A379571",
+			"label": "25C60422-4246-FE96-9AC1-D88E7A379571",
+			"name":
+			{
+				"defaultText": "Unstoppable Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب لا يقهر",
+					"de-DE": "Titel „Unaufhaltbare Macht“",
+					"en-US": "Unstoppable Title",
+					"es-ES": "Título Imparable",
+					"es-MX": "Título Imparable",
+					"fr-FR": "Titre Inarrêtable",
+					"id-ID": "Gelar Tak Terbendung",
+					"it-IT": "Titolo Inarrestabile",
+					"ja-JP": "アンストッパブル タイトル",
+					"ko-KR": "저지 불가 칭호",
+					"pl-PL": "Tytuł „Nie do powstrzymania”",
+					"pt-BR": "Título Implacável",
+					"ru-RU": "Звание \"Неудержимый\"",
+					"th-TH": "ฉายาฉุดไม่อยู่",
+					"tr-TR": "Durdurulamaz Unvanı",
+					"vi-VN": "Danh Hiệu Vô Phương Chống Đỡ",
+					"zh-CN": "Unstoppable Title",
+					"zh-TW": "勢不可擋 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Jinx",
+				"localizedByCulture":
+				{
+					"ar-AE": "جينكس",
+					"de-DE": "Jinx",
+					"en-US": "Jinx",
+					"es-ES": "Jinx",
+					"es-MX": "Jinx",
+					"fr-FR": "Jinx",
+					"id-ID": "Jinx",
+					"it-IT": "Jinx",
+					"ja-JP": "ジンクス",
+					"ko-KR": "징크스",
+					"pl-PL": "Jinx",
+					"pt-BR": "Jinx",
+					"ru-RU": "Джинкс",
+					"th-TH": "Jinx",
+					"tr-TR": "Jinx",
+					"vi-VN": "Jinx",
+					"zh-CN": "Jinx",
+					"zh-TW": "吉茵珂絲"
+				}
+			},
+			"id": "8B426759-4E32-0C61-51CC-289DC0A33073",
+			"label": "8B426759-4E32-0C61-51CC-289DC0A33073",
+			"name":
+			{
+				"defaultText": "Jinx Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب جينكس",
+					"de-DE": "Titel „Jinx“",
+					"en-US": "Jinx Title",
+					"es-ES": "Título de Jinx",
+					"es-MX": "Título Jinx",
+					"fr-FR": "Titre Jinx",
+					"id-ID": "Gelar Jinx",
+					"it-IT": "Titolo Jinx",
+					"ja-JP": "ジンクス タイトル",
+					"ko-KR": "징크스 칭호",
+					"pl-PL": "Tytuł „Jinx”",
+					"pt-BR": "Título Jinx",
+					"ru-RU": "Звание \"Джинкс\"",
+					"th-TH": "ฉายา Jinx",
+					"tr-TR": "Jinx Unvanı",
+					"vi-VN": "Danh hiệu Jinx",
+					"zh-CN": "Jinx Title",
+					"zh-TW": "吉茵珂絲 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Arcane",
+				"localizedByCulture":
+				{
+					"ar-AE": "أركين",
+					"de-DE": "Arcane",
+					"en-US": "Arcane",
+					"es-ES": "Arcane",
+					"es-MX": "Arcane",
+					"fr-FR": "Arcane",
+					"id-ID": "Arcane",
+					"it-IT": "Arcane",
+					"ja-JP": "Arcane",
+					"ko-KR": "아케인",
+					"pl-PL": "Arcane",
+					"pt-BR": "Arcane",
+					"ru-RU": "Аркейн",
+					"th-TH": "Arcane",
+					"tr-TR": "Arcane",
+					"vi-VN": "Arcane",
+					"zh-CN": "Arcane",
+					"zh-TW": "奧術大師"
+				}
+			},
+			"id": "5C26249F-4396-4BD8-166A-8FBF15BA4219",
+			"label": "5C26249F-4396-4BD8-166A-8FBF15BA4219",
+			"name":
+			{
+				"defaultText": "Arcane Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب أركين",
+					"de-DE": "Titel „Arcane“",
+					"en-US": "Arcane Title",
+					"es-ES": "Título Arcane",
+					"es-MX": "Título Arcane",
+					"fr-FR": "Titre Arcane",
+					"id-ID": "Gelar Arcane",
+					"it-IT": "Titolo Arcane",
+					"ja-JP": "Arcane タイトル",
+					"ko-KR": "아케인 칭호",
+					"pl-PL": "Tytuł „Arcane”",
+					"pt-BR": "Título Arcane",
+					"ru-RU": "Звание \"Аркейн\"",
+					"th-TH": "ฉายา Arcane",
+					"tr-TR": "Arcane Unvanı",
+					"vi-VN": "Danh Hiệu Arcane",
+					"zh-CN": "Arcane Title",
+					"zh-TW": "奧術大師 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Cupcake",
+				"localizedByCulture":
+				{
+					"ar-AE": "كعكة",
+					"de-DE": "Cupcake",
+					"en-US": "Cupcake",
+					"es-ES": "Magdalena",
+					"es-MX": "Pastelito",
+					"fr-FR": "Cupcake",
+					"id-ID": "Cupcake",
+					"it-IT": "Cupcake",
+					"ja-JP": "カップケーキ",
+					"ko-KR": "컵케이크",
+					"pl-PL": "Babeczka",
+					"pt-BR": "Cupcake",
+					"ru-RU": "Кексик",
+					"th-TH": "คัพเค้ก",
+					"tr-TR": "Kap Kek",
+					"vi-VN": "Bánh Cupcake",
+					"zh-CN": "Cupcake",
+					"zh-TW": "杯子蛋糕甜心"
+				}
+			},
+			"id": "FC78400C-4356-C491-AB14-3DBB9E481073",
+			"label": "FC78400C-4356-C491-AB14-3DBB9E481073",
+			"name":
+			{
+				"defaultText": "Cupcake Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الكعكة",
+					"de-DE": "Titel „Cupcake“",
+					"en-US": "Cupcake Title",
+					"es-ES": "Título Magdalena",
+					"es-MX": "Título Pastelito",
+					"fr-FR": "Titre Cupcake",
+					"id-ID": "Gelar Cupcake",
+					"it-IT": "Titolo Cupcake",
+					"ja-JP": "カップケーキ タイトル",
+					"ko-KR": "컵케이크 칭호",
+					"pl-PL": "Tytuł „Babeczka”",
+					"pt-BR": "Título Cupcake",
+					"ru-RU": "Звание \"Кексик\"",
+					"th-TH": "ฉายาคัพเค้ก",
+					"tr-TR": "Kap Kek Unvanı",
+					"vi-VN": "Danh Hiệu Bánh Cupcake",
+					"zh-CN": "Cupcake Title",
+					"zh-TW": "杯子蛋糕甜心 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Liar",
+				"localizedByCulture":
+				{
+					"ar-AE": "كاذب",
+					"de-DE": "Lügner",
+					"en-US": "Liar",
+					"es-ES": "Embustero",
+					"es-MX": "Mentiroso",
+					"fr-FR": "Menteur",
+					"id-ID": "Pembohong",
+					"it-IT": "Bugiardo",
+					"ja-JP": "嘘つき",
+					"ko-KR": "거짓말쟁이",
+					"pl-PL": "Kłamca",
+					"pt-BR": "Mentiroso",
+					"ru-RU": "Лжец",
+					"th-TH": " พูดปด",
+					"tr-TR": "Yalancı",
+					"vi-VN": "Kẻ Dối Trá",
+					"zh-CN": "Liar",
+					"zh-TW": "詐欺大師"
+				}
+			},
+			"id": "2111510B-4DBF-E9B6-9959-60B8FBCE5B2B",
+			"label": "2111510B-4DBF-E9B6-9959-60B8FBCE5B2B",
+			"name":
+			{
+				"defaultText": "Liar Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب كاذب",
+					"de-DE": "Titel „Lügner“",
+					"en-US": "Liar Title",
+					"es-ES": "Título Embustero",
+					"es-MX": "Título Mentiroso",
+					"fr-FR": "Titre Menteur",
+					"id-ID": "Gelar Pembohong",
+					"it-IT": "Titolo Bugiardo",
+					"ja-JP": "嘘つき",
+					"ko-KR": "거짓말쟁이 칭호",
+					"pl-PL": "Tytuł „Kłamca”",
+					"pt-BR": "Título Mentiroso",
+					"ru-RU": "Звание \"Лжец\"",
+					"th-TH": "ฉายาพูดปด",
+					"tr-TR": "Yalancı Unvanı",
+					"vi-VN": "Danh Hiệu Kẻ Dối Trá",
+					"zh-CN": "Liar Title",
+					"zh-TW": "詐欺大師 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "Day One",
 				"localizedByCulture":
 				{
@@ -69504,6 +72780,66 @@
 		{
 			"levels": [
 				{
+					"id": "CE9B87BC-42FB-6610-529E-C797DCCFE5F5",
+					"label": "CE9B87BC-42FB-6610-529E-C797DCCFE5F5",
+					"name":
+					{
+						"defaultText": "BreezeDiorama",
+						"localizedByCulture":
+						{
+							"ar-AE": "BreezeDiorama",
+							"de-DE": "BreezeDiorama",
+							"en-US": "BreezeDiorama",
+							"es-ES": "BreezeDiorama",
+							"es-MX": "BreezeDiorama",
+							"fr-FR": "BreezeDiorama",
+							"id-ID": "BreezeDiorama",
+							"it-IT": "BreezeDiorama",
+							"ja-JP": "BreezeDiorama",
+							"ko-KR": "BreezeDiorama",
+							"pl-PL": "BreezeDiorama",
+							"pt-BR": "BreezeDiorama",
+							"ru-RU": "BreezeDiorama",
+							"th-TH": "BreezeDiorama",
+							"tr-TR": "BreezeDiorama",
+							"vi-VN": "BreezeDiorama",
+							"zh-CN": "BreezeDiorama",
+							"zh-TW": "BreezeDiorama"
+						}
+					}
+				}
+			],
+			"id": "CA16E324-47F3-5BCA-9F25-99A09DA14C94",
+			"label": "CA16E324-47F3-5BCA-9F25-99A09DA14C94",
+			"name":
+			{
+				"defaultText": "Easy Breezy Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق إيزي بريزي",
+					"de-DE": "Talisman „Ganz gechillt“",
+					"en-US": "Easy Breezy Buddy",
+					"es-ES": "Amuleto Breeze de verano",
+					"es-MX": "Buddy Easy Breezy",
+					"fr-FR": "Porte-bonheur Breeze fraîche",
+					"id-ID": "Gantungan Easy Breezy",
+					"it-IT": "Accessorio Paradiso caraibico",
+					"ja-JP": "イージーブリージー ガンバディー",
+					"ko-KR": "식은 죽 먹기 총기 장식",
+					"pl-PL": "Przywieszka „Łatwizna”",
+					"pt-BR": "Chaveiro De Boa na Lagoa",
+					"ru-RU": "Брелок \"Свежачок\"",
+					"th-TH": "บัดดี้ Easy Breezy",
+					"tr-TR": "Breeze Manzarası Uğuru",
+					"vi-VN": "Phụ Kiện Chòi Tháp Lộng Gió",
+					"zh-CN": "Easy Breezy Buddy",
+					"zh-TW": "遨遊樂園 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "6F6B58DB-4A4D-0ACC-1DEC-C4AB7B297529",
 					"label": "6F6B58DB-4A4D-0ACC-1DEC-C4AB7B297529",
 					"name":
@@ -69678,6 +73014,126 @@
 					"vi-VN": "Phụ Kiện Viên Đạn",
 					"zh-CN": "子弹 枪友",
 					"zh-TW": "子彈 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "46FF3A2D-46CA-3C0A-71EC-35813CAC3955",
+					"label": "46FF3A2D-46CA-3C0A-71EC-35813CAC3955",
+					"name":
+					{
+						"defaultText": "Camera",
+						"localizedByCulture":
+						{
+							"ar-AE": "Camera",
+							"de-DE": "Camera",
+							"en-US": "Camera",
+							"es-ES": "Camera",
+							"es-MX": "Camera",
+							"fr-FR": "Camera",
+							"id-ID": "Camera",
+							"it-IT": "Camera",
+							"ja-JP": "Camera",
+							"ko-KR": "Camera",
+							"pl-PL": "Camera",
+							"pt-BR": "Camera",
+							"ru-RU": "Camera",
+							"th-TH": "Camera",
+							"tr-TR": "Camera",
+							"vi-VN": "Camera",
+							"zh-CN": "Camera",
+							"zh-TW": "Camera"
+						}
+					}
+				}
+			],
+			"id": "F2F9607F-44B9-C50E-3635-FE9806B6BCB7",
+			"label": "F2F9607F-44B9-C50E-3635-FE9806B6BCB7",
+			"name":
+			{
+				"defaultText": "Get The Picture Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق التقط الصورة",
+					"de-DE": "Talisman „Checkst dus mal“",
+					"en-US": "Get The Picture Buddy",
+					"es-ES": "Amuleto Sonríe para la foto",
+					"es-MX": "Buddy Sonríe para la Foto",
+					"fr-FR": "Porte-bonheur Souriez, vous êtes filmés",
+					"id-ID": "Gantungan Get The Picture",
+					"it-IT": "Accessorio Scatta e spara",
+					"ja-JP": "撮っておき バディー",
+					"ko-KR": "이해 완료 총기 장식",
+					"pl-PL": "Przywieszka „Cyknij fotkę”",
+					"pt-BR": "Chaveiro Foca em Mim",
+					"ru-RU": "Брелок \"Улыбочку\"",
+					"th-TH": "บัดดี้ Get The Picture",
+					"tr-TR": "Şipşak Uğuru",
+					"vi-VN": "Phụ Kiện Máy Ảnh",
+					"zh-CN": "Get The Picture Buddy",
+					"zh-TW": "西瓜甜不甜 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "B65104FC-472D-EDE7-1F1C-EDA1C122E03F",
+					"label": "B65104FC-472D-EDE7-1F1C-EDA1C122E03F",
+					"name":
+					{
+						"defaultText": "CandyCane",
+						"localizedByCulture":
+						{
+							"ar-AE": "CandyCane",
+							"de-DE": "CandyCane",
+							"en-US": "CandyCane",
+							"es-ES": "CandyCane",
+							"es-MX": "CandyCane",
+							"fr-FR": "CandyCane",
+							"id-ID": "CandyCane",
+							"it-IT": "CandyCane",
+							"ja-JP": "CandyCane",
+							"ko-KR": "CandyCane",
+							"pl-PL": "CandyCane",
+							"pt-BR": "CandyCane",
+							"ru-RU": "CandyCane",
+							"th-TH": "CandyCane",
+							"tr-TR": "CandyCane",
+							"vi-VN": "CandyCane",
+							"zh-CN": "CandyCane",
+							"zh-TW": "CandyCane"
+						}
+					}
+				}
+			],
+			"id": "30F2297A-48ED-7A0D-EDBB-6FB9769AD6B1",
+			"label": "30F2297A-48ED-7A0D-EDBB-6FB9769AD6B1",
+			"name":
+			{
+				"defaultText": "Edible Ornament Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق حلية صالحة للأكل",
+					"de-DE": "Talisman „Essbare Deko“",
+					"en-US": "Edible Ornament Buddy",
+					"es-ES": "Amuleto Adorno comestible",
+					"es-MX": "Buddy Adorno Comestible",
+					"fr-FR": "Porte-bonheur Ornement comestible",
+					"id-ID": "Gantungan Edible Ornament",
+					"it-IT": "Accessorio Decorazione commestibile",
+					"ja-JP": "美味しい飾り バディー",
+					"ko-KR": "식용 장신구 총기 장식",
+					"pl-PL": "Przywieszka „Jadalna ozdoba”",
+					"pt-BR": "Chaveiro Enfeite Comestível",
+					"ru-RU": "Брелок \"Съедобная трость\"",
+					"th-TH": "บัดดี้ Edible Ornament",
+					"tr-TR": "Baston Şeker Uğuru",
+					"vi-VN": "Phụ Kiện Kẹo Gậy",
+					"zh-CN": "Edible Ornament Buddy",
+					"zh-TW": "吃我一柺 吊飾"
 				}
 			}
 		},
@@ -70344,6 +73800,66 @@
 		{
 			"levels": [
 				{
+					"id": "384134DC-48E0-9F0C-408A-21A79EB52FCE",
+					"label": "384134DC-48E0-9F0C-408A-21A79EB52FCE",
+					"name":
+					{
+						"defaultText": "ChickenDinner",
+						"localizedByCulture":
+						{
+							"ar-AE": "ChickenDinner",
+							"de-DE": "ChickenDinner",
+							"en-US": "ChickenDinner",
+							"es-ES": "ChickenDinner",
+							"es-MX": "ChickenDinner",
+							"fr-FR": "ChickenDinner",
+							"id-ID": "ChickenDinner",
+							"it-IT": "ChickenDinner",
+							"ja-JP": "ChickenDinner",
+							"ko-KR": "ChickenDinner",
+							"pl-PL": "ChickenDinner",
+							"pt-BR": "ChickenDinner",
+							"ru-RU": "ChickenDinner",
+							"th-TH": "ChickenDinner",
+							"tr-TR": "ChickenDinner",
+							"vi-VN": "ChickenDinner",
+							"zh-CN": "ChickenDinner",
+							"zh-TW": "ChickenDinner"
+						}
+					}
+				}
+			],
+			"id": "6398CE51-493F-CA74-3A80-2A9A66274613",
+			"label": "6398CE51-493F-CA74-3A80-2A9A66274613",
+			"name":
+			{
+				"defaultText": "Winner Winner Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الفائز",
+					"de-DE": "Talisman „Sieger Sieger“",
+					"en-US": "Winner Winner Buddy",
+					"es-ES": "Amuleto Sabrosa victoria",
+					"es-MX": "Buddy Cena de Ganadores",
+					"fr-FR": "Porte-bonheur Du poulet au dîner !",
+					"id-ID": "Gantungan Winner Winner",
+					"it-IT": "Accessorio Pollame vincente",
+					"ja-JP": "勝った勝った バディー",
+					"ko-KR": "승승장구 총기 장식",
+					"pl-PL": "Przywieszka „Prawdziwy zwycięzca”",
+					"pt-BR": "Chaveiro Quem Ganhar Paga o Jantar",
+					"ru-RU": "Брелок \"Ужин победителя\"",
+					"th-TH": "บัดดี้ Winner Winner",
+					"tr-TR": "Bir Baba Hindi Uğuru",
+					"vi-VN": "Phụ Kiện Chiến Thắng Vẻ Vang",
+					"zh-CN": "Winner Winner Buddy",
+					"zh-TW": "今晚吃雞 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "275AF4D5-4636-8886-B246-8299DEFEE60B",
 					"label": "275AF4D5-4636-8886-B246-8299DEFEE60B",
 					"name":
@@ -71004,6 +74520,66 @@
 		{
 			"levels": [
 				{
+					"id": "E3A9389F-4746-F960-4513-7785566219D3",
+					"label": "E3A9389F-4746-F960-4513-7785566219D3",
+					"name":
+					{
+						"defaultText": "Coin_EP3_A3",
+						"localizedByCulture":
+						{
+							"ar-AE": "Coin_EP3_A3",
+							"de-DE": "Coin_EP3_A3",
+							"en-US": "Coin_EP3_A3",
+							"es-ES": "Coin_EP3_A3",
+							"es-MX": "Coin_EP3_A3",
+							"fr-FR": "Coin_EP3_A3",
+							"id-ID": "Coin_EP3_A3",
+							"it-IT": "Coin_EP3_A3",
+							"ja-JP": "Coin_EP3_A3",
+							"ko-KR": "Coin_EP3_A3",
+							"pl-PL": "Coin_EP3_A3",
+							"pt-BR": "Coin_EP3_A3",
+							"ru-RU": "Coin_EP3_A3",
+							"th-TH": "Coin_EP3_A3",
+							"tr-TR": "Coin_EP3_A3",
+							"vi-VN": "Coin_EP3_A3",
+							"zh-CN": "Coin_EP3_A3",
+							"zh-TW": "Coin_EP3_A3"
+						}
+					}
+				}
+			],
+			"id": "0A31022F-4E2E-D59B-D0F3-A4B8E0DA0564",
+			"label": "0A31022F-4E2E-D59B-D0F3-A4B8E0DA0564",
+			"name":
+			{
+				"defaultText": "Ep 3 // 3 Coin Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق عملة الحلقة 3 // 3",
+					"de-DE": "Talisman „EP 3//3-Münze“",
+					"en-US": "Ep 3 // 3 Coin Buddy",
+					"es-ES": "Amuleto Moneda del Ep. 3 // 3",
+					"es-MX": "Buddy Moneda Ep 3 // 3",
+					"fr-FR": "Porte-bonheur Pièce Ép 3 // 3",
+					"id-ID": "Gantungan Ep 3 // 3 Coin",
+					"it-IT": "Accessorio Moneta EP 3 // 3",
+					"ja-JP": "EP 3 // 3 コイン バディー",
+					"ko-KR": "에피소드 3 // 3 코인 총기 장식",
+					"pl-PL": "Przywieszka „Moneta odc. 3 // 3”",
+					"pt-BR": "Chaveiro Moeda Ep 3 // 3",
+					"ru-RU": "БРЕЛОК \"Жетон эпизода 3 // 3\"",
+					"th-TH": "บัดดี้ Ep 3 // 3 Coin",
+					"tr-TR": "03. Bölüm // 3. Para Uğuru",
+					"vi-VN": "Phụ Kiện Xu Hồi 3 // 3",
+					"zh-CN": "Ep 3 // 3 Coin Buddy",
+					"zh-TW": "第三幕 第三章 紀念幣 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "C5F4C423-43DE-9553-456D-FBB809CFB74C",
 					"label": "C5F4C423-43DE-9553-456D-FBB809CFB74C",
 					"name":
@@ -71358,6 +74934,66 @@
 					"vi-VN": "Phụ Kiện Chén Vương Miện",
 					"zh-CN": "皇冠杯 枪友",
 					"zh-TW": "冠軍咖啡 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "635AAF5B-4351-7D5E-ED47-E5AA3AD48214",
+					"label": "635AAF5B-4351-7D5E-ED47-E5AA3AD48214",
+					"name":
+					{
+						"defaultText": "Cupcake",
+						"localizedByCulture":
+						{
+							"ar-AE": "Cupcake",
+							"de-DE": "Cupcake",
+							"en-US": "Cupcake",
+							"es-ES": "Cupcake",
+							"es-MX": "Cupcake",
+							"fr-FR": "Cupcake",
+							"id-ID": "Cupcake",
+							"it-IT": "Cupcake",
+							"ja-JP": "Cupcake",
+							"ko-KR": "Cupcake",
+							"pl-PL": "Cupcake",
+							"pt-BR": "Cupcake",
+							"ru-RU": "Cupcake",
+							"th-TH": "Cupcake",
+							"tr-TR": "Cupcake",
+							"vi-VN": "Cupcake",
+							"zh-CN": "Cupcake",
+							"zh-TW": "Cupcake"
+						}
+					}
+				}
+			],
+			"id": "2092C352-47D8-BE17-724C-14807EA7041A",
+			"label": "2092C352-47D8-BE17-724C-14807EA7041A",
+			"name":
+			{
+				"defaultText": "Arcane Cupcake Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق كعكة أركين",
+					"de-DE": "Talisman „Arcane-Cupcake“",
+					"en-US": "Arcane Cupcake Buddy",
+					"es-ES": "Amuleto Magdalena de Arcane",
+					"es-MX": "Buddy Pastelito Arcane",
+					"fr-FR": "Porte-bonheur Cupcake d'Arcane",
+					"id-ID": "Gantungan Arcane Cupcake",
+					"it-IT": "Accessorio Cupcake di Arcane",
+					"ja-JP": "Arcane カップケーキ バディー",
+					"ko-KR": "아케인 컵케이크 총기 장식",
+					"pl-PL": "Przywieszka „Babeczka Arcane”",
+					"pt-BR": "Chaveiro Cupcake Arcane",
+					"ru-RU": "Брелок \"Аркейн: кексик\"",
+					"th-TH": "บัดดี้ Arcane Cupcake",
+					"tr-TR": "Arcane Kap Keki Uğuru",
+					"vi-VN": "Phụ Kiện Bánh Cupcake Arcane",
+					"zh-CN": "Arcane Cupcake Buddy",
+					"zh-TW": "奧術杯子蛋糕 吊飾"
 				}
 			}
 		},
@@ -71904,6 +75540,126 @@
 		{
 			"levels": [
 				{
+					"id": "01C0C583-4277-2BA2-6D45-18AC30C323DE",
+					"label": "01C0C583-4277-2BA2-6D45-18AC30C323DE",
+					"name":
+					{
+						"defaultText": "DumpsterFire",
+						"localizedByCulture":
+						{
+							"ar-AE": "DumpsterFire",
+							"de-DE": "DumpsterFire",
+							"en-US": "DumpsterFire",
+							"es-ES": "DumpsterFire",
+							"es-MX": "DumpsterFire",
+							"fr-FR": "DumpsterFire",
+							"id-ID": "DumpsterFire",
+							"it-IT": "DumpsterFire",
+							"ja-JP": "DumpsterFire",
+							"ko-KR": "DumpsterFire",
+							"pl-PL": "DumpsterFire",
+							"pt-BR": "DumpsterFire",
+							"ru-RU": "DumpsterFire",
+							"th-TH": "DumpsterFire",
+							"tr-TR": "DumpsterFire",
+							"vi-VN": "DumpsterFire",
+							"zh-CN": "DumpsterFire",
+							"zh-TW": "DumpsterFire"
+						}
+					}
+				}
+			],
+			"id": "5E4482B8-4C85-D570-D9B6-929A8D6094D5",
+			"label": "5E4482B8-4C85-D570-D9B6-929A8D6094D5",
+			"name":
+			{
+				"defaultText": "Dumpster Fire Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق نار سلة القمامة",
+					"de-DE": "Talisman „Mülleimerbrand“",
+					"en-US": "Dumpster Fire Buddy",
+					"es-ES": "Amuleto Contenedor en llamas",
+					"es-MX": "Buddy Basurero en Llamas",
+					"fr-FR": "Porte-bonheur Gros bordel",
+					"id-ID": "Gantungan Dumpster Fire",
+					"it-IT": "Accessorio Che disastro",
+					"ja-JP": "ダンプスターファイア バディー",
+					"ko-KR": "아수라장 총기 장식",
+					"pl-PL": "Przywieszka „Płonący śmietnik”",
+					"pt-BR": "Chaveiro Fogo no Parquinho",
+					"ru-RU": "Брелок \"Отстой\"",
+					"th-TH": "บัดดี้ Dumpster Fire",
+					"tr-TR": "Çöp Yangını Uğuru",
+					"vi-VN": "Phụ Kiện Thùng Rác Bốc Cháy",
+					"zh-CN": "Dumpster Fire Buddy",
+					"zh-TW": "垃圾桶大災難 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "1FABB91F-47B0-6B4F-ABBE-098F9EBDD8E7",
+					"label": "1FABB91F-47B0-6B4F-ABBE-098F9EBDD8E7",
+					"name":
+					{
+						"defaultText": "DumpsterFireGold",
+						"localizedByCulture":
+						{
+							"ar-AE": "DumpsterFireGold",
+							"de-DE": "DumpsterFireGold",
+							"en-US": "DumpsterFireGold",
+							"es-ES": "DumpsterFireGold",
+							"es-MX": "DumpsterFireGold",
+							"fr-FR": "DumpsterFireGold",
+							"id-ID": "DumpsterFireGold",
+							"it-IT": "DumpsterFireGold",
+							"ja-JP": "DumpsterFireGold",
+							"ko-KR": "DumpsterFireGold",
+							"pl-PL": "DumpsterFireGold",
+							"pt-BR": "DumpsterFireGold",
+							"ru-RU": "DumpsterFireGold",
+							"th-TH": "DumpsterFireGold",
+							"tr-TR": "DumpsterFireGold",
+							"vi-VN": "DumpsterFireGold",
+							"zh-CN": "DumpsterFireGold",
+							"zh-TW": "DumpsterFireGold"
+						}
+					}
+				}
+			],
+			"id": "6E7D4B62-402B-9E2A-C531-58B5091D8DC8",
+			"label": "6E7D4B62-402B-9E2A-C531-58B5091D8DC8",
+			"name":
+			{
+				"defaultText": "Epilogue: Dumpster Fire Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الخاتمة: نار سلة القمامة",
+					"de-DE": "Talisman „Epilog: Mülleimerbrand“",
+					"en-US": "Epilogue: Dumpster Fire Buddy",
+					"es-ES": "Epílogo: Amuleto Contenedor en llamas",
+					"es-MX": "Epílogo: Buddy Basurero en Llamas",
+					"fr-FR": "Porte-bonheur Épilogue : Gros bordel",
+					"id-ID": "Gantungan Epilogue: Dumpster Fire",
+					"it-IT": "Accessorio Epilogo: Che disastro",
+					"ja-JP": "エピローグ: ダンプスターファイア バディー",
+					"ko-KR": "에필로그: 아수라장 총기 장식",
+					"pl-PL": "Przywieszka „Epilog: Płonący śmietnik”",
+					"pt-BR": "Epílogo: Chaveiro Fogo no Parquinho",
+					"ru-RU": "Брелок \"Эпилог: отстой\"",
+					"th-TH": "บัดดี้บทส่งท้าย: Dumpster Fire",
+					"tr-TR": "Kapanış: Çöp Yangını Uğuru",
+					"vi-VN": "Hồi Kết: Phụ Kiện Thùng Rác Bốc Cháy",
+					"zh-CN": "Epilogue: Dumpster Fire Buddy",
+					"zh-TW": "後記：垃圾桶大災難 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "ED95E342-4116-F07C-88B9-368A5FADB224",
 					"label": "ED95E342-4116-F07C-88B9-368A5FADB224",
 					"name":
@@ -72017,7 +75773,7 @@
 					"tr-TR": "ŞAKIYANÇELİK UĞURU",
 					"vi-VN": "Phụ Kiện Kim Ca",
 					"zh-CN": "松钢 枪友",
-					"zh-TW": "冷銀秘鋼 吊飾"
+					"zh-TW": "冷銀祕鋼 吊飾"
 				}
 			}
 		},
@@ -72378,6 +76134,66 @@
 					"vi-VN": "Phụ Kiện Ascent Trên Không",
 					"zh-CN": "上升崛起 枪友",
 					"zh-TW": "升天島 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "9BA23AE7-4E2F-635E-F6C3-159EB91414CC",
+					"label": "9BA23AE7-4E2F-635E-F6C3-159EB91414CC",
+					"name":
+					{
+						"defaultText": "Poro",
+						"localizedByCulture":
+						{
+							"ar-AE": "Poro",
+							"de-DE": "Poro",
+							"en-US": "Poro",
+							"es-ES": "Poro",
+							"es-MX": "Poro",
+							"fr-FR": "Poro",
+							"id-ID": "Poro",
+							"it-IT": "Poro",
+							"ja-JP": "Poro",
+							"ko-KR": "Poro",
+							"pl-PL": "Poro",
+							"pt-BR": "Poro",
+							"ru-RU": "Poro",
+							"th-TH": "Poro",
+							"tr-TR": "Poro",
+							"vi-VN": "Poro",
+							"zh-CN": "Poro",
+							"zh-TW": "Poro"
+						}
+					}
+				}
+			],
+			"id": "237F36EF-40D5-410A-84BE-6C896AAD6FDE",
+			"label": "237F36EF-40D5-410A-84BE-6C896AAD6FDE",
+			"name":
+			{
+				"defaultText": "Arcane Poro Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بورو أركين",
+					"de-DE": "Talisman „Arcane-Poro“",
+					"en-US": "Arcane Poro Buddy",
+					"es-ES": "Amuleto Poro de Arcane",
+					"es-MX": "Buddy Poro Arcane",
+					"fr-FR": "Porte-bonheur Poro d'Arcane",
+					"id-ID": "Gantungan Arcane Poro",
+					"it-IT": "Accessorio Poro di Arcane",
+					"ja-JP": "Arcane ポロ バディー",
+					"ko-KR": "아케인 포로 총기 장식",
+					"pl-PL": "Przywieszka „Arcane Poro”",
+					"pt-BR": "Chaveiro Poro de Arcane",
+					"ru-RU": "Граффити \"Аркейн: поро\"",
+					"th-TH": "บัดดี้ Arcane Poro",
+					"tr-TR": "Arcane Poro Uğuru",
+					"vi-VN": "Phụ Kiện Poro Arcane",
+					"zh-CN": "Arcane Poro Buddy",
+					"zh-TW": "奧術普羅 吊飾"
 				}
 			}
 		},
@@ -73517,7 +77333,7 @@
 					"tr-TR": "KADİM GİZEMİN ANAHTARI UĞURU",
 					"vi-VN": "Phụ Kiện Chìa Khoá Những Bí Mật Cổ Xưa",
 					"zh-CN": "古代秘密之钥 配饰",
-					"zh-TW": "古秘之鑰 吊飾"
+					"zh-TW": "古祕之鑰 吊飾"
 				}
 			}
 		},
@@ -74064,6 +77880,66 @@
 		{
 			"levels": [
 				{
+					"id": "9A1F81D9-4FD2-35DA-2CEC-BA8B75EE6EF9",
+					"label": "9A1F81D9-4FD2-35DA-2CEC-BA8B75EE6EF9",
+					"name":
+					{
+						"defaultText": "ManceWitch",
+						"localizedByCulture":
+						{
+							"ar-AE": "ManceWitch",
+							"de-DE": "ManceWitch",
+							"en-US": "ManceWitch",
+							"es-ES": "ManceWitch",
+							"es-MX": "ManceWitch",
+							"fr-FR": "ManceWitch",
+							"id-ID": "ManceWitch",
+							"it-IT": "ManceWitch",
+							"ja-JP": "ManceWitch",
+							"ko-KR": "ManceWitch",
+							"pl-PL": "ManceWitch",
+							"pt-BR": "ManceWitch",
+							"ru-RU": "ManceWitch",
+							"th-TH": "ManceWitch",
+							"tr-TR": "ManceWitch",
+							"vi-VN": "ManceWitch",
+							"zh-CN": "ManceWitch",
+							"zh-TW": "ManceWitch"
+						}
+					}
+				}
+			],
+			"id": "317E8D57-488E-05E5-779B-E98B541220D3",
+			"label": "317E8D57-488E-05E5-779B-E98B541220D3",
+			"name":
+			{
+				"defaultText": "Magic Mance Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق مانس المسحور",
+					"de-DE": "Talisman „Magische Bedrohung“",
+					"en-US": "Magic Mance Buddy",
+					"es-ES": "Amuleto Mago Mance",
+					"es-MX": "Buddy Mance Mágico",
+					"fr-FR": "Porte-bonheur Le magicien Mance",
+					"id-ID": "Gantungan Magic Mance",
+					"it-IT": "Accessorio Magico Mance",
+					"ja-JP": "魔法使いマンス バディー",
+					"ko-KR": "마법의 맨스 총기 장식",
+					"pl-PL": "Przywieszka „Magiczny Mance”",
+					"pt-BR": "Chaveiro Mance Mágico",
+					"ru-RU": "Брелок \"Волшебник Мэнс\"",
+					"th-TH": "บัดดี้ Magic Mance",
+					"tr-TR": "Cadı Kedi Uğuru",
+					"vi-VN": "Phụ Kiện Mance Diệu Kỳ",
+					"zh-CN": "Magic Mance Buddy",
+					"zh-TW": "魔法小貓 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "55127784-49F1-AFB7-A1CE-6699424088DF",
 					"label": "55127784-49F1-AFB7-A1CE-6699424088DF",
 					"name":
@@ -74298,6 +78174,126 @@
 					"vi-VN": "Phụ Kiện Buông Mic",
 					"zh-CN": "丢麦 枪友",
 					"zh-TW": "丟麥 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "A0A1A09A-45DF-0373-96A5-D08C6852F47F",
+					"label": "A0A1A09A-45DF-0373-96A5-D08C6852F47F",
+					"name":
+					{
+						"defaultText": "Monkey",
+						"localizedByCulture":
+						{
+							"ar-AE": "Monkey",
+							"de-DE": "Monkey",
+							"en-US": "Monkey",
+							"es-ES": "Monkey",
+							"es-MX": "Monkey",
+							"fr-FR": "Monkey",
+							"id-ID": "Monkey",
+							"it-IT": "Monkey",
+							"ja-JP": "Monkey",
+							"ko-KR": "Monkey",
+							"pl-PL": "Monkey",
+							"pt-BR": "Monkey",
+							"ru-RU": "Monkey",
+							"th-TH": "Monkey",
+							"tr-TR": "Monkey",
+							"vi-VN": "Monkey",
+							"zh-CN": "Monkey",
+							"zh-TW": "Monkey"
+						}
+					}
+				}
+			],
+			"id": "58DE9852-48EF-57F8-D6F0-8A885B4C27B0",
+			"label": "58DE9852-48EF-57F8-D6F0-8A885B4C27B0",
+			"name":
+			{
+				"defaultText": "Monkey Business Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق عمل قرود",
+					"de-DE": "Talisman „Monkey Business“",
+					"en-US": "Monkey Business Buddy",
+					"es-ES": "Amuleto Monkey Business",
+					"es-MX": "Buddy Monito Travieso",
+					"fr-FR": "Porte-bonheur Singeries",
+					"id-ID": "Gantungan Monkey Business",
+					"it-IT": "Accessorio Scimmiottamento",
+					"ja-JP": "モンキービジネス バディー",
+					"ko-KR": "짓궂은 장난 총기 장식",
+					"pl-PL": "Przywieszka „Małpi biznes”",
+					"pt-BR": "Chaveiro Macacos me Mordam",
+					"ru-RU": "Брелок \"Обезьянничанье \"",
+					"th-TH": "บัดดี้ Monkey Business ",
+					"tr-TR": "Maybom Uğuru",
+					"vi-VN": "Phụ Kiện Khỉ Nhí Nhố",
+					"zh-CN": "Monkey Business Buddy",
+					"zh-TW": "耍猴戲 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "584D7BE1-4BDC-C422-251C-F7BEFC917558",
+					"label": "584D7BE1-4BDC-C422-251C-F7BEFC917558",
+					"name":
+					{
+						"defaultText": "Nexus",
+						"localizedByCulture":
+						{
+							"ar-AE": "Nexus",
+							"de-DE": "Nexus",
+							"en-US": "Nexus",
+							"es-ES": "Nexus",
+							"es-MX": "Nexus",
+							"fr-FR": "Nexus",
+							"id-ID": "Nexus",
+							"it-IT": "Nexus",
+							"ja-JP": "Nexus",
+							"ko-KR": "Nexus",
+							"pl-PL": "Nexus",
+							"pt-BR": "Nexus",
+							"ru-RU": "Nexus",
+							"th-TH": "Nexus",
+							"tr-TR": "Nexus",
+							"vi-VN": "Nexus",
+							"zh-CN": "Nexus",
+							"zh-TW": "Nexus"
+						}
+					}
+				}
+			],
+			"id": "6E3F8DAD-46CA-9F83-1FEE-A7A258FF9537",
+			"label": "6E3F8DAD-46CA-9F83-1FEE-A7A258FF9537",
+			"name":
+			{
+				"defaultText": "Genesis Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق جينيسيس",
+					"de-DE": "Talisman „Genesis“",
+					"en-US": "Genesis Buddy",
+					"es-ES": "Amuleto Genesis",
+					"es-MX": "Buddy Génesis",
+					"fr-FR": "Porte-bonheur Genèse",
+					"id-ID": "Gantungan Genesis",
+					"it-IT": "Accessorio Genesi",
+					"ja-JP": "ジェネシス バディー",
+					"ko-KR": "제네시스 총기 장식",
+					"pl-PL": "Przywieszka „Geneza”",
+					"pt-BR": "Chaveiro Gênese",
+					"ru-RU": "Брелок \"Истоки\"",
+					"th-TH": "บัดดี้ Genesis",
+					"tr-TR": "Başlangıç Uğuru",
+					"vi-VN": "Phụ Kiện Khởi Nguyên",
+					"zh-CN": "Genesis Buddy",
+					"zh-TW": "宇宙創始 吊飾"
 				}
 			}
 		},
@@ -77124,6 +81120,66 @@
 		{
 			"levels": [
 				{
+					"id": "6BD8578A-49AA-3BFF-B368-E3A044EF8E54",
+					"label": "6BD8578A-49AA-3BFF-B368-E3A044EF8E54",
+					"name":
+					{
+						"defaultText": "Fishbones",
+						"localizedByCulture":
+						{
+							"ar-AE": "Fishbones",
+							"de-DE": "Fishbones",
+							"en-US": "Fishbones",
+							"es-ES": "Fishbones",
+							"es-MX": "Fishbones",
+							"fr-FR": "Fishbones",
+							"id-ID": "Fishbones",
+							"it-IT": "Fishbones",
+							"ja-JP": "Fishbones",
+							"ko-KR": "Fishbones",
+							"pl-PL": "Fishbones",
+							"pt-BR": "Fishbones",
+							"ru-RU": "Fishbones",
+							"th-TH": "Fishbones",
+							"tr-TR": "Fishbones",
+							"vi-VN": "Fishbones",
+							"zh-CN": "Fishbones",
+							"zh-TW": "Fishbones"
+						}
+					}
+				}
+			],
+			"id": "912110CB-4F40-ADA7-E338-518244FFF9B2",
+			"label": "912110CB-4F40-ADA7-E338-518244FFF9B2",
+			"name":
+			{
+				"defaultText": "Fishbones Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق فيشبونز",
+					"de-DE": "Talisman „Fischgräten“",
+					"en-US": "Fishbones Buddy",
+					"es-ES": "Amuleto Espinas",
+					"es-MX": "Buddy Carapescado",
+					"fr-FR": "Porte-bonheur Poiscaille",
+					"id-ID": "Gantungan Fishbones",
+					"it-IT": "Accessorio Fishbones",
+					"ja-JP": "フィッシュボーン バディー",
+					"ko-KR": "생선대가리 총기 장식",
+					"pl-PL": "Przywieszka „Rybeńka”",
+					"pt-BR": "Chaveiro Fishbones",
+					"ru-RU": "Брелок \"Скелетница\"",
+					"th-TH": "บัดดี้ Fishbones",
+					"tr-TR": "Kılçık Uğuru",
+					"vi-VN": "Phụ Kiện Xương Cá",
+					"zh-CN": "Fishbones Buddy",
+					"zh-TW": "惡鯊 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "097E59DD-42AE-D86A-1CAA-159D1B2EE838",
 					"label": "097E59DD-42AE-D86A-1CAA-159D1B2EE838",
 					"name":
@@ -77718,6 +81774,66 @@
 					"vi-VN": "Phụ Kiện Mảnh Vỡ Không Gian",
 					"zh-CN": "空间碎片 枪友",
 					"zh-TW": "次元碎片 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "0DA068F3-4742-B0B6-5C63-AEAC0FCF983F",
+					"label": "0DA068F3-4742-B0B6-5C63-AEAC0FCF983F",
+					"name":
+					{
+						"defaultText": "Stocking",
+						"localizedByCulture":
+						{
+							"ar-AE": "Stocking",
+							"de-DE": "Stocking",
+							"en-US": "Stocking",
+							"es-ES": "Stocking",
+							"es-MX": "Stocking",
+							"fr-FR": "Stocking",
+							"id-ID": "Stocking",
+							"it-IT": "Stocking",
+							"ja-JP": "Stocking",
+							"ko-KR": "Stocking",
+							"pl-PL": "Stocking",
+							"pt-BR": "Stocking",
+							"ru-RU": "Stocking",
+							"th-TH": "Stocking",
+							"tr-TR": "Stocking",
+							"vi-VN": "Stocking",
+							"zh-CN": "Stocking",
+							"zh-TW": "Stocking"
+						}
+					}
+				}
+			],
+			"id": "BC8E9F3D-432B-3971-5525-01ACE2A74ECA",
+			"label": "BC8E9F3D-432B-3971-5525-01ACE2A74ECA",
+			"name":
+			{
+				"defaultText": "Sock of Cheer Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق جورب المشجعين",
+					"de-DE": "Talisman „Jubelsocke“",
+					"en-US": "Sock of Cheer Buddy",
+					"es-ES": "Amuleto Calcetín de la alegría",
+					"es-MX": "Buddy Calceta de Alegría",
+					"fr-FR": "Porte-bonheur Chaussette festive",
+					"id-ID": "Gantungan Sock of Cheer",
+					"it-IT": "Accessorio Calza celebrativa",
+					"ja-JP": "ワクワク靴下 バディー",
+					"ko-KR": "응원 양말 총기 장식",
+					"pl-PL": "Przywieszka „Skarpetka szczęścia”",
+					"pt-BR": "Chaveiro Meia Festiva",
+					"ru-RU": "Брелок \"Носок с подарками\"",
+					"th-TH": "บัดดี้ Sock of Cheer",
+					"tr-TR": "Yılbaşı Çorabı Uğuru",
+					"vi-VN": "Phụ Kiện Chiếc Tất Vui Vẻ",
+					"zh-CN": "Sock of Cheer Buddy",
+					"zh-TW": "襪！真棒 吊飾"
 				}
 			}
 		},
@@ -78378,6 +82494,66 @@
 					"vi-VN": "Phụ Kiện Tòa Tháp Sức Mạnh",
 					"zh-CN": "Tower of Power Buddy",
 					"zh-TW": "力量之塔 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "03E30963-44EB-491C-8D0F-3BA19822B650",
+					"label": "03E30963-44EB-491C-8D0F-3BA19822B650",
+					"name":
+					{
+						"defaultText": "UFO",
+						"localizedByCulture":
+						{
+							"ar-AE": "UFO",
+							"de-DE": "UFO",
+							"en-US": "UFO",
+							"es-ES": "UFO",
+							"es-MX": "UFO",
+							"fr-FR": "UFO",
+							"id-ID": "UFO",
+							"it-IT": "UFO",
+							"ja-JP": "UFO",
+							"ko-KR": "UFO",
+							"pl-PL": "UFO",
+							"pt-BR": "UFO",
+							"ru-RU": "UFO",
+							"th-TH": "UFO",
+							"tr-TR": "UFO",
+							"vi-VN": "UFO",
+							"zh-CN": "UFO",
+							"zh-TW": "UFO"
+						}
+					}
+				}
+			],
+			"id": "30ABC170-4CBB-BD6E-8A19-B1BBE91FA99A",
+			"label": "30ABC170-4CBB-BD6E-8A19-B1BBE91FA99A",
+			"name":
+			{
+				"defaultText": "Outta This World Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق من عالم آخر",
+					"de-DE": "Talisman „Von fernen Welten“",
+					"en-US": "Outta This World Buddy",
+					"es-ES": "Amuleto Alienigenial",
+					"es-MX": "Buddy De Otro Mundo",
+					"fr-FR": "Porte-bonheur Pas de ce monde",
+					"id-ID": "Gantungan Outta This World",
+					"it-IT": "Accessorio Fuori dal mondo",
+					"ja-JP": "さらば地球よ バディー",
+					"ko-KR": "이세계 총기 장식",
+					"pl-PL": "Przywieszka „Nie z tej Ziemi”",
+					"pt-BR": "Chaveiro De Outro Mundo",
+					"ru-RU": "Брелок \"НЛО\"",
+					"th-TH": "บัดดี้ Outta This World",
+					"tr-TR": "Bu Dünyanın Yabancısı Uğuru",
+					"vi-VN": "Phụ Kiện Đĩa Bay",
+					"zh-CN": "Outta This World Buddy",
+					"zh-TW": "天外飛仙 吊飾"
 				}
 			}
 		},
@@ -80300,6 +84476,66 @@
 					"vi-VN": "Hình Phun Sơn Quang Phổ",
 					"zh-CN": "Spectrum Spray",
 					"zh-TW": "光炫聲譜 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "A15B1907-49AD-36F4-0EB0-C5BC416F7C2B",
+					"label": "A15B1907-49AD-36F4-0EB0-C5BC416F7C2B",
+					"name":
+					{
+						"defaultText": "Boom",
+						"localizedByCulture":
+						{
+							"ar-AE": "Boom",
+							"de-DE": "Boom",
+							"en-US": "Boom",
+							"es-ES": "Boom",
+							"es-MX": "Boom",
+							"fr-FR": "Boom",
+							"id-ID": "Boom",
+							"it-IT": "Boom",
+							"ja-JP": "Boom",
+							"ko-KR": "Boom",
+							"pl-PL": "Boom",
+							"pt-BR": "Boom",
+							"ru-RU": "Boom",
+							"th-TH": "Boom",
+							"tr-TR": "Boom",
+							"vi-VN": "Boom",
+							"zh-CN": "Boom",
+							"zh-TW": "Boom"
+						}
+					}
+				}
+			],
+			"id": "35D8FB90-49A9-641E-FF08-B4BC20421908",
+			"label": "35D8FB90-49A9-641E-FF08-B4BC20421908",
+			"name":
+			{
+				"defaultText": "Boom! Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة بووم!",
+					"de-DE": "Graffiti „Bumm!“",
+					"en-US": "Boom! Spray",
+					"es-ES": "Grafiti ¡Bum!",
+					"es-MX": "Spray ¡Kabum!",
+					"fr-FR": "Graffiti Boum !",
+					"id-ID": "Spray Boom!",
+					"it-IT": "Spray Boom!",
+					"ja-JP": "Boom! スプレー",
+					"ko-KR": "펑! 스프레이",
+					"pl-PL": "Graffiti „Bum!”",
+					"pt-BR": "Spray Boom!",
+					"ru-RU": "Граффити \"Бум!\"",
+					"th-TH": "สเปรย์ Boom!",
+					"tr-TR": "Boom! Spreyi",
+					"vi-VN": "Hình Phun Sơn Nổ Bùm! ",
+					"zh-CN": "Boom! Spray",
+					"zh-TW": "砰！ 塗鴉"
 				}
 			}
 		},
@@ -82361,7 +86597,7 @@
 							"fr-FR": "Graffiti Gros bordel",
 							"id-ID": "Spray Dumpster Fire",
 							"it-IT": "Spray Che disastro",
-							"ja-JP": "ダンプスター ファイア スプレー",
+							"ja-JP": "ダンプスターファイア スプレー",
 							"ko-KR": "아수라장 스프레이",
 							"pl-PL": "Graffiti „Płonący śmietnik”",
 							"pt-BR": "Spray Fogo no Parquinho",
@@ -82390,7 +86626,7 @@
 					"fr-FR": "Graffiti Gros bordel",
 					"id-ID": "Spray Dumpster Fire",
 					"it-IT": "Spray Che disastro",
-					"ja-JP": "ダンプスター ファイア スプレー",
+					"ja-JP": "ダンプスターファイア スプレー",
 					"ko-KR": "아수라장 스프레이",
 					"pl-PL": "Graffiti „Płonący śmietnik”",
 					"pt-BR": "Spray Fogo no Parquinho",
@@ -83510,7 +87746,7 @@
 							"tr-TR": "ŞAKIYANÇELİK SPREYİ",
 							"vi-VN": "Hình Phun Sơn Kim Ca",
 							"zh-CN": "松钢 涂鸦",
-							"zh-TW": "冷銀秘鋼 塗鴉"
+							"zh-TW": "冷銀祕鋼 塗鴉"
 						}
 					}
 				}
@@ -83539,7 +87775,7 @@
 					"tr-TR": "ŞAKIYANÇELİK SPREYİ",
 					"vi-VN": "Hình Phun Sơn Kim Ca",
 					"zh-CN": "松钢 涂鸦",
-					"zh-TW": "冷銀秘鋼 塗鴉"
+					"zh-TW": "冷銀祕鋼 塗鴉"
 				}
 			}
 		},
@@ -83553,7 +87789,7 @@
 						"defaultText": "Hang in There, Mance Spray",
 						"localizedByCulture":
 						{
-							"ar-AE": "رسمة تماسك في مكانك يا مانس",
+							"ar-AE": "رسمة تماسك يا مانس",
 							"de-DE": "Graffiti „Halt durch, Mance“",
 							"en-US": "Hang in There, Mance Spray",
 							"es-ES": "Grafiti Ánimo, Mance",
@@ -83582,7 +87818,7 @@
 				"defaultText": "Hang in There, Mance Spray",
 				"localizedByCulture":
 				{
-					"ar-AE": "رسمة تماسك في مكانك يا مانس",
+					"ar-AE": "رسمة تماسك يا مانس",
 					"de-DE": "Graffiti „Halt durch, Mance“",
 					"en-US": "Hang in There, Mance Spray",
 					"es-ES": "Grafiti Ánimo, Mance",
@@ -85145,7 +89381,7 @@
 					"ar-AE": "رسمة الحذاء الرياضي",
 					"de-DE": "Graffiti „Knusprig“",
 					"en-US": "Crispy Spray",
-					"es-ES": "Grafiti Crujiente",
+					"es-ES": "Grafiti Estilazo",
 					"es-MX": "Spray Como Nuevos",
 					"fr-FR": "Graffiti Stylé",
 					"id-ID": "Spray Crispy",
@@ -85505,7 +89741,7 @@
 					"ar-AE": "رسمة الانكسار",
 					"de-DE": "Graffiti „OTL“",
 					"en-US": "OTL Spray",
-					"es-ES": "Grafiti Amor verdadero",
+					"es-ES": "Grafiti No puedo más",
 					"es-MX": "Spray OTL",
 					"fr-FR": "Graffiti Désespoir",
 					"id-ID": "Spray OTL",
@@ -85820,6 +90056,906 @@
 					"vi-VN": "Hình Phun Sơn Cũng Thường Thôi",
 					"zh-CN": "Not Impressed Spray",
 					"zh-TW": "啊不就好棒棒 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "2ECB9E9B-4A10-A9F3-D8CF-13ABE4C97061",
+					"label": "2ECB9E9B-4A10-A9F3-D8CF-13ABE4C97061",
+					"name":
+					{
+						"defaultText": "AstraVolunteers",
+						"localizedByCulture":
+						{
+							"ar-AE": "AstraVolunteers",
+							"de-DE": "AstraVolunteers",
+							"en-US": "AstraVolunteers",
+							"es-ES": "AstraVolunteers",
+							"es-MX": "AstraVolunteers",
+							"fr-FR": "AstraVolunteers",
+							"id-ID": "AstraVolunteers",
+							"it-IT": "AstraVolunteers",
+							"ja-JP": "AstraVolunteers",
+							"ko-KR": "AstraVolunteers",
+							"pl-PL": "AstraVolunteers",
+							"pt-BR": "AstraVolunteers",
+							"ru-RU": "AstraVolunteers",
+							"th-TH": "AstraVolunteers",
+							"tr-TR": "AstraVolunteers",
+							"vi-VN": "AstraVolunteers",
+							"zh-CN": "AstraVolunteers",
+							"zh-TW": "AstraVolunteers"
+						}
+					}
+				}
+			],
+			"id": "B4B684BD-40BD-15B2-86B5-3B827A636090",
+			"label": "B4B684BD-40BD-15B2-86B5-3B827A636090",
+			"name":
+			{
+				"defaultText": "Volunteer Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة المتطوع",
+					"de-DE": "Graffiti „Freiwilliger“",
+					"en-US": "Volunteer Spray",
+					"es-ES": "Grafiti Voluntario",
+					"es-MX": "Spray Voluntario",
+					"fr-FR": "Graffiti Volontaire",
+					"id-ID": "Spray Volunteer",
+					"it-IT": "Spray Volontario",
+					"ja-JP": "まかせて！ スプレー",
+					"ko-KR": "내가 할게 스프레이",
+					"pl-PL": "Graffiti „Wolontariusz”",
+					"pt-BR": "Spray Voluntário",
+					"ru-RU": "Граффити \"Выбери меня\"",
+					"th-TH": "สเปรย์ Volunteer",
+					"tr-TR": "Gönüllü Spreyi",
+					"vi-VN": "Hình Phun Sơn Tình Nguyện",
+					"zh-CN": "Volunteer Spray",
+					"zh-TW": "選我 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "1CA7C3BF-4624-AFB5-8AA2-BB92702B43A5",
+					"label": "1CA7C3BF-4624-AFB5-8AA2-BB92702B43A5",
+					"name":
+					{
+						"defaultText": "BreezeBirdDrawing",
+						"localizedByCulture":
+						{
+							"ar-AE": "BreezeBirdDrawing",
+							"de-DE": "BreezeBirdDrawing",
+							"en-US": "BreezeBirdDrawing",
+							"es-ES": "BreezeBirdDrawing",
+							"es-MX": "BreezeBirdDrawing",
+							"fr-FR": "BreezeBirdDrawing",
+							"id-ID": "BreezeBirdDrawing",
+							"it-IT": "BreezeBirdDrawing",
+							"ja-JP": "BreezeBirdDrawing",
+							"ko-KR": "BreezeBirdDrawing",
+							"pl-PL": "BreezeBirdDrawing",
+							"pt-BR": "BreezeBirdDrawing",
+							"ru-RU": "BreezeBirdDrawing",
+							"th-TH": "BreezeBirdDrawing",
+							"tr-TR": "BreezeBirdDrawing",
+							"vi-VN": "BreezeBirdDrawing",
+							"zh-CN": "BreezeBirdDrawing",
+							"zh-TW": "BreezeBirdDrawing"
+						}
+					}
+				}
+			],
+			"id": "F77F4732-4AE4-3727-D246-27B0026B53B6",
+			"label": "F77F4732-4AE4-3727-D246-27B0026B53B6",
+			"name":
+			{
+				"defaultText": "Scavenger Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة النابش",
+					"de-DE": "Graffiti „Plünderer“",
+					"en-US": "Scavenger Spray",
+					"es-ES": "Grafiti Ave carroñera",
+					"es-MX": "Spray Carroñero",
+					"fr-FR": "Graffiti Charognard",
+					"id-ID": "Spray Scavenger",
+					"it-IT": "Spray Spazzino",
+					"ja-JP": "スカベンジャー スプレー",
+					"ko-KR": "쓰레기 청소부 스프레이",
+					"pl-PL": "Graffiti „Ścierwojad”",
+					"pt-BR": "Spray Carniceiro",
+					"ru-RU": "Граффити \"Ибис\"",
+					"th-TH": "สเปรย์ Scavenger",
+					"tr-TR": "Ölücü Guş Spreyi",
+					"vi-VN": "Hình Phun Sơn Ăn Hôi",
+					"zh-CN": "Scavenger Spray",
+					"zh-TW": "食腐鳥 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "629C7F2B-463C-287E-36CF-AEA7302E7AC4",
+					"label": "629C7F2B-463C-287E-36CF-AEA7302E7AC4",
+					"name":
+					{
+						"defaultText": "CatOnBroom",
+						"localizedByCulture":
+						{
+							"ar-AE": "CatOnBroom",
+							"de-DE": "CatOnBroom",
+							"en-US": "CatOnBroom",
+							"es-ES": "CatOnBroom",
+							"es-MX": "CatOnBroom",
+							"fr-FR": "CatOnBroom",
+							"id-ID": "CatOnBroom",
+							"it-IT": "CatOnBroom",
+							"ja-JP": "CatOnBroom",
+							"ko-KR": "CatOnBroom",
+							"pl-PL": "CatOnBroom",
+							"pt-BR": "CatOnBroom",
+							"ru-RU": "CatOnBroom",
+							"th-TH": "CatOnBroom",
+							"tr-TR": "CatOnBroom",
+							"vi-VN": "CatOnBroom",
+							"zh-CN": "CatOnBroom",
+							"zh-TW": "CatOnBroom"
+						}
+					}
+				}
+			],
+			"id": "A4A80636-4E39-3DFF-9611-1B8553C36C11",
+			"label": "A4A80636-4E39-3DFF-9611-1B8553C36C11",
+			"name":
+			{
+				"defaultText": "Mance on a Broom Go Zoom Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة انطلق على المكنسة يا مانس",
+					"de-DE": "Graffiti „Besenflug“",
+					"en-US": "Mance on a Broom Go Zoom Spray",
+					"es-ES": "Grafiti Escoba voladora de Mance",
+					"es-MX": "Spray Mance en una Escoba Caoba",
+					"fr-FR": "Graffiti Mance volant",
+					"id-ID": "Spray Mance on a Broom Go Zoom",
+					"it-IT": "Spray Mance sfreccia su una scopa",
+					"ja-JP": "ホウキに乗ったマンスがビューン スプレー",
+					"ko-KR": "빗자루 탄 맨스 스프레이",
+					"pl-PL": "Graffiti „Mance na miotle nie skończy w kotle”",
+					"pt-BR": "Spray Mance Voando na Vassoura",
+					"ru-RU": "Граффити \"Мэнс на метле\"",
+					"th-TH": "สเปรย์ Mance on a Broom Go Zoom",
+					"tr-TR": "Uçan Cadı Kedi Spreyi",
+					"vi-VN": "Hình Phun Sơn Mance Cưỡi Chổi Bay",
+					"zh-CN": "Mance on a Broom Go Zoom Spray",
+					"zh-TW": "衝啊掃帚小貓 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "36E193AB-42E0-09DE-8608-FA9F042136D2",
+					"label": "36E193AB-42E0-09DE-8608-FA9F042136D2",
+					"name":
+					{
+						"defaultText": "CuteCampfire",
+						"localizedByCulture":
+						{
+							"ar-AE": "CuteCampfire",
+							"de-DE": "CuteCampfire",
+							"en-US": "CuteCampfire",
+							"es-ES": "CuteCampfire",
+							"es-MX": "CuteCampfire",
+							"fr-FR": "CuteCampfire",
+							"id-ID": "CuteCampfire",
+							"it-IT": "CuteCampfire",
+							"ja-JP": "CuteCampfire",
+							"ko-KR": "CuteCampfire",
+							"pl-PL": "CuteCampfire",
+							"pt-BR": "CuteCampfire",
+							"ru-RU": "CuteCampfire",
+							"th-TH": "CuteCampfire",
+							"tr-TR": "CuteCampfire",
+							"vi-VN": "CuteCampfire",
+							"zh-CN": "CuteCampfire",
+							"zh-TW": "CuteCampfire"
+						}
+					}
+				}
+			],
+			"id": "8F67BF99-4572-DE1E-A421-1D80E3713C36",
+			"label": "8F67BF99-4572-DE1E-A421-1D80E3713C36",
+			"name":
+			{
+				"defaultText": "It's Lit Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة إثارة ساخنة",
+					"de-DE": "Graffiti „Überkrass“",
+					"en-US": "It's Lit Spray",
+					"es-ES": "Grafiti Que arde",
+					"es-MX": "Spray Está en Llamas",
+					"fr-FR": "Graffiti Ça fait chaud au cœur",
+					"id-ID": "Spray It's Lit",
+					"it-IT": "Spray È acceso",
+					"ja-JP": "アツいね スプレー",
+					"ko-KR": "대박 스프레이",
+					"pl-PL": "Graffiti „Otwarty ogień”",
+					"pt-BR": "Spray Pegando Fogo",
+					"ru-RU": "Граффити \"Огонь\"",
+					"th-TH": "สเปรย์ It's Lit",
+					"tr-TR": "Sıcacık Spreyi",
+					"vi-VN": "Hình Phun Sơn Đỉnh Quá Đi",
+					"zh-CN": "It's Lit Spray",
+					"zh-TW": "超火熱 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "7DBE65A2-42F8-A98A-2176-7C82D8BEC1EC",
+					"label": "7DBE65A2-42F8-A98A-2176-7C82D8BEC1EC",
+					"name":
+					{
+						"defaultText": "Hohloma",
+						"localizedByCulture":
+						{
+							"ar-AE": "Hohloma",
+							"de-DE": "Hohloma",
+							"en-US": "Hohloma",
+							"es-ES": "Hohloma",
+							"es-MX": "Hohloma",
+							"fr-FR": "Hohloma",
+							"id-ID": "Hohloma",
+							"it-IT": "Hohloma",
+							"ja-JP": "Hohloma",
+							"ko-KR": "Hohloma",
+							"pl-PL": "Hohloma",
+							"pt-BR": "Hohloma",
+							"ru-RU": "Hohloma",
+							"th-TH": "Hohloma",
+							"tr-TR": "Hohloma",
+							"vi-VN": "Hohloma",
+							"zh-CN": "Hohloma",
+							"zh-TW": "Hohloma"
+						}
+					}
+				}
+			],
+			"id": "60815A79-486D-CC57-F243-E0A24A158C69",
+			"label": "60815A79-486D-CC57-F243-E0A24A158C69",
+			"name":
+			{
+				"defaultText": "Goldwing Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة غولدوينغ",
+					"de-DE": "Graffiti „Goldwing“",
+					"en-US": "Goldwing Spray",
+					"es-ES": "Grafiti Goldwing",
+					"es-MX": "Spray Filo Dorado",
+					"fr-FR": "Graffiti Aile d'or",
+					"id-ID": "Spray Goldwing",
+					"it-IT": "Spray Aladoro",
+					"ja-JP": "ゴールドウイング スプレー",
+					"ko-KR": "골드윙 스프레이",
+					"pl-PL": "Graffiti „Złotoskrzydły”",
+					"pt-BR": "Spray Asas Douradas",
+					"ru-RU": "Граффити \"Хохлома\"",
+					"th-TH": "สเปรย์ Goldwing",
+					"tr-TR": "Altın Kanat Spreyi",
+					"vi-VN": "Hình Phun Sơn Họa Tiết Vàng",
+					"zh-CN": "Goldwing Spray",
+					"zh-TW": "黃金之翼 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "E1AB9A4D-4EA6-8A29-FAC0-AE96CA8115D9",
+					"label": "E1AB9A4D-4EA6-8A29-FAC0-AE96CA8115D9",
+					"name":
+					{
+						"defaultText": "NewYearsEveCountdown",
+						"localizedByCulture":
+						{
+							"ar-AE": "NewYearsEveCountdown",
+							"de-DE": "NewYearsEveCountdown",
+							"en-US": "NewYearsEveCountdown",
+							"es-ES": "NewYearsEveCountdown",
+							"es-MX": "NewYearsEveCountdown",
+							"fr-FR": "NewYearsEveCountdown",
+							"id-ID": "NewYearsEveCountdown",
+							"it-IT": "NewYearsEveCountdown",
+							"ja-JP": "NewYearsEveCountdown",
+							"ko-KR": "NewYearsEveCountdown",
+							"pl-PL": "NewYearsEveCountdown",
+							"pt-BR": "NewYearsEveCountdown",
+							"ru-RU": "NewYearsEveCountdown",
+							"th-TH": "NewYearsEveCountdown",
+							"tr-TR": "NewYearsEveCountdown",
+							"vi-VN": "NewYearsEveCountdown",
+							"zh-CN": "NewYearsEveCountdown",
+							"zh-TW": "NewYearsEveCountdown"
+						}
+					}
+				}
+			],
+			"id": "8AD54D24-47E1-1F1B-F089-81880BF0B1AC",
+			"label": "8AD54D24-47E1-1F1B-F089-81880BF0B1AC",
+			"name":
+			{
+				"defaultText": "Countdown is On Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة بدء العد التنازلي",
+					"de-DE": "Graffiti „Countdown läuft“",
+					"en-US": "Countdown is On Spray",
+					"es-ES": "Grafiti La cuenta atrás",
+					"es-MX": "Spray Empieza la Cuenta Regresiva",
+					"fr-FR": "Graffiti Compte à rebours lancé",
+					"id-ID": "Spray Countdown is On",
+					"it-IT": "Spray Conto alla rovescia partito",
+					"ja-JP": "秒読み開始 スプレー",
+					"ko-KR": "카운트다운 시작 스프레이",
+					"pl-PL": "Graffiti „Trwa odliczanie”",
+					"pt-BR": "Spray Contagem Regressiva",
+					"ru-RU": "Граффити \"Три, два, один\"",
+					"th-TH": "สเปรย์ Countdown is On",
+					"tr-TR": "Geri Sayım Başladı Spreyi",
+					"vi-VN": "Hình Phun Sơn Bắt Đầu Đếm Ngược",
+					"zh-CN": "Countdown is On Spray",
+					"zh-TW": "開始倒數 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "AF4F37E3-4B60-5455-29DC-D3BBE136F6E8",
+					"label": "AF4F37E3-4B60-5455-29DC-D3BBE136F6E8",
+					"name":
+					{
+						"defaultText": "NoBucky",
+						"localizedByCulture":
+						{
+							"ar-AE": "NoBucky",
+							"de-DE": "NoBucky",
+							"en-US": "NoBucky",
+							"es-ES": "NoBucky",
+							"es-MX": "NoBucky",
+							"fr-FR": "NoBucky",
+							"id-ID": "NoBucky",
+							"it-IT": "NoBucky",
+							"ja-JP": "NoBucky",
+							"ko-KR": "NoBucky",
+							"pl-PL": "NoBucky",
+							"pt-BR": "NoBucky",
+							"ru-RU": "NoBucky",
+							"th-TH": "NoBucky",
+							"tr-TR": "NoBucky",
+							"vi-VN": "NoBucky",
+							"zh-CN": "NoBucky",
+							"zh-TW": "NoBucky"
+						}
+					}
+				}
+			],
+			"id": "A4B5164E-45D7-4B4C-C89F-DF8709609E0E",
+			"label": "A4B5164E-45D7-4B4C-C89F-DF8709609E0E",
+			"name":
+			{
+				"defaultText": "No Bucky Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة بدون باكي",
+					"de-DE": "Graffiti „Keine Bucky“",
+					"en-US": "No Bucky Spray",
+					"es-ES": "Grafiti Nada de Bucky",
+					"es-MX": "Spray No Bucky",
+					"fr-FR": "Graffiti Bucky interdit",
+					"id-ID": "Spray No Bucky",
+					"it-IT": "Spray Niente Bucky",
+					"ja-JP": "バッキー禁止 スプレー",
+					"ko-KR": "버키 금지 스프레이",
+					"pl-PL": "Graffiti „Żadnego Bucky’ego”",
+					"pt-BR": "Spray Sem Bucky",
+					"ru-RU": "Граффити \"Долой Bucky\"",
+					"th-TH": "สเปรย์ No Bucky",
+					"tr-TR": "Bucky Yok Spreyi",
+					"vi-VN": "Hình Phun Sơn Cấm Bucky",
+					"zh-CN": "No Bucky Spray",
+					"zh-TW": "禁用重砲 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "DF51BD4A-4978-BAF6-62B8-72A9D8C291FC",
+					"label": "DF51BD4A-4978-BAF6-62B8-72A9D8C291FC",
+					"name":
+					{
+						"defaultText": "ReynaKissyFace",
+						"localizedByCulture":
+						{
+							"ar-AE": "ReynaKissyFace",
+							"de-DE": "ReynaKissyFace",
+							"en-US": "ReynaKissyFace",
+							"es-ES": "ReynaKissyFace",
+							"es-MX": "ReynaKissyFace",
+							"fr-FR": "ReynaKissyFace",
+							"id-ID": "ReynaKissyFace",
+							"it-IT": "ReynaKissyFace",
+							"ja-JP": "ReynaKissyFace",
+							"ko-KR": "ReynaKissyFace",
+							"pl-PL": "ReynaKissyFace",
+							"pt-BR": "ReynaKissyFace",
+							"ru-RU": "ReynaKissyFace",
+							"th-TH": "ReynaKissyFace",
+							"tr-TR": "ReynaKissyFace",
+							"vi-VN": "ReynaKissyFace",
+							"zh-CN": "ReynaKissyFace",
+							"zh-TW": "ReynaKissyFace"
+						}
+					}
+				}
+			],
+			"id": "0CABC8F7-44DF-DC8D-FCA8-16BC8669BA0B",
+			"label": "0CABC8F7-44DF-DC8D-FCA8-16BC8669BA0B",
+			"name":
+			{
+				"defaultText": "With Love, Reyna Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة ريينا، مع الحب",
+					"de-DE": "Graffiti „Alles Liebe, Reyna“",
+					"en-US": "With Love, Reyna Spray",
+					"es-ES": "Grafiti Un beso de Reyna",
+					"es-MX": "Spray Con amor, Reyna",
+					"fr-FR": "Graffiti Bisou de Reyna",
+					"id-ID": "Spray With Love, Reyna",
+					"it-IT": "Spray Con amore, Reyna",
+					"ja-JP": "レイナより愛を込めて スプレー",
+					"ko-KR": "사랑을 담아, 레이나 스프레이",
+					"pl-PL": "Graffiti „Ściskam – Reyna”",
+					"pt-BR": "Spray Com Amor, Reyna",
+					"ru-RU": "Граффити \"С любовью, Reyna\"",
+					"th-TH": "สเปรย์ With Love, Reyna",
+					"tr-TR": "Reyna'dan Sevgilerle Spreyi",
+					"vi-VN": "Hình Phun Sơn Mãi Yêu, Reyna",
+					"zh-CN": "With Love, Reyna Spray",
+					"zh-TW": "愛你的蕾娜敬上 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "1DA696CD-44F4-7F07-F614-62B557B61E2C",
+					"label": "1DA696CD-44F4-7F07-F614-62B557B61E2C",
+					"name":
+					{
+						"defaultText": "SadYoru",
+						"localizedByCulture":
+						{
+							"ar-AE": "SadYoru",
+							"de-DE": "SadYoru",
+							"en-US": "SadYoru",
+							"es-ES": "SadYoru",
+							"es-MX": "SadYoru",
+							"fr-FR": "SadYoru",
+							"id-ID": "SadYoru",
+							"it-IT": "SadYoru",
+							"ja-JP": "SadYoru",
+							"ko-KR": "SadYoru",
+							"pl-PL": "SadYoru",
+							"pt-BR": "SadYoru",
+							"ru-RU": "SadYoru",
+							"th-TH": "SadYoru",
+							"tr-TR": "SadYoru",
+							"vi-VN": "SadYoru",
+							"zh-CN": "SadYoru",
+							"zh-TW": "SadYoru"
+						}
+					}
+				}
+			],
+			"id": "25087535-473E-756C-C404-18AC7E55EF87",
+			"label": "25087535-473E-756C-C404-18AC7E55EF87",
+			"name":
+			{
+				"defaultText": "Sad Yoru Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة يورو الحزين",
+					"de-DE": "Graffiti „Trauriger Yoru“",
+					"en-US": "Sad Yoru Spray",
+					"es-ES": "Grafiti de Yoru triste",
+					"es-MX": "Spray Yoru Triste",
+					"fr-FR": "Graffiti Yoru triste",
+					"id-ID": "Spray Sad Yoru",
+					"it-IT": "Spray Yoru triste",
+					"ja-JP": "哀しみのヨル スプレー",
+					"ko-KR": "슬픈 요루 스프레이",
+					"pl-PL": "Graffiti „Smutny Yoru”",
+					"pt-BR": "Spray Yoru Triste",
+					"ru-RU": "Граффити \"Грустный Yoru\"",
+					"th-TH": "สเปรย์ Sad Yoru",
+					"tr-TR": "Üzgün Yoru Spreyi",
+					"vi-VN": "Hình Phun Sơn Yoru Buồn Bã",
+					"zh-CN": "Sad Yoru Spray",
+					"zh-TW": "憂鬱夜戮 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "2953766E-4BDC-938E-27DE-81A489AEEA9C",
+					"label": "2953766E-4BDC-938E-27DE-81A489AEEA9C",
+					"name":
+					{
+						"defaultText": "SlothMeme",
+						"localizedByCulture":
+						{
+							"ar-AE": "SlothMeme",
+							"de-DE": "SlothMeme",
+							"en-US": "SlothMeme",
+							"es-ES": "SlothMeme",
+							"es-MX": "SlothMeme",
+							"fr-FR": "SlothMeme",
+							"id-ID": "SlothMeme",
+							"it-IT": "SlothMeme",
+							"ja-JP": "SlothMeme",
+							"ko-KR": "SlothMeme",
+							"pl-PL": "SlothMeme",
+							"pt-BR": "SlothMeme",
+							"ru-RU": "SlothMeme",
+							"th-TH": "SlothMeme",
+							"tr-TR": "SlothMeme",
+							"vi-VN": "SlothMeme",
+							"zh-CN": "SlothMeme",
+							"zh-TW": "SlothMeme"
+						}
+					}
+				}
+			],
+			"id": "58B7B10E-4DD4-24E7-2910-378A02C2C4E0",
+			"label": "58B7B10E-4DD4-24E7-2910-378A02C2C4E0",
+			"name":
+			{
+				"defaultText": "Trevor Gets It Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة تريفور يفهم الوضع",
+					"de-DE": "Graffiti „Trevor versteht“",
+					"en-US": "Trevor Gets It Spray",
+					"es-ES": "Grafiti Trevor sí que sabe",
+					"es-MX": "Spray Trevor Entiende",
+					"fr-FR": "Graffiti Trevor a tout compris",
+					"id-ID": "Spray Trevor Gets It",
+					"it-IT": "Spray Trevor mi capisce",
+					"ja-JP": "トレバーはわかってる スプレー",
+					"ko-KR": "트레버는 알아 스프레이",
+					"pl-PL": "Graffiti „Trevor wie, co jest grane”",
+					"pt-BR": "Spray Trevor Entendedor",
+					"ru-RU": "Граффити \"Тревор все понял\"",
+					"th-TH": "สเปรย์ Trevor Gets It",
+					"tr-TR": "Trevor'ın Jeton Düştü Spreyi",
+					"vi-VN": "Hình Phun Sơn Trevor Hiểu Nè",
+					"zh-CN": "Trevor Gets It Spray",
+					"zh-TW": "樹懶懂了 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "755A5F72-4FAE-6040-736E-18B53DA43132",
+					"label": "755A5F72-4FAE-6040-736E-18B53DA43132",
+					"name":
+					{
+						"defaultText": "Speakerbox",
+						"localizedByCulture":
+						{
+							"ar-AE": "Speakerbox",
+							"de-DE": "Speakerbox",
+							"en-US": "Speakerbox",
+							"es-ES": "Speakerbox",
+							"es-MX": "Speakerbox",
+							"fr-FR": "Speakerbox",
+							"id-ID": "Speakerbox",
+							"it-IT": "Speakerbox",
+							"ja-JP": "Speakerbox",
+							"ko-KR": "Speakerbox",
+							"pl-PL": "Speakerbox",
+							"pt-BR": "Speakerbox",
+							"ru-RU": "Speakerbox",
+							"th-TH": "Speakerbox",
+							"tr-TR": "Speakerbox",
+							"vi-VN": "Speakerbox",
+							"zh-CN": "Speakerbox",
+							"zh-TW": "Speakerbox"
+						}
+					}
+				}
+			],
+			"id": "7C72A937-4C1E-3592-CF79-46B5B5CA7C63",
+			"label": "7C72A937-4C1E-3592-CF79-46B5B5CA7C63",
+			"name":
+			{
+				"defaultText": "Turn it Up, Rudy Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة ارفع الصوت يا رودي",
+					"de-DE": "Graffiti „Lauter, Rudy“",
+					"en-US": "Turn it Up, Rudy Spray",
+					"es-ES": "Grafiti Dale, Rudy, dale",
+					"es-MX": "Spray Sube el Volumen, Rudy",
+					"fr-FR": "Graffiti Monte le son, Rudy",
+					"id-ID": "Spray Turn it Up, Rudy",
+					"it-IT": "Spray Alza un po', Rudy",
+					"ja-JP": "ボリューム上げてけ スプレー",
+					"ko-KR": "볼륨 높여, 루디 스프레이",
+					"pl-PL": "Graffiti „Daj głośniej, Rudy”",
+					"pt-BR": "Spray Aumenta o Som, Rudy",
+					"ru-RU": "Граффити \"Вруби погромче, Руди\"",
+					"th-TH": "สเปรย์ Turn it Up, Rudy",
+					"tr-TR": "Sesi Kökle Spreyi",
+					"vi-VN": "Hình Phun Sơn Quẩy Lên Nào Rudy",
+					"zh-CN": "Turn it Up, Rudy Spray",
+					"zh-TW": "音樂催落 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "168061D3-4B1E-EF8E-B2A9-2D9A949BEEAC",
+					"label": "168061D3-4B1E-EF8E-B2A9-2D9A949BEEAC",
+					"name":
+					{
+						"defaultText": "SpikePlant",
+						"localizedByCulture":
+						{
+							"ar-AE": "SpikePlant",
+							"de-DE": "SpikePlant",
+							"en-US": "SpikePlant",
+							"es-ES": "SpikePlant",
+							"es-MX": "SpikePlant",
+							"fr-FR": "SpikePlant",
+							"id-ID": "SpikePlant",
+							"it-IT": "SpikePlant",
+							"ja-JP": "SpikePlant",
+							"ko-KR": "SpikePlant",
+							"pl-PL": "SpikePlant",
+							"pt-BR": "SpikePlant",
+							"ru-RU": "SpikePlant",
+							"th-TH": "SpikePlant",
+							"tr-TR": "SpikePlant",
+							"vi-VN": "SpikePlant",
+							"zh-CN": "SpikePlant",
+							"zh-TW": "SpikePlant"
+						}
+					}
+				}
+			],
+			"id": "CCFC5B93-478C-403F-5217-2BA1657428C9",
+			"label": "CCFC5B93-478C-403F-5217-2BA1657428C9",
+			"name":
+			{
+				"defaultText": "Plant Plant Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة ازرع ازرع",
+					"de-DE": "Graffiti „Platzieren, platzieren!“",
+					"en-US": "Plant Plant Spray",
+					"es-ES": "Grafiti Spike silvestre",
+					"es-MX": "Spray Planta, Planta",
+					"fr-FR": "Graffiti Pose ! Pose !",
+					"id-ID": "Spray Plant Plant",
+					"it-IT": "Spray Piazza, piazza!",
+					"ja-JP": "プラントプラント スプレー",
+					"ko-KR": "설치 설치 스프레이",
+					"pl-PL": "Graffiti „Podkładanko”",
+					"pt-BR": "Spray Planta a Planta",
+					"ru-RU": "Граффити \"Spike посажен\"",
+					"th-TH": "สเปรย์ Plant Plant",
+					"tr-TR": "Organik Spike Spreyi",
+					"vi-VN": "Hình Phun Sơn Spike Mọc Cây",
+					"zh-CN": "Plant Plant Spray",
+					"zh-TW": "種草抗輻 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "A77D232B-4068-4721-A74D-429F6883F03A",
+					"label": "A77D232B-4068-4721-A74D-429F6883F03A",
+					"name":
+					{
+						"defaultText": "SugarMuffin",
+						"localizedByCulture":
+						{
+							"ar-AE": "SugarMuffin",
+							"de-DE": "SugarMuffin",
+							"en-US": "SugarMuffin",
+							"es-ES": "SugarMuffin",
+							"es-MX": "SugarMuffin",
+							"fr-FR": "SugarMuffin",
+							"id-ID": "SugarMuffin",
+							"it-IT": "SugarMuffin",
+							"ja-JP": "SugarMuffin",
+							"ko-KR": "SugarMuffin",
+							"pl-PL": "SugarMuffin",
+							"pt-BR": "SugarMuffin",
+							"ru-RU": "SugarMuffin",
+							"th-TH": "SugarMuffin",
+							"tr-TR": "SugarMuffin",
+							"vi-VN": "SugarMuffin",
+							"zh-CN": "SugarMuffin",
+							"zh-TW": "SugarMuffin"
+						}
+					}
+				}
+			],
+			"id": "ADDEF5B3-4039-E9BA-B3DC-76A83CF33151",
+			"label": "ADDEF5B3-4039-E9BA-B3DC-76A83CF33151",
+			"name":
+			{
+				"defaultText": "Sugar Muffins Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة الكعك المحلى",
+					"de-DE": "Graffiti „Zuckermuffins“",
+					"en-US": "Sugar Muffins Spray",
+					"es-ES": "Grafiti Magdalenas de azúcar",
+					"es-MX": "Spray Muffins Azucarados",
+					"fr-FR": "Graffiti Muffins au sucre",
+					"id-ID": "Spray Sugar Muffins",
+					"it-IT": "Spray Muffin",
+					"ja-JP": "シュガーマフィン スプレー",
+					"ko-KR": "설탕 머핀 스프레이",
+					"pl-PL": "Graffiti „Słodziutkie muffinki”",
+					"pt-BR": "Spray Bolinho Açucarado",
+					"ru-RU": "Граффити \"Сладкие маффины\"",
+					"th-TH": "สเปรย์ Sugar Muffins",
+					"tr-TR": "Minnoş Muffin Spreyi",
+					"vi-VN": "Hình Phun Sơn Bánh Xốp Ngọt Ngào",
+					"zh-CN": "Sugar Muffins Spray",
+					"zh-TW": "甜心瑪芬 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "32881AE5-451B-6121-0A10-C5B5ADF02EA4",
+					"label": "32881AE5-451B-6121-0A10-C5B5ADF02EA4",
+					"name":
+					{
+						"defaultText": "TakeMyMoney",
+						"localizedByCulture":
+						{
+							"ar-AE": "TakeMyMoney",
+							"de-DE": "TakeMyMoney",
+							"en-US": "TakeMyMoney",
+							"es-ES": "TakeMyMoney",
+							"es-MX": "TakeMyMoney",
+							"fr-FR": "TakeMyMoney",
+							"id-ID": "TakeMyMoney",
+							"it-IT": "TakeMyMoney",
+							"ja-JP": "TakeMyMoney",
+							"ko-KR": "TakeMyMoney",
+							"pl-PL": "TakeMyMoney",
+							"pt-BR": "TakeMyMoney",
+							"ru-RU": "TakeMyMoney",
+							"th-TH": "TakeMyMoney",
+							"tr-TR": "TakeMyMoney",
+							"vi-VN": "TakeMyMoney",
+							"zh-CN": "TakeMyMoney",
+							"zh-TW": "TakeMyMoney"
+						}
+					}
+				}
+			],
+			"id": "67A64AA6-44A2-022D-4883-8D8587F24C3D",
+			"label": "67A64AA6-44A2-022D-4883-8D8587F24C3D",
+			"name":
+			{
+				"defaultText": "Take My Creds! Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة خذ نقودي!",
+					"de-DE": "Graffiti „Nimm meine Creds!“",
+					"en-US": "Take My Creds! Spray",
+					"es-ES": "Grafiti ¡Coge mis créditos!",
+					"es-MX": "Spray ¡Toma mis Créditos!",
+					"fr-FR": "Graffiti Prenez mes crédits !",
+					"id-ID": "Spray Take My Creds!",
+					"it-IT": "Spray Prendi i miei crediti!",
+					"ja-JP": "持ってけドロボー！スプレー",
+					"ko-KR": "내 크레드를 받아! 스프레이",
+					"pl-PL": "Graffiti „Bierzcie moje kredyty!”",
+					"pt-BR": "Spray Toma Meus Créditos!",
+					"ru-RU": "Граффити \"Заберите все мои кредиты!\"",
+					"th-TH": "สเปรย์ Take My Creds!",
+					"tr-TR": "Al Paramı! Spreyi",
+					"vi-VN": "Hình Phun Sơn Cred Của Ta Đây!",
+					"zh-CN": "Take My Creds! Spray",
+					"zh-TW": "收下我的錢錢！ 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "39597976-4883-A99E-2403-D38FD9762806",
+					"label": "39597976-4883-A99E-2403-D38FD9762806",
+					"name":
+					{
+						"defaultText": "ThisIsNotOkay",
+						"localizedByCulture":
+						{
+							"ar-AE": "ThisIsNotOkay",
+							"de-DE": "ThisIsNotOkay",
+							"en-US": "ThisIsNotOkay",
+							"es-ES": "ThisIsNotOkay",
+							"es-MX": "ThisIsNotOkay",
+							"fr-FR": "ThisIsNotOkay",
+							"id-ID": "ThisIsNotOkay",
+							"it-IT": "ThisIsNotOkay",
+							"ja-JP": "ThisIsNotOkay",
+							"ko-KR": "ThisIsNotOkay",
+							"pl-PL": "ThisIsNotOkay",
+							"pt-BR": "ThisIsNotOkay",
+							"ru-RU": "ThisIsNotOkay",
+							"th-TH": "ThisIsNotOkay",
+							"tr-TR": "ThisIsNotOkay",
+							"vi-VN": "ThisIsNotOkay",
+							"zh-CN": "ThisIsNotOkay",
+							"zh-TW": "ThisIsNotOkay"
+						}
+					}
+				}
+			],
+			"id": "EC6F800A-42D0-563E-31D3-21A8FCD391BA",
+			"label": "EC6F800A-42D0-563E-31D3-21A8FCD391BA",
+			"name":
+			{
+				"defaultText": "This is Really Not Fine Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة هذا غير مقبول حقًا",
+					"de-DE": "Graffiti „Das passt wirklich gar nicht“",
+					"en-US": "This is Really Not Fine Spray",
+					"es-ES": "Grafiti Fatal, gracias",
+					"es-MX": "Spray Esto no Está Nada Bien",
+					"fr-FR": "Graffiti Ça va vraiment mal",
+					"id-ID": "Spray This is Really Not Fine",
+					"it-IT": "Spray Così non va assolutamente bene",
+					"ja-JP": "これはマジでなしです スプレー",
+					"ko-KR": "이건 진짜 별로야 스프레이",
+					"pl-PL": "Graffiti „To naprawdę nie w porządku”",
+					"pt-BR": "Spray Não Tá Tudo Bem Mesmo",
+					"ru-RU": "Граффити \"Все очень плохо\"",
+					"th-TH": "สเปรย์ This is Really Not Fine",
+					"tr-TR": "İnsan Bize De Bırakır Spreyi",
+					"vi-VN": "Hình Phun Sơn Không Ổn Tí Nào",
+					"zh-CN": "This is Really Not Fine Spray",
+					"zh-TW": "不要這樣對我 塗鴉"
 				}
 			}
 		},
@@ -86165,7 +91301,7 @@
 					"ar-AE": "رسمة روبوت التدريب",
 					"de-DE": "Graffiti „Robopumper“",
 					"en-US": "Training Bot Spray",
-					"es-ES": "Grafiti Bot de práctica",
+					"es-ES": "Grafiti A mazarse",
 					"es-MX": "Spray Bot de Entrenamiento",
 					"fr-FR": "Graffiti Bot d'entraînement",
 					"id-ID": "Spray Training Bot",
@@ -86600,6 +91736,66 @@
 					"vi-VN": "Hình Phun Sơn Tâm Ngắm Tử Thần",
 					"zh-CN": "致命准星 涂鸦",
 					"zh-TW": "致命準星 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "B420D4D3-4B5C-C2BB-F372-BCBE2239CDC1",
+					"label": "B420D4D3-4B5C-C2BB-F372-BCBE2239CDC1",
+					"name":
+					{
+						"defaultText": "Heimer",
+						"localizedByCulture":
+						{
+							"ar-AE": "Heimer",
+							"de-DE": "Heimer",
+							"en-US": "Heimer",
+							"es-ES": "Heimer",
+							"es-MX": "Heimer",
+							"fr-FR": "Heimer",
+							"id-ID": "Heimer",
+							"it-IT": "Heimer",
+							"ja-JP": "Heimer",
+							"ko-KR": "Heimer",
+							"pl-PL": "Heimer",
+							"pt-BR": "Heimer",
+							"ru-RU": "Heimer",
+							"th-TH": "Heimer",
+							"tr-TR": "Heimer",
+							"vi-VN": "Heimer",
+							"zh-CN": "Heimer",
+							"zh-TW": "Heimer"
+						}
+					}
+				}
+			],
+			"id": "8D8179B0-449A-6856-857E-DC97DE7B2ACE",
+			"label": "8D8179B0-449A-6856-857E-DC97DE7B2ACE",
+			"name":
+			{
+				"defaultText": "Calculated Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة محسوبة",
+					"de-DE": "Graffiti „Berechnet“",
+					"en-US": "Calculated Spray",
+					"es-ES": "Grafiti Calculado",
+					"es-MX": "Spray Calculado",
+					"fr-FR": "Graffiti Calculé",
+					"id-ID": "Spray Calculated",
+					"it-IT": "Spray Tutto calcolato",
+					"ja-JP": "計算済み スプレー",
+					"ko-KR": "계산했어 스프레이",
+					"pl-PL": "Graffiti „Zgodnie z obliczeniami”",
+					"pt-BR": "Spray Calculado",
+					"ru-RU": "Граффити \"Просчитываю\"",
+					"th-TH": "สเปรย์ Calculated",
+					"tr-TR": "Hesaplandı Spreyi",
+					"vi-VN": "Hình Phun Sơn Tính Cả Rồi",
+					"zh-CN": "Calculated Spray",
+					"zh-TW": "神機妙算 塗鴉"
 				}
 			}
 		},
@@ -87253,7 +92449,7 @@
 					"ja-JP": "これも仕事だ スプレー",
 					"ko-KR": "사업일 뿐이야 스프레이",
 					"pl-PL": "Graffiti „To tylko interesy”",
-					"pt-BR": "Spray APENAS NEGÓCIOS",
+					"pt-BR": "Spray Apenas Negócios",
 					"ru-RU": "Граффити \"Только бизнес\"",
 					"th-TH": "สเปรย์ Just Business",
 					"tr-TR": "İş Başka Arkadaşlık Başka Spreyi",
@@ -87380,6 +92576,66 @@
 					"vi-VN": "Hình Phun Sơn Tổ Đội Đáng Thương",
 					"zh-CN": "怜悯派对 涂鸦",
 					"zh-TW": "傷心小提琴 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "3B28B078-4575-E117-9F2F-04BCA5882B4F",
+					"label": "3B28B078-4575-E117-9F2F-04BCA5882B4F",
+					"name":
+					{
+						"defaultText": "Monkey",
+						"localizedByCulture":
+						{
+							"ar-AE": "Monkey",
+							"de-DE": "Monkey",
+							"en-US": "Monkey",
+							"es-ES": "Monkey",
+							"es-MX": "Monkey",
+							"fr-FR": "Monkey",
+							"id-ID": "Monkey",
+							"it-IT": "Monkey",
+							"ja-JP": "Monkey",
+							"ko-KR": "Monkey",
+							"pl-PL": "Monkey",
+							"pt-BR": "Monkey",
+							"ru-RU": "Monkey",
+							"th-TH": "Monkey",
+							"tr-TR": "Monkey",
+							"vi-VN": "Monkey",
+							"zh-CN": "Monkey",
+							"zh-TW": "Monkey"
+						}
+					}
+				}
+			],
+			"id": "7C3771B2-4EA7-9188-BFD4-C08FEECA3984",
+			"label": "7C3771B2-4EA7-9188-BFD4-C08FEECA3984",
+			"name":
+			{
+				"defaultText": "Tag! You're Dead! Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة أصبتك في مقتل!",
+					"de-DE": "Graffiti „Ha! Erwischt“",
+					"en-US": "Tag! You're Dead! Spray",
+					"es-ES": "Grafiti A la tumba",
+					"es-MX": "Spray Las traes... ¡Te moriste!",
+					"fr-FR": "Graffiti Touché ! T'es mort !",
+					"id-ID": "Spray Tag! You're Dead!",
+					"it-IT": "Spray Beccato! Sei morto!",
+					"ja-JP": "命がけの鬼ごっこ スプレー",
+					"ko-KR": "잡았다! 넌 죽었어! 스프레이",
+					"pl-PL": "Graffiti „Trafienie! Już po tobie!”",
+					"pt-BR": "Spray Te Peguei, Te Matei!",
+					"ru-RU": "Граффити \"Тебе крышка!\"",
+					"th-TH": "สเปรย์ Tag! You're Dead!",
+					"tr-TR": "Ebe! Öldün çık! Spreyi",
+					"vi-VN": "Hình Phun Sơn Trúng Rồi! Chết Nè!",
+					"zh-CN": "Tag! You're Dead! Spray",
+					"zh-TW": "抓！你當鬼！ 塗鴉"
 				}
 			}
 		},
@@ -88280,6 +93536,66 @@
 					"vi-VN": "Hình Phun Sơn Nổi Như Cồn",
 					"zh-CN": "无尽训练 涂鸦",
 					"zh-TW": "健身狂 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D37BD5CD-451D-936A-0A85-B98157C73CA7",
+					"label": "D37BD5CD-451D-936A-0A85-B98157C73CA7",
+					"name":
+					{
+						"defaultText": "Shark2",
+						"localizedByCulture":
+						{
+							"ar-AE": "Shark2",
+							"de-DE": "Shark2",
+							"en-US": "Shark2",
+							"es-ES": "Shark2",
+							"es-MX": "Shark2",
+							"fr-FR": "Shark2",
+							"id-ID": "Shark2",
+							"it-IT": "Shark2",
+							"ja-JP": "Shark2",
+							"ko-KR": "Shark2",
+							"pl-PL": "Shark2",
+							"pt-BR": "Shark2",
+							"ru-RU": "Shark2",
+							"th-TH": "Shark2",
+							"tr-TR": "Shark2",
+							"vi-VN": "Shark2",
+							"zh-CN": "Shark2",
+							"zh-TW": "Shark2"
+						}
+					}
+				}
+			],
+			"id": "47575563-4D43-96FB-1586-849D35C7DDD5",
+			"label": "47575563-4D43-96FB-1586-849D35C7DDD5",
+			"name":
+			{
+				"defaultText": "Loose Cannon Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة المدفع المنفلت",
+					"de-DE": "Graffiti „Pulverfass“",
+					"en-US": "Loose Cannon Spray",
+					"es-ES": "Grafiti Bala perdida",
+					"es-MX": "Spray Bala Perdida",
+					"fr-FR": "Graffiti Gâchette folle",
+					"id-ID": "Spray Loose Cannon",
+					"it-IT": "Spray Pescecane sciolto",
+					"ja-JP": "暴走キャノン スプレー",
+					"ko-KR": "난폭한 말괄량이 스프레이",
+					"pl-PL": "Graffiti „Nie do przewidzenia”",
+					"pt-BR": "Spray Gatilho Desenfreado",
+					"ru-RU": "Граффити \"Заряженная пушка\"",
+					"th-TH": "สเปรย์ Loose Cannon",
+					"tr-TR": "Delifişek Spreyi",
+					"vi-VN": "Hình Phun Sơn Khẩu Pháo Nổi Loạn",
+					"zh-CN": "Loose Cannon Spray",
+					"zh-TW": "暴走重砲 塗鴉"
 				}
 			}
 		},
