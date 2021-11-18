@@ -1,5 +1,5 @@
 {
-	"version": "03.09.00.627832",
+	"version": "03.10.00.635534",
 	"characters": [
 		{
 			"description":
@@ -544,6 +544,279 @@
 					"vi-VN": "Raze",
 					"zh-CN": "雷兹",
 					"zh-TW": "芮茲"
+				}
+			}
+		},
+		{
+			"description":
+			{
+				"defaultText": "Well dressed and well armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar, with a contingency built for every plan.",
+				"localizedByCulture":
+				{
+					"ar-AE": "مع ملابسه الأنيقة وأسلحته الجاهزة، يطرد مصمم الأسلحة الفرنسي تشامبر المعتدين بدقة فتاكة. وهو يستغل ترسانة أسلحته المخصصة للتمسك بالمواقع واقتناص الأعداء من على بُعد، مع خطة طوارئ مصممة لكل ظرف.",
+					"de-DE": "Gut gekleidet und bewaffnet vertreibt der französische Waffendesigner Chamber Angreifer mit tödlicher Präzision. Mit seinem individuellen Arsenal behält er alles im Blick, schaltet Feinde aus der Ferne aus und hat für jeden Plan einen Plan B.",
+					"en-US": "Well dressed and well armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar, with a contingency built for every plan.",
+					"es-ES": "Chamber, el diseñador de armas francés, siempre bien vestido y bien pertrechado, expulsa a los agresores con precisión letal. Aprovecha su arsenal personalizado para resistir, elimina enemigos a distancia y crea la contingencia perfecta para cada plan.",
+					"es-MX": "Vestido y armado para matar, el diseñador de armas francés, Chamber, rechaza toda ofensiva con precisión letal. Aprovecha su arsenal personalizado para mantener a los enemigos a raya y eliminarlos desde lejos. Siempre cuenta con la contingencia perfecta para cada plan.",
+					"fr-FR": "Aussi classe que bien équipé, le concepteur d'armes français Chamber repousse les assaillants avec une précision mortelle. Il met à profit son arsenal bien particulier pour tenir sa position et éliminer les ennemis de loin en prévoyant une solution aux défis posés par chaque stratégie.",
+					"id-ID": "Berpakaian rapi dan bersenjata lengkap, desainer senjata dari Perancis, Chamber, menghalau penyerang dengan presisi yang mematikan. Dia memanfaatkan persenjataan kustomnya untuk mempertahankan barisan, menembak musuh dari jauh, dengan kontingensi yang tersusun untuk tiap rencana.",
+					"it-IT": "Chamber, progettista di armi francese agghindato e armato di tutto punto, è un agente capace di togliere di mezzo gli avversari con precisione letale. Questo Guardiano sfrutta il suo arsenale personalizzato per mantenere la posizione ed eliminare i nemici da lontano, creando la strategia perfetta per ogni occasione.",
+					"ja-JP": "装いも武器も一流に。フランスの武器デザイナーであるチェンバーは、致命的な精度で敵を撃ち抜く。特製の武器で相手の侵攻を阻み、遠距離から狙い撃て。完璧な策略は、あらゆる戦略を凌駕する。",
+					"ko-KR": "맵시 있는 모습으로 단단히 무장한 프랑스 무기 디자이너 체임버는 치명적인 정확도로 적을 몰아냅니다. 만일의 사태에 대한 모든 계획을 세운 그는 자신만의 커스텀 무기를 사용하여 전선을 사수하고 멀리서 적을 격퇴합니다.",
+					"pl-PL": "Świetnie ubrany i równie dobrze uzbrojony francuski projektant broni Chamber neutralizuje wrogów z zabójczą precyzją. Wykorzystując niestandardowy arsenał, utrzymuje pozycję i z daleka eliminuje wrogów, a na każdą ewentualność ma plan awaryjny.",
+					"pt-BR": "Bem vestido e armado até os dentes, o criador de armas francês Chamber coloca os inimigos para correr com precisão mortal. Use e abuse do arsenal personalizado dele para segurar posições e abater inimigos de longe, criando a defesa perfeita para qualquer plano.",
+					"ru-RU": "Одет с иголочки и вооружен до зубов. Chamber, французский конструктор оружия, уничтожает врагов с поразительной точностью. Уникальные умения этого стража позволяют эффективно защищаться, нейтрализовать врагов издалека и продумывать любой план до мельчайших подробностей.",
+					"th-TH": "แต่งกายครบชุด อาวุธจัดเต็ม Chamber นักออกแบบอาวุธชาวฝรั่งเศสจะยับยั้งผู้บุกรุกด้วยความแม่นยำอย่างร้ายกาจ เขาใช้คลังแสงสั่งทำพิเศษของเขาเพื่ิอป้องกันพื้นที่ และเด็ดหัวศัตรูจากระยะไกล และมีแผนสำรองที่เหมาะสมสำหรับทุกแผนการ",
+					"tr-TR": "Her daim şık ve tam teçhizat dolaşan Fransız silah tasarımcısı Chamber, ölümcül isabetliliğiyle rakipleri ortadan kaldırıyor. Özel yeteneklerini kullanarak görüş mesafesi sağlar, uzaktaki rakipleri avlar ve her plana mükemmel bir şekilde uyum sağlar.",
+					"vi-VN": "Với vẻ ngoài lịch lãm và trang bị tối tân, chuyên gia vũ khí Chamber đến từ nước Pháp sẽ truy quét đối thủ bằng sự chính xác tuyệt đối. Anh có thể tận dụng kho vũ khí chuyên biệt của mình để giữ vững chiến tuyến, bắn hạ kẻ địch từ xa với phương án dự phòng hoàn hảo dành cho mọi kế hoạch tác chiến.",
+					"zh-CN": "Well dressed and well armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar, with a contingency built for every plan.",
+					"zh-TW": "錢博爾是來自法國的武器設計師，他一身時尚、滿載武力，用致命的精準武器把侵略者一一驅逐。他的特製武器可以守住戰線，從遠處一一消滅敵人，即便作戰出了亂子，他也能優雅應變，臨危不亂。"
+				}
+			},
+			"abilities":
+			{
+				"Ability2":
+				{
+					"description":
+					{
+						"defaultText": "PLACE two teleport anchors. While on the ground and in range of an anchor, REACTIVATE to quickly teleport to the other anchor.  Anchors can be picked up to be REDEPLOYED.",
+						"localizedByCulture":
+						{
+							"ar-AE": "انصب مرساتي انتقال سريع. أثناء تواجدك على الأرض وضمن نطاق إحدى المرساتين، أعد تفعيل القدرة للانتقال السريع إلى المرساة الأخرى. يمكن التقاط المرساتين لإعادة نصبهما.",
+							"de-DE": "PLATZIERE zwei Teleporterausgänge. Während du dich auf dem Boden und in Reichweite eines Ausgangs befindest, kannst du REAKTIVIEREN, um dich schnell zum anderen Ausgang zu teleportieren.  Du kannst Ausgänge aufheben, um sie ERNEUT EINZUSETZEN.",
+							"en-US": "PLACE two teleport anchors. While on the ground and in range of an anchor, REACTIVATE to quickly teleport to the other anchor.  Anchors can be picked up to be REDEPLOYED.",
+							"es-ES": "COLOCA dos anclajes de teleportación. Mientras estén en el suelo y al alcance, REACTIVA la habilidad para teleportarte rápidamente al otro anclaje.  Los anclajes se pueden recoger para VOLVER A COLOCARLOS.",
+							"es-MX": "DESPLIEGA dos anclajes de teletransportación. Mientras estés en el suelo y dentro de su zona de alcance, podrás REACTIVAR la habilidad para teletransportarte rápidamente al otro anclaje. Puedes recogerlos para VOLVER A COLOCARLOS en otro lugar.",
+							"fr-FR": "PLACEZ deux balises de téléportation. Quand vous vous trouvez sur le sol à portée d'une balise, RÉACTIVEZ pour vous téléporter rapidement vers l'autre balise.  Les balises peuvent être ramassées pour être REDÉPLOYÉES.",
+							"id-ID": "TEMPATKAN dua jangkar teleportasi. Saat berada di darat dan dalam jangkauan jangkar, AKTIFKAN KEMBALI untuk berteleportasi dengan cepat ke jangkar lainnya. Jangkar bisa diambil untuk DIKERAHKAN LAGI.",
+							"it-IT": "PIAZZA due nodi di teletrasporto. Quando sei a terra e a portata di un nodo, RIATTIVA l'abilità per teletrasportarti velocemente sull'altro nodo. I nodi possono essere raccolti per RIUTILIZZARLI.",
+							"ja-JP": "テレポートアンカーを2つ設置する。アンカーの範囲内かつ地面にいる時に再発動すると、もう一方のアンカーに素早くテレポートする。アンカーは回収して再設置可能。",
+							"ko-KR": "순간이동 앵커를 두 개 설치합니다. 지면에서 앵커 범위 내에 있을 때 다시 활성화하면 다른 앵커로 빠르게 순간이동합니다. 앵커는 회수하여 재배치할 수 있습니다.",
+							"pl-PL": "UMIEŚĆ dwie kotwice teleportujące. Gdy znajdujesz się na ziemi i w zasięgu działania kotwicy, REAKTYWUJ, by szybko teleportować się do drugiej kotwicy. Kotwice można podnieść i UŻYĆ ICH PONOWNIE.",
+							"pt-BR": "POSICIONE duas âncoras de teleporte. Enquanto estiver no chão e dentro do alcance de uma das âncoras, REATIVE para teleportar rapidamente até a outra âncora. Âncoras podem ser recuperadas para serem REPOSICIONADAS.",
+							"ru-RU": "РАЗМЕЩАЕТ два телепорта-якоря. Находясь на земле в зоне действия одного якоря, нажмите кнопку умения повторно, чтобы быстро телепортироваться ко второму.  Якоря можно подобрать и РАЗМЕСТИТЬ ЗАНОВО.",
+							"th-TH": "วางจุดเทเลพอร์ตสองจุด เมื่อยืนอยู่บนพื้นและอยู่ในระยะของจุดเทเลพอร์ต กดใช้อีกครั้งเพื่อเทเลพอร์ตอย่างรวดเร็วไปยังจุดเทเลพอร์ตอีกจุดหนึ่ง  จุดเทเลพอร์ตสามารถเก็บขึ้นมาได้เพื่อติดตั้งใหม่",
+							"tr-TR": "İki tane IŞINLAYICI yerleştir. Işınlayıcılardan birinin menzilinde ve yerde dururken, TEKRAR ETKİNLEŞTİREREK hızlıca diğer ışınlayıcıya ışınlan. Işınlayıcıları TEKRAR YERLEŞTİRMEK üzere bıraktığın yerden alabilirsin.",
+							"vi-VN": "ĐẶT 2 trạm dịch chuyển. Khi đang ở trên mặt đất và trong phạm vi hoạt động của trạm, TÁI KÍCH HOẠT để dịch chuyển đến trạm còn lại. Kỹ năng này cho phép bạn nhặt trạm dịch chuyển lên và ĐẶT LẠI.",
+							"zh-CN": "PLACE two teleport anchors. While on the ground and in range of an anchor, REACTIVATE to quickly teleport to the other anchor.  Anchors can be picked up to be REDEPLOYED.",
+							"zh-TW": "放置兩個傳送錨點。錢博爾在地面上且在錨點範圍內時，按下「啟動」可瞬間移動到另一個錨點。可撿起錨點，然後「重新部署」。"
+						}
+					},
+					"label": "22697A3D-45BF-8DD7-4FEC-84A9E28C69D7_Ability2",
+					"name":
+					{
+						"defaultText": "Rendezvous",
+						"localizedByCulture":
+						{
+							"ar-AE": "الموعد",
+							"de-DE": "Rendezvous",
+							"en-US": "Rendezvous",
+							"es-ES": "Rendez-vous",
+							"es-MX": "Rendezvous",
+							"fr-FR": "Rendez-vous",
+							"id-ID": "Rendezvous",
+							"it-IT": "Rendez-vous",
+							"ja-JP": "ランデヴー",
+							"ko-KR": "랑데부",
+							"pl-PL": "Schadzka",
+							"pt-BR": "Rendezvous",
+							"ru-RU": "Рандеву",
+							"th-TH": "Rendezvous",
+							"tr-TR": "Buluşma",
+							"vi-VN": "Điểm Hẹn",
+							"zh-CN": "Rendezvous",
+							"zh-TW": "法式轉移"
+						}
+					}
+				},
+				"Grenade":
+				{
+					"description":
+					{
+						"defaultText": "PLACE a trap that scans for enemies. When a visible enemy comes in range, the trap counts down and then destabilizes the terrain around them , creating a lingering field that slows players caught inside of it.",
+						"localizedByCulture":
+						{
+							"ar-AE": "انصب فخًا يمسح المنطقة بحثًا عن الأعداء. عند دخول عدو مرئي ضمن النطاق، يبدأ العد التنازلي للفخ ثم يزعزع الأرض من حوله، وينشئ بذلك حقل تثبيت يبطئ اللاعبين الموجودين بداخله.",
+							"de-DE": "PLATZIERE eine Falle, die nach Gegnern scannt. Wenn ein sichtbarer Gegner in ihre Reichweite kommt, beginnt die Falle herunterzuzählen und destabilisiert dann das Terrain um ihn herum. Dadurch wird ein temporäres Feld erzeugt, das Spieler verlangsamt.",
+							"en-US": "PLACE a trap that scans for enemies. When a visible enemy comes in range, the trap counts down and then destabilizes the terrain around them , creating a lingering field that slows players caught inside of it.",
+							"es-ES": "Coloca una trampa que escanea en busca de enemigos. Cuando un enemigo visible entra en el alcance, la trampa inicia una cuenta atrás y, a continuación, desestabiliza el terreno a su alrededor, lo que crea un campo persistente que ralentiza a los jugadores que se encuentren en su interior.",
+							"es-MX": "COLOCA una trampa que escanea los alrededores buscando enemigos. Cuando un enemigo visible entra en contacto, esta comienza una cuenta regresiva que, al terminar, desestabiliza el terreno a su alrededor y crea un área que permanece en la zona y ralentiza a los enemigos dentro de ella.",
+							"fr-FR": "POSEZ un piège qui détecte les ennemis. Quand un ennemi visible est à portée, le piège déclenche un compte à rebours avant d'ébranler le terrain autour de lui, créant un champ persistant qui ralentit les joueurs qui s'y trouvent.",
+							"id-ID": "TEMPATKAN perangkap yang memindai musuh. Ketika musuh yang terlihat masuk ke dalam jangkauan, jebakan akan menghitung mundur lalu membuat medan di sekitar mereka tidak stabil, menciptakan medan tertinggal yang memperlambat pemain yang terperangkap di dalamnya.",
+							"it-IT": "PIAZZA una trappola che scansiona l'area in cerca di nemici. Quando un nemico visibile entra nel raggio di rilevazione, la trappola avvia un conto alla rovescia al termine del quale destabilizza il terreno intorno al bersaglio, creando un campo persistente che rallenta i giocatori al suo interno.",
+							"ja-JP": "敵をスキャンするトラップを設置する。視認できる敵が射程内に入るとトラップのカウントダウンが始まり、敵の周囲の地形を不安定にして遅延フィールドを発生させ、範囲内にいるプレイヤーの動きを遅くする。",
+							"ko-KR": "적을 스캔하는 함정을 배치합니다. 시야에 보이는 적이 사거리 안에 들어오면 함정이 카운트다운 후 주변 지형을 불안정하게 만들고 일정 시간 유지되는 둔화 영역을 생성하여 영역에 있는 플레이어의 속도를 늦춥니다.",
+							"pl-PL": "UMIEŚĆ pułapkę, która skanuje otoczenie w poszukiwaniu wrogów. Gdy widoczny wróg znajdzie się w jej zasięgu, pułapka zacznie odliczanie, po którym zdestabilizuje teren wokół niego, tworząc tymczasowe pole spowalniające znajdujących się w nim graczy.",
+							"pt-BR": "POSICIONE uma armadilha que busca por inimigos. Quando um inimigo visível entrar no alcance, a armadilha inicia uma contagem regressiva e desestabiliza o terreno ao redor, criando um campo duradouro que reduz a velocidade dos jogadores.",
+							"ru-RU": "РАЗМЕЩАЕТ ловушку, которая обнаруживает противников. Когда враг оказывается в зоне действия, ловушка срабатывает после короткой задержки и дестабилизирует небольшую область, замедляя игроков внутри.",
+							"th-TH": "วางกับดักที่จะทำการสแกนศัตรู เมื่อมีศัตรูที่มองเห็นได้เข้ามาในระยะ กับดักจะทำการนับถอยหลังแล้วจากนั้นจะทำให้พื้นที่รอบ ๆ เกิดความไม่เสถียร สร้างเป็นพื้นที่ที่จะสโลว์ผู้เล่นที่อยู่ในนั้น",
+							"tr-TR": "Düşmanlar için etrafı tarayan bir tuzak YERLEŞTİR. Görünen düşmanlar tuzağın menzili içine girdiğinde, tuzak geri sayıma başlar. Tuzak devreye girdiğinde etki alanını stabil olmayan bir hale getirerek içinde bulunan düşmanları yavaşlatır.",
+							"vi-VN": "ĐẶT 1 bẫy để phát hiện kẻ địch. Khi kẻ địch tiến vào phạm vi của bẫy, bẫy sẽ đếm ngược và sau đó khiến địa hình xung quanh rơi vào trạng thái bất ổn, tạo ra một vùng làm chậm những người chơi bên trong.",
+							"zh-CN": "PLACE a trap that scans for enemies. When a visible enemy comes in range, the trap counts down and then destabilizes the terrain around them , creating a lingering field that slows players caught inside of it.",
+							"zh-TW": "放置一個可偵測敵人的陷阱。非隱形的敵人進入範圍時，該陷阱倒數後會使周圍空間進入不穩定的狀態，創造一個可維持一段時間的力場，緩速範圍內的敵人。"
+						}
+					},
+					"label": "22697A3D-45BF-8DD7-4FEC-84A9E28C69D7_Grenade",
+					"name":
+					{
+						"defaultText": "Trademark",
+						"localizedByCulture":
+						{
+							"ar-AE": "العلامة التجارية",
+							"de-DE": "Markenzeichen",
+							"en-US": "Trademark",
+							"es-ES": "Marca registrada",
+							"es-MX": "Marca Registrada",
+							"fr-FR": "Marque déposée",
+							"id-ID": "Trademark",
+							"it-IT": "Marchio di fabbrica",
+							"ja-JP": "トレードマーク",
+							"ko-KR": "트레이드마크",
+							"pl-PL": "Znak rozpoznawczy",
+							"pt-BR": "Marca Registrada",
+							"ru-RU": "Коронный прием",
+							"th-TH": "Trademark",
+							"tr-TR": "Kartvizit",
+							"vi-VN": "Thương Hiệu",
+							"zh-CN": "Trademark",
+							"zh-TW": "慢行商標"
+						}
+					}
+				},
+				"Ability1":
+				{
+					"description":
+					{
+						"defaultText": "ACTIVATE to equip a heavy pistol. ALT FIRE with the pistol equipped to aim down sights.",
+						"localizedByCulture":
+						{
+							"ar-AE": "فعّل القدرة لتجهيز مسدس ثقيل. استخدم الإطلاق البديل مع المسدس المجهز للتصويب بالمنظار.",
+							"de-DE": "AKTIVIEREN, um eine schwere Pistole anzulegen. ALT. FEUERMODUS mit angelegter Pistole, um über Visier zu zielen.",
+							"en-US": "ACTIVATE to equip a heavy pistol. ALT FIRE with the pistol equipped to aim down sights.",
+							"es-ES": "ACTÍVALA para equipar una pistola pesada. Utiliza el DISPARO ALTERNATIVO para apuntar con la mira.",
+							"es-MX": "ACTÍVALA para equipar una pistola pesada. Usa DISPARO SECUNDARIO con la pistola equipada para usar la mira.",
+							"fr-FR": "ACTIVEZ pour vous équiper d'un gros calibre. Utilisez le TIR SECONDAIRE avec le pistolet équipé pour viser.",
+							"id-ID": "AKTIFKAN untuk menyiagakan pistol heavy. TEMBAK ALT dengan pistol yang disiagakan untuk mengarahkan bidikan ke bawah.",
+							"it-IT": "ATTIVA per equipaggiare una pistola pesante. Usa il FUOCO ALTERNATIVO con la pistola equipaggiata per prendere la mira.",
+							"ja-JP": "「発動」でヘヴィーピストルを装備する。装備中に「オルト射撃」で照準状態 (ADS) に切り替える。",
+							"ko-KR": "활성화하면 헤비 피스톨을 장착합니다. 장착한 피스톨로 보조 공격하면 조준 사격합니다.",
+							"pl-PL": "AKTYWUJ, aby wyposażyć ciężki pistolet. Użyj przycisku ALTERNATYWNEGO STRZAŁU z wyposażonym pistoletem, by spojrzeć przez celownik.",
+							"pt-BR": "ATIVE para equipar uma pistola pesada. Use o MODO SECUNDÁRIO com a pistola equipada para mirar.",
+							"ru-RU": "Нажмите кнопку умения, чтобы выбрать тяжелый пистолет. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы прицелиться из этого пистолета.",
+							"th-TH": "ใช้งานเพื่อติดตั้งปืนพกหนัก ใช้ปุ่มยิงเสริมเมื่อติดตั้งปืนพกเพื่อเล็งผ่านลำกล้อง",
+							"tr-TR": "Ağır bir tabanca kuşanmak için ETKİNLEŞTİR. Tabancanın ALTERNATİF ATIŞI nişan almanı sağlar.",
+							"vi-VN": "KÍCH HOẠT để trang bị một khẩu súng lục hạng nặng. NHẤP CHẾ ĐỘ PHỤ khi trang bị súng lục hạng nặng để ngắm ADS.",
+							"zh-CN": "ACTIVATE to equip a heavy pistol. ALT FIRE with the pistol equipped to aim down sights.",
+							"zh-TW": "按下「啟動」可裝備一把重火力手槍。持槍時點擊「輔助攻擊鍵」可開始瞄準射擊。"
+						}
+					},
+					"label": "22697A3D-45BF-8DD7-4FEC-84A9E28C69D7_Ability1",
+					"name":
+					{
+						"defaultText": "Headhunter",
+						"localizedByCulture":
+						{
+							"ar-AE": "صياد الرؤوس",
+							"de-DE": "Kopfjäger",
+							"en-US": "Headhunter",
+							"es-ES": "Cazador de cabezas",
+							"es-MX": "Cazador de Cabezas",
+							"fr-FR": "Chasseur de têtes",
+							"id-ID": "Headhunter",
+							"it-IT": "Cacciatore di teste",
+							"ja-JP": "ヘッドハンター",
+							"ko-KR": "헤드헌터",
+							"pl-PL": "Łowca głów",
+							"pt-BR": "Caçador de Cabeças",
+							"ru-RU": "Охотник за головами",
+							"th-TH": "Headhunter",
+							"tr-TR": "Kelle Avcısı",
+							"vi-VN": "Kẻ Săn Đầu Người",
+							"zh-CN": "Headhunter",
+							"zh-TW": "獵頭手槍"
+						}
+					}
+				},
+				"Ultimate":
+				{
+					"description":
+					{
+						"defaultText": "ACTIVATE to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit.  Killing an enemy creates a lingering field that slows players caught inside of it.",
+						"localizedByCulture":
+						{
+							"ar-AE": "فعّل القدرة لاستدعاء بندقية قناص مخصصة وقوية التاثير، حيث تكون قادرة على قتل الأعداء بأي إصابة مباشرة. يؤدي قتل أحد الأعداء إلى تكوين حقل تثبيت يبطئ اللاعبين الموجودين ضمنه.",
+							"de-DE": "AKTIVIEREN, um ein mächtiges individuelles Präzisionsgewehr herbeizurufen, das Gegner bei einem direkten Treffer sofort tötet.  Wenn du einen Gegner tötest, wird ein temporäres Feld erzeugt, das Spieler verlangsamt.",
+							"en-US": "ACTIVATE to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit.  Killing an enemy creates a lingering field that slows players caught inside of it.",
+							"es-ES": "ACTÍVALA para invocar un poderoso rifle de francotirador personalizado que mata a los enemigos con cualquier impacto directo.  Matar a un enemigo genera un campo persistente que ralentiza a los jugadores que se encuentren en su interior.",
+							"es-MX": "ACTIVA para invocar un poderoso rifle de francotirador personalizado que mata a cualquier enemigo al que impacte directamente. Matar a un enemigo crea un área que permanece en la zona y ralentiza a los jugadores que queden dentro de ella.",
+							"fr-FR": "ACTIVEZ pour matérialiser un puissant fusil de sniper personnalisé qui tue l'ennemi en un coup.  Tuer un ennemi crée un champ persistant qui ralentit les joueurs qui s'y trouvent.",
+							"id-ID": "AKTIFKAN untuk memanggil senapan penembak runduk kustom dan kuat yang akan membunuh musuh dengan serangan langsung. Membunuh musuh akan menciptakan medan tertinggal yang akan memperlambat pemain yang terperangkap di dalamnya.",
+							"it-IT": "ATTIVA per imbracciare un potente fucile di precisione personalizzato che uccide un nemico se lo colpisce direttamente. Uccidere un nemico crea un campo persistente che rallenta i giocatori al suo interno.",
+							"ja-JP": "「発動」でカスタムスナイパーライフルを喚び出す。このライフルの弾丸は、直撃した相手を一撃でキルする。敵をキルすると遅延フィールドが発生し、範囲内にいるプレイヤーの動きを遅くする。",
+							"ko-KR": "활성화하면 어떤 직격탄으로든 적을 처치할 수 있는 강력한 커스텀 저격총을 소환합니다. 적을 처치하면 일정 시간 유지되는 둔화 영역을 생성하여 영역에 있는 플레이어의 속도를 늦춥니다.",
+							"pl-PL": "AKTYWUJ, by przywołać śmiercionośny, niestandardowy karabin snajperski, który zabije wroga każdym bezpośrednim trafieniem.  Zabicie wroga tworzy tymczasowe pole spowalniające graczy w obszarze jego działania.",
+							"pt-BR": "ATIVE para invocar um poderoso fuzil de precisão personalizado que abate um inimigo com qualquer acerto. Abater um inimigo cria um campo duradouro que reduz a velocidade dos jogadores.",
+							"ru-RU": "Нажмите кнопку умения, чтобы выбрать особо мощную снайперскую винтовку, из которой можно убить врага любым прямым попаданием.  На месте гибели противника возникает поле, замедляющее игроков в его пределах.",
+							"th-TH": "กดใช้เพื่อเรียกใช้ปืนสไนเปอร์เฉพาะตัวแรงสูงซึ่งจะสังหารศัตรูโดยทันทีหากถูกยิงโดยตรง  การสังหารศัตรูจะสร้างพื้นที่ที่จะสโลว์ผู้เล่นที่อยู่ในนั้นตรงจุดที่ศัตรูถูกสังหาร",
+							"tr-TR": "Doğrudan isabet ettiği düşmanları anında öldüren güçlü ve özel bir keskin nişancı tüfeği kuşanmak için ETKİNLEŞTİR. Düşmanı öldürdüğün yerde, içine giren düşmanları yavaşlatan bir etki alanı oluşur.",
+							"vi-VN": "KÍCH HOẠT để triệu hồi 1 khẩu súng bắn tỉa chuyên biệt siêu mạnh có khả năng hạ gục đối thủ ngay khi bắn trúng. Khi hạ gục kẻ địch sẽ tạo ra một khu vực khiến đối phương ở bên trong bị làm chậm.",
+							"zh-CN": "ACTIVATE to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit.  Killing an enemy creates a lingering field that slows players caught inside of it.",
+							"zh-TW": "按下「啟動」可取出一把強大的特製狙擊槍，直接命中即可擊殺敵人。擊殺敵人後會創造一個可維持一段時間的力場，緩速範圍內的敵人。"
+						}
+					},
+					"label": "22697A3D-45BF-8DD7-4FEC-84A9E28C69D7_Ultimate",
+					"name":
+					{
+						"defaultText": "Tour De Force",
+						"localizedByCulture":
+						{
+							"ar-AE": "ضربة معلم",
+							"de-DE": "Glanzleistung",
+							"en-US": "Tour De Force",
+							"es-ES": "Tour de force",
+							"es-MX": "Tour de Force",
+							"fr-FR": "Tour de force",
+							"id-ID": "Tour De Force",
+							"it-IT": "Tour de force",
+							"ja-JP": "ツール・ド・フォース",
+							"ko-KR": "역작",
+							"pl-PL": "Majstersztyk",
+							"pt-BR": "Tour de Force",
+							"ru-RU": "Демонстрация силы",
+							"th-TH": "Tour De Force",
+							"tr-TR": "Keskin Tarz",
+							"vi-VN": "Tour De Force",
+							"zh-CN": "Tour De Force",
+							"zh-TW": "浪漫狙殺"
+						}
+					}
+				}
+			},
+			"id": "22697A3D-45BF-8DD7-4FEC-84A9E28C69D7",
+			"label": "22697A3D-45BF-8DD7-4FEC-84A9E28C69D7",
+			"name":
+			{
+				"defaultText": "Chamber",
+				"localizedByCulture":
+				{
+					"ar-AE": "تشامبر",
+					"de-DE": "Chamber",
+					"en-US": "Chamber",
+					"es-ES": "Chamber",
+					"es-MX": "Chamber",
+					"fr-FR": "Chamber",
+					"id-ID": "Chamber",
+					"it-IT": "Chamber",
+					"ja-JP": "チェンバー",
+					"ko-KR": "체임버",
+					"pl-PL": "Chamber",
+					"pt-BR": "Chamber",
+					"ru-RU": "Chamber",
+					"th-TH": "Chamber",
+					"tr-TR": "Chamber",
+					"vi-VN": "Chamber",
+					"zh-CN": "Chamber",
+					"zh-TW": "錢博爾"
 				}
 			}
 		},
@@ -2115,7 +2388,7 @@
 							"es-ES": "EQUIPA un bot de alarma camuflado. DISPARA para desplegar un bot que dará caza a los enemigos que estén dentro del alcance. Tras alcanzar su objetivo, el bot explota y aplica vulnerabilidad a los enemigos de la zona. MANTÉN PULSADO EQUIPAR para recoger un bot desplegado.",
 							"es-MX": "EQUIPA un Alarmabot encubierto. DISPARA para desplegar un bot que caza a los enemigos que entren en su alcance. Después de alcanzar a su objetivo, el bot explota y aplica Vulnerable a los enemigos en el área. MANTÉN PRESIONADO EQUIPAR para recuperar un bot desplegado.",
 							"fr-FR": "ÉQUIPEZ-vous d'un robot d'alarme camouflé. TIREZ pour déployer un robot qui traque les ennemis à sa portée.  Quand il atteint sa cible, le robot explose et inflige l'altération d'état Vulnérable aux ennemis dans la zone. MAINTENEZ LA TOUCHE D'ÉQUIPEMENT pour rappeler un robot déployé.",
-							"id-ID": "SIAGAKAN Alarmbot tersembunyi. TEMBAK untuk mengerahkan bot pemburu musuh yang masuk dalam jangkauan. Setelah mencapai target, bot meledak dan menerapkan Vulnarable pada musuh di area. TAHAN SIAGA untuk memanggil kembali bot yang dikerahkan.",
+							"id-ID": "SIAGAKAN Alarmbot tersembunyi. TEMBAK untuk mengerahkan bot pemburu musuh yang masuk dalam jangkauan. Setelah mencapai target, bot meledak dan menerapkan Vulnarable pada musuh di area. TAHAN SIAGA untuk melakukan recall pada bot yang dikerahkan.",
 							"it-IT": "EQUIPAGGIA un Roboallarme mimetico. SPARA per piazzare il bot, il quale inseguirà i nemici che entrano nel suo raggio d'azione.  Una volta raggiunto il bersaglio, il bot esplode rendendo Vulnerabili i nemici circostanti. TIENI PREMUTO EQUIPAGGIA per richiamare il bot piazzato.",
 							"ja-JP": "ステルス性のアラームボットを構え、「発射」で設置する。このボットは範囲内に入った敵を追尾する。ターゲットに到達すると爆発し、範囲内の敵に弱体化を付与する。アビリティーキーを長押しで設置したボットを回収する。",
 							"ko-KR": "잠복 알람봇을 장착합니다. 발사하면 범위 내에 들어온 적을 추적하는 봇을 배치합니다. 대상에 도달하면 봇은 폭발하여 해당 지역 내에 있는 적을 취약 상태로 만듭니다. 장착을 길게 누르면 배치된 봇을 회수합니다.",
@@ -2169,7 +2442,7 @@
 							"es-ES": "EQUIPA una torreta. DISPARA para desplegar una torreta que dispara a los enemigos en un cono de 180 grados. MANTÉN PULSADO EQUIPAR para recoger la torreta desplegada.",
 							"es-MX": "EQUIPA una torreta. DISPARA para desplegar una torreta que les dispara a los enemigos cercanos en un cono de 180 grados. MANTÉN PRESIONADO EQUIPAR para recuperar una torreta desplegada.",
 							"fr-FR": "ÉQUIPEZ-vous d'une tourelle. TIREZ pour déployer une tourelle qui tire sur les ennemis dans un cône de 180 degrés. MAINTENEZ LA TOUCHE D'ÉQUIPEMENT pour rappeler la tourelle déployée.",
-							"id-ID": "SIAGAKAN Turret. TEMBAK untuk mengerahkan turret yang akan menembak musuh dalam sudut 180 derajat. TAHAN SIAGA untuk memanggil kembali turret yang dikerahkan.",
+							"id-ID": "SIAGAKAN Turret. TEMBAK untuk mengerahkan turret yang akan menembak musuh dalam sudut 180 derajat. TAHAN SIAGA untuk melakukan recall pada turret yang dikerahkan.",
 							"it-IT": "EQUIPAGGIA una torretta. SPARA per piazzare una torretta che apre il fuoco contro tutti i nemici che entrano nel suo cono visivo da 180°. TIENI PREMUTO EQUIPAGGIA per richiamare la torretta piazzata.",
 							"ja-JP": "タレットを構え、「発射」で設置する。タレットは180度の扇状範囲内にいる敵を攻撃する。アビリティーキーを長押しで設置したタレットを呼び戻せる。",
 							"ko-KR": "포탑을 장착합니다. 발사하면 180도 범위에 있는 적을 공격하는 포탑을 배치합니다. 장착을 길게 누르면 배치된 포탑을 회수합니다.",
@@ -3699,7 +3972,7 @@
 							"id-ID": "SIAGAKAN untuk membentuk tambatan retakan. TEMBAK untuk mengirim tambatan ke depan. TEMBAK ALT untuk memasang tambatan di lokasi. AKTIFKAN untuk teleportasi ke lokasi tambatan.",
 							"it-IT": "EQUIPAGGIA per imbrigliare una faglia dimensionale. SPARA per mandare in avanti la faglia. Usa il FUOCO ALTERNATIVO per piazzare la faglia in un punto. ATTIVA per teletrasportarti nella posizione della faglia.",
 							"ja-JP": "構えを取り、空間の裂け目を生じさせる。「発射」でその裂け目を前方に放ち、「オルト射撃」の場合はその場に設置する。「発動」で裂け目の位置にテレポートする。",
-							"ko-KR": "장착하면 균열 결속을 준비합니다. 발사하면 전방으로 결속을 날립니다. 보조 공격 시 결속을 배치합니다. 활성화 시 해당 결속의 위치로 순간 이동합니다.",
+							"ko-KR": "장착하면 균열 결속을 준비합니다. 발사하면 전방으로 결속을 날립니다. 보조 공격 시 결속을 배치합니다. 활성화 시 해당 결속의 위치로 순간이동합니다.",
 							"pl-PL": "WYPOSAŻ, by wykorzystać uprząż wymiarową. STRZEL, aby wypuścić uprząż przed siebie. ALT. STRZAŁ mocuje uprząż w miejscu. AKTYWUJ ją, by teleportować się w dane miejsce.",
 							"pt-BR": "EQUIPE para preparar um fluxo dimensional. DISPARE para lançar uma extremidade. Use o MODO SECUNDÁRIO para posicionar a outra. ATIVE para se teleportar até a extremidade lançada.",
 							"ru-RU": "Нажмите кнопку умения, чтобы привязать нить портала к Yoru. Нажмите кнопку ОГОНЬ, чтобы послать портал вперед. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы бросить портал рядом с Yoru. Нажмите кнопку умения, чтобы телепортироваться по нити.",
@@ -4518,7 +4791,7 @@
 							"id-ID": "SIAGAKAN ability Shrouded Step dan lihat indikator jangkauannya. TEMBAK untuk memulai penyaluran singkat, lalu teleportasi ke lokasi yang ditandai.",
 							"it-IT": "EQUIPAGGIA un'abilità che ti permette di muoverti furtivo tra le ombre e osserva il suo indicatore di gittata. SPARA per entrare in una breve canalizzazione e teletrasportarti nella posizione indicata.",
 							"ja-JP": "シュラウドステップの体勢に入り、距離マーカーを表示する。「発射」で短い詠唱の後、マークの位置にテレポートする。",
-							"ko-KR": "어둠의 발자국 스킬을 장착하고 사거리를 표시합니다. 발사하면 짧은 정신 집중 후 표시한 위치로 순간 이동합니다.",
+							"ko-KR": "어둠의 발자국 스킬을 장착하고 사거리를 표시합니다. 발사하면 짧은 정신 집중 후 표시한 위치로 순간이동합니다.",
 							"pl-PL": "WYPOSAŻ umiejętność Krok w Mrok, by zobaczyć jej wskaźnik zasięgu. STRZEL, by rozpocząć krótkie ładowanie, po którym teleportujesz się do zaznaczonego miejsca.",
 							"pt-BR": "EQUIPE uma habilidade de Passos Tenebrosos para ver o indicador de alcance. DISPARE para começar uma breve canalização e, então, teleporte-se para o local marcado.",
 							"ru-RU": "Выбирает умение \"Скрытый шаг\" и показывает дальность его действия. Нажмите кнопку ОГОНЬ, чтобы после небольшой задержки телепортировать агента к выбранному месту. Противники услышат звук телепортации только от точки отправления.",
@@ -4572,7 +4845,7 @@
 							"id-ID": "SIAGAKAN peta taktis. TEMBAK untuk teleportasi ke lokasi terpilih. Saat teleportasi, Omen muncul sebagai Shade yang bisa dihancurkan oleh musuh untuk membatalkan teleportasinya, atau TEKAN SIAGAKAN agar Omen membatalkan teleportasinya.",
 							"it-IT": "EQUIPAGGIA una mappa tattica. SPARA per iniziare a teletrasportarti nel punto selezionato. Durante il teletrasporto, Omen apparirà nel punto di destinazione sotto forma di ombra, che potrà essere distrutta dagli avversari per impedirgli di completarlo. Puoi annullare l'operazione PREMENDO EQUIPAGGIA.",
 							"ja-JP": "タクティカルマップを開く。「発射」で選択した地点にテレポートを開始する。テレポート中のオーメンは「影の姿」となり、この状態で敵に破壊されるとテレポートに失敗する。また「構える」キーでオーメンのテレポートをキャンセルすることができる。",
-							"ko-KR": "전술 지도를 장착합니다. 발사하면 선택한 위치로 순간 이동을 시작합니다. 순간 이동 중에는 오멘이 그림자로 나타나며 이때 적이 그림자를 파괴하면 순간 이동이 취소됩니다. 장착을 누르면 오멘이 순간 이동을 취소합니다.",
+							"ko-KR": "전술 지도를 장착합니다. 발사하면 선택한 위치로 순간이동을 시작합니다. 순간이동 중에는 오멘이 그림자로 나타나며 이때 적이 그림자를 파괴하면 순간이동이 취소됩니다. 장착을 누르면 오멘이 순간이동을 취소합니다.",
 							"pl-PL": "WYPOSAŻ mapę taktyczną. STRZEL, by rozpocząć teleportację do wybranego miejsca. W trakcie teleportacji Omen będzie widoczny jako cień, który wrogowie mogą zniszczyć, by zapobiec jego teleportacji. NACIŚNIJ KLAWISZ WYPOSAŻENIA, by anulować teleportację.",
 							"pt-BR": "EQUIPE um mapa tático. DISPARE para começar a se teleportar ao local selecionado. Enquanto se teleporta, Omen aparecerá como um Vulto que pode ser destruído por qualquer inimigo para cancelar o teleporte, ou PRESSIONE EQUIPAR para cancelá-lo.",
 							"ru-RU": "Выбирает тактическую карту. Нажмите кнопку ОГОНЬ, чтобы начать телепортацию к выбранному месту. Во время телепортации Omen предстает в образе тени, которая может быть уничтожена врагом для отмены телепортации. Omen также может отменить телепортацию НАЖАТИЕМ клавиши умения.",
@@ -4968,6 +5241,195 @@
 		}
 	],
 	"weapons": [
+		{
+			"stats":
+			{
+				"fireMode": "FullyAutomatic",
+				"fireRate": 0,
+				"magazineSize": 0,
+				"runSpeedMultiplier": 0,
+				"equipTimeSeconds": 0,
+				"reloadTimeSeconds": 0,
+				"firstBulletAccuracy": 0,
+				"shotgunPelletCount": 0,
+				"wallPenetration": "None",
+				"damageRanges": [],
+				"altFireType": "None",
+				"aDSStats":
+				{
+					"zoomMultiplier": 0,
+					"fireRate": 0,
+					"runSpeedMultiplier": 0,
+					"burstCount": 0,
+					"firstBulletAccuracy": 0
+				},
+				"airBurstStats":
+				{
+					"burstDistance": 0,
+					"shotgunPelletCount": 0
+				},
+				"altShotgunStats":
+				{
+					"shotgunPelletCount": 0,
+					"burstRate": 0
+				},
+				"feature": "None"
+			},
+			"category": "Hidden",
+			"id": "856D9A7E-4B06-DC37-15DC-9D809C37CB90",
+			"label": "856D9A7E-4B06-DC37-15DC-9D809C37CB90",
+			"name":
+			{
+				"defaultText": "Headhunter",
+				"localizedByCulture":
+				{
+					"ar-AE": "صياد الرؤوس",
+					"de-DE": "Kopfjäger",
+					"en-US": "Headhunter",
+					"es-ES": "Cazador de cabezas",
+					"es-MX": "Cazador de Cabezas",
+					"fr-FR": "Chasseur de têtes",
+					"id-ID": "Headhunter",
+					"it-IT": "Cacciatore di teste",
+					"ja-JP": "ヘッドハンター",
+					"ko-KR": "헤드헌터",
+					"pl-PL": "Łowca głów",
+					"pt-BR": "Caçador de Cabeças",
+					"ru-RU": "Охотник за головами",
+					"th-TH": "Headhunter",
+					"tr-TR": "Kelle Avcısı",
+					"vi-VN": "Kẻ Săn Đầu Người",
+					"zh-CN": "Headhunter",
+					"zh-TW": "獵頭手槍"
+				}
+			}
+		},
+		{
+			"stats":
+			{
+				"fireMode": "FullyAutomatic",
+				"fireRate": 0,
+				"magazineSize": 0,
+				"runSpeedMultiplier": 0,
+				"equipTimeSeconds": 0,
+				"reloadTimeSeconds": 0,
+				"firstBulletAccuracy": 0,
+				"shotgunPelletCount": 0,
+				"wallPenetration": "None",
+				"damageRanges": [],
+				"altFireType": "None",
+				"aDSStats":
+				{
+					"zoomMultiplier": 0,
+					"fireRate": 0,
+					"runSpeedMultiplier": 0,
+					"burstCount": 0,
+					"firstBulletAccuracy": 0
+				},
+				"airBurstStats":
+				{
+					"burstDistance": 0,
+					"shotgunPelletCount": 0
+				},
+				"altShotgunStats":
+				{
+					"shotgunPelletCount": 0,
+					"burstRate": 0
+				},
+				"feature": "None"
+			},
+			"category": "Hidden",
+			"id": "39099FB5-4293-DEF4-1E09-2E9080CE7456",
+			"label": "39099FB5-4293-DEF4-1E09-2E9080CE7456",
+			"name":
+			{
+				"defaultText": "Tour De Force",
+				"localizedByCulture":
+				{
+					"ar-AE": "ضربة معلم",
+					"de-DE": "Glanzleistung",
+					"en-US": "Tour De Force",
+					"es-ES": "Tour de force",
+					"es-MX": "Tour de Force",
+					"fr-FR": "Tour de force",
+					"id-ID": "Tour De Force",
+					"it-IT": "Tour de force",
+					"ja-JP": "ツール・ド・フォース",
+					"ko-KR": "역작",
+					"pl-PL": "Majstersztyk",
+					"pt-BR": "Tour de Force",
+					"ru-RU": "Демонстрация силы",
+					"th-TH": "Tour De Force",
+					"tr-TR": "Keskin Tarz",
+					"vi-VN": "Tour De Force",
+					"zh-CN": "Tour De Force",
+					"zh-TW": "浪漫狙殺"
+				}
+			}
+		},
+		{
+			"stats":
+			{
+				"fireMode": "FullyAutomatic",
+				"fireRate": 0,
+				"magazineSize": 0,
+				"runSpeedMultiplier": 0,
+				"equipTimeSeconds": 0,
+				"reloadTimeSeconds": 0,
+				"firstBulletAccuracy": 0,
+				"shotgunPelletCount": 0,
+				"wallPenetration": "None",
+				"damageRanges": [],
+				"altFireType": "None",
+				"aDSStats":
+				{
+					"zoomMultiplier": 0,
+					"fireRate": 0,
+					"runSpeedMultiplier": 0,
+					"burstCount": 0,
+					"firstBulletAccuracy": 0
+				},
+				"airBurstStats":
+				{
+					"burstDistance": 0,
+					"shotgunPelletCount": 0
+				},
+				"altShotgunStats":
+				{
+					"shotgunPelletCount": 0,
+					"burstRate": 0
+				},
+				"feature": "None"
+			},
+			"category": "Hidden",
+			"id": "9677D521-45F0-0EFF-AD21-81A03FC8A314",
+			"label": "9677D521-45F0-0EFF-AD21-81A03FC8A314",
+			"name":
+			{
+				"defaultText": "KAY/O Core",
+				"localizedByCulture":
+				{
+					"ar-AE": "نواة كاي/أو",
+					"de-DE": "KAY/O-Kern",
+					"en-US": "KAY/O Core",
+					"es-ES": "KAY/O principal",
+					"es-MX": "Núcleo de KAY/O",
+					"fr-FR": "Noyau de KAY/O",
+					"id-ID": "Inti KAY/O",
+					"it-IT": "Nucleo di KAY/O",
+					"ja-JP": "KAY/O のコア",
+					"ko-KR": "케이/오 코어",
+					"pl-PL": "Rdzeń KAY/O",
+					"pt-BR": "Núcleo de KAY/O",
+					"ru-RU": "Ядро KAY/O",
+					"th-TH": "แกนของ KAY/O",
+					"tr-TR": "KAY/O Çekirdeği",
+					"vi-VN": "Lõi Năng Lượng Của KAY/O",
+					"zh-CN": "KAY/O Core",
+					"zh-TW": "KAY/O核心"
+				}
+			}
+		},
 		{
 			"stats":
 			{
@@ -10124,6 +10586,273 @@
 					"vi-VN": "Ares Thượng Giới",
 					"zh-CN": "天界 战神",
 					"zh-TW": "天月耀春 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
+			"defaultChromaId": "6B923549-4B03-89EC-2544-0E964CB314DD",
+			"chromas": [
+				{
+					"id": "6B923549-4B03-89EC-2544-0E964CB314DD",
+					"label": "6B923549-4B03-89EC-2544-0E964CB314DD",
+					"name":
+					{
+						"defaultText": "Magepunk Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك آريز",
+							"de-DE": "Ares – Magepunk",
+							"en-US": "Magepunk Ares",
+							"es-ES": "Ares Magepunk",
+							"es-MX": "Ares Magepunk",
+							"fr-FR": "Ares (Magepunk)",
+							"id-ID": "Magepunk Ares",
+							"it-IT": "Ares Magepunk",
+							"ja-JP": "メイジパンク アレス",
+							"ko-KR": "메이지펑크 아레스",
+							"pl-PL": "Ares Magepunk",
+							"pt-BR": "Ares Magipunk",
+							"ru-RU": "Ares \"Чаропанк\"",
+							"th-TH": "Magepunk Ares",
+							"tr-TR": "Sihirpunk Ares",
+							"vi-VN": "Ares Magepunk",
+							"zh-CN": "Magepunk Ares",
+							"zh-TW": "奇幻龐克 戰神"
+						}
+					}
+				},
+				{
+					"id": "2645C6CD-45E2-623E-4C42-C2BAAF398127",
+					"label": "2645C6CD-45E2-623E-4C42-C2BAAF398127",
+					"name":
+					{
+						"defaultText": "Magepunk Ares Level 4\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك آريز المستوى 4\n(بديل 1 أخضر)",
+							"de-DE": "Ares – Magepunk Level 4\n(Variante 1, Grün)",
+							"en-US": "Magepunk Ares Level 4\n(Variant 1 Green)",
+							"es-ES": "Ares Magepunk de nivel 4\n(variante 1: verde)",
+							"es-MX": "Ares Magepunk nivel 4\n(Variante 1 Verde)",
+							"fr-FR": "Ares (Magepunk) niveau 4\n(variante 1 Vert)",
+							"id-ID": "Magepunk Ares Level 4\n(Varian 1 Hijau)",
+							"it-IT": "Ares Magepunk livello 4\n(variante 1 Verde)",
+							"ja-JP": "メイジパンク アレス Lv.4\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "메이지펑크 아레스 4레벨\n(변형 1 녹색)",
+							"pl-PL": "Ares Magepunk (poziom 4)\n(wersja 1 – zielona)",
+							"pt-BR": "Ares Magipunk Nível 4\n(Variante 1 Verde)",
+							"ru-RU": "Ares \"Чаропанк\" уровень 4\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Magepunk Ares เลเวล 4\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "4. Seviye Sihirpunk Ares\n(Stil 1 - Yeşil)",
+							"vi-VN": "Ares Magepunk Cấp 4\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "Magepunk Ares Level 4\n(Variant 1 Green)",
+							"zh-TW": "奇幻龐克 戰神 等級4\n（幻彩1 綠色）"
+						}
+					}
+				},
+				{
+					"id": "C058A9CB-42A9-4477-ACA7-088FE6564398",
+					"label": "C058A9CB-42A9-4477-ACA7-088FE6564398",
+					"name":
+					{
+						"defaultText": "Magepunk Ares Level 4\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك آريز المستوى 4\n(بديل 2 وردي)",
+							"de-DE": "Ares – Magepunk Level 4\n(Variante 2, Pink)",
+							"en-US": "Magepunk Ares Level 4\n(Variant 2 Pink)",
+							"es-ES": "Ares Magepunk de nivel 4\n(variante 2: rosa)",
+							"es-MX": "Ares Magepunk nivel 4\n(Variante 2 Rosa)",
+							"fr-FR": "Ares (Magepunk) niveau 4\n(variante 2 Rose)",
+							"id-ID": "Magepunk Ares Level 4\n(Varian 2 Merah Muda)",
+							"it-IT": "Ares Magepunk livello 4\n(variante 2 Rosa)",
+							"ja-JP": "メイジパンク アレス Lv.4\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "메이지펑크 아레스 4레벨\n(변형 2 분홍색)",
+							"pl-PL": "Ares Magepunk (poziom 4)\n(wersja 2 – różowa)",
+							"pt-BR": "Ares Magipunk Nível 4\n(Variante 2 Rosa)",
+							"ru-RU": "Ares \"Чаропанк\" уровень 4\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Magepunk Ares เลเวล 4\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "4. Seviye Sihirpunk Ares\n(Stil 2 - Pembe)",
+							"vi-VN": "Ares Magepunk Cấp 4\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "Magepunk Ares Level 4\n(Variant 2 Pink)",
+							"zh-TW": "奇幻龐克 戰神 等級4\n（幻彩2 粉色）"
+						}
+					}
+				},
+				{
+					"id": "D9EB669A-422B-20F0-4708-C39FD340D340",
+					"label": "D9EB669A-422B-20F0-4708-C39FD340D340",
+					"name":
+					{
+						"defaultText": "Magepunk Ares Level 4\n(Variant 3 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك آريز المستوى 4\n(بديل 3 برتقالي)",
+							"de-DE": "Ares – Magepunk Level 4\n(Variante 3, Orange)",
+							"en-US": "Magepunk Ares Level 4\n(Variant 3 Orange)",
+							"es-ES": "Ares Magepunk de nivel 4\n(variante 3: naranja)",
+							"es-MX": "Ares Magepunk nivel 4\n(Variante 3 Naranja)",
+							"fr-FR": "Ares (Magepunk) niveau 4\n(variante 3 Orange)",
+							"id-ID": "Magepunk Ares Level 4\n(Varian 3 Oranye)",
+							"it-IT": "Ares Magepunk livello 4\n(variante 3 Arancione)",
+							"ja-JP": "メイジパンク アレス Lv.4\n(ヴァリアント 3 オレンジ)",
+							"ko-KR": "메이지펑크 아레스 4레벨\n(변형 3 주황색)",
+							"pl-PL": "Ares Magepunk (poziom 4)\n(wersja 3 – pomarańczowa)",
+							"pt-BR": "Ares Magipunk Nível 4\n(Variante 3 Laranja)",
+							"ru-RU": "Ares \"Чаропанк\" уровень 4\n(расцветка 3 \"Оранжевый\")",
+							"th-TH": "Magepunk Ares เลเวล 4\n(ตัวเลือกที่ 3 สีส้ม)",
+							"tr-TR": "4. Seviye Sihirpunk Ares\n(Stil 3 - Turuncu)",
+							"vi-VN": "Ares Magepunk Cấp 4\n(Dạng 3 Ánh Cam)",
+							"zh-CN": "Magepunk Ares Level 4\n(Variant 3 Orange)",
+							"zh-TW": "奇幻龐克 戰神 等級4\n（幻彩3 橘色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "857AD950-486A-D199-7BF2-7092AAF88AE2",
+					"label": "857AD950-486A-D199-7BF2-7092AAF88AE2",
+					"name":
+					{
+						"defaultText": "Magepunk Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك آريز",
+							"de-DE": "Ares – Magepunk",
+							"en-US": "Magepunk Ares",
+							"es-ES": "Ares Magepunk",
+							"es-MX": "Ares Magepunk",
+							"fr-FR": "Ares (Magepunk)",
+							"id-ID": "Magepunk Ares",
+							"it-IT": "Ares Magepunk",
+							"ja-JP": "メイジパンク アレス",
+							"ko-KR": "메이지펑크 아레스",
+							"pl-PL": "Ares Magepunk",
+							"pt-BR": "Ares Magipunk",
+							"ru-RU": "Ares \"Чаропанк\"",
+							"th-TH": "Magepunk Ares",
+							"tr-TR": "Sihirpunk Ares",
+							"vi-VN": "Ares Magepunk",
+							"zh-CN": "Magepunk Ares",
+							"zh-TW": "奇幻龐克 戰神"
+						}
+					}
+				},
+				{
+					"id": "8BE22B38-4655-5C1C-4235-2F96A85DDF4C",
+					"label": "8BE22B38-4655-5C1C-4235-2F96A85DDF4C",
+					"name":
+					{
+						"defaultText": "Magepunk Ares Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك آريز المستوى 2",
+							"de-DE": "Ares – Magepunk Level 2",
+							"en-US": "Magepunk Ares Level 2",
+							"es-ES": "Ares Magepunk de nivel 2",
+							"es-MX": "Ares Magepunk nivel 2",
+							"fr-FR": "Ares (Magepunk) niveau 2",
+							"id-ID": "Magepunk Ares Level 2",
+							"it-IT": "Ares Magepunk livello 2",
+							"ja-JP": "メイジパンク アレス Lv.2",
+							"ko-KR": "메이지펑크 아레스 2레벨",
+							"pl-PL": "Ares Magepunk (poziom 2)",
+							"pt-BR": "Ares Magipunk Nível 2",
+							"ru-RU": "Ares \"Чаропанк\" уровень 2",
+							"th-TH": "Magepunk Ares เลเวล 2",
+							"tr-TR": "2. Seviye Sihirpunk Ares",
+							"vi-VN": "Ares Magepunk Cấp 2",
+							"zh-CN": "Magepunk Ares Level 2",
+							"zh-TW": "奇幻龐克 戰神 等級2"
+						}
+					}
+				},
+				{
+					"id": "0D2861A4-495B-4F66-C416-F78605ECC9AA",
+					"label": "0D2861A4-495B-4F66-C416-F78605ECC9AA",
+					"name":
+					{
+						"defaultText": "Magepunk Ares Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك آريز المستوى 3",
+							"de-DE": "Ares – Magepunk Level 3",
+							"en-US": "Magepunk Ares Level 3",
+							"es-ES": "Ares Magepunk de nivel 3",
+							"es-MX": "Ares Magepunk nivel 3",
+							"fr-FR": "Ares (Magepunk) niveau 3",
+							"id-ID": "Magepunk Ares Level 3",
+							"it-IT": "Ares Magepunk livello 3",
+							"ja-JP": "メイジパンク アレス Lv.3",
+							"ko-KR": "메이지펑크 아레스 3레벨",
+							"pl-PL": "Ares Magepunk (poziom 3)",
+							"pt-BR": "Ares Magipunk Nível 3",
+							"ru-RU": "Ares \"Чаропанк\" уровень 3",
+							"th-TH": "Magepunk Ares เลเวล 3",
+							"tr-TR": "3. Seviye Sihirpunk Ares",
+							"vi-VN": "Ares Magepunk Cấp 3",
+							"zh-CN": "Magepunk Ares Level 3",
+							"zh-TW": "奇幻龐克 戰神 等級3"
+						}
+					}
+				},
+				{
+					"id": "DDC01EA7-4ECC-617E-DA04-2491064E592B",
+					"label": "DDC01EA7-4ECC-617E-DA04-2491064E592B",
+					"name":
+					{
+						"defaultText": "Magepunk Ares Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك آريز المستوى 4",
+							"de-DE": "Ares – Magepunk Level 4",
+							"en-US": "Magepunk Ares Level 4",
+							"es-ES": "Ares Magepunk de nivel 4",
+							"es-MX": "Ares Magepunk nivel 4",
+							"fr-FR": "Ares (Magepunk) niveau 4",
+							"id-ID": "Magepunk Ares Level 4",
+							"it-IT": "Ares Magepunk livello 4",
+							"ja-JP": "メイジパンク アレス Lv.4",
+							"ko-KR": "메이지펑크 아레스 4레벨",
+							"pl-PL": "Ares Magepunk (poziom 4)",
+							"pt-BR": "Ares Magipunk Nível 4",
+							"ru-RU": "Ares \"Чаропанк\" уровень 4",
+							"th-TH": "Magepunk Ares เลเวล 4",
+							"tr-TR": "4. Seviye Sihirpunk Ares",
+							"vi-VN": "Ares Magepunk Cấp 4",
+							"zh-CN": "Magepunk Ares Level 4",
+							"zh-TW": "奇幻龐克 戰神 等級4"
+						}
+					}
+				}
+			],
+			"id": "0FAC1DCF-48D0-C6C4-675E-2A8013BC879C",
+			"label": "0FAC1DCF-48D0-C6C4-675E-2A8013BC879C",
+			"name":
+			{
+				"defaultText": "Magepunk Ares",
+				"localizedByCulture":
+				{
+					"ar-AE": "ميج بانك آريز",
+					"de-DE": "Ares – Magepunk",
+					"en-US": "Magepunk Ares",
+					"es-ES": "Ares Magepunk",
+					"es-MX": "Ares Magepunk",
+					"fr-FR": "Ares (Magepunk)",
+					"id-ID": "Magepunk Ares",
+					"it-IT": "Ares Magepunk",
+					"ja-JP": "メイジパンク アレス",
+					"ko-KR": "메이지펑크 아레스",
+					"pl-PL": "Ares Magepunk",
+					"pt-BR": "Ares Magipunk",
+					"ru-RU": "Ares \"Чаропанк\"",
+					"th-TH": "Magepunk Ares",
+					"tr-TR": "Sihirpunk Ares",
+					"vi-VN": "Ares Magepunk",
+					"zh-CN": "Magepunk Ares",
+					"zh-TW": "奇幻龐克 戰神"
 				}
 			}
 		},
@@ -20387,7 +21116,7 @@
 							"pt-BR": "Phantom Aero",
 							"ru-RU": "Phantom \"Полет\"",
 							"th-TH": "Aero Phantom",
-							"tr-TR": "Havai Frenzy",
+							"tr-TR": "Havai Phantom",
 							"vi-VN": "Phantom Aero",
 							"zh-CN": "Aero Phantom",
 							"zh-TW": "航創未來 幻象"
@@ -20445,7 +21174,7 @@
 							"pt-BR": "Phantom Aero\n\n(Variante 2 Roxa/Cinza)",
 							"ru-RU": "Phantom \"Полет\"\n(расцветка 2 \"Фиолетовый/Серый\")",
 							"th-TH": "Aero Phantom\n(ตัวเลือกที่ 2 สีม่วง/เทา)",
-							"tr-TR": "Havai Frenzy\n(Stil 2 - Mor/Gri)",
+							"tr-TR": "Havai Phantom\n(Stil 2 - Mor/Gri)",
 							"vi-VN": "Phantom Aero\n(Dạng 2 Ánh Tím/Xám)",
 							"zh-CN": "Aero Phantom\r\n(Variant 2 Purple/Gray)",
 							"zh-TW": "航創未來 幻象\n（幻彩2 紫／灰色）"
@@ -20474,7 +21203,7 @@
 							"pt-BR": "Phantom Aero\n(Variante 3 Verde/Preta)",
 							"ru-RU": "Phantom \"Полет\"\n(расцветка 3 \"Зеленый/Черный\")",
 							"th-TH": "Aero Phantom\n(ตัวเลือกที่ 3 สีเขียว/ดำ)",
-							"tr-TR": "Havai Frenzy\n(Stil 3 - Yeşil/Siyah)",
+							"tr-TR": "Havai Phantom\n(Stil 3 - Yeşil/Siyah)",
 							"vi-VN": "Phantom Aero\n(Dạng 3 Ánh Lục/Đen)",
 							"zh-CN": "Aero Phantom\n(Variant 3 Green/Black)",
 							"zh-TW": "航創未來 幻象\n（幻彩3 綠／黑色）"
@@ -20505,7 +21234,7 @@
 							"pt-BR": "Phantom Aero",
 							"ru-RU": "Phantom \"Полет\"",
 							"th-TH": "Aero Phantom",
-							"tr-TR": "Havai Frenzy",
+							"tr-TR": "Havai Phantom",
 							"vi-VN": "Phantom Aero",
 							"zh-CN": "Aero Phantom",
 							"zh-TW": "航創未來 幻象"
@@ -20534,7 +21263,7 @@
 					"pt-BR": "Phantom Aero",
 					"ru-RU": "Phantom \"Полет\"",
 					"th-TH": "Aero Phantom",
-					"tr-TR": "Havai Frenzy",
+					"tr-TR": "Havai Phantom",
 					"vi-VN": "Phantom Aero",
 					"zh-CN": "Aero Phantom",
 					"zh-TW": "航創未來 幻象"
@@ -31020,6 +31749,99 @@
 		},
 		{
 			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "C75C1D59-4DED-E50E-AFD7-30B84F2025F0",
+			"chromas": [
+				{
+					"id": "C75C1D59-4DED-E50E-AFD7-30B84F2025F0",
+					"label": "C75C1D59-4DED-E50E-AFD7-30B84F2025F0",
+					"name":
+					{
+						"defaultText": "Finesse Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "فينيس كلاسيك",
+							"de-DE": "Classic – Finesse",
+							"en-US": "Finesse Classic",
+							"es-ES": "Classic Finesse",
+							"es-MX": "Classic Finesse",
+							"fr-FR": "Classic (Finesse)",
+							"id-ID": "Finesse Classic",
+							"it-IT": "Classic Eleganza",
+							"ja-JP": "フィネス クラシック",
+							"ko-KR": "피네스 클래식",
+							"pl-PL": "Classic Finezji",
+							"pt-BR": "Classic Finesse",
+							"ru-RU": "Classic \"Мастерство\"",
+							"th-TH": "Finesse Classic",
+							"tr-TR": "Zarafet Classic",
+							"vi-VN": "Classic Tinh Tế",
+							"zh-CN": "Finesse Classic",
+							"zh-TW": "藝高膽大 制式手槍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "30F3E881-43D0-A455-B272-E8968C45761F",
+					"label": "30F3E881-43D0-A455-B272-E8968C45761F",
+					"name":
+					{
+						"defaultText": "Finesse Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "فينيس كلاسيك",
+							"de-DE": "Classic – Finesse",
+							"en-US": "Finesse Classic",
+							"es-ES": "Classic Finesse",
+							"es-MX": "Classic Finesse",
+							"fr-FR": "Classic (Finesse)",
+							"id-ID": "Finesse Classic",
+							"it-IT": "Classic Eleganza",
+							"ja-JP": "フィネス クラシック",
+							"ko-KR": "피네스 클래식",
+							"pl-PL": "Classic Finezji",
+							"pt-BR": "Classic Finesse",
+							"ru-RU": "Classic \"Мастерство\"",
+							"th-TH": "Finesse Classic",
+							"tr-TR": "Zarafet Classic",
+							"vi-VN": "Classic Tinh Tế",
+							"zh-CN": "Finesse Classic",
+							"zh-TW": "藝高膽大 制式手槍"
+						}
+					}
+				}
+			],
+			"id": "3AF7FEF0-48CD-64D3-CEAD-DCB9CD07865A",
+			"label": "3AF7FEF0-48CD-64D3-CEAD-DCB9CD07865A",
+			"name":
+			{
+				"defaultText": "Finesse Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "فينيس كلاسيك",
+					"de-DE": "Classic – Finesse",
+					"en-US": "Finesse Classic",
+					"es-ES": "Classic Finesse",
+					"es-MX": "Classic Finesse",
+					"fr-FR": "Classic (Finesse)",
+					"id-ID": "Finesse Classic",
+					"it-IT": "Classic Eleganza",
+					"ja-JP": "フィネス クラシック",
+					"ko-KR": "피네스 클래식",
+					"pl-PL": "Classic Finezji",
+					"pt-BR": "Classic Finesse",
+					"ru-RU": "Classic \"Мастерство\"",
+					"th-TH": "Finesse Classic",
+					"tr-TR": "Zarafet Classic",
+					"vi-VN": "Classic Tinh Tế",
+					"zh-CN": "Finesse Classic",
+					"zh-TW": "藝高膽大 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
 			"defaultChromaId": "6B9217F8-412D-F482-B2FC-589575A743E2",
 			"chromas": [
 				{
@@ -37427,6 +38249,273 @@
 		},
 		{
 			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+			"defaultChromaId": "2F82F035-47C9-E040-FB43-77A67EE408D9",
+			"chromas": [
+				{
+					"id": "2F82F035-47C9-E040-FB43-77A67EE408D9",
+					"label": "2F82F035-47C9-E040-FB43-77A67EE408D9",
+					"name":
+					{
+						"defaultText": "Magepunk Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك شيريف",
+							"de-DE": "Sheriff – Magepunk",
+							"en-US": "Magepunk Sheriff",
+							"es-ES": "Sheriff Magepunk",
+							"es-MX": "Sheriff Magepunk",
+							"fr-FR": "Sheriff (Magepunk)",
+							"id-ID": "Magepunk Sheriff",
+							"it-IT": "Sheriff Magepunk",
+							"ja-JP": "メイジパンク シェリフ",
+							"ko-KR": "메이지펑크 셰리프",
+							"pl-PL": "Sheriff Magepunk",
+							"pt-BR": "Sheriff Magipunk",
+							"ru-RU": "Sheriff \"Чаропанк\"",
+							"th-TH": "Magepunk Sheriff",
+							"tr-TR": "Sihirpunk Sheriff",
+							"vi-VN": "Sheriff Magepunk",
+							"zh-CN": "Magepunk Sheriff",
+							"zh-TW": "奇幻龐克 神射"
+						}
+					}
+				},
+				{
+					"id": "E0411338-4A87-B39E-6815-8D8770FC852E",
+					"label": "E0411338-4A87-B39E-6815-8D8770FC852E",
+					"name":
+					{
+						"defaultText": "Magepunk Sheriff Level 4\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك شيريف المستوى 4\n(بديل 1 أخضر)",
+							"de-DE": "Sheriff – Magepunk Level 4\n(Variante 1, Grün)",
+							"en-US": "Magepunk Sheriff Level 4\n(Variant 1 Green)",
+							"es-ES": "Sheriff Magepunk de nivel 4\n(variante 1: verde)",
+							"es-MX": "Sheriff Magepunk nivel 4\n(Variante 1 Verde)",
+							"fr-FR": "Sheriff (Magepunk) niveau 4\n(variante 1 Vert)",
+							"id-ID": "Magepunk Sheriff Level 4\n(Varian 1 Hijau)",
+							"it-IT": "Sheriff Magepunk livello 4\n(variante 1 Verde)",
+							"ja-JP": "メイジパンク シェリフ Lv.4\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "메이지펑크 셰리프 4레벨\n(변형 1 녹색)",
+							"pl-PL": "Sheriff Magepunk (poziom 4)\n(wersja 1 – zielona)",
+							"pt-BR": "Sheriff Magipunk Nível 4\n(Variante 1 Verde)",
+							"ru-RU": "Sheriff \"Чаропанк\" уровень 4\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Magepunk Sheriff เลเวล 4\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "4. Seviye Sihirpunk Sheriff\n(Stil 1 - Yeşil)",
+							"vi-VN": "Sheriff Magepunk Cấp 4\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "Magepunk Sheriff Level 4\n(Variant 1 Green)",
+							"zh-TW": "奇幻龐克 神射 等級4\n（幻彩1 綠色）"
+						}
+					}
+				},
+				{
+					"id": "BF0CECB1-4143-3491-790C-33BE07E361BA",
+					"label": "BF0CECB1-4143-3491-790C-33BE07E361BA",
+					"name":
+					{
+						"defaultText": "Magepunk Sheriff Level 4\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك شيريف المستوى 4\n(بديل 2 وردي)",
+							"de-DE": "Sheriff – Magepunk Level 4\n(Variante 2, Pink)",
+							"en-US": "Magepunk Sheriff Level 4\n(Variant 2 Pink)",
+							"es-ES": "Sheriff Magepunk de nivel 4\n(variante 2: rosa)",
+							"es-MX": "Sheriff Magepunk nivel 4\n(Variante 2 Rosa)",
+							"fr-FR": "Sheriff (Magepunk) niveau 4\n(variante 2 Rose)",
+							"id-ID": "Magepunk Sheriff Level 4\n(Varian 2 Merah Muda)",
+							"it-IT": "Sheriff Magepunk livello 4\n(variante 2 Rosa)",
+							"ja-JP": "メイジパンク シェリフ Lv.4\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "메이지펑크 셰리프 4레벨\n(변형 2 분홍색)",
+							"pl-PL": "Sheriff Magepunk (poziom 4)\n(wersja 2 – różowa)",
+							"pt-BR": "Sheriff Magipunk Nível 4\n(Variante 2 Rosa)",
+							"ru-RU": "Sheriff \"Чаропанк\" уровень 4\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Magepunk Sheriff เลเวล 4\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "4. Seviye Sihirpunk Sheriff\n(Stil 2 - Pembe)",
+							"vi-VN": "Sheriff Magepunk Cấp 4\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "Magepunk Sheriff Level 4\n(Variant 2 Pink)",
+							"zh-TW": "奇幻龐克 神射 等級4\n（幻彩2 粉色）"
+						}
+					}
+				},
+				{
+					"id": "F37E5FD4-467F-AA61-5355-87BD57F499CD",
+					"label": "F37E5FD4-467F-AA61-5355-87BD57F499CD",
+					"name":
+					{
+						"defaultText": "Magepunk Sheriff Level 4\n(Variant 3 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك شيريف المستوى 4\n(بديل 3 برتقالي)",
+							"de-DE": "Sheriff – Magepunk Level 4\n(Variante 3, Orange)",
+							"en-US": "Magepunk Sheriff Level 4\n(Variant 3 Orange)",
+							"es-ES": "Sheriff Magepunk de nivel 4\n(variante 3: naranja)",
+							"es-MX": "Sheriff Magepunk nivel 4\n(Variante 3 Naranja)",
+							"fr-FR": "Sheriff (Magepunk) niveau 4\n(variante 3 Orange)",
+							"id-ID": "Magepunk Sheriff Level 4\n(Varian 3 Oranye)",
+							"it-IT": "Sheriff Magepunk livello 4\n(variante 3 Arancione)",
+							"ja-JP": "メイジパンク シェリフ Lv.4\n(ヴァリアント 3 オレンジ)",
+							"ko-KR": "메이지펑크 셰리프 4레벨\n(변형 3 주황색)",
+							"pl-PL": "Sheriff Magepunk (poziom 4)\n(wersja 3 – pomarańczowa)",
+							"pt-BR": "Sheriff Magipunk Nível 4\n(Variante 3 Laranja)",
+							"ru-RU": "Sheriff \"Чаропанк\" уровень 4\n(расцветка 3 \"Оранжевый\")",
+							"th-TH": "Magepunk Sheriff เลเวล 4\n(ตัวเลือกที่ 3 สีส้ม)",
+							"tr-TR": "4. Seviye Sihirpunk Sheriff\n(Stil 3 - Turuncu)",
+							"vi-VN": "Sheriff Magepunk Cấp 4\n(Dạng 3 Ánh Cam)",
+							"zh-CN": "Magepunk Sheriff Level 4\n(Variant 3 Orange)",
+							"zh-TW": "奇幻龐克 神射 等級4\n（幻彩3 橘色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "59733CF9-490B-E25B-2C6F-ECA947628079",
+					"label": "59733CF9-490B-E25B-2C6F-ECA947628079",
+					"name":
+					{
+						"defaultText": "Magepunk Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك شيريف",
+							"de-DE": "Sheriff – Magepunk",
+							"en-US": "Magepunk Sheriff",
+							"es-ES": "Sheriff Magepunk",
+							"es-MX": "Sheriff Magepunk",
+							"fr-FR": "Sheriff (Magepunk)",
+							"id-ID": "Magepunk Sheriff",
+							"it-IT": "Sheriff Magepunk",
+							"ja-JP": "メイジパンク シェリフ",
+							"ko-KR": "메이지펑크 셰리프",
+							"pl-PL": "Sheriff Magepunk",
+							"pt-BR": "Sheriff Magipunk",
+							"ru-RU": "Sheriff \"Чаропанк\"",
+							"th-TH": "Magepunk Sheriff",
+							"tr-TR": "Sihirpunk Sheriff",
+							"vi-VN": "Sheriff Magepunk",
+							"zh-CN": "Magepunk Sheriff",
+							"zh-TW": "奇幻龐克 神射"
+						}
+					}
+				},
+				{
+					"id": "C1E1DC78-44E1-1D94-171E-D7933D2828C7",
+					"label": "C1E1DC78-44E1-1D94-171E-D7933D2828C7",
+					"name":
+					{
+						"defaultText": "Magepunk Sheriff Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك شيريف المستوى 2",
+							"de-DE": "Sheriff – Magepunk Level 2",
+							"en-US": "Magepunk Sheriff Level 2",
+							"es-ES": "Sheriff Magepunk de nivel 2",
+							"es-MX": "Sheriff Magepunk nivel 2",
+							"fr-FR": "Sheriff (Magepunk) niveau 2",
+							"id-ID": "Magepunk Sheriff Level 2",
+							"it-IT": "Sheriff Magepunk livello 2",
+							"ja-JP": "メイジパンク シェリフ Lv.2",
+							"ko-KR": "메이지펑크 셰리프 2레벨",
+							"pl-PL": "Sheriff Magepunk (poziom 2)",
+							"pt-BR": "Sheriff Magipunk Nível 2",
+							"ru-RU": "Sheriff \"Чаропанк\" уровень 2",
+							"th-TH": "Magepunk Sheriff เลเวล 2",
+							"tr-TR": "2. Seviye Sihirpunk Sheriff",
+							"vi-VN": "Sheriff Magepunk Cấp 2",
+							"zh-CN": "Magepunk Sheriff Level 2",
+							"zh-TW": "奇幻龐克 神射 等級2"
+						}
+					}
+				},
+				{
+					"id": "43F79FBC-4A00-F0FC-0813-2CB8224EE6D3",
+					"label": "43F79FBC-4A00-F0FC-0813-2CB8224EE6D3",
+					"name":
+					{
+						"defaultText": "Magepunk Sheriff Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك شيريف المستوى 3",
+							"de-DE": "Sheriff – Magepunk Level 3",
+							"en-US": "Magepunk Sheriff Level 3",
+							"es-ES": "Sheriff Magepunk de nivel 3",
+							"es-MX": "Sheriff Magepunk nivel 3",
+							"fr-FR": "Sheriff (Magepunk) niveau 3",
+							"id-ID": "Magepunk Sheriff Level 3",
+							"it-IT": "Sheriff Magepunk livello 3",
+							"ja-JP": "メイジパンク シェリフ Lv.3",
+							"ko-KR": "메이지펑크 셰리프 3레벨",
+							"pl-PL": "Sheriff Magepunk (poziom 3)",
+							"pt-BR": "Sheriff Magipunk Nível 3",
+							"ru-RU": "Sheriff \"Чаропанк\" уровень 3",
+							"th-TH": "Magepunk Sheriff เลเวล 3",
+							"tr-TR": "3. Seviye Sihirpunk Sheriff",
+							"vi-VN": "Sheriff Magepunk Cấp 3",
+							"zh-CN": "Magepunk Sheriff Level 3",
+							"zh-TW": "奇幻龐克 神射 等級3"
+						}
+					}
+				},
+				{
+					"id": "892725E3-4C2A-0333-E43A-1DA5896CD6A4",
+					"label": "892725E3-4C2A-0333-E43A-1DA5896CD6A4",
+					"name":
+					{
+						"defaultText": "Magepunk Sheriff Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك شيريف المستوى 4",
+							"de-DE": "Sheriff – Magepunk Level 4",
+							"en-US": "Magepunk Sheriff Level 4",
+							"es-ES": "Sheriff Magepunk de nivel 4",
+							"es-MX": "Sheriff Magepunk nivel 4",
+							"fr-FR": "Sheriff (Magepunk) niveau 4",
+							"id-ID": "Magepunk Sheriff Level 4",
+							"it-IT": "Sheriff Magepunk livello 4",
+							"ja-JP": "メイジパンク シェリフ Lv.4",
+							"ko-KR": "메이지펑크 셰리프 4레벨",
+							"pl-PL": "Sheriff Magepunk (poziom 4)",
+							"pt-BR": "Sheriff Magipunk Nível 4",
+							"ru-RU": "Sheriff \"Чаропанк\" уровень 4",
+							"th-TH": "Magepunk Sheriff เลเวล 4",
+							"tr-TR": "4. Seviye Sihirpunk Sheriff",
+							"vi-VN": "Sheriff Magepunk Cấp 4",
+							"zh-CN": "Magepunk Sheriff Level 4",
+							"zh-TW": "奇幻龐克 神射 等級4"
+						}
+					}
+				}
+			],
+			"id": "6460EDBF-458D-BF61-7519-519305BA5DA2",
+			"label": "6460EDBF-458D-BF61-7519-519305BA5DA2",
+			"name":
+			{
+				"defaultText": "Magepunk Sheriff",
+				"localizedByCulture":
+				{
+					"ar-AE": "ميج بانك شيريف",
+					"de-DE": "Sheriff – Magepunk",
+					"en-US": "Magepunk Sheriff",
+					"es-ES": "Sheriff Magepunk",
+					"es-MX": "Sheriff Magepunk",
+					"fr-FR": "Sheriff (Magepunk)",
+					"id-ID": "Magepunk Sheriff",
+					"it-IT": "Sheriff Magepunk",
+					"ja-JP": "メイジパンク シェリフ",
+					"ko-KR": "메이지펑크 셰리프",
+					"pl-PL": "Sheriff Magepunk",
+					"pt-BR": "Sheriff Magipunk",
+					"ru-RU": "Sheriff \"Чаропанк\"",
+					"th-TH": "Magepunk Sheriff",
+					"tr-TR": "Sihirpunk Sheriff",
+					"vi-VN": "Sheriff Magepunk",
+					"zh-CN": "Magepunk Sheriff",
+					"zh-TW": "奇幻龐克 神射"
+				}
+			}
+		},
+		{
+			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
 			"defaultChromaId": "2EB7116A-4C34-ED9F-3B9D-D2BF89CFA04D",
 			"chromas": [
 				{
@@ -42417,6 +43506,273 @@
 		},
 		{
 			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
+			"defaultChromaId": "4159D7EE-4D4B-2658-DF0A-7CA475F03673",
+			"chromas": [
+				{
+					"id": "4159D7EE-4D4B-2658-DF0A-7CA475F03673",
+					"label": "4159D7EE-4D4B-2658-DF0A-7CA475F03673",
+					"name":
+					{
+						"defaultText": "Magepunk Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك أوبيريتور",
+							"de-DE": "Operator – Magepunk",
+							"en-US": "Magepunk Operator",
+							"es-ES": "Operator Magepunk",
+							"es-MX": "Operator Magepunk",
+							"fr-FR": "Operator (Magepunk)",
+							"id-ID": "Magepunk Operator",
+							"it-IT": "Operator Magepunk",
+							"ja-JP": "メイジパンク オペレーター",
+							"ko-KR": "메이지펑크 오퍼레이터",
+							"pl-PL": "Operator Magepunk",
+							"pt-BR": "Operator Magipunk",
+							"ru-RU": "Operator \"Чаропанк\"",
+							"th-TH": "Magepunk Operator",
+							"tr-TR": "Sihirpunk Operator",
+							"vi-VN": "Operator Magepunk",
+							"zh-CN": "Magepunk Operator",
+							"zh-TW": "奇幻龐克 間諜"
+						}
+					}
+				},
+				{
+					"id": "CA307302-44EC-D469-ABAF-A891D3972444",
+					"label": "CA307302-44EC-D469-ABAF-A891D3972444",
+					"name":
+					{
+						"defaultText": "Magepunk Operator Level 4\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك أوبيريتور المستوى 4\n(بديل 1 أخضر)",
+							"de-DE": "Operator – Magepunk Level 4\n(Variante 1, Grün)",
+							"en-US": "Magepunk Operator Level 4\n(Variant 1 Green)",
+							"es-ES": "Operator Magepunk de nivel 4\n(variante 1: verde)",
+							"es-MX": "Operator Magepunk nivel 4\n(Variante 1 Verde)",
+							"fr-FR": "Operator (Magepunk) niveau 4\n(variante 1 Vert)",
+							"id-ID": "Magepunk Operator Level 4\n(Varian 1 Hijau)",
+							"it-IT": "Operator Magepunk livello 4\n(variante 1 Verde)",
+							"ja-JP": "メイジパンク オペレーター Lv.4\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "메이지펑크 오퍼레이터 4레벨\n(변형 1 녹색)",
+							"pl-PL": "Operator Magepunk (poziom 4)\n(wersja 1 – zielona)",
+							"pt-BR": "Operator Magipunk Nível 4\n(Variante 1 Verde)",
+							"ru-RU": "Operator \"Чаропанк\" уровень 4\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Magepunk Operator เลเวล 4\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "4. Seviye Sihirpunk Operator\n(Stil 1 - Yeşil)",
+							"vi-VN": "Operator Magepunk Cấp 4\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "Magepunk Operator Level 4\n(Variant 1 Green)",
+							"zh-TW": "奇幻龐克 間諜 等級4\n（幻彩1 綠色）"
+						}
+					}
+				},
+				{
+					"id": "FB047129-4A2B-8F40-41C9-9FA223D0D9F6",
+					"label": "FB047129-4A2B-8F40-41C9-9FA223D0D9F6",
+					"name":
+					{
+						"defaultText": "Magepunk Operator Level 4\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك أوبيريتور المستوى 4\n(بديل 2 وردي)",
+							"de-DE": "Operator – Magepunk Level 4\n(Variante 2, Pink)",
+							"en-US": "Magepunk Operator Level 4\n(Variant 2 Pink)",
+							"es-ES": "Operator Magepunk de nivel 4\n(variante 2: rosa)",
+							"es-MX": "Operator Magepunk nivel 4\n(Variante 2 Rosa)",
+							"fr-FR": "Operator (Magepunk) niveau 4\n(variante 2 Rose)",
+							"id-ID": "Magepunk Operator Level 4\n(Varian 2 Merah Muda)",
+							"it-IT": "Operator Magepunk livello 4\n(variante 2 Rosa)",
+							"ja-JP": "メイジパンク オペレーター Lv.4\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "메이지펑크 오퍼레이터 4레벨\n(변형 2 분홍색)",
+							"pl-PL": "Operator Magepunk (poziom 4)\n(wersja 2 – różowa)",
+							"pt-BR": "Operator Magipunk Nível 4\n(Variante 2 Rosa)",
+							"ru-RU": "Operator \"Чаропанк\" уровень 4\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Magepunk Operator เลเวล 4\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "4. Seviye Sihirpunk Operator\n(Stil 2 - Pembe)",
+							"vi-VN": "Operator Magepunk Cấp 4\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "Magepunk Operator Level 4\n(Variant 2 Pink)",
+							"zh-TW": "奇幻龐克 間諜 等級4\n（幻彩2 粉色）"
+						}
+					}
+				},
+				{
+					"id": "5739EDEE-491C-8468-4771-AE8102A319B6",
+					"label": "5739EDEE-491C-8468-4771-AE8102A319B6",
+					"name":
+					{
+						"defaultText": "Magepunk Operator Level 4\n(Variant 3 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك أوبيريتور المستوى 4\n(بديل 3 برتقالي)",
+							"de-DE": "Operator – Magepunk Level 4\n(Variante 3, Orange)",
+							"en-US": "Magepunk Operator Level 4\n(Variant 3 Orange)",
+							"es-ES": "Operator Magepunk de nivel 4\n(variante 3: naranja)",
+							"es-MX": "Operator Magepunk nivel 4\n(Variante 3 Naranja)",
+							"fr-FR": "Operator (Magepunk) niveau 4\n(variante 3 Orange)",
+							"id-ID": "Magepunk Operator Level 4\n(Varian 3 Oranye)",
+							"it-IT": "Operator Magepunk livello 4\n(variante 3 Arancione)",
+							"ja-JP": "メイジパンク オペレーター Lv.4\n(ヴァリアント 3 オレンジ)",
+							"ko-KR": "메이지펑크 오퍼레이터 4레벨\n(변형 3 주황색)",
+							"pl-PL": "Operator Magepunk (poziom 4)\n(wersja 3 – pomarańczowa)",
+							"pt-BR": "Operator Magipunk Nível 4\n(Variante 3 Laranja)",
+							"ru-RU": "Operator \"Чаропанк\" уровень 4\n(расцветка 3 \"Оранжевый\")",
+							"th-TH": "Magepunk Operator เลเวล 4\n(ตัวเลือกที่ 3 สีส้ม)",
+							"tr-TR": "4. Seviye Sihirpunk Operator\n(Stil 3 - Turuncu)",
+							"vi-VN": "Operator Magepunk Cấp 4\n(Dạng 3 Ánh Cam)",
+							"zh-CN": "Magepunk Operator Level 4\n(Variant 3 Orange)",
+							"zh-TW": "奇幻龐克 間諜 等級4\n（幻彩3 橘色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "369C9F89-49FA-94BC-F3F8-B9B94B6395AF",
+					"label": "369C9F89-49FA-94BC-F3F8-B9B94B6395AF",
+					"name":
+					{
+						"defaultText": "Magepunk Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك أوبيريتور",
+							"de-DE": "Operator – Magepunk",
+							"en-US": "Magepunk Operator",
+							"es-ES": "Operator Magepunk",
+							"es-MX": "Operator Magepunk",
+							"fr-FR": "Operator (Magepunk)",
+							"id-ID": "Magepunk Operator",
+							"it-IT": "Operator Magepunk",
+							"ja-JP": "メイジパンク オペレーター",
+							"ko-KR": "메이지펑크 오퍼레이터",
+							"pl-PL": "Operator Magepunk",
+							"pt-BR": "Operator Magipunk",
+							"ru-RU": "Operator \"Чаропанк\"",
+							"th-TH": "Magepunk Operator",
+							"tr-TR": "Sihirpunk Operator",
+							"vi-VN": "Operator Magepunk",
+							"zh-CN": "Magepunk Operator",
+							"zh-TW": "奇幻龐克 間諜"
+						}
+					}
+				},
+				{
+					"id": "F70B8147-4F4A-506E-6B3B-ACA8B7B84F40",
+					"label": "F70B8147-4F4A-506E-6B3B-ACA8B7B84F40",
+					"name":
+					{
+						"defaultText": "Magepunk Operator Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك أوبيريتور المستوى 2",
+							"de-DE": "Operator – Magepunk Level 2",
+							"en-US": "Magepunk Operator Level 2",
+							"es-ES": "Operator Magepunk de nivel 2",
+							"es-MX": "Operator Magepunk nivel 2",
+							"fr-FR": "Operator (Magepunk) niveau 2",
+							"id-ID": "Magepunk Operator Level 2",
+							"it-IT": "Operator Magepunk livello 2",
+							"ja-JP": "メイジパンク オペレーター Lv.2",
+							"ko-KR": "메이지펑크 오퍼레이터 2레벨",
+							"pl-PL": "Operator Magepunk (poziom 2)",
+							"pt-BR": "Operator Magipunk Nível 2",
+							"ru-RU": "Operator \"Чаропанк\" уровень 2",
+							"th-TH": "Magepunk Operator เลเวล 2",
+							"tr-TR": "2. Seviye Sihirpunk Operator",
+							"vi-VN": "Operator Magepunk Cấp 2",
+							"zh-CN": "Magepunk Operator Level 2",
+							"zh-TW": "奇幻龐克 間諜 等級2"
+						}
+					}
+				},
+				{
+					"id": "66CF7185-4989-A3C5-6AD3-FCB7858B81CB",
+					"label": "66CF7185-4989-A3C5-6AD3-FCB7858B81CB",
+					"name":
+					{
+						"defaultText": "Magepunk Operator Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك أوبيريتور المستوى 3",
+							"de-DE": "Operator – Magepunk Level 3",
+							"en-US": "Magepunk Operator Level 3",
+							"es-ES": "Operator Magepunk de nivel 3",
+							"es-MX": "Operator Magepunk nivel 3",
+							"fr-FR": "Operator (Magepunk) niveau 3",
+							"id-ID": "Magepunk Operator Level 3",
+							"it-IT": "Operator Magepunk livello 3",
+							"ja-JP": "メイジパンク オペレーター Lv.3",
+							"ko-KR": "메이지펑크 오퍼레이터 3레벨",
+							"pl-PL": "Operator Magepunk (poziom 3)",
+							"pt-BR": "Operator Magipunk Nível 3",
+							"ru-RU": "Operator \"Чаропанк\" уровень 3",
+							"th-TH": "Magepunk Operator เลเวล 3",
+							"tr-TR": "3. Seviye Sihirpunk Operator",
+							"vi-VN": "Operator Magepunk Cấp 3",
+							"zh-CN": "Magepunk Operator Level 3",
+							"zh-TW": "奇幻龐克 間諜 等級3"
+						}
+					}
+				},
+				{
+					"id": "7481EC87-4A9F-E4CF-D898-E0BD750E3B0C",
+					"label": "7481EC87-4A9F-E4CF-D898-E0BD750E3B0C",
+					"name":
+					{
+						"defaultText": "Magepunk Operator Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك أوبيريتور المستوى 4",
+							"de-DE": "Operator – Magepunk Level 4",
+							"en-US": "Magepunk Operator Level 4",
+							"es-ES": "Operator Magepunk de nivel 4",
+							"es-MX": "Operator Magepunk nivel 4",
+							"fr-FR": "Operator (Magepunk) niveau 4",
+							"id-ID": "Magepunk Operator Level 4",
+							"it-IT": "Operator Magepunk livello 4",
+							"ja-JP": "メイジパンク オペレーター Lv.4",
+							"ko-KR": "메이지펑크 오퍼레이터 4레벨",
+							"pl-PL": "Operator Magepunk (poziom 4)",
+							"pt-BR": "Operator Magipunk Nível 4",
+							"ru-RU": "Operator \"Чаропанк\" уровень 4",
+							"th-TH": "Magepunk Operator เลเวล 4",
+							"tr-TR": "4. Seviye Sihirpunk Operator",
+							"vi-VN": "Operator Magepunk Cấp 4",
+							"zh-CN": "Magepunk Operator Level 4",
+							"zh-TW": "奇幻龐克 間諜 等級4"
+						}
+					}
+				}
+			],
+			"id": "7E831918-4580-5E2A-089A-84AD58FE1AAE",
+			"label": "7E831918-4580-5E2A-089A-84AD58FE1AAE",
+			"name":
+			{
+				"defaultText": "Magepunk Operator",
+				"localizedByCulture":
+				{
+					"ar-AE": "ميج بانك أوبيريتور",
+					"de-DE": "Operator – Magepunk",
+					"en-US": "Magepunk Operator",
+					"es-ES": "Operator Magepunk",
+					"es-MX": "Operator Magepunk",
+					"fr-FR": "Operator (Magepunk)",
+					"id-ID": "Magepunk Operator",
+					"it-IT": "Operator Magepunk",
+					"ja-JP": "メイジパンク オペレーター",
+					"ko-KR": "메이지펑크 오퍼레이터",
+					"pl-PL": "Operator Magepunk",
+					"pt-BR": "Operator Magipunk",
+					"ru-RU": "Operator \"Чаропанк\"",
+					"th-TH": "Magepunk Operator",
+					"tr-TR": "Sihirpunk Operator",
+					"vi-VN": "Operator Magepunk",
+					"zh-CN": "Magepunk Operator",
+					"zh-TW": "奇幻龐克 間諜"
+				}
+			}
+		},
+		{
+			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
 			"defaultChromaId": "BE0446FF-444C-2AB4-DE70-599D8A152AB8",
 			"chromas": [
 				{
@@ -45914,6 +47270,273 @@
 					"vi-VN": "Guardian Đại Suy Vong",
 					"zh-CN": "Ruination Guardian",
 					"zh-TW": "殞落詛咒 捍衛者"
+				}
+			}
+		},
+		{
+			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
+			"defaultChromaId": "6415FC9E-475B-2AF7-CEE4-8586E68384F8",
+			"chromas": [
+				{
+					"id": "6415FC9E-475B-2AF7-CEE4-8586E68384F8",
+					"label": "6415FC9E-475B-2AF7-CEE4-8586E68384F8",
+					"name":
+					{
+						"defaultText": "Magepunk Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك غارديان",
+							"de-DE": "Guardian – Magepunk",
+							"en-US": "Magepunk Guardian",
+							"es-ES": "Guardian Magepunk",
+							"es-MX": "Guardian Magepunk",
+							"fr-FR": "Guardian (Magepunk)",
+							"id-ID": "Magepunk Guardian",
+							"it-IT": "Guardian Magepunk",
+							"ja-JP": "メイジパンク ガーディアン",
+							"ko-KR": "메이지펑크 가디언",
+							"pl-PL": "Guardian Magepunk",
+							"pt-BR": "Guardian Magipunk",
+							"ru-RU": "Guardian \"Чаропанк\"",
+							"th-TH": "Magepunk Guardian",
+							"tr-TR": "Sihirpunk Guardian",
+							"vi-VN": "Guardian Magepunk",
+							"zh-CN": "Magepunk Guardian",
+							"zh-TW": "奇幻龐克 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "22F79BC9-42C5-CA2D-A4DF-6790881ED314",
+					"label": "22F79BC9-42C5-CA2D-A4DF-6790881ED314",
+					"name":
+					{
+						"defaultText": "Magepunk Guardian Level 4\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك غارديان المستوى 4\n(بديل 1 أخضر)",
+							"de-DE": "Guardian – Magepunk Level 4\n(Variante 1, Grün)",
+							"en-US": "Magepunk Guardian Level 4\n(Variant 1 Green)",
+							"es-ES": "Guardian Magepunk de nivel 4\n(variante 1: verde)",
+							"es-MX": "Guardian Magepunk nivel 4\n(Variante 1 Verde)",
+							"fr-FR": "Guardian (Magepunk) niveau 4\n(variante 1 Vert)",
+							"id-ID": "Magepunk Guardian Level 4\n(Varian 1 Hijau)",
+							"it-IT": "Guardian Magepunk livello 4\n(variante 1 Verde)",
+							"ja-JP": "メイジパンク ガーディアン Lv.4\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "메이지펑크 가디언 4레벨\n(변형 1 녹색)",
+							"pl-PL": "Guardian Magepunk (poziom 4)\n(wersja 1 – zielona)",
+							"pt-BR": "Guardian Magipunk Nível 4\n(Variante 1 Verde)",
+							"ru-RU": "Guardian \"Чаропанк\" уровень 4\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Magepunk Guardian เลเวล 4\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "4. Seviye Sihirpunk Guardian\n(Stil 1 - Yeşil)",
+							"vi-VN": "Guardian Magepunk Cấp 4\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "Magepunk Guardian Level 4\n(Variant 1 Green)",
+							"zh-TW": "奇幻龐克 捍衛者 等級4\n（幻彩1 綠色）"
+						}
+					}
+				},
+				{
+					"id": "C85B7846-4611-88F4-D048-07982265DA09",
+					"label": "C85B7846-4611-88F4-D048-07982265DA09",
+					"name":
+					{
+						"defaultText": "Magepunk Guardian Level 4\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك غارديان المستوى 4\n(بديل 2 وردي)",
+							"de-DE": "Guardian – Magepunk Level 4\n(Variante 2, Pink)",
+							"en-US": "Magepunk Guardian Level 4\n(Variant 2 Pink)",
+							"es-ES": "Guardian Magepunk de nivel 4\n(variante 2: rosa)",
+							"es-MX": "Guardian Magepunk nivel 4\n(Variante 2 Rosa)",
+							"fr-FR": "Guardian (Magepunk) niveau 4\n(variante 2 Rose)",
+							"id-ID": "Magepunk Guardian Level 4\n(Varian 2 Merah Muda)",
+							"it-IT": "Guardian Magepunk livello 4\n(variante 2 Rosa)",
+							"ja-JP": "メイジパンク ガーディアン Lv.4\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "메이지펑크 가디언 4레벨\n(변형 2 분홍색)",
+							"pl-PL": "Guardian Magepunk (poziom 4)\n(wersja 2 – różowa)",
+							"pt-BR": "Guardian Magipunk Nível 4\n(Variante 2 Rosa)",
+							"ru-RU": "Guardian \"Чаропанк\" уровень 4\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Magepunk Guardian เลเวล 4\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "4. Seviye Sihirpunk Guardian\n(Stil 2 - Pembe)",
+							"vi-VN": "Guardian Magepunk Cấp 4\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "Magepunk Guardian Level 4\n(Variant 2 Pink)",
+							"zh-TW": "奇幻龐克 捍衛者 等級4\n（幻彩2 粉色）"
+						}
+					}
+				},
+				{
+					"id": "0CE4BD16-4231-9FF4-C0AA-109AB9C31294",
+					"label": "0CE4BD16-4231-9FF4-C0AA-109AB9C31294",
+					"name":
+					{
+						"defaultText": "Magepunk Guardian Level 4\n(Variant 3 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك غارديان المستوى 4\n(بديل 3 برتقالي)",
+							"de-DE": "Guardian – Magepunk Level 4\n(Variante 3, Orange)",
+							"en-US": "Magepunk Guardian Level 4\n(Variant 3 Orange)",
+							"es-ES": "Guardian Magepunk de nivel 4\n(variante 3: naranja)",
+							"es-MX": "Guardian Magepunk nivel 4\n(Variante 3 Naranja)",
+							"fr-FR": "Guardian (Magepunk) niveau 4\n(variante 3 Orange)",
+							"id-ID": "Magepunk Guardian Level 4\n(Varian 3 Oranye)",
+							"it-IT": "Guardian Magepunk livello 4\n(variante 3 Arancione)",
+							"ja-JP": "メイジパンク ガーディアン Lv.4\n(ヴァリアント 3 オレンジ)",
+							"ko-KR": "메이지펑크 가디언 4레벨\n(변형 3 주황색)",
+							"pl-PL": "Guardian Magepunk (poziom 4)\n(wersja 3 – pomarańczowa)",
+							"pt-BR": "Guardian Magipunk Nível 4\n(Variante 3 Laranja)",
+							"ru-RU": "Guardian \"Чаропанк\" уровень 4\n(расцветка 3 \"Оранжевый\")",
+							"th-TH": "Magepunk Guardian เลเวล 4\n(ตัวเลือกที่ 3 สีส้ม)",
+							"tr-TR": "4. Seviye Sihirpunk Guardian\n(Stil 3 - Turuncu)",
+							"vi-VN": "Guardian Magepunk Cấp 4\n(Dạng 3 Ánh Cam)",
+							"zh-CN": "Magepunk Guardian Level 4\n(Variant 3 Orange)",
+							"zh-TW": "奇幻龐克 捍衛者 等級4\n（幻彩3 橘色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "E63EAB09-47E4-25BE-6C9F-57995385429D",
+					"label": "E63EAB09-47E4-25BE-6C9F-57995385429D",
+					"name":
+					{
+						"defaultText": "Magepunk Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك غارديان",
+							"de-DE": "Guardian – Magepunk",
+							"en-US": "Magepunk Guardian",
+							"es-ES": "Guardian Magepunk",
+							"es-MX": "Guardian Magepunk",
+							"fr-FR": "Guardian (Magepunk)",
+							"id-ID": "Magepunk Guardian",
+							"it-IT": "Guardian Magepunk",
+							"ja-JP": "メイジパンク ガーディアン",
+							"ko-KR": "메이지펑크 가디언",
+							"pl-PL": "Guardian Magepunk",
+							"pt-BR": "Guardian Magipunk",
+							"ru-RU": "Guardian \"Чаропанк\"",
+							"th-TH": "Magepunk Guardian",
+							"tr-TR": "Sihirpunk Guardian",
+							"vi-VN": "Guardian Magepunk",
+							"zh-CN": "Magepunk Guardian",
+							"zh-TW": "奇幻龐克 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "723343B6-4C37-2591-7892-C187E5C9E3E8",
+					"label": "723343B6-4C37-2591-7892-C187E5C9E3E8",
+					"name":
+					{
+						"defaultText": "Magepunk Guardian Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك غارديان المستوى 2",
+							"de-DE": "Guardian – Magepunk Level 2",
+							"en-US": "Magepunk Guardian Level 2",
+							"es-ES": "Guardian Magepunk de nivel 2",
+							"es-MX": "Guardian Magepunk nivel 2",
+							"fr-FR": "Guardian (Magepunk) niveau 2",
+							"id-ID": "Magepunk Guardian Level 2",
+							"it-IT": "Guardian Magepunk livello 2",
+							"ja-JP": "メイジパンク ガーディアン Lv.2",
+							"ko-KR": "메이지펑크 가디언 2레벨",
+							"pl-PL": "Guardian Magepunk (poziom 2)",
+							"pt-BR": "Guardian Magipunk Nível 2",
+							"ru-RU": "Guardian \"Чаропанк\" уровень 2",
+							"th-TH": "Magepunk Guardian เลเวล 2",
+							"tr-TR": "2. Seviye Sihirpunk Guardian",
+							"vi-VN": "Guardian Magepunk Cấp 2",
+							"zh-CN": "Magepunk Guardian Level 2",
+							"zh-TW": "奇幻龐克 捍衛者 等級2"
+						}
+					}
+				},
+				{
+					"id": "10EB0FB8-4850-C585-57BC-8FA85E52F26A",
+					"label": "10EB0FB8-4850-C585-57BC-8FA85E52F26A",
+					"name":
+					{
+						"defaultText": "Magepunk Guardian Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك غارديان المستوى 3",
+							"de-DE": "Guardian – Magepunk Level 3",
+							"en-US": "Magepunk Guardian Level 3",
+							"es-ES": "Guardian Magepunk de nivel 3",
+							"es-MX": "Guardian Magepunk nivel 3",
+							"fr-FR": "Guardian (Magepunk) niveau 3",
+							"id-ID": "Magepunk Guardian Level 3",
+							"it-IT": "Guardian Magepunk livello 3",
+							"ja-JP": "メイジパンク ガーディアン Lv.3",
+							"ko-KR": "메이지펑크 가디언 3레벨",
+							"pl-PL": "Guardian Magepunk (poziom 3)",
+							"pt-BR": "Guardian Magipunk Nível 3",
+							"ru-RU": "Guardian \"Чаропанк\" уровень 3",
+							"th-TH": "Magepunk Guardian เลเวล 3",
+							"tr-TR": "3. Seviye Sihirpunk Guardian",
+							"vi-VN": "Guardian Magepunk Cấp 3",
+							"zh-CN": "Magepunk Guardian Level 3",
+							"zh-TW": "奇幻龐克 捍衛者 等級3"
+						}
+					}
+				},
+				{
+					"id": "BA011F9B-41C5-4AA5-ED42-8A9B148A04F3",
+					"label": "BA011F9B-41C5-4AA5-ED42-8A9B148A04F3",
+					"name":
+					{
+						"defaultText": "Magepunk Guardian Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك غارديان المستوى 4",
+							"de-DE": "Guardian – Magepunk Level 4",
+							"en-US": "Magepunk Guardian Level 4",
+							"es-ES": "Guardian Magepunk de nivel 4",
+							"es-MX": "Guardian Magepunk nivel 4",
+							"fr-FR": "Guardian (Magepunk) niveau 4",
+							"id-ID": "Magepunk Guardian Level 4",
+							"it-IT": "Guardian Magepunk livello 4",
+							"ja-JP": "メイジパンク ガーディアン Lv.4",
+							"ko-KR": "메이지펑크 가디언 4레벨",
+							"pl-PL": "Guardian Magepunk (poziom 4)",
+							"pt-BR": "Guardian Magipunk Nível 4",
+							"ru-RU": "Guardian \"Чаропанк\" уровень 4",
+							"th-TH": "Magepunk Guardian เลเวล 4",
+							"tr-TR": "4. Seviye Sihirpunk Guardian",
+							"vi-VN": "Guardian Magepunk Cấp 4",
+							"zh-CN": "Magepunk Guardian Level 4",
+							"zh-TW": "奇幻龐克 捍衛者 等級4"
+						}
+					}
+				}
+			],
+			"id": "80DBFA46-4A1F-C7A4-2E88-1499308C7B9A",
+			"label": "80DBFA46-4A1F-C7A4-2E88-1499308C7B9A",
+			"name":
+			{
+				"defaultText": "Magepunk Guardian",
+				"localizedByCulture":
+				{
+					"ar-AE": "ميج بانك غارديان",
+					"de-DE": "Guardian – Magepunk",
+					"en-US": "Magepunk Guardian",
+					"es-ES": "Guardian Magepunk",
+					"es-MX": "Guardian Magepunk",
+					"fr-FR": "Guardian (Magepunk)",
+					"id-ID": "Magepunk Guardian",
+					"it-IT": "Guardian Magepunk",
+					"ja-JP": "メイジパンク ガーディアン",
+					"ko-KR": "메이지펑크 가디언",
+					"pl-PL": "Guardian Magepunk",
+					"pt-BR": "Guardian Magipunk",
+					"ru-RU": "Guardian \"Чаропанк\"",
+					"th-TH": "Magepunk Guardian",
+					"tr-TR": "Sihirpunk Guardian",
+					"vi-VN": "Guardian Magepunk",
+					"zh-CN": "Magepunk Guardian",
+					"zh-TW": "奇幻龐克 捍衛者"
 				}
 			}
 		},
@@ -59243,6 +60866,215 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "D728F2CF-46C1-1084-F3D3-1C86F61F5875",
+			"chromas": [
+				{
+					"id": "D728F2CF-46C1-1084-F3D3-1C86F61F5875",
+					"label": "D728F2CF-46C1-1084-F3D3-1C86F61F5875",
+					"name":
+					{
+						"defaultText": "Magepunk Shock Gauntlet",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك القفاز الصاعق",
+							"de-DE": "Schockhandschuh – Magepunk",
+							"en-US": "Magepunk Shock Gauntlet",
+							"es-ES": "Guantelete explosivo Magepunk",
+							"es-MX": "Guantelete de Choque Magepunk",
+							"fr-FR": "Électrogantelet (Magepunk)",
+							"id-ID": "Magepunk Shock Gauntlet",
+							"it-IT": "Guanto folgorante Magepunk",
+							"ja-JP": "メイジパンク ショックガントレット",
+							"ko-KR": "메이지펑크 쇼크 건틀릿",
+							"pl-PL": "Porażająca Rękawica Magepunk",
+							"pt-BR": "Manopla de Choque Magipunk",
+							"ru-RU": "Электрическая перчатка \"Чаропанк\"",
+							"th-TH": "Magepunk Shock Gauntlet",
+							"tr-TR": "Sihirpunk Şok Eldiveni",
+							"vi-VN": "Găng Tay Sốc Điện Magepunk",
+							"zh-CN": "Magepunk Shock Gauntlet",
+							"zh-TW": "奇幻龐克 電氣拳套"
+						}
+					}
+				},
+				{
+					"id": "FB8AAB57-4976-8A4A-F262-C194F6029714",
+					"label": "FB8AAB57-4976-8A4A-F262-C194F6029714",
+					"name":
+					{
+						"defaultText": "Magepunk Shock Gauntlet Level 2 (Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك القفاز الصاعق المستوى 2 (بديل 1 أخضر)",
+							"de-DE": "Schockhandschuh – Magepunk Level 2 (Variante 1, Grün)",
+							"en-US": "Magepunk Shock Gauntlet Level 2 (Variant 1 Green)",
+							"es-ES": "Guantelete explosivo Magepunk de nivel 2 (variante 1: verde)",
+							"es-MX": "Guantelete de Choque Magepunk nivel 2 \n(Variante 1 Verde)",
+							"fr-FR": "Électrogantelet (Magepunk) niveau 2 (variante 1 Vert)",
+							"id-ID": "Magepunk Shock Gauntlet Level 2 (Varian 1 Hijau)",
+							"it-IT": "Guanto folgorante Magepunk livello 2 (variante 1 Verde)",
+							"ja-JP": "メイジパンク ショックガントレット Lv.2 (ヴァリアント 1 グリーン)",
+							"ko-KR": "메이지펑크 쇼크 건틀릿 2레벨 (변형 1 녹색)",
+							"pl-PL": "Porażająca Rękawica Magepunk (poziom 2) (wersja 1 – zielona)",
+							"pt-BR": "Manopla de Choque Magipunk Nível 2 (Variante 1 Verde)",
+							"ru-RU": "Электрическая перчатка \"Чаропанк\" уровень 2 (расцветка 1 \"Зеленый\")",
+							"th-TH": "Magepunk Shock Gauntlet เลเวล 2 (ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "2. Seviye Sihirpunk Şok Eldiveni (Stil 1 - Yeşil)",
+							"vi-VN": "Găng Tay Sốc Điện Magepunk Cấp 2 (Dạng 1 Ánh Lục)",
+							"zh-CN": "Magepunk Shock Gauntlet Level 2 (Variant 1 Green)",
+							"zh-TW": "奇幻龐克 電氣拳套 等級2（幻彩1 綠色）"
+						}
+					}
+				},
+				{
+					"id": "C67186EC-423C-F3BB-8A9F-FA8E73BCD6C3",
+					"label": "C67186EC-423C-F3BB-8A9F-FA8E73BCD6C3",
+					"name":
+					{
+						"defaultText": "Magepunk Shock Gauntlet Level 2 (Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك القفاز الصاعق المستوى 2 (بديل 2 وردي)",
+							"de-DE": "Schockhandschuh – Magepunk Level 2 (Variante 2, Pink)",
+							"en-US": "Magepunk Shock Gauntlet Level 2 (Variant 2 Pink)",
+							"es-ES": "Guantelete explosivo Magepunk de nivel 2 (variante 2: rosa)",
+							"es-MX": "Guantelete de Choque Magepunk nivel 2 \n(Variante 2 Rosa)",
+							"fr-FR": "Électrogantelet (Magepunk) niveau 2 (variante 2 Rose)",
+							"id-ID": "Magepunk Shock Gauntlet Level 2 (Varian 2 Merah Muda)",
+							"it-IT": "Guanto folgorante Magepunk livello 2 (variante 2 Rosa)",
+							"ja-JP": "メイジパンク ショックガントレット Lv.2 (ヴァリアント 2 ピンク)",
+							"ko-KR": "메이지펑크 쇼크 건틀릿 2레벨 (변형 2 분홍색)",
+							"pl-PL": "Porażająca Rękawica Magepunk (poziom 2) (wersja 2 – różowa)",
+							"pt-BR": "Manopla de Choque Magipunk Nível 2 (Variante 2 Rosa)",
+							"ru-RU": "Электрическая перчатка \"Чаропанк\" уровень 2 (расцветка 2 \"Розовый\")",
+							"th-TH": "Magepunk Shock Gauntlet เลเวล 2 (ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "2. Seviye Sihirpunk Şok Eldiveni (Stil 2 - Pembe)",
+							"vi-VN": "Găng Tay Sốc Điện Magepunk Cấp 2 (Dạng 2 Ánh Hồng)",
+							"zh-CN": "Magepunk Shock Gauntlet Level 2 (Variant 2 Pink)",
+							"zh-TW": "奇幻龐克 電氣拳套 等級2（幻彩2 粉色）"
+						}
+					}
+				},
+				{
+					"id": "2B032D73-4916-EA28-8692-84A66F231208",
+					"label": "2B032D73-4916-EA28-8692-84A66F231208",
+					"name":
+					{
+						"defaultText": "Magepunk Shock Gauntlet Level 2 (Variant 3 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك القفاز الصاعق المستوى 2 (بديل 3 برتقالي)",
+							"de-DE": "Schockhandschuh – Magepunk Level 2 (Variante 3, Orange)",
+							"en-US": "Magepunk Shock Gauntlet Level 2 (Variant 3 Orange)",
+							"es-ES": "Guantelete explosivo Magepunk de nivel 2 (variante 3: naranja)",
+							"es-MX": "Guantelete de Choque Magepunk nivel 2 \n(Variante 3 Naranja)",
+							"fr-FR": "Électrogantelet (Magepunk) niveau 2 (variante 3 Orange)",
+							"id-ID": "Magepunk Shock Gauntlet Level 2 (Varian 3 Oranye)",
+							"it-IT": "Guanto folgorante Magepunk livello 2 (variante 3 Arancione)",
+							"ja-JP": "メイジパンク ショックガントレット Lv.2 (ヴァリアント 3 オレンジ)",
+							"ko-KR": "메이지펑크 쇼크 건틀릿 2레벨 (변형 3 주황색)",
+							"pl-PL": "Porażająca Rękawica Magepunk (poziom 2) (wersja 3 – pomarańczowa)",
+							"pt-BR": "Manopla de Choque Magipunk Nível 2 (Variante 3 Laranja)",
+							"ru-RU": "Электрическая перчатка \"Чаропанк\" уровень 2 (расцветка 3 \"Оранжевый\")",
+							"th-TH": "Magepunk Shock Gauntlet เลเวล 2 (ตัวเลือกที่ 3 สีส้ม)",
+							"tr-TR": "2. Seviye Sihirpunk Şok Eldiveni (Stil 3 - Turuncu)",
+							"vi-VN": "Găng Tay Sốc Điện Magepunk Cấp 2 (Dạng 3 Ánh Cam)",
+							"zh-CN": "Magepunk Shock Gauntlet Level 2 (Variant 3 Orange)",
+							"zh-TW": "奇幻龐克 電氣拳套 等級2（幻彩3 橘色）"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "C5EC6A47-40C2-66ED-D546-5BAD1EEF6FD5",
+					"label": "C5EC6A47-40C2-66ED-D546-5BAD1EEF6FD5",
+					"name":
+					{
+						"defaultText": "Magepunk Shock Gauntlet",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك القفاز الصاعق",
+							"de-DE": "Schockhandschuh – Magepunk",
+							"en-US": "Magepunk Shock Gauntlet",
+							"es-ES": "Guantelete explosivo Magepunk",
+							"es-MX": "Guantelete de Choque Magepunk",
+							"fr-FR": "Électrogantelet (Magepunk)",
+							"id-ID": "Magepunk Shock Gauntlet",
+							"it-IT": "Guanto folgorante Magepunk",
+							"ja-JP": "メイジパンク ショックガントレット",
+							"ko-KR": "메이지펑크 쇼크 건틀릿",
+							"pl-PL": "Porażająca Rękawica Magepunk",
+							"pt-BR": "Manopla de Choque Magipunk",
+							"ru-RU": "Электрическая перчатка \"Чаропанк\"",
+							"th-TH": "Magepunk Shock Gauntlet",
+							"tr-TR": "Sihirpunk Şok Eldiveni",
+							"vi-VN": "Găng Tay Sốc Điện Magepunk",
+							"zh-CN": "Magepunk Shock Gauntlet",
+							"zh-TW": "奇幻龐克 電氣拳套"
+						}
+					}
+				},
+				{
+					"id": "4379EF43-451A-A1EB-7C69-919ABAFF068B",
+					"label": "4379EF43-451A-A1EB-7C69-919ABAFF068B",
+					"name":
+					{
+						"defaultText": "Magepunk Shock Gauntlet Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "ميج بانك القفاز الصاعق المستوى 2",
+							"de-DE": "Schockhandschuh – Magepunk Level 2",
+							"en-US": "Magepunk Shock Gauntlet Level 2",
+							"es-ES": "Guantelete explosivo Magepunk de nivel 2",
+							"es-MX": "Guantelete de Choque Magepunk nivel 2",
+							"fr-FR": "Électrogantelet (Magepunk) niveau 2",
+							"id-ID": "Magepunk Shock Gauntlet Level 2",
+							"it-IT": "Guanto folgorante Magepunk livello 2",
+							"ja-JP": "メイジパンク ショックガントレット Lv.2",
+							"ko-KR": "메이지펑크 쇼크 건틀릿 2레벨",
+							"pl-PL": "Porażająca Rękawica Magepunk (poziom 2)",
+							"pt-BR": "Manopla de Choque Magipunk Nível 2",
+							"ru-RU": "Электрическая перчатка \"Чаропанк\" уровень 2",
+							"th-TH": "Magepunk Shock Gauntlet เลเวล 2",
+							"tr-TR": "2. Seviye Sihirpunk Şok Eldiveni",
+							"vi-VN": "Găng Tay Sốc Điện Magepunk Cấp 2",
+							"zh-CN": "Magepunk Shock Gauntlet Level 2",
+							"zh-TW": "奇幻龐克 電氣拳套 等級2"
+						}
+					}
+				}
+			],
+			"id": "59F627F1-42F3-670D-5323-3499C2913289",
+			"label": "59F627F1-42F3-670D-5323-3499C2913289",
+			"name":
+			{
+				"defaultText": "Magepunk Shock Gauntlet",
+				"localizedByCulture":
+				{
+					"ar-AE": "ميج بانك القفاز الصاعق",
+					"de-DE": "Schockhandschuh – Magepunk",
+					"en-US": "Magepunk Shock Gauntlet",
+					"es-ES": "Guantelete explosivo Magepunk",
+					"es-MX": "Guantelete de Choque Magepunk",
+					"fr-FR": "Électrogantelet (Magepunk)",
+					"id-ID": "Magepunk Shock Gauntlet",
+					"it-IT": "Guanto folgorante Magepunk",
+					"ja-JP": "メイジパンク ショックガントレット",
+					"ko-KR": "메이지펑크 쇼크 건틀릿",
+					"pl-PL": "Porażająca Rękawica Magepunk",
+					"pt-BR": "Manopla de Choque Magipunk",
+					"ru-RU": "Электрическая перчатка \"Чаропанк\"",
+					"th-TH": "Magepunk Shock Gauntlet",
+					"tr-TR": "Sihirpunk Şok Eldiveni",
+					"vi-VN": "Găng Tay Sốc Điện Magepunk",
+					"zh-CN": "Magepunk Shock Gauntlet",
+					"zh-TW": "奇幻龐克 電氣拳套"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "A31FC599-4DE8-A3CD-11FE-36BA7990832B",
 			"chromas": [
 				{
@@ -62449,7 +64281,7 @@
 					"ar-AE": "بطاقة المواجهة // رايز + كيلجوي",
 					"de-DE": "VERSUS // Banner „Raze + Killjoy“",
 					"en-US": "VERSUS // Raze + Killjoy Card",
-					"es-ES": "Tarjeta VERSUS // Raze + Killjoy",
+					"es-ES": "VERSUS // Tarjeta Raze + Killjoy",
 					"es-MX": "VERSUS // Tarjeta Raze + Killjoy",
 					"fr-FR": "Carte VERSUS // Raze + Killjoy",
 					"id-ID": "Kartu VERSUS // Raze + Killjoy",
@@ -62507,7 +64339,7 @@
 					"ar-AE": "بطاقة المواجهة // فاندال + فانتوم",
 					"de-DE": "VERSUS // Banner „Vandal + Phantom“",
 					"en-US": "VERSUS // Vandal + Phantom Card",
-					"es-ES": "Tarjeta VERSUS // Vandal + Phantom",
+					"es-ES": "VERSUS // Tarjeta Vandal + Phantom",
 					"es-MX": "VERSUS // Tarjeta Vandal + Phantom",
 					"fr-FR": "Carte VERSUS // Vandal + Phantom",
 					"id-ID": "Kartu VERSUS // Vandal + Phantom",
@@ -62536,7 +64368,7 @@
 					"ar-AE": "خاتمة: بطاقة ''المواجهة // فاندال + فانتوم''",
 					"de-DE": "Banner „Epilog: VERSUS // Vandal + Phantom“",
 					"en-US": "Epilogue: VERSUS // Vandal + Phantom Card",
-					"es-ES": "Epílogo: Tarjeta VERSUS // Vandal + Phantom",
+					"es-ES": "VERSUS // Epílogo: Tarjeta Vandal + Phantom",
 					"es-MX": "Epílogo: VERSUS // Tarjeta Vandal + Phantom",
 					"fr-FR": "Carte Épilogue : VERSUS // Vandal + Phantom",
 					"id-ID": "Kartu Epilog: VERSUS // Vandal + Phantom",
@@ -63044,6 +64876,64 @@
 					"vi-VN": "Thẻ Kẻ Chuộc Lỗi Điên Rồ",
 					"zh-CN": "救赎者的愚蠢 卡牌",
 					"zh-TW": "贖罪愚行 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "F31491E7-4642-EA8B-87FA-ED8FD73E44CF",
+			"label": "F31491E7-4642-EA8B-87FA-ED8FD73E44CF",
+			"name":
+			{
+				"defaultText": "VALORANT Chamber Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة تشامبر VALORANT",
+					"de-DE": "Banner „VALORANT: Chamber“",
+					"en-US": "VALORANT Chamber Card",
+					"es-ES": "Tarjeta de Chamber de VALORANT",
+					"es-MX": "Tarjeta Chamber de VALORANT",
+					"fr-FR": "Carte Chamber de VALORANT",
+					"id-ID": "Kartu VALORANT Chamber",
+					"it-IT": "Carta Chamber VALORANT",
+					"ja-JP": "VALORANT チェンバー カード",
+					"ko-KR": "발로란트 체임버 카드",
+					"pl-PL": "Karta „VALORANT Chamber”",
+					"pt-BR": "Card Chamber de VALORANT",
+					"ru-RU": "Карточка \"VALORANT Chamber\"",
+					"th-TH": "การ์ด VALORANT Chamber",
+					"tr-TR": "VALORANT Chamber Kartı",
+					"vi-VN": "Thẻ Chamber VALORANT",
+					"zh-CN": "VALORANT Chamber Card",
+					"zh-TW": "《特戰英豪》錢博爾 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "944E2863-4C07-C6AA-923F-C99A7F00AA58",
+			"label": "944E2863-4C07-C6AA-923F-C99A7F00AA58",
+			"name":
+			{
+				"defaultText": "Joint Venture Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الشركة المحاصة",
+					"de-DE": "Banner „Gemeinsames Unterfangen“",
+					"en-US": "Joint Venture Card",
+					"es-ES": "Tarjeta de Empresa conjunta",
+					"es-MX": "Tarjeta Operación Conjunta",
+					"fr-FR": "Carte Entreprise commune",
+					"id-ID": "Kartu Joint Venture",
+					"it-IT": "Carta Joint venture",
+					"ja-JP": "ジョイントベンチャー カード",
+					"ko-KR": "합작 회사 카드",
+					"pl-PL": "Karta „Wspólne przedsięwzięcie”",
+					"pt-BR": "Card Negócio Fechado",
+					"ru-RU": "Карточка \"Сделка\"",
+					"th-TH": "การ์ด Joint Venture",
+					"tr-TR": "Ortak Girişim Kartı",
+					"vi-VN": "Thẻ Liên Doanh",
+					"zh-CN": "Joint Venture Card",
+					"zh-TW": "合作愉快 玩家卡面"
 				}
 			}
 		},
@@ -64160,7 +66050,7 @@
 					"ar-AE": "بطاقة المواجهة // أومين + سايج",
 					"de-DE": "VERSUS // Banner „Omen + Sage“",
 					"en-US": "VERSUS // Omen + Sage Card",
-					"es-ES": "Tarjeta VERSUS // Omen + Sage",
+					"es-ES": "VERSUS // Tarjeta Omen + Sage",
 					"es-MX": "VERSUS // Tarjeta Omen + Sage",
 					"fr-FR": "Carte VERSUS // Omen + Sage",
 					"id-ID": "Kartu VERSUS // Omen + Sage",
@@ -64334,7 +66224,7 @@
 					"ar-AE": "بطاقة المواجهة // النصر + الهزيمة",
 					"de-DE": "VERSUS // Banner „Sieg und Niederlage“",
 					"en-US": "VERSUS // Victory + Defeat Card",
-					"es-ES": "Tarjeta VERSUS // Victoria + Derrota",
+					"es-ES": "VERSUS // Tarjeta Victoria + Derrota",
 					"es-MX": "VERSUS // Tarjeta Victoria + Derrota",
 					"fr-FR": "Carte VERSUS // Victoire + Défaite",
 					"id-ID": "Kartu VERSUS // Victory + Defeat",
@@ -64392,7 +66282,7 @@
 					"ar-AE": "بطاقة المواجهة // بايند + آيس بوكس",
 					"de-DE": "VERSUS // Banner „Bind + Icebox“",
 					"en-US": "VERSUS // Bind + Icebox Card",
-					"es-ES": "Tarjeta VERSUS // Bind + Icebox",
+					"es-ES": "VERSUS // Tarjeta Bind + Icebox",
 					"es-MX": "VERSUS // Tarjeta Bind + Icebox",
 					"fr-FR": "Carte VERSUS // Bind + Icebox",
 					"id-ID": "Kartu VERSUS // Bind + Icebox",
@@ -64479,7 +66369,7 @@
 					"ar-AE": "بطاقة المواجهة // سوفا + سايفر",
 					"de-DE": "VERSUS // Banner „Sova + Cypher“",
 					"en-US": "VERSUS // Sova + Cypher Card",
-					"es-ES": "Tarjeta VERSUS // Sova + Cypher",
+					"es-ES": "VERSUS // Tarjeta Sova + Cypher",
 					"es-MX": "VERSUS // Tarjeta Sova + Cypher",
 					"fr-FR": "Carte VERSUS // Sova + Cypher",
 					"id-ID": "Kartu VERSUS // Sova + Cypher",
@@ -65030,7 +66920,7 @@
 					"ar-AE": "بطاقة المواجهة // ريينا + فايبر",
 					"de-DE": "VERSUS // Banner „Reyna + Viper“",
 					"en-US": "VERSUS // Reyna + Viper Card",
-					"es-ES": "Tarjeta VERSUS // Reyna + Viper",
+					"es-ES": "VERSUS // Tarjeta Reyna + Viper",
 					"es-MX": "VERSUS // Tarjeta Reyna + Viper",
 					"fr-FR": "Carte VERSUS // Reyna + Viper",
 					"id-ID": "Kartu VERSUS // Reyna + Viper",
@@ -65697,7 +67587,7 @@
 					"ar-AE": "بطاقة المواجهة // فينيكس + فينيكس",
 					"de-DE": "Banner „VERSUS // Phoenix + Phoenix“",
 					"en-US": "Versus // Phoenix + Phoenix Card",
-					"es-ES": "Tarjeta Versus // Phoenix + Phoenix",
+					"es-ES": "VERSUS // Tarjeta Phoenix + Phoenix",
 					"es-MX": "Versus // Tarjeta Phoenix + Phoenix",
 					"fr-FR": "Carte Versus // Phoenix + Phoenix",
 					"id-ID": "Kartu Versus // Phoenix + Phoenix",
@@ -66074,7 +67964,7 @@
 					"ar-AE": "بطاقة المواجهة // كاي/أو + بريمستون",
 					"de-DE": "Banner „Versus // KAY/O + Brimstone“",
 					"en-US": "Versus // KAY/O + Brimstone Card",
-					"es-ES": "Tarjeta Versus // KAY/O + Brimstone",
+					"es-ES": "VERSUS // Tarjeta KAY/O + Brimstone",
 					"es-MX": "Versus // Tarjeta KAY/O + Brimstone",
 					"fr-FR": "Carte Versus // KAY/O + Brimstone",
 					"id-ID": "Kartu Versus // KAY/O + Brimstone",
@@ -66354,6 +68244,35 @@
 			}
 		},
 		{
+			"id": "F67A7C8F-4D3F-B76F-2921-478A4DA44109",
+			"label": "F67A7C8F-4D3F-B76F-2921-478A4DA44109",
+			"name":
+			{
+				"defaultText": "Art of Greatness // Champions Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة فن العظمة // الأبطال",
+					"de-DE": "Banner „Kunst der Großartigkeit // Champions“",
+					"en-US": "Art of Greatness // Champions Card",
+					"es-ES": "El arte de la grandeza // Tarjeta de campeones",
+					"es-MX": "Tarjeta Arte de la Grandeza // Campeones",
+					"fr-FR": "Carte L'art d'être exceptionnel // Champions",
+					"id-ID": "Kartu Art of Greatness // Champions",
+					"it-IT": "Carta L'arte della grandezza // Campioni",
+					"ja-JP": "偉業の芸術 // Champions カード",
+					"ko-KR": "위대한 예술 // 챔피언스 카드",
+					"pl-PL": "Wirtuozeria wielkości // Karta bohaterów",
+					"pt-BR": "Card A Arte da Excelência // Champions",
+					"ru-RU": "Карточка \"Искусство побеждать // Champions\"",
+					"th-TH": "การ์ดแชมเปี้ยน // ศิลปะแห่งความยิ่งใหญ่",
+					"tr-TR": "Muhteşemliğin Sanatı // Champions Kartı",
+					"vi-VN": "Thẻ Nơi Tinh Hoa Hội Tụ // Champions",
+					"zh-CN": "Art of Greatness // Champions Card",
+					"zh-TW": "非凡之巔//冠軍賽 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "E17C2E94-44FB-9486-8497-9DAB8B942B3D",
 			"label": "E17C2E94-44FB-9486-8497-9DAB8B942B3D",
 			"name":
@@ -66393,7 +68312,7 @@
 					"ar-AE": "بطاقة المواجهة // يورو + فينيكس",
 					"de-DE": "VERSUS // Banner „Yoru + Phoenix“",
 					"en-US": "Versus // Yoru + Phoenix Card",
-					"es-ES": "Tarjeta VERSUS // Yoru + Phoenix",
+					"es-ES": "VERSUS // Tarjeta Yoru + Phoenix",
 					"es-MX": "Versus // Tarjeta Yoru + Phoenix",
 					"fr-FR": "Carte Versus // Yoru + Phoenix",
 					"id-ID": "Kartu Versus // Yoru + Phoenix",
@@ -66567,7 +68486,7 @@
 					"ar-AE": "بطاقة الألوان المبهجة // قوس قزح",
 					"de-DE": "Banner „Pride//Regenbogen“",
 					"en-US": "Pride // Rainbow Card",
-					"es-ES": "Tarjeta Orgullo // Arcoíris",
+					"es-ES": "Orgullo // Tarjeta Arcoíris",
 					"es-MX": "Tarjeta Orgullo // Arcoíris",
 					"fr-FR": "Carte Pride // Arc-en-ciel",
 					"id-ID": "Kartu Jubilant Colors // Chromatic",
@@ -66596,7 +68515,7 @@
 					"ar-AE": "بطاقة الألوان المبهجة // غزل البنات",
 					"de-DE": "Banner „Pride//Zuckerwatte“",
 					"en-US": "Pride // Cotton Candy Card",
-					"es-ES": "Tarjeta Orgullo // Algodón de azúcar",
+					"es-ES": "Orgullo // Tarjeta Algodón de azúcar",
 					"es-MX": "Tarjeta Orgullo // Algodón de Azúcar",
 					"fr-FR": "Carte Pride // Barbe à papa",
 					"id-ID": "Kartu Jubilant Colors // Cotton Candy",
@@ -66625,7 +68544,7 @@
 					"ar-AE": "بطاقة الألوان المبهجة // الرئيسي",
 					"de-DE": "Banner „Pride//RGB“",
 					"en-US": "Pride // Primary Card",
-					"es-ES": "Tarjeta Orgullo // Principal",
+					"es-ES": "Orgullo // Tarjeta Principal",
 					"es-MX": "Tarjeta Orgullo // Primordial",
 					"fr-FR": "Carte Pride // CMJN",
 					"id-ID": "Kartu Jubilant Colors // Primary",
@@ -66654,7 +68573,7 @@
 					"ar-AE": "بطاقة الألوان المبهجة // المجرة",
 					"de-DE": "Banner „Pride//Galaktisch“",
 					"en-US": "Pride // Galactic Card",
-					"es-ES": "Tarjeta Orgullo // Galaxia",
+					"es-ES": "Orgullo // Tarjeta Galaxia",
 					"es-MX": "Tarjeta Orgullo // Galaxia",
 					"fr-FR": "Carte Pride // Galactique",
 					"id-ID": "Kartu Jubilant Colors // Galactic",
@@ -66683,7 +68602,7 @@
 					"ar-AE": "بطاقة الألوان المبهجة // الغروب",
 					"de-DE": "Banner „Pride//Sonnenuntergang“",
 					"en-US": "Pride // Sunset Card",
-					"es-ES": "Tarjeta Orgullo // Ocaso",
+					"es-ES": "Orgullo // Tarjeta Ocaso",
 					"es-MX": "Tarjeta Orgullo // Atardecer",
 					"fr-FR": "Carte Pride // Coucher de soleil",
 					"id-ID": "Kartu Jubilant Colors // Sunset",
@@ -66712,7 +68631,7 @@
 					"ar-AE": "بطاقة الألوان المبهجة // الغسق",
 					"de-DE": "Banner „Pride//Abenddämmerung“",
 					"en-US": "Pride // Twilight Card",
-					"es-ES": "Tarjeta Orgullo // Crepúsculo",
+					"es-ES": "Orgullo // Tarjeta Crepúsculo",
 					"es-MX": "Tarjeta Orgullo // Crepúsculo",
 					"fr-FR": "Carte Pride // Crépuscule",
 					"id-ID": "Kartu Jubilant Colors // Twilight",
@@ -66741,7 +68660,7 @@
 					"ar-AE": "بطاقة الألوان المهبجة // الشراب",
 					"de-DE": "Banner „Pride//Fruchteis“",
 					"en-US": "Pride // Sherbet Card",
-					"es-ES": "Tarjeta Orgullo // Sorbete",
+					"es-ES": "Orgullo // Tarjeta Sorbete",
 					"es-MX": "Tarjeta Orgullo // Sorbetto",
 					"fr-FR": "Carte Pride // Crème glacée",
 					"id-ID": "Kartu Jubilant Colors // Sherbet",
@@ -67452,6 +69371,35 @@
 					"vi-VN": "Thẻ Magepunk",
 					"zh-CN": "魔术朋克 卡牌",
 					"zh-TW": "奇幻龐克 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "8918CCFF-4FC1-7116-D553-4DAF6FEB53C9",
+			"label": "8918CCFF-4FC1-7116-D553-4DAF6FEB53C9",
+			"name":
+			{
+				"defaultText": "Magepunk, Ep 3 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة ميج بانك، الحلقة 3",
+					"de-DE": "Banner „Magepunk Ep 3“",
+					"en-US": "Magepunk, Ep 3 Card",
+					"es-ES": "Tarjeta del EP. 3, Magepunk",
+					"es-MX": "Tarjeta Magepunk, Ep 3",
+					"fr-FR": "Carte Magepunk, Ép. 3",
+					"id-ID": "Kartu Magepunk, Ep 3",
+					"it-IT": "Carta Magepunk Ep 3",
+					"ja-JP": "メイジパンク EP 3 カード",
+					"ko-KR": "메이지펑크 에피소드 3 카드",
+					"pl-PL": "Karta „Magepunk, odc. 3”",
+					"pt-BR": "Card Magipunk – EP 3",
+					"ru-RU": "Карточка \"Чаропанк, эпизод 3\"",
+					"th-TH": "การ์ด Magepunk จากบทที่ 3",
+					"tr-TR": "03. Bölüm Sihirpunk Kartı",
+					"vi-VN": "Thẻ Magepunk, Hồi 3",
+					"zh-CN": "Magepunk, Ep 3 Card",
+					"zh-TW": "奇幻龐克 第三幕 玩家卡面"
 				}
 			}
 		},
@@ -69074,7 +71022,7 @@
 					"pl-PL": "Nieskończony",
 					"pt-BR": "Infinito",
 					"ru-RU": "Бесконечность",
-					"th-TH": "Infinite",
+					"th-TH": "ไร้ขีดจำกัด",
 					"tr-TR": "﻿Sonsuz",
 					"vi-VN": "Bất Tận",
 					"zh-CN": "无限",
@@ -69209,7 +71157,7 @@
 					"pl-PL": "Tytuł „Gniew natury”",
 					"pt-BR": "Título Fúria da Natureza",
 					"ru-RU": "Звание \"Гнев природы\"",
-					"th-TH": "ฉายาธรรมชาติอาฆาต",
+					"th-TH": "ฉายาธรรมชาติพิโรธ",
 					"tr-TR": "DOĞANIN GAZABI UNVANI",
 					"vi-VN": "Danh hiệu Cơn Thịnh Nộ Của Thiên Nhiên",
 					"zh-CN": "自然之怒 称号",
@@ -69560,7 +71508,7 @@
 					"pl-PL": "Gwiezdny",
 					"pt-BR": "Estelar",
 					"ru-RU": "Звезда",
-					"th-TH": "Stellar",
+					"th-TH": "ดาวเฉิดฉาย",
 					"tr-TR": "Yıldız",
 					"vi-VN": "Tinh Tú",
 					"zh-CN": "恒星",
@@ -69722,7 +71670,7 @@
 					"pl-PL": "Trucizna",
 					"pt-BR": "Tóxico",
 					"ru-RU": "Гадюка",
-					"th-TH": "พิษสง",
+					"th-TH": "พิษร้าย",
 					"tr-TR": "Zehirli",
 					"vi-VN": "Toxic",
 					"zh-CN": "剧毒",
@@ -69776,7 +71724,7 @@
 					"pl-PL": "Wilczy Cios",
 					"pt-BR": "Predador Explosivo",
 					"ru-RU": "Следопыт",
-					"th-TH": "ผู้เผาผลาญเส้นทาง",
+					"th-TH": "ผู้ฝ่าฟัน",
 					"tr-TR": "Av Peşinde",
 					"vi-VN": "Truy Lùng",
 					"zh-CN": "开路人",
@@ -69830,7 +71778,7 @@
 					"pl-PL": "Zdemaskowany",
 					"pt-BR": "Desmascarado",
 					"ru-RU": "Без маски",
-					"th-TH": "เปิดโปง",
+					"th-TH": "เผยโฉม",
 					"tr-TR": "Maskesiz",
 					"vi-VN": "Bại Lộ Chân Tướng",
 					"zh-CN": "揭露",
@@ -69857,7 +71805,7 @@
 					"pl-PL": "Tytuł „Zdemaskowany”",
 					"pt-BR": "Título Desmascarado",
 					"ru-RU": "Звание \"Без маски\"",
-					"th-TH": "ฉายาเผยโฉมหน้า",
+					"th-TH": "ฉายาเผยโฉม",
 					"tr-TR": "MASKESİZ UNVANI",
 					"vi-VN": "Danh hiệu Bại Lộ Chân Tướng",
 					"zh-CN": "揭露 称号",
@@ -70402,6 +72350,114 @@
 					"vi-VN": "Danh hiệu Cay",
 					"zh-CN": "火辣 称号",
 					"zh-TW": "手法辛辣 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Charmer",
+				"localizedByCulture":
+				{
+					"ar-AE": "فاتن",
+					"de-DE": "Charmeur",
+					"en-US": "Charmer",
+					"es-ES": "Encanto",
+					"es-MX": "Encantador",
+					"fr-FR": "Charmeur",
+					"id-ID": "Pemikat",
+					"it-IT": "Seduttore",
+					"ja-JP": "チャーマー",
+					"ko-KR": "인기인",
+					"pl-PL": "Czaruś",
+					"pt-BR": "Charmoso",
+					"ru-RU": "Месье очарование",
+					"th-TH": "เจ้าเสน่ห์",
+					"tr-TR": "Baştan Çıkarıcı",
+					"vi-VN": "Quyến Rũ",
+					"zh-CN": "Charmer",
+					"zh-TW": "一表人才"
+				}
+			},
+			"id": "703CD95A-4624-16F3-FDD9-F4A881993577",
+			"label": "703CD95A-4624-16F3-FDD9-F4A881993577",
+			"name":
+			{
+				"defaultText": "Charmer Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الفاتن",
+					"de-DE": "Titel „Charmeur“",
+					"en-US": "Charmer Title",
+					"es-ES": "Título Encanto",
+					"es-MX": "Título Encantador",
+					"fr-FR": "Titre Charmeur",
+					"id-ID": "Gelar Pemikat",
+					"it-IT": "Titolo Seduttore",
+					"ja-JP": "チャーマー タイトル",
+					"ko-KR": "인기인 칭호",
+					"pl-PL": "Tytuł „Czaruś”",
+					"pt-BR": "Título Charmoso",
+					"ru-RU": "Звание \"Месье Очарование\"",
+					"th-TH": "ฉายาเจ้าเสน่ห์",
+					"tr-TR": "Baştan Çıkarıcı Unvanı",
+					"vi-VN": "Danh Hiệu Quyến Rũ",
+					"zh-CN": "Charmer Title",
+					"zh-TW": "一表人才 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "High Class",
+				"localizedByCulture":
+				{
+					"ar-AE": "رفيع المقام",
+					"de-DE": "Erstklassig",
+					"en-US": "High Class",
+					"es-ES": "De categoría",
+					"es-MX": "De Categoría",
+					"fr-FR": "Classe",
+					"id-ID": "Kelas Atas",
+					"it-IT": "Alta classe",
+					"ja-JP": "一流",
+					"ko-KR": "상류층",
+					"pl-PL": "Wysoka klasa",
+					"pt-BR": "Alta Classe",
+					"ru-RU": "Элита",
+					"th-TH": "ชั้นสูง",
+					"tr-TR": "Klas Sahibi",
+					"vi-VN": "Thượng Lưu",
+					"zh-CN": "High Class",
+					"zh-TW": "金牌殺手"
+				}
+			},
+			"id": "9F294AB8-4B0A-4C3F-711C-CB89CA4D3AD5",
+			"label": "9F294AB8-4B0A-4C3F-711C-CB89CA4D3AD5",
+			"name":
+			{
+				"defaultText": "High Class Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب رفيع المقام",
+					"de-DE": "Titel „Yuppie“",
+					"en-US": "High Class Title",
+					"es-ES": "Título De categoría",
+					"es-MX": "Título De Categoría",
+					"fr-FR": "Titre Classe",
+					"id-ID": "Gelar Kelas Atas",
+					"it-IT": "Titolo Alta classe",
+					"ja-JP": "一流 タイトル",
+					"ko-KR": "상류층 칭호",
+					"pl-PL": "Tytuł „Wysoka klasa”",
+					"pt-BR": "Título Alta Classe",
+					"ru-RU": "Звание \"Элита\"",
+					"th-TH": "ฉายาชั้นสูง",
+					"tr-TR": "Klas Sahibi Unvanı",
+					"vi-VN": "Danh hiệu Thượng Lưu",
+					"zh-CN": "High Class Title",
+					"zh-TW": "金牌殺手 稱號"
 				}
 			}
 		},
@@ -71556,7 +73612,7 @@
 					"ja-JP": "嘘つき",
 					"ko-KR": "거짓말쟁이",
 					"pl-PL": "Kłamca",
-					"pt-BR": "Mentiroso",
+					"pt-BR": "Mentirosa",
 					"ru-RU": "Лжец",
 					"th-TH": " พูดปด",
 					"tr-TR": "Yalancı",
@@ -71583,7 +73639,7 @@
 					"ja-JP": "嘘つき",
 					"ko-KR": "거짓말쟁이 칭호",
 					"pl-PL": "Tytuł „Kłamca”",
-					"pt-BR": "Título Mentiroso",
+					"pt-BR": "Título Mentirosa",
 					"ru-RU": "Звание \"Лжец\"",
 					"th-TH": "ฉายาพูดปด",
 					"tr-TR": "Yalancı Unvanı",
@@ -72828,7 +74884,7 @@
 					"ko-KR": "식은 죽 먹기 총기 장식",
 					"pl-PL": "Przywieszka „Łatwizna”",
 					"pt-BR": "Chaveiro De Boa na Lagoa",
-					"ru-RU": "Брелок \"Свежачок\"",
+					"ru-RU": "Брелок \"Легкий Breeze\"",
 					"th-TH": "บัดดี้ Easy Breezy",
 					"tr-TR": "Breeze Manzarası Uğuru",
 					"vi-VN": "Phụ Kiện Chòi Tháp Lộng Gió",
@@ -73020,6 +75076,66 @@
 		{
 			"levels": [
 				{
+					"id": "9AFFDE6C-4BE2-D11B-F1EB-1B9BCC354ED0",
+					"label": "9AFFDE6C-4BE2-D11B-F1EB-1B9BCC354ED0",
+					"name":
+					{
+						"defaultText": "BusinessCard",
+						"localizedByCulture":
+						{
+							"ar-AE": "BusinessCard",
+							"de-DE": "BusinessCard",
+							"en-US": "BusinessCard",
+							"es-ES": "BusinessCard",
+							"es-MX": "BusinessCard",
+							"fr-FR": "BusinessCard",
+							"id-ID": "BusinessCard",
+							"it-IT": "BusinessCard",
+							"ja-JP": "BusinessCard",
+							"ko-KR": "BusinessCard",
+							"pl-PL": "BusinessCard",
+							"pt-BR": "BusinessCard",
+							"ru-RU": "BusinessCard",
+							"th-TH": "BusinessCard",
+							"tr-TR": "BusinessCard",
+							"vi-VN": "BusinessCard",
+							"zh-CN": "BusinessCard",
+							"zh-TW": "BusinessCard"
+						}
+					}
+				}
+			],
+			"id": "5CB098FA-4A93-24E8-4B6C-2396D262DE1E",
+			"label": "5CB098FA-4A93-24E8-4B6C-2396D262DE1E",
+			"name":
+			{
+				"defaultText": "Call Me Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق اتصل بي",
+					"de-DE": "Talisman „Ruf mich an“",
+					"en-US": "Call Me Buddy",
+					"es-ES": "Amuleto Llámame",
+					"es-MX": "Buddy Llámame",
+					"fr-FR": "Porte-bonheur Appelle-moi",
+					"id-ID": "Gantungan Call Me",
+					"it-IT": "Accessorio Chiamami",
+					"ja-JP": "ご連絡を バディー",
+					"ko-KR": "연락해 총기 장식",
+					"pl-PL": "Przywieszka „Zadzwoń”",
+					"pt-BR": "Chaveiro Me Liga",
+					"ru-RU": "Брелок \"Позвони мне\"",
+					"th-TH": "บัดดี้ Call Me",
+					"tr-TR": "Ara Beni Uğuru",
+					"vi-VN": "Phụ Kiện Gọi Cho Tôi",
+					"zh-CN": "Call Me Buddy",
+					"zh-TW": "隨時聯絡我 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "46FF3A2D-46CA-3C0A-71EC-35813CAC3955",
 					"label": "46FF3A2D-46CA-3C0A-71EC-35813CAC3955",
 					"name":
@@ -73057,7 +75173,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ملحق التقط الصورة",
-					"de-DE": "Talisman „Checkst dus mal“",
+					"de-DE": "Talisman „Bitte lächeln“",
 					"en-US": "Get The Picture Buddy",
 					"es-ES": "Amuleto Sonríe para la foto",
 					"es-MX": "Buddy Sonríe para la Foto",
@@ -75840,6 +77956,66 @@
 		{
 			"levels": [
 				{
+					"id": "F470FF75-4F99-C13A-5819-0B8CC78AD839",
+					"label": "F470FF75-4F99-C13A-5819-0B8CC78AD839",
+					"name":
+					{
+						"defaultText": "",
+						"localizedByCulture":
+						{
+							"ar-AE": "",
+							"de-DE": "",
+							"en-US": "",
+							"es-ES": "",
+							"es-MX": "",
+							"fr-FR": "",
+							"id-ID": "",
+							"it-IT": "",
+							"ja-JP": "",
+							"ko-KR": "",
+							"pl-PL": "",
+							"pt-BR": "",
+							"ru-RU": "",
+							"th-TH": "",
+							"tr-TR": "",
+							"vi-VN": "",
+							"zh-CN": "",
+							"zh-TW": ""
+						}
+					}
+				}
+			],
+			"id": "E2E5AB96-4103-8473-14A7-8D8321A3AE6E",
+			"label": "E2E5AB96-4103-8473-14A7-8D8321A3AE6E",
+			"name":
+			{
+				"defaultText": "VCT 2021 Spark Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الشرارة VCT 2021",
+					"de-DE": "Talisman „VCT 2021 Spark“",
+					"en-US": "VCT 2021 Spark Buddy",
+					"es-ES": "Amuleto Chispa del VCT 2021",
+					"es-MX": "Buddy Chispa VCT 2021",
+					"fr-FR": "Porte-bonheur Étincelle VCT 2021",
+					"id-ID": "Gantungan VCT 2021 Spark",
+					"it-IT": "Accessorio Scintilla del VCT 2021",
+					"ja-JP": "VCT 2021 スパーク バディー",
+					"ko-KR": "2021 VCT 스파크 총기 장식",
+					"pl-PL": "Przywieszka „Iskra VCT 2021”",
+					"pt-BR": "Chaveiro Centelha VCT 2021",
+					"ru-RU": "Брелок \"Эмблема VCT 2021\"",
+					"th-TH": "บัดดี้ VCT 2021 Spark",
+					"tr-TR": "VCT 2021 Kıvılcım Uğuru",
+					"vi-VN": "Phụ Kiện Tia Lửa VCT 2021",
+					"zh-CN": "VCT 2021 Spark Buddy",
+					"zh-TW": "2021 VCT 熱情如火 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "09F1C54F-4C4A-6338-424D-EF9378FE9885",
 					"label": "09F1C54F-4C4A-6338-424D-EF9378FE9885",
 					"name":
@@ -76188,7 +78364,7 @@
 					"ko-KR": "아케인 포로 총기 장식",
 					"pl-PL": "Przywieszka „Arcane Poro”",
 					"pt-BR": "Chaveiro Poro de Arcane",
-					"ru-RU": "Граффити \"Аркейн: поро\"",
+					"ru-RU": "Брелок \"Аркейн: поро\"",
 					"th-TH": "บัดดี้ Arcane Poro",
 					"tr-TR": "Arcane Poro Uğuru",
 					"vi-VN": "Phụ Kiện Poro Arcane",
@@ -79074,6 +81250,66 @@
 					"vi-VN": "Phụ Kiện Pizza",
 					"zh-CN": "比萨饼 枪友",
 					"zh-TW": "披薩 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "85322F08-47C2-E3DC-3B84-B38B122D6D5A",
+					"label": "85322F08-47C2-E3DC-3B84-B38B122D6D5A",
+					"name":
+					{
+						"defaultText": "PocketWatch",
+						"localizedByCulture":
+						{
+							"ar-AE": "PocketWatch",
+							"de-DE": "PocketWatch",
+							"en-US": "PocketWatch",
+							"es-ES": "PocketWatch",
+							"es-MX": "PocketWatch",
+							"fr-FR": "PocketWatch",
+							"id-ID": "PocketWatch",
+							"it-IT": "PocketWatch",
+							"ja-JP": "PocketWatch",
+							"ko-KR": "PocketWatch",
+							"pl-PL": "PocketWatch",
+							"pt-BR": "PocketWatch",
+							"ru-RU": "PocketWatch",
+							"th-TH": "PocketWatch",
+							"tr-TR": "PocketWatch",
+							"vi-VN": "PocketWatch",
+							"zh-CN": "PocketWatch",
+							"zh-TW": "PocketWatch"
+						}
+					}
+				}
+			],
+			"id": "1CFA4641-4C44-4067-236C-F7BE07D6DED7",
+			"label": "1CFA4641-4C44-4067-236C-F7BE07D6DED7",
+			"name":
+			{
+				"defaultText": "Magepunk, Ep 3 Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق ميج بانك، الحلقة 3",
+					"de-DE": "Talisman „Magepunk Ep 3“",
+					"en-US": "Magepunk, Ep 3 Buddy",
+					"es-ES": "Amuleto del EP. 3, Magepunk",
+					"es-MX": "Buddy Magepunk, Ep 3",
+					"fr-FR": "Porte-bonheur Magepunk, Ép 3",
+					"id-ID": "Gantungan Magepunk, Ep 3",
+					"it-IT": "Accessorio Magepunk Ep 3",
+					"ja-JP": "メイジパンク EP 3 バディー",
+					"ko-KR": "메이지펑크 에피소드 3 총기 장식",
+					"pl-PL": "Przywieszka „Magepunk, odc. 3”",
+					"pt-BR": "Chaveiro Magipunk – EP 3",
+					"ru-RU": "Брелок \"Чаропанк, эпизод 3\"",
+					"th-TH": "บัดดี้ Magepunk จากบทที่ 3",
+					"tr-TR": "03. Bölüm Sihirpunk Uğuru",
+					"vi-VN": "Phụ Kiện Magepunk, Hồi 3",
+					"zh-CN": "Magepunk, Ep 3 Buddy",
+					"zh-TW": "奇幻龐克 第三幕 吊飾"
 				}
 			}
 		},
@@ -85262,6 +87498,186 @@
 		{
 			"levels": [
 				{
+					"id": "783EFEDD-4872-B0DF-2B92-E8BDB3BFF360",
+					"label": "783EFEDD-4872-B0DF-2B92-E8BDB3BFF360",
+					"name":
+					{
+						"defaultText": "One In The Chamber Spray",
+						"localizedByCulture":
+						{
+							"ar-AE": "رسمة طلقة في المخزن",
+							"de-DE": "Graffiti „Jeder Schuss ein Treffer“",
+							"en-US": "One In The Chamber Spray",
+							"es-ES": "Grafiti Una en la recámara",
+							"es-MX": "Spray Uno para Chamber",
+							"fr-FR": "Graffiti Une dans la chambre",
+							"id-ID": "Spray One In The Chamber",
+							"it-IT": "Spray Colpo in canna",
+							"ja-JP": "ワン・イン・ザ・チェンバー スプレー",
+							"ko-KR": "약실에 한 발 스프레이",
+							"pl-PL": "Graffiti „Jeden w komorze”",
+							"pt-BR": "Spray Mais Um Pra Conta",
+							"ru-RU": "Граффити \"Один патрон\"",
+							"th-TH": "สเปรย์ One In The Chamber",
+							"tr-TR": "Şeytan Doldurur Spreyi",
+							"vi-VN": "Hình Phun Sơn Thời Khắc Chamber",
+							"zh-CN": "One In The Chamber Spray",
+							"zh-TW": "一縷輕煙 塗鴉"
+						}
+					}
+				}
+			],
+			"id": "90B297B4-4E8F-F87C-8008-36905268FE52",
+			"label": "90B297B4-4E8F-F87C-8008-36905268FE52",
+			"name":
+			{
+				"defaultText": "One In The Chamber Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة طلقة في المخزن",
+					"de-DE": "Graffiti „Jeder Schuss ein Treffer“",
+					"en-US": "One In The Chamber Spray",
+					"es-ES": "Grafiti Una en la recámara",
+					"es-MX": "Spray Uno para Chamber",
+					"fr-FR": "Graffiti Une dans la chambre",
+					"id-ID": "Spray One In The Chamber",
+					"it-IT": "Spray Colpo in canna",
+					"ja-JP": "ワン・イン・ザ・チェンバー スプレー",
+					"ko-KR": "약실에 한 발 스프레이",
+					"pl-PL": "Graffiti „Jeden w komorze”",
+					"pt-BR": "Spray Mais Um Pra Conta",
+					"ru-RU": "Граффити \"Один патрон\"",
+					"th-TH": "สเปรย์ One In The Chamber",
+					"tr-TR": "Şeytan Doldurur Spreyi",
+					"vi-VN": "Hình Phun Sơn Thời Khắc Chamber",
+					"zh-CN": "One In The Chamber Spray",
+					"zh-TW": "一縷輕煙 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "A12FDA45-4DD6-A11A-F28A-B5968EDF78DF",
+					"label": "A12FDA45-4DD6-A11A-F28A-B5968EDF78DF",
+					"name":
+					{
+						"defaultText": "DeadeyeCallSign",
+						"localizedByCulture":
+						{
+							"ar-AE": "DeadeyeCallSign",
+							"de-DE": "DeadeyeCallSign",
+							"en-US": "DeadeyeCallSign",
+							"es-ES": "DeadeyeCallSign",
+							"es-MX": "DeadeyeCallSign",
+							"fr-FR": "DeadeyeCallSign",
+							"id-ID": "DeadeyeCallSign",
+							"it-IT": "DeadeyeCallSign",
+							"ja-JP": "DeadeyeCallSign",
+							"ko-KR": "DeadeyeCallSign",
+							"pl-PL": "DeadeyeCallSign",
+							"pt-BR": "DeadeyeCallSign",
+							"ru-RU": "DeadeyeCallSign",
+							"th-TH": "DeadeyeCallSign",
+							"tr-TR": "DeadeyeCallSign",
+							"vi-VN": "DeadeyeCallSign",
+							"zh-CN": "DeadeyeCallSign",
+							"zh-TW": "DeadeyeCallSign"
+						}
+					}
+				}
+			],
+			"id": "1BE33C9A-48A8-5AA8-3798-3989C40C96E1",
+			"label": "1BE33C9A-48A8-5AA8-3798-3989C40C96E1",
+			"name":
+			{
+				"defaultText": "Chamber Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة تشامبر",
+					"de-DE": "Graffiti „Chamber“",
+					"en-US": "Chamber Spray",
+					"es-ES": "Grafiti de Chamber",
+					"es-MX": "Spray Chamber",
+					"fr-FR": "Graffiti Chamber",
+					"id-ID": "Spray Chamber",
+					"it-IT": "Spray Chamber",
+					"ja-JP": "チェンバー スプレー",
+					"ko-KR": "체임버 스프레이",
+					"pl-PL": "Graffiti „Chamber”",
+					"pt-BR": "Spray Chamber",
+					"ru-RU": "Граффити \"Chamber\"",
+					"th-TH": "สเปรย์ Chamber",
+					"tr-TR": "Chamber Spreyi",
+					"vi-VN": "Hình Phun Sơn Chamber",
+					"zh-CN": "Chamber Spray",
+					"zh-TW": "錢博爾 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "74E0342D-4F07-B72D-FFD0-D182C982E1B0",
+					"label": "74E0342D-4F07-B72D-FFD0-D182C982E1B0",
+					"name":
+					{
+						"defaultText": "SeeingDouble",
+						"localizedByCulture":
+						{
+							"ar-AE": "SeeingDouble",
+							"de-DE": "SeeingDouble",
+							"en-US": "SeeingDouble",
+							"es-ES": "SeeingDouble",
+							"es-MX": "SeeingDouble",
+							"fr-FR": "SeeingDouble",
+							"id-ID": "SeeingDouble",
+							"it-IT": "SeeingDouble",
+							"ja-JP": "SeeingDouble",
+							"ko-KR": "SeeingDouble",
+							"pl-PL": "SeeingDouble",
+							"pt-BR": "SeeingDouble",
+							"ru-RU": "SeeingDouble",
+							"th-TH": "SeeingDouble",
+							"tr-TR": "SeeingDouble",
+							"vi-VN": "SeeingDouble",
+							"zh-CN": "SeeingDouble",
+							"zh-TW": "SeeingDouble"
+						}
+					}
+				}
+			],
+			"id": "2EBCF963-4E55-E39C-D1AA-94AD6EC87424",
+			"label": "2EBCF963-4E55-E39C-D1AA-94AD6EC87424",
+			"name":
+			{
+				"defaultText": "Seeing Double Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة الرؤية المزدوجة",
+					"de-DE": "Graffiti „Ich seh doppelt“",
+					"en-US": "Seeing Double Spray",
+					"es-ES": "Grafiti Viendo doble",
+					"es-MX": "Spray Veo Doble",
+					"fr-FR": "Graffiti Je vois double",
+					"id-ID": "Spray Seeing Double",
+					"it-IT": "Spray Ci vedo doppio",
+					"ja-JP": "もう一人の自分 スプレー",
+					"ko-KR": "두 개의 시야 스프레이",
+					"pl-PL": "Graffiti „Widzę podwójnie”",
+					"pt-BR": "Spray Visão Dobrada",
+					"ru-RU": "Граффити \"В глазах двоится\"",
+					"th-TH": "สเปรย์ Seeing Double",
+					"tr-TR": "Çifte Karizma Spreyi",
+					"vi-VN": "Hình Phun Sơn Tưởng 1 Mà 2",
+					"zh-CN": "Seeing Double Spray",
+					"zh-TW": "分身有術 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "AF3A4261-4C81-266D-7963-82AD714B190F",
 					"label": "AF3A4261-4C81-266D-7963-82AD714B190F",
 					"name":
@@ -85316,6 +87732,66 @@
 					"vi-VN": "Hình Phun Sơn VALORANT",
 					"zh-CN": "无畏契约 涂鸦",
 					"zh-TW": "《特戰英豪》 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "24C74DCE-4F29-0FDD-84A3-E0A77DABADEE",
+					"label": "24C74DCE-4F29-0FDD-84A3-E0A77DABADEE",
+					"name":
+					{
+						"defaultText": "Dogecoin",
+						"localizedByCulture":
+						{
+							"ar-AE": "Dogecoin",
+							"de-DE": "Dogecoin",
+							"en-US": "Dogecoin",
+							"es-ES": "Dogecoin",
+							"es-MX": "Dogecoin",
+							"fr-FR": "Dogecoin",
+							"id-ID": "Dogecoin",
+							"it-IT": "Dogecoin",
+							"ja-JP": "Dogecoin",
+							"ko-KR": "Dogecoin",
+							"pl-PL": "Dogecoin",
+							"pt-BR": "Dogecoin",
+							"ru-RU": "Dogecoin",
+							"th-TH": "Dogecoin",
+							"tr-TR": "Dogecoin",
+							"vi-VN": "Dogecoin",
+							"zh-CN": "Dogecoin",
+							"zh-TW": "Dogecoin"
+						}
+					}
+				}
+			],
+			"id": "E8A8C717-4845-3C69-9C16-D8A78153C51D",
+			"label": "E8A8C717-4845-3C69-9C16-D8A78153C51D",
+			"name":
+			{
+				"defaultText": "Bruno Coin Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة عملة برونو",
+					"de-DE": "Graffiti „Bruno-Münze“",
+					"en-US": "Bruno Coin Spray",
+					"es-ES": "Grafiti Moneda de Bruno",
+					"es-MX": "Spray Moneda de Bruno",
+					"fr-FR": "Graffiti Pièce de Bruno",
+					"id-ID": "Spray Bruno Coin",
+					"it-IT": "Spray Moneta Bruno",
+					"ja-JP": "ブルーノコイン スプレー",
+					"ko-KR": "브루노 코인 스프레이",
+					"pl-PL": "Graffiti „Moneta Bruno”",
+					"pt-BR": "Spray Moeda de Bruno",
+					"ru-RU": "Граффити \"Жетон Бруно\"",
+					"th-TH": "สเปรย์ Bruno Coin",
+					"tr-TR": "Bruno Para Spreyi",
+					"vi-VN": "Hình Phun Sơn Xu Bruno",
+					"zh-CN": "Bruno Coin Spray",
+					"zh-TW": "布魯諾紀念幣 塗鴉"
 				}
 			}
 		},
@@ -90962,6 +93438,66 @@
 		{
 			"levels": [
 				{
+					"id": "9AEA356B-41F7-B2EB-BE07-138CAA0A5DAD",
+					"label": "9AEA356B-41F7-B2EB-BE07-138CAA0A5DAD",
+					"name":
+					{
+						"defaultText": "EsportsSpark",
+						"localizedByCulture":
+						{
+							"ar-AE": "EsportsSpark",
+							"de-DE": "EsportsSpark",
+							"en-US": "EsportsSpark",
+							"es-ES": "EsportsSpark",
+							"es-MX": "EsportsSpark",
+							"fr-FR": "EsportsSpark",
+							"id-ID": "EsportsSpark",
+							"it-IT": "EsportsSpark",
+							"ja-JP": "EsportsSpark",
+							"ko-KR": "EsportsSpark",
+							"pl-PL": "EsportsSpark",
+							"pt-BR": "EsportsSpark",
+							"ru-RU": "EsportsSpark",
+							"th-TH": "EsportsSpark",
+							"tr-TR": "EsportsSpark",
+							"vi-VN": "EsportsSpark",
+							"zh-CN": "EsportsSpark",
+							"zh-TW": "EsportsSpark"
+						}
+					}
+				}
+			],
+			"id": "F9BCF120-42B6-6986-2ACD-6AA87BAB4089",
+			"label": "F9BCF120-42B6-6986-2ACD-6AA87BAB4089",
+			"name":
+			{
+				"defaultText": "VCT 2021 Spark Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة الشرارة VCT 2021",
+					"de-DE": "Graffiti „VCT 2021 Spark“",
+					"en-US": "VCT 2021 Spark Spray",
+					"es-ES": "Grafiti Chispa del VCT 2021",
+					"es-MX": "Spray Chispa VCT 2021",
+					"fr-FR": "Graffiti Étincelle VCT 2021",
+					"id-ID": "Spray VCT 2021 Spark",
+					"it-IT": "Spray Scintilla del VCT 2021",
+					"ja-JP": "VCT 2021 スパーク スプレー",
+					"ko-KR": "2021 VCT 스파크 스프레이",
+					"pl-PL": "Graffiti „Iskra VCT 2021”",
+					"pt-BR": "Spray Centelha VCT 2021",
+					"ru-RU": "Граффити \"Эмблема VCT 2021\"",
+					"th-TH": "สเปรย์ VCT 2021 Spark",
+					"tr-TR": "VCT 2021 Kıvılcım Spreyi",
+					"vi-VN": "Hình Phun Sơn Tia Lửa VCT 2021",
+					"zh-CN": "VCT 2021 Spark Spray",
+					"zh-TW": "2021 VCT 熱情如火 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "65A0E616-4169-1187-8DAA-D696777CBA48",
 					"label": "65A0E616-4169-1187-8DAA-D696777CBA48",
 					"name":
@@ -92342,6 +94878,66 @@
 		{
 			"levels": [
 				{
+					"id": "DDB5C1EE-4D61-E9DD-83A5-62A25A3E2468",
+					"label": "DDB5C1EE-4D61-E9DD-83A5-62A25A3E2468",
+					"name":
+					{
+						"defaultText": "MagepunkFairPoster",
+						"localizedByCulture":
+						{
+							"ar-AE": "MagepunkFairPoster",
+							"de-DE": "MagepunkFairPoster",
+							"en-US": "MagepunkFairPoster",
+							"es-ES": "MagepunkFairPoster",
+							"es-MX": "MagepunkFairPoster",
+							"fr-FR": "MagepunkFairPoster",
+							"id-ID": "MagepunkFairPoster",
+							"it-IT": "MagepunkFairPoster",
+							"ja-JP": "MagepunkFairPoster",
+							"ko-KR": "MagepunkFairPoster",
+							"pl-PL": "MagepunkFairPoster",
+							"pt-BR": "MagepunkFairPoster",
+							"ru-RU": "MagepunkFairPoster",
+							"th-TH": "MagepunkFairPoster",
+							"tr-TR": "MagepunkFairPoster",
+							"vi-VN": "MagepunkFairPoster",
+							"zh-CN": "MagepunkFairPoster",
+							"zh-TW": "MagepunkFairPoster"
+						}
+					}
+				}
+			],
+			"id": "562A64D8-483C-5853-4E7A-EEA5CA95E3CE",
+			"label": "562A64D8-483C-5853-4E7A-EEA5CA95E3CE",
+			"name":
+			{
+				"defaultText": "Magepunk, Ep 3 Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة ميج بانك، الحلقة 3",
+					"de-DE": "Graffiti „Magepunk Ep 3“",
+					"en-US": "Magepunk, Ep 3 Spray",
+					"es-ES": "Grafiti del EP. 3, Magepunk",
+					"es-MX": "Spray Magepunk, Ep 3",
+					"fr-FR": "Graffiti Magepunk, Ép. 3",
+					"id-ID": "Spray Magepunk, Ep 3",
+					"it-IT": "Spray Magepunk Ep 3",
+					"ja-JP": "メイジパンク EP 3 スプレー",
+					"ko-KR": "메이지펑크 에피소드 3 스프레이",
+					"pl-PL": "Graffiti „Magepunk, odc. 3”",
+					"pt-BR": "Spray Magipunk – EP 3",
+					"ru-RU": "Граффити \"Чаропанк, эпизод 3\"",
+					"th-TH": "สเปรย์ Magepunk จากบทที่ 3",
+					"tr-TR": "03. Bölüm Sihirpunk Spreyi",
+					"vi-VN": "Hình Phun Sơn Magepunk, Hồi 3",
+					"zh-CN": "Magepunk, Ep 3 Spray",
+					"zh-TW": "奇幻龐克 第三幕 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "A155E9BA-41FA-A677-2E03-58B333ED7013",
 					"label": "A155E9BA-41FA-A677-2E03-58B333ED7013",
 					"name":
@@ -92379,7 +94975,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "رسمة عروقي الملتهبة",
-					"de-DE": "Graffiti „Flammen in meinen Adern“",
+					"de-DE": "Graffiti „Kochendes Blut“",
 					"en-US": "Flames in my Veins Spray",
 					"es-ES": "Grafiti Fuego en las venas",
 					"es-MX": "Spray Fuego en las venas",
