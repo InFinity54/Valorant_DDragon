@@ -1,5 +1,5 @@
 {
-	"version": "03.10.00.635534",
+	"version": "03.12.00.646481",
 	"characters": [
 		{
 			"description":
@@ -623,7 +623,7 @@
 							"ru-RU": "Рандеву",
 							"th-TH": "Rendezvous",
 							"tr-TR": "Buluşma",
-							"vi-VN": "Điểm Hẹn",
+							"vi-VN": "Điểm dịch chuyển",
 							"zh-CN": "Rendezvous",
 							"zh-TW": "法式轉移"
 						}
@@ -662,14 +662,14 @@
 						"defaultText": "Trademark",
 						"localizedByCulture":
 						{
-							"ar-AE": "العلامة التجارية",
+							"ar-AE": "السمة المميزة",
 							"de-DE": "Markenzeichen",
 							"en-US": "Trademark",
 							"es-ES": "Marca registrada",
 							"es-MX": "Marca Registrada",
-							"fr-FR": "Marque déposée",
+							"fr-FR": "Guet-apens",
 							"id-ID": "Trademark",
-							"it-IT": "Marchio di fabbrica",
+							"it-IT": "Marchio",
 							"ja-JP": "トレードマーク",
 							"ko-KR": "트레이드마크",
 							"pl-PL": "Znak rozpoznawczy",
@@ -677,9 +677,9 @@
 							"ru-RU": "Коронный прием",
 							"th-TH": "Trademark",
 							"tr-TR": "Kartvizit",
-							"vi-VN": "Thương Hiệu",
+							"vi-VN": "Điểm Đánh Dấu",
 							"zh-CN": "Trademark",
-							"zh-TW": "慢行商標"
+							"zh-TW": "慢行特區"
 						}
 					}
 				},
@@ -754,7 +754,7 @@
 							"it-IT": "ATTIVA per imbracciare un potente fucile di precisione personalizzato che uccide un nemico se lo colpisce direttamente. Uccidere un nemico crea un campo persistente che rallenta i giocatori al suo interno.",
 							"ja-JP": "「発動」でカスタムスナイパーライフルを喚び出す。このライフルの弾丸は、直撃した相手を一撃でキルする。敵をキルすると遅延フィールドが発生し、範囲内にいるプレイヤーの動きを遅くする。",
 							"ko-KR": "활성화하면 어떤 직격탄으로든 적을 처치할 수 있는 강력한 커스텀 저격총을 소환합니다. 적을 처치하면 일정 시간 유지되는 둔화 영역을 생성하여 영역에 있는 플레이어의 속도를 늦춥니다.",
-							"pl-PL": "AKTYWUJ, by przywołać śmiercionośny, niestandardowy karabin snajperski, który zabije wroga każdym bezpośrednim trafieniem.  Zabicie wroga tworzy tymczasowe pole spowalniające graczy w obszarze jego działania.",
+							"pl-PL": "AKTYWUJ, by przywołać śmiercionośny, niestandardowy karabin snajperski, który zabije wroga każdym bezpośrednim trafieniem. Zabicie wroga tworzy tymczasowe pole spowalniające graczy w obszarze jego działania.",
 							"pt-BR": "ATIVE para invocar um poderoso fuzil de precisão personalizado que abate um inimigo com qualquer acerto. Abater um inimigo cria um campo duradouro que reduz a velocidade dos jogadores.",
 							"ru-RU": "Нажмите кнопку умения, чтобы выбрать особо мощную снайперскую винтовку, из которой можно убить врага любым прямым попаданием.  На месте гибели противника возникает поле, замедляющее игроков в его пределах.",
 							"th-TH": "กดใช้เพื่อเรียกใช้ปืนสไนเปอร์เฉพาะตัวแรงสูงซึ่งจะสังหารศัตรูโดยทันทีหากถูกยิงโดยตรง  การสังหารศัตรูจะสร้างพื้นที่ที่จะสโลว์ผู้เล่นที่อยู่ในนั้นตรงจุดที่ศัตรูถูกสังหาร",
@@ -813,7 +813,7 @@
 					"pt-BR": "Chamber",
 					"ru-RU": "Chamber",
 					"th-TH": "Chamber",
-					"tr-TR": "Chamber",
+					"tr-TR": "CHAMBER",
 					"vi-VN": "Chamber",
 					"zh-CN": "Chamber",
 					"zh-TW": "錢博爾"
@@ -3976,7 +3976,7 @@
 							"pl-PL": "WYPOSAŻ, by wykorzystać uprząż wymiarową. STRZEL, aby wypuścić uprząż przed siebie. ALT. STRZAŁ mocuje uprząż w miejscu. AKTYWUJ ją, by teleportować się w dane miejsce.",
 							"pt-BR": "EQUIPE para preparar um fluxo dimensional. DISPARE para lançar uma extremidade. Use o MODO SECUNDÁRIO para posicionar a outra. ATIVE para se teleportar até a extremidade lançada.",
 							"ru-RU": "Нажмите кнопку умения, чтобы привязать нить портала к Yoru. Нажмите кнопку ОГОНЬ, чтобы послать портал вперед. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы бросить портал рядом с Yoru. Нажмите кнопку умения, чтобы телепортироваться по нити.",
-							"th-TH": "ติดตั้งเพื่อควบคุมการเชื่อมโยงของมิติ ยิงเพื่อปล่อยจุดเชื่อมมิติไปข้างหน้า กดโหมดยิงเสริมเพื่อวางจุเชื่อมมิติลง กดใช้เพื่อเคลื่อนย้ายไปยังจุดเชื่อมมิติ",
+							"th-TH": "ติดตั้งเพื่อควบคุมการเชื่อมโยงของมิติ ยิงเพื่อปล่อยจุดเชื่อมมิติไปข้างหน้า กดโหมดยิงเสริมเพื่อวางจุดเชื่อมมิติลง กดใช้เพื่อเคลื่อนย้ายไปยังจุดเชื่อมมิติ",
 							"tr-TR": "Bir boyut geçidi küresi KUŞAN. Küreyi ilerletmek için ATEŞ ET. Küreyi yerleştirmek için ALT. ATIŞ'a bas. Kürenin bulunduğu konuma ışınlanmak için küreyi ETKİNLEŞTİR.",
 							"vi-VN": "NHẤP TRANG BỊ để khai thác sức mạnh của kết nối không gian, NHẤP BẮN để giải phóng kết nối ra phía trước, NHẤP CHẾ ĐỘ PHỤ để đặt kết nối vào vị trí, NHẤP KÍCH HOẠT để dịch chuyển tức thời tới vị trí kết nối.",
 							"zh-CN": "装备后可套上一根裂隙系绳。按下射击即可扔出系绳，向前移动。按下次射击即可将系绳固定在某位置，并在按下激活时，将自己传送到系绳的位置。",
@@ -5412,7 +5412,7 @@
 					"ar-AE": "نواة كاي/أو",
 					"de-DE": "KAY/O-Kern",
 					"en-US": "KAY/O Core",
-					"es-ES": "KAY/O principal",
+					"es-ES": "KAY/O núcleo",
 					"es-MX": "Núcleo de KAY/O",
 					"fr-FR": "Noyau de KAY/O",
 					"id-ID": "Inti KAY/O",
@@ -11317,6 +11317,99 @@
 		},
 		{
 			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
+			"defaultChromaId": "84410F60-427F-BDBF-713F-15A115D97A44",
+			"chromas": [
+				{
+					"id": "84410F60-427F-BDBF-713F-15A115D97A44",
+					"label": "84410F60-427F-BDBF-713F-15A115D97A44",
+					"name":
+					{
+						"defaultText": "Standard",
+						"localizedByCulture":
+						{
+							"ar-AE": "Standard",
+							"de-DE": "Standard",
+							"en-US": "Standard",
+							"es-ES": "Standard",
+							"es-MX": "Standard",
+							"fr-FR": "Standard",
+							"id-ID": "Standard",
+							"it-IT": "Standard",
+							"ja-JP": "Standard",
+							"ko-KR": "Standard",
+							"pl-PL": "Standard",
+							"pt-BR": "Standard",
+							"ru-RU": "Standard",
+							"th-TH": "Standard",
+							"tr-TR": "Standard",
+							"vi-VN": "Standard",
+							"zh-CN": "Standard",
+							"zh-TW": "Standard"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "F8295D0B-4378-F4FF-342D-178F6D86AC88",
+					"label": "F8295D0B-4378-F4FF-342D-178F6D86AC88",
+					"name":
+					{
+						"defaultText": "Snowfall Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "سنوفول آريز",
+							"de-DE": "Ares – Schneefall",
+							"en-US": "Snowfall Ares",
+							"es-ES": "Ares Snowfall",
+							"es-MX": "Ares Nevada",
+							"fr-FR": "Ares (Chute de neige)",
+							"id-ID": "Snowfall Ares",
+							"it-IT": "Ares Nevicata",
+							"ja-JP": "スノーフォール アレス",
+							"ko-KR": "스노우폴 아레스",
+							"pl-PL": "Ares Śnieżny",
+							"pt-BR": "Ares Nevada",
+							"ru-RU": "Ares \"Снегопад\"",
+							"th-TH": "Snowfall Ares",
+							"tr-TR": "Kar Diyarı Ares",
+							"vi-VN": "Ares Tuyết Rơi",
+							"zh-CN": "Snowfall Ares",
+							"zh-TW": "魔幻冬雪 戰神"
+						}
+					}
+				}
+			],
+			"id": "43538E40-48BF-0262-D4A7-BBBA3C56DF77",
+			"label": "43538E40-48BF-0262-D4A7-BBBA3C56DF77",
+			"name":
+			{
+				"defaultText": "Snowfall Ares",
+				"localizedByCulture":
+				{
+					"ar-AE": "سنوفول آريز",
+					"de-DE": "Ares – Schneefall",
+					"en-US": "Snowfall Ares",
+					"es-ES": "Ares Snowfall",
+					"es-MX": "Ares Nevada",
+					"fr-FR": "Ares (Chute de neige)",
+					"id-ID": "Snowfall Ares",
+					"it-IT": "Ares Nevicata",
+					"ja-JP": "スノーフォール アレス",
+					"ko-KR": "스노우폴 아레스",
+					"pl-PL": "Ares Śnieżny",
+					"pt-BR": "Ares Nevada",
+					"ru-RU": "Ares \"Снегопад\"",
+					"th-TH": "Snowfall Ares",
+					"tr-TR": "Kar Diyarı Ares",
+					"vi-VN": "Ares Tuyết Rơi",
+					"zh-CN": "Snowfall Ares",
+					"zh-TW": "魔幻冬雪 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
 			"defaultChromaId": "53ABC8AF-4233-F1FE-7653-6BA26F9EAEFA",
 			"chromas": [
 				{
@@ -12154,6 +12247,186 @@
 					"vi-VN": "Vandal Quý Tộc",
 					"zh-CN": "贵族狂徒",
 					"zh-TW": "貴族 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "140A48AD-4DAF-A6F8-027C-A5B890EAC738",
+			"chromas": [
+				{
+					"id": "140A48AD-4DAF-A6F8-027C-A5B890EAC738",
+					"label": "140A48AD-4DAF-A6F8-027C-A5B890EAC738",
+					"name":
+					{
+						"defaultText": "Champions 2021 Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "Champions 2021 فاندال",
+							"de-DE": "Vandal – Champions 2021",
+							"en-US": "Champions 2021 Vandal",
+							"es-ES": "Vandal Champions 2021",
+							"es-MX": "Vandal Champions 2021",
+							"fr-FR": "Vandal (Champions 2021)",
+							"id-ID": "Champions 2021 Vandal",
+							"it-IT": "Vandal Champions 2021",
+							"ja-JP": "Champions 2021 ヴァンダル",
+							"ko-KR": "2021 챔피언스 밴달",
+							"pl-PL": "Vandal Champions 2021",
+							"pt-BR": "Vandal Champions 2021",
+							"ru-RU": "Vandal \"Champions 2021\"",
+							"th-TH": "Champions 2021 Vandal",
+							"tr-TR": "Champions 2021 Vandal",
+							"vi-VN": "Vandal Champions 2021",
+							"zh-CN": "Champions 2021 Vandal",
+							"zh-TW": "2021冠軍賽 暴徒"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "9F51DA57-4623-415A-6313-F49588297D0E",
+					"label": "9F51DA57-4623-415A-6313-F49588297D0E",
+					"name":
+					{
+						"defaultText": "Champions 2021 Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "Champions 2021 فاندال",
+							"de-DE": "Vandal – Champions 2021",
+							"en-US": "Champions 2021 Vandal",
+							"es-ES": "Vandal Champions 2021",
+							"es-MX": "Vandal Champions 2021",
+							"fr-FR": "Vandal (Champions 2021)",
+							"id-ID": "Champions 2021 Vandal",
+							"it-IT": "Vandal Champions 2021",
+							"ja-JP": "Champions 2021 ヴァンダル",
+							"ko-KR": "2021 챔피언스 밴달",
+							"pl-PL": "Vandal Champions 2021",
+							"pt-BR": "Vandal Champions 2021",
+							"ru-RU": "Vandal \"Champions 2021\"",
+							"th-TH": "Champions 2021 Vandal",
+							"tr-TR": "Champions 2021 Vandal",
+							"vi-VN": "Vandal Champions 2021",
+							"zh-CN": "Champions 2021 Vandal",
+							"zh-TW": "2021冠軍賽 暴徒"
+						}
+					}
+				},
+				{
+					"id": "F96ED262-4280-2363-2542-38B5620BFBB5",
+					"label": "F96ED262-4280-2363-2542-38B5620BFBB5",
+					"name":
+					{
+						"defaultText": "Champions 2021 Vandal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "فاندال المستوى 2 Champions 2021",
+							"de-DE": "Vandal – Champions 2021 Level 2",
+							"en-US": "Champions 2021 Vandal Level 2",
+							"es-ES": "Vandal Champions 2021 de nivel 2",
+							"es-MX": "Vandal Champions 2021 nivel 2",
+							"fr-FR": "Vandal (Champions 2021) niveau 2",
+							"id-ID": "Champions 2021 Vandal Level 2",
+							"it-IT": "Vandal Champions 2021 livello 2",
+							"ja-JP": "Champions 2021 ヴァンダル Lv.2",
+							"ko-KR": "2021 챔피언스 밴달 2레벨",
+							"pl-PL": "Vandal Champions 2021 (poziom 2)",
+							"pt-BR": "Vandal Champions 2021 Nível 2",
+							"ru-RU": "Vandal \"Champions 2021\" уровень 2",
+							"th-TH": "Champions 2021 Vandal เลเวล 2",
+							"tr-TR": "2. Seviye Champions 2021 Vandal",
+							"vi-VN": "Vandal Champions 2021 Cấp 2",
+							"zh-CN": "Champions 2021 Vandal Level 2",
+							"zh-TW": "2021冠軍賽 暴徒 等級2"
+						}
+					}
+				},
+				{
+					"id": "78C44470-4DD0-EB4C-72F6-86961BE3D856",
+					"label": "78C44470-4DD0-EB4C-72F6-86961BE3D856",
+					"name":
+					{
+						"defaultText": "Champions 2021 Vandal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "فاندال المستوى 3 Champions 2021",
+							"de-DE": "Vandal – Champions 2021 Level 3",
+							"en-US": "Champions 2021 Vandal Level 3",
+							"es-ES": "Vandal Champions 2021 de nivel 3",
+							"es-MX": "Vandal Champions 2021 nivel 3",
+							"fr-FR": "Vandal (Champions 2021) niveau 3",
+							"id-ID": "Champions 2021 Vandal Level 3",
+							"it-IT": "Vandal Champions 2021 livello 3",
+							"ja-JP": "Champions 2021 ヴァンダル Lv.3",
+							"ko-KR": "2021 챔피언스 밴달 3레벨",
+							"pl-PL": "Vandal Champions 2021 (poziom 3)",
+							"pt-BR": "Vandal Champions 2021 Nível 3",
+							"ru-RU": "Vandal \"Champions 2021\" уровень 3",
+							"th-TH": "Champions 2021 Vandal เลเวล 3",
+							"tr-TR": "3. Seviye Champions 2021 Vandal",
+							"vi-VN": "Vandal Champions 2021 Cấp 3",
+							"zh-CN": "Champions 2021 Vandal Level 3",
+							"zh-TW": "2021冠軍賽 暴徒 等級3"
+						}
+					}
+				},
+				{
+					"id": "4C8A49BD-4118-9523-6612-4A924651B4A9",
+					"label": "4C8A49BD-4118-9523-6612-4A924651B4A9",
+					"name":
+					{
+						"defaultText": "Champions 2021 Vandal Level 4 - Aura is active only when player has the most kills in the game",
+						"localizedByCulture":
+						{
+							"ar-AE": "فاندال المستوى 4 Champions 2021 - يتم تفعيل الهالة فقط عند إحراز اللاعب لأكبر عدد من عمليات القتل في المباراة",
+							"de-DE": "Vandal – Champions 2021 Level 4: Die Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
+							"en-US": "Champions 2021 Vandal Level 4 - Aura is active only when player has the most kills in the game",
+							"es-ES": "Vandal Champions 2021 de nivel 4: el aura solo se activa cuando el jugador tiene el mayor número de asesinatos de la partida.",
+							"es-MX": "Vandal Champions 2021 nivel 4. El aura solo se activa cuando el jugador tiene el mayor número de asesinatos en la partida.",
+							"fr-FR": "Vandal (Champions 2021) niveau 4 - L'aura n'est active que lorsque le joueur est celui qui a fait le plus de victimes dans la partie.",
+							"id-ID": "Champions 2021 Vandal Level 4 - Aura aktif hanya saat pemain memiliki kill terbanyak di game",
+							"it-IT": "Vandal Champions 2021 livello 4 - L'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
+							"ja-JP": "Champions 2021 ヴァンダル Lv.4 - オーラは試合中に最多キルを獲得している間のみ発動",
+							"ko-KR": "2021 챔피언스 밴달 4레벨 - 오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"pl-PL": "Vandal Champions 2021 (poziom 4) – Aura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze.",
+							"pt-BR": "Vandal Champions 2021 Nível 4 – Aura ativada apenas quando a pessoa tem a maior quantidade de abates da partida",
+							"ru-RU": "Vandal \"Champions 2021\" уровень 4 – аура активна, когда у игрока больше всего убийств в матче",
+							"th-TH": "Champions 2021 Vandal เลเวล 4 - ออร่าจะทำงานเมื่อผู้เล่นทำการสังหารได้มากที่สุดในเกมเท่านั้น",
+							"tr-TR": "4. Seviye Champions 2021 Vandal - Oyuncu oyundaki en fazla skoru aldığında silahın haresi açılır.",
+							"vi-VN": "Vandal Champions 2021 Cấp 4 - Hào quang chỉ kích hoạt khi người chơi đạt nhiều mạng hạ gục nhất trong trận đấu",
+							"zh-CN": "Champions 2021 Vandal Level 4 - Aura is active only when player has the most kills in the game",
+							"zh-TW": "2021冠軍賽 暴徒 等級4（在對戰中取得最多擊殺時才會顯示光環）"
+						}
+					}
+				}
+			],
+			"id": "9BF19B77-4B33-7203-9F2C-16932970622F",
+			"label": "9BF19B77-4B33-7203-9F2C-16932970622F",
+			"name":
+			{
+				"defaultText": "Champions 2021 Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "Champions 2021 فاندال",
+					"de-DE": "Vandal – Champions 2021",
+					"en-US": "Champions 2021 Vandal",
+					"es-ES": "Vandal Champions 2021",
+					"es-MX": "Vandal Champions 2021",
+					"fr-FR": "Vandal (Champions 2021)",
+					"id-ID": "Champions 2021 Vandal",
+					"it-IT": "Vandal Champions 2021",
+					"ja-JP": "Champions 2021 ヴァンダル",
+					"ko-KR": "2021 챔피언스 밴달",
+					"pl-PL": "Vandal Champions 2021",
+					"pt-BR": "Vandal Champions 2021",
+					"ru-RU": "Vandal \"Champions 2021\"",
+					"th-TH": "Champions 2021 Vandal",
+					"tr-TR": "Champions 2021 Vandal",
+					"vi-VN": "Vandal Champions 2021",
+					"zh-CN": "Champions 2021 Vandal",
+					"zh-TW": "2021冠軍賽 暴徒"
 				}
 			}
 		},
@@ -21632,6 +21905,99 @@
 		},
 		{
 			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "2E170EA2-434D-5A0F-DC28-3AADA990A266",
+			"chromas": [
+				{
+					"id": "2E170EA2-434D-5A0F-DC28-3AADA990A266",
+					"label": "2E170EA2-434D-5A0F-DC28-3AADA990A266",
+					"name":
+					{
+						"defaultText": "Standard",
+						"localizedByCulture":
+						{
+							"ar-AE": "Standard",
+							"de-DE": "Standard",
+							"en-US": "Standard",
+							"es-ES": "Standard",
+							"es-MX": "Standard",
+							"fr-FR": "Standard",
+							"id-ID": "Standard",
+							"it-IT": "Standard",
+							"ja-JP": "Standard",
+							"ko-KR": "Standard",
+							"pl-PL": "Standard",
+							"pt-BR": "Standard",
+							"ru-RU": "Standard",
+							"th-TH": "Standard",
+							"tr-TR": "Standard",
+							"vi-VN": "Standard",
+							"zh-CN": "Standard",
+							"zh-TW": "Standard"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "00EB5B5B-4697-44B5-A926-7E86B730E812",
+					"label": "00EB5B5B-4697-44B5-A926-7E86B730E812",
+					"name":
+					{
+						"defaultText": "Snowfall Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "سنوفول فانتوم",
+							"de-DE": "Phantom – Schneefall",
+							"en-US": "Snowfall Phantom",
+							"es-ES": "Phantom Snowfall",
+							"es-MX": "Phantom Nevada",
+							"fr-FR": "Phantom (Chute de neige)",
+							"id-ID": "Snowfall Phantom",
+							"it-IT": "Phantom Nevicata",
+							"ja-JP": "スノーフォール ファントム",
+							"ko-KR": "스노우폴 팬텀",
+							"pl-PL": "Phantom Śnieżny",
+							"pt-BR": "Phantom Nevada",
+							"ru-RU": "Phantom \"Снегопад\"",
+							"th-TH": "Snowfall Phantom",
+							"tr-TR": "Kar Diyarı Phantom",
+							"vi-VN": "Phantom Tuyết Rơi",
+							"zh-CN": "Snowfall Phantom",
+							"zh-TW": "魔幻冬雪 幻象"
+						}
+					}
+				}
+			],
+			"id": "A74F77FD-4E69-F16E-B1EB-CEB5198F423D",
+			"label": "A74F77FD-4E69-F16E-B1EB-CEB5198F423D",
+			"name":
+			{
+				"defaultText": "Snowfall Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "سنوفول فانتوم",
+					"de-DE": "Phantom – Schneefall",
+					"en-US": "Snowfall Phantom",
+					"es-ES": "Phantom Snowfall",
+					"es-MX": "Phantom Nevada",
+					"fr-FR": "Phantom (Chute de neige)",
+					"id-ID": "Snowfall Phantom",
+					"it-IT": "Phantom Nevicata",
+					"ja-JP": "スノーフォール ファントム",
+					"ko-KR": "스노우폴 팬텀",
+					"pl-PL": "Phantom Śnieżny",
+					"pt-BR": "Phantom Nevada",
+					"ru-RU": "Phantom \"Снегопад\"",
+					"th-TH": "Snowfall Phantom",
+					"tr-TR": "Kar Diyarı Phantom",
+					"vi-VN": "Phantom Tuyết Rơi",
+					"zh-CN": "Snowfall Phantom",
+					"zh-TW": "魔幻冬雪 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
 			"defaultChromaId": "273EDF84-45CF-0266-21D8-A4969BD31B6D",
 			"chromas": [
 				{
@@ -24351,6 +24717,99 @@
 					"vi-VN": "Judge Xúc Cảm",
 					"zh-CN": "澎湃审判",
 					"zh-TW": "漆彩轟擊 判官"
+				}
+			}
+		},
+		{
+			"weaponId": "EC845BF4-4F79-DDDA-A3DA-0DB3774B2794",
+			"defaultChromaId": "2951094D-4204-5DBA-9F70-04B514970532",
+			"chromas": [
+				{
+					"id": "2951094D-4204-5DBA-9F70-04B514970532",
+					"label": "2951094D-4204-5DBA-9F70-04B514970532",
+					"name":
+					{
+						"defaultText": "Standard",
+						"localizedByCulture":
+						{
+							"ar-AE": "Standard",
+							"de-DE": "Standard",
+							"en-US": "Standard",
+							"es-ES": "Standard",
+							"es-MX": "Standard",
+							"fr-FR": "Standard",
+							"id-ID": "Standard",
+							"it-IT": "Standard",
+							"ja-JP": "Standard",
+							"ko-KR": "Standard",
+							"pl-PL": "Standard",
+							"pt-BR": "Standard",
+							"ru-RU": "Standard",
+							"th-TH": "Standard",
+							"tr-TR": "Standard",
+							"vi-VN": "Standard",
+							"zh-CN": "Standard",
+							"zh-TW": "Standard"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "E1B5CDCA-4DF5-5C4E-F34A-3CBDD3FD8735",
+					"label": "E1B5CDCA-4DF5-5C4E-F34A-3CBDD3FD8735",
+					"name":
+					{
+						"defaultText": "Snowfall Judge",
+						"localizedByCulture":
+						{
+							"ar-AE": "سنوفول جادج",
+							"de-DE": "Judge – Schneefall",
+							"en-US": "Snowfall Judge",
+							"es-ES": "Judge Snowfall",
+							"es-MX": "Judge Nevada",
+							"fr-FR": "Judge (Chute de neige)",
+							"id-ID": "Snowfall Judge",
+							"it-IT": "Judge Nevicata",
+							"ja-JP": "スノーフォール ジャッジ",
+							"ko-KR": "스노우폴 저지",
+							"pl-PL": "Judge Śnieżny",
+							"pt-BR": "Judge Nevada",
+							"ru-RU": "Judge \"Снегопад\"",
+							"th-TH": "Snowfall Judge",
+							"tr-TR": "Kar Diyarı Judge",
+							"vi-VN": "Judge Tuyết Rơi",
+							"zh-CN": "Snowfall Judge",
+							"zh-TW": "魔幻冬雪 判官"
+						}
+					}
+				}
+			],
+			"id": "A07941D7-42DC-5083-97A1-AF850CA6FA26",
+			"label": "A07941D7-42DC-5083-97A1-AF850CA6FA26",
+			"name":
+			{
+				"defaultText": "Snowfall Judge",
+				"localizedByCulture":
+				{
+					"ar-AE": "سنوفول جادج",
+					"de-DE": "Judge – Schneefall",
+					"en-US": "Snowfall Judge",
+					"es-ES": "Judge Snowfall",
+					"es-MX": "Judge Nevada",
+					"fr-FR": "Judge (Chute de neige)",
+					"id-ID": "Snowfall Judge",
+					"it-IT": "Judge Nevicata",
+					"ja-JP": "スノーフォール ジャッジ",
+					"ko-KR": "스노우폴 저지",
+					"pl-PL": "Judge Śnieżny",
+					"pt-BR": "Judge Nevada",
+					"ru-RU": "Judge \"Снегопад\"",
+					"th-TH": "Snowfall Judge",
+					"tr-TR": "Kar Diyarı Judge",
+					"vi-VN": "Judge Tuyết Rơi",
+					"zh-CN": "Snowfall Judge",
+					"zh-TW": "魔幻冬雪 判官"
 				}
 			}
 		},
@@ -33806,6 +34265,99 @@
 					"vi-VN": "Classic Anh Đào",
 					"zh-CN": "樱花经典",
 					"zh-TW": "櫻花 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "5BF9CF8C-40B7-26D1-A96D-04858DCF7972",
+			"chromas": [
+				{
+					"id": "5BF9CF8C-40B7-26D1-A96D-04858DCF7972",
+					"label": "5BF9CF8C-40B7-26D1-A96D-04858DCF7972",
+					"name":
+					{
+						"defaultText": "Standard",
+						"localizedByCulture":
+						{
+							"ar-AE": "Standard",
+							"de-DE": "Standard",
+							"en-US": "Standard",
+							"es-ES": "Standard",
+							"es-MX": "Standard",
+							"fr-FR": "Standard",
+							"id-ID": "Standard",
+							"it-IT": "Standard",
+							"ja-JP": "Standard",
+							"ko-KR": "Standard",
+							"pl-PL": "Standard",
+							"pt-BR": "Standard",
+							"ru-RU": "Standard",
+							"th-TH": "Standard",
+							"tr-TR": "Standard",
+							"vi-VN": "Standard",
+							"zh-CN": "Standard",
+							"zh-TW": "Standard"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "F2A7150B-4894-0DC8-53B3-BF9A30FA4EA4",
+					"label": "F2A7150B-4894-0DC8-53B3-BF9A30FA4EA4",
+					"name":
+					{
+						"defaultText": "Snowfall Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "سنوفول كلاسيك",
+							"de-DE": "Classic – Schneefall",
+							"en-US": "Snowfall Classic",
+							"es-ES": "Classic Snowfall",
+							"es-MX": "Classic Nevada",
+							"fr-FR": "Classic (Chute de neige)",
+							"id-ID": "Snowfall Classic",
+							"it-IT": "Classic Nevicata",
+							"ja-JP": "スノーフォール クラシック",
+							"ko-KR": "스노우폴 클래식",
+							"pl-PL": "Classic Śnieżny",
+							"pt-BR": "Classic Nevada",
+							"ru-RU": "Classic \"Снегопад\"",
+							"th-TH": "Snowfall Classic",
+							"tr-TR": "Kar Diyarı Classic",
+							"vi-VN": "Classic Tuyết Rơi",
+							"zh-CN": "Snowfall Classic",
+							"zh-TW": "魔幻冬雪 制式手槍"
+						}
+					}
+				}
+			],
+			"id": "464887BE-4A07-690E-2D02-E187C8BBE8D5",
+			"label": "464887BE-4A07-690E-2D02-E187C8BBE8D5",
+			"name":
+			{
+				"defaultText": "Snowfall Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "سنوفول كلاسيك",
+					"de-DE": "Classic – Schneefall",
+					"en-US": "Snowfall Classic",
+					"es-ES": "Classic Snowfall",
+					"es-MX": "Classic Nevada",
+					"fr-FR": "Classic (Chute de neige)",
+					"id-ID": "Snowfall Classic",
+					"it-IT": "Classic Nevicata",
+					"ja-JP": "スノーフォール クラシック",
+					"ko-KR": "스노우폴 클래식",
+					"pl-PL": "Classic Śnieżny",
+					"pt-BR": "Classic Nevada",
+					"ru-RU": "Classic \"Снегопад\"",
+					"th-TH": "Snowfall Classic",
+					"tr-TR": "Kar Diyarı Classic",
+					"vi-VN": "Classic Tuyết Rơi",
+					"zh-CN": "Snowfall Classic",
+					"zh-TW": "魔幻冬雪 制式手槍"
 				}
 			}
 		},
@@ -57967,6 +58519,157 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "62926DFC-4FFB-C65E-DD4B-8B96B6DEEE77",
+			"chromas": [
+				{
+					"id": "62926DFC-4FFB-C65E-DD4B-8B96B6DEEE77",
+					"label": "62926DFC-4FFB-C65E-DD4B-8B96B6DEEE77",
+					"name":
+					{
+						"defaultText": "Champions 2021 Karambit",
+						"localizedByCulture":
+						{
+							"ar-AE": "Champions 2021 خنجر معقوف",
+							"de-DE": "Karambit – Champions 2021",
+							"en-US": "Champions 2021 Karambit",
+							"es-ES": "Karambit Champions 2021",
+							"es-MX": "Karambit Champions 2021",
+							"fr-FR": "Karambit (Champions 2021)",
+							"id-ID": "Champions 2021 Karambit",
+							"it-IT": "Karambit Champions 2021",
+							"ja-JP": "Champions 2021 カラムビット",
+							"ko-KR": "2021 챔피언스 카람빗",
+							"pl-PL": "Karambit Champions 2021",
+							"pt-BR": "Karambit Champions 2021",
+							"ru-RU": "Керамбит \"Champions 2021\"",
+							"th-TH": "Champions 2021 Karambit",
+							"tr-TR": "Champions 2021 Karambit",
+							"vi-VN": "Dao Karambit Champions 2021",
+							"zh-CN": "Champions 2021 Karambit",
+							"zh-TW": "2021冠軍賽 爪刀"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "470E2855-4B86-F62D-258F-4588056A7B23",
+					"label": "470E2855-4B86-F62D-258F-4588056A7B23",
+					"name":
+					{
+						"defaultText": "Champions 2021 Karambit",
+						"localizedByCulture":
+						{
+							"ar-AE": "Champions 2021 خنجر معقوف",
+							"de-DE": "Karambit – Champions 2021",
+							"en-US": "Champions 2021 Karambit",
+							"es-ES": "Karambit Champions 2021",
+							"es-MX": "Karambit Champions 2021",
+							"fr-FR": "Karambit (Champions 2021)",
+							"id-ID": "Champions 2021 Karambit",
+							"it-IT": "Karambit Champions 2021",
+							"ja-JP": "Champions 2021 カラムビット",
+							"ko-KR": "2021 챔피언스 카람빗",
+							"pl-PL": "Karambit Champions 2021",
+							"pt-BR": "Karambit Champions 2021",
+							"ru-RU": "Керамбит \"Champions 2021\"",
+							"th-TH": "Champions 2021 Karambit",
+							"tr-TR": "Champions 2021 Karambit",
+							"vi-VN": "Dao Karambit Champions 2021",
+							"zh-CN": "Champions 2021 Karambit",
+							"zh-TW": "2021冠軍賽 爪刀"
+						}
+					}
+				},
+				{
+					"id": "5F991913-44C1-BA78-9547-5D8DE87F04C2",
+					"label": "5F991913-44C1-BA78-9547-5D8DE87F04C2",
+					"name":
+					{
+						"defaultText": "Champions 2021 Karambit Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "خنجر معقوف المستوى 2 Champions 2021",
+							"de-DE": "Karambit – Champions 2021 Level 2",
+							"en-US": "Champions 2021 Karambit Level 2",
+							"es-ES": "Karambit Champions 2021 de nivel 2",
+							"es-MX": "Karambit Champions 2021 nivel 2",
+							"fr-FR": "Karambit (Champions 2021) niveau 2",
+							"id-ID": "Champions 2021 Karambit Level 2",
+							"it-IT": "Karambit Champions 2021 livello 2",
+							"ja-JP": "Champions 2021 カラムビット Lv.2",
+							"ko-KR": "2021 챔피언스 카람빗 2레벨",
+							"pl-PL": "Karambit Champions 2021 (poziom 2)",
+							"pt-BR": "Karambit Champions 2021 Nível 2",
+							"ru-RU": "Керамбит \"Champions 2021\" уровень 2",
+							"th-TH": "Champions 2021 Karambit เลเวล 2",
+							"tr-TR": "2. Seviye Champions 2021 Karambit",
+							"vi-VN": "Dao Karambit Champions 2021 Cấp 2",
+							"zh-CN": "Champions 2021 Karambit Level 2",
+							"zh-TW": "2021冠軍賽 爪刀 等級2"
+						}
+					}
+				},
+				{
+					"id": "250FF684-42E9-108D-4722-A9A3AC8733E6",
+					"label": "250FF684-42E9-108D-4722-A9A3AC8733E6",
+					"name":
+					{
+						"defaultText": "Champions 2021 Karambit Level 3 - Aura is active only when player has the most kills in the game",
+						"localizedByCulture":
+						{
+							"ar-AE": "خنجر معقوف المستوى 3 Champions 2021 - يتم تفعيل الهالة فقط عند إحراز اللاعب لأكبر عدد من عمليات القتل في المباراة",
+							"de-DE": "Karambit – Champions 2021 Level 3: Die Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
+							"en-US": "Champions 2021 Karambit Level 3 - Aura is active only when player has the most kills in the game",
+							"es-ES": "Karambit Champions 2021 de nivel 3: el aura solo se activa cuando el jugador tiene el mayor número de asesinatos de la partida.",
+							"es-MX": "Karambit Champions 2021 nivel 3. El aura solo se activa cuando el jugador tiene el mayor número de asesinatos en la partida.",
+							"fr-FR": "Karambit (Champions 2021) niveau 3 - L'aura n'est active que lorsque le joueur est celui qui a fait le plus de victimes dans la partie.",
+							"id-ID": "Champions 2021 Karambit Level 3 - Aura aktif hanya saat pemain memiliki kill terbanyak di game",
+							"it-IT": "Karambit Champions 2021 livello 3 - L'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
+							"ja-JP": "Champions 2021 カラムビット Lv.3 - オーラは試合中に最多キルを獲得している間のみ発動",
+							"ko-KR": "2021 챔피언스 카람빗 3레벨 - 오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"pl-PL": "Karambit Champions 2021 (poziom 3) – Aura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze.",
+							"pt-BR": "Karambit Champions 2021 Nível 3 – Aura ativada apenas quando a pessoa tem a maior quantidade de abates da partida",
+							"ru-RU": "Керамбит \"Champions 2021\" уровень 3 – аура активна, когда у игрока больше всего убийств в матче",
+							"th-TH": "Champions 2021 Karambit เลเวล 3 - ออร่าจะทำงานเมื่อผู้เล่นทำการสังหารได้มากที่สุดในเกมเท่านั้น",
+							"tr-TR": "3. Seviye Champions 2021 Karambit - Oyuncu oyundaki en fazla skoru aldığında silahın haresi açılır.",
+							"vi-VN": "Dao Karambit Champions 2021 Cấp 3 - Hào quang chỉ kích hoạt khi người chơi đạt nhiều mạng hạ gục nhất trong trận đấu",
+							"zh-CN": "Champions 2021 Karambit Level 3 - Aura is active only when player has the most kills in the game",
+							"zh-TW": "2021冠軍賽 爪刀 等級3（在對戰中取得最多擊殺時才會顯示光環）"
+						}
+					}
+				}
+			],
+			"id": "1EA64C8D-43C4-FCE8-7354-01BDD6C0EE17",
+			"label": "1EA64C8D-43C4-FCE8-7354-01BDD6C0EE17",
+			"name":
+			{
+				"defaultText": "Champions 2021 Karambit",
+				"localizedByCulture":
+				{
+					"ar-AE": "Champions 2021 خنجر معقوف",
+					"de-DE": "Karambit – Champions 2021",
+					"en-US": "Champions 2021 Karambit",
+					"es-ES": "Karambit Champions 2021",
+					"es-MX": "Karambit Champions 2021",
+					"fr-FR": "Karambit (Champions 2021)",
+					"id-ID": "Champions 2021 Karambit",
+					"it-IT": "Karambit Champions 2021",
+					"ja-JP": "Champions 2021 カラムビット",
+					"ko-KR": "2021 챔피언스 카람빗",
+					"pl-PL": "Karambit Champions 2021",
+					"pt-BR": "Karambit Champions 2021",
+					"ru-RU": "Керамбит \"Champions 2021\"",
+					"th-TH": "Champions 2021 Karambit",
+					"tr-TR": "Champions 2021 Karambit",
+					"vi-VN": "Dao Karambit Champions 2021",
+					"zh-CN": "Champions 2021 Karambit",
+					"zh-TW": "2021冠軍賽 爪刀"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "3D37799A-4EC1-61C1-AC3A-8DB96119897E",
 			"chromas": [
 				{
@@ -61802,6 +62505,99 @@
 					"vi-VN": "Dùi Cui Siêu Phóng Xạ",
 					"zh-CN": "重力铀神经爆弹警棍",
 					"zh-TW": "重力鈾能神經爆破者 短棍"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "29DD7A19-4654-AF07-59BB-14B11DB66E1A",
+			"chromas": [
+				{
+					"id": "29DD7A19-4654-AF07-59BB-14B11DB66E1A",
+					"label": "29DD7A19-4654-AF07-59BB-14B11DB66E1A",
+					"name":
+					{
+						"defaultText": "Standard",
+						"localizedByCulture":
+						{
+							"ar-AE": "Standard",
+							"de-DE": "Standard",
+							"en-US": "Standard",
+							"es-ES": "Standard",
+							"es-MX": "Standard",
+							"fr-FR": "Standard",
+							"id-ID": "Standard",
+							"it-IT": "Standard",
+							"ja-JP": "Standard",
+							"ko-KR": "Standard",
+							"pl-PL": "Standard",
+							"pt-BR": "Standard",
+							"ru-RU": "Standard",
+							"th-TH": "Standard",
+							"tr-TR": "Standard",
+							"vi-VN": "Standard",
+							"zh-CN": "Standard",
+							"zh-TW": "Standard"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "155BA654-4AFA-1029-9E71-E0B6962D5410",
+					"label": "155BA654-4AFA-1029-9E71-E0B6962D5410",
+					"name":
+					{
+						"defaultText": "Snowfall Wand",
+						"localizedByCulture":
+						{
+							"ar-AE": "سنوفول صولجان",
+							"de-DE": "Zauberstab – Schneefall",
+							"en-US": "Snowfall Wand",
+							"es-ES": "Varita Snowfall",
+							"es-MX": "Varita Nevada",
+							"fr-FR": "Baguette (Chute de neige)",
+							"id-ID": "Snowfall Wand",
+							"it-IT": "Bacchetta Nevicata",
+							"ja-JP": "スノーフォール ワンド",
+							"ko-KR": "스노우폴 지팡이",
+							"pl-PL": "Różdżka Śnieżna",
+							"pt-BR": "Varinha Nevada",
+							"ru-RU": "Посох \"Снегопад\"",
+							"th-TH": "Snowfall Wand",
+							"tr-TR": "Kar Diyarı Asası",
+							"vi-VN": "Gậy Phép Tuyết Rơi",
+							"zh-CN": "Snowfall Wand",
+							"zh-TW": "魔幻冬雪 魔杖"
+						}
+					}
+				}
+			],
+			"id": "52A1647C-42D9-B40E-16CF-A7821566AD81",
+			"label": "52A1647C-42D9-B40E-16CF-A7821566AD81",
+			"name":
+			{
+				"defaultText": "Snowfall Wand",
+				"localizedByCulture":
+				{
+					"ar-AE": "سنوفول صولجان",
+					"de-DE": "Zauberstab – Schneefall",
+					"en-US": "Snowfall Wand",
+					"es-ES": "Varita Snowfall",
+					"es-MX": "Varita Nevada",
+					"fr-FR": "Baguette (Chute de neige)",
+					"id-ID": "Snowfall Wand",
+					"it-IT": "Bacchetta Nevicata",
+					"ja-JP": "スノーフォール ワンド",
+					"ko-KR": "스노우폴 지팡이",
+					"pl-PL": "Różdżka Śnieżna",
+					"pt-BR": "Varinha Nevada",
+					"ru-RU": "Посох \"Снегопад\"",
+					"th-TH": "Snowfall Wand",
+					"tr-TR": "Kar Diyarı Asası",
+					"vi-VN": "Gậy Phép Tuyết Rơi",
+					"zh-CN": "Snowfall Wand",
+					"zh-TW": "魔幻冬雪 魔杖"
 				}
 			}
 		},
@@ -68254,8 +69050,8 @@
 					"ar-AE": "بطاقة فن العظمة // الأبطال",
 					"de-DE": "Banner „Kunst der Großartigkeit // Champions“",
 					"en-US": "Art of Greatness // Champions Card",
-					"es-ES": "El arte de la grandeza // Tarjeta de campeones",
-					"es-MX": "Tarjeta Arte de la Grandeza // Campeones",
+					"es-ES": "El arte de la grandeza // Tarjeta Campeones",
+					"es-MX": "Tarjeta Arte de la Grandeza // Champions",
 					"fr-FR": "Carte L'art d'être exceptionnel // Champions",
 					"id-ID": "Kartu Art of Greatness // Champions",
 					"it-IT": "Carta L'arte della grandezza // Campioni",
@@ -68675,6 +69471,93 @@
 					"vi-VN": "Thẻ Sắc Màu Hân Hoan // Kem Tuyết",
 					"zh-CN": "自豪节：雪葩 卡牌",
 					"zh-TW": "平權之光 // 繽紛雪酪 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "99BDFB9B-4EE9-A057-5B62-B2AE6309ABF8",
+			"label": "99BDFB9B-4EE9-A057-5B62-B2AE6309ABF8",
+			"name":
+			{
+				"defaultText": "Art of Greatness // Unbreakable Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة فن العظمة // مضاد للكسر",
+					"de-DE": "Banner „Kunst der Großartigkeit // Unzerstörbar“",
+					"en-US": "Art of Greatness // Unbreakable Card",
+					"es-ES": "El arte de la grandeza // Tarjeta Inquebrantable",
+					"es-MX": "Tarjeta Arte de la Grandeza // Inquebrantable",
+					"fr-FR": "Carte L'art d'être exceptionnel // Incassable",
+					"id-ID": "Kartu Art of Greatness // Unbreakable",
+					"it-IT": "Carta L'arte della grandezza // Indistruttibile",
+					"ja-JP": "偉業の芸術 // 不屈 カード",
+					"ko-KR": "위대한 예술 // 불굴 카드",
+					"pl-PL": "Karta „Wirtuozeria wielkości // Niezniszczalny”",
+					"pt-BR": "Card A Arte da Excelência // Indestrutível",
+					"ru-RU": "Карточка \"Искусство побеждать // Несокрушимые\"",
+					"th-TH": "การ์ด Art of Greatness // Unbreakable",
+					"tr-TR": "Muhteşemliğin Sanatı // Yıkılmaz Kartı",
+					"vi-VN": "Thẻ Nơi Tinh Hoa Hội Tụ // Không Thể Cản Phá",
+					"zh-CN": "Art of Greatness // Unbreakable Card",
+					"zh-TW": "非凡之巔//不屈軍魂 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "C5E7988C-46EC-7742-F1BF-83BDC20B49D9",
+			"label": "C5E7988C-46EC-7742-F1BF-83BDC20B49D9",
+			"name":
+			{
+				"defaultText": "Art of Greatness // The Flame Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة فن العظمة // شعلة اللهب",
+					"de-DE": "Banner „Kunst der Großartigkeit // Die Flamme“",
+					"en-US": "Art of Greatness // The Flame Card",
+					"es-ES": "El arte de la grandeza // Tarjeta La llama",
+					"es-MX": "Tarjeta Arte de la Grandeza // La Llama",
+					"fr-FR": "Carte L'art d'être exceptionnel // La flamme",
+					"id-ID": "Kartu Art of Greatness // The Flame",
+					"it-IT": "Carta L'arte della grandezza // La fiamma",
+					"ja-JP": "偉業の芸術 // 猛炎 カード",
+					"ko-KR": "위대한 예술 // 화염 카드",
+					"pl-PL": "Karta „Wirtuozeria wielkości // Płomień”",
+					"pt-BR": "Card A Arte da Excelência // A Chama",
+					"ru-RU": "Карточка \"Искусство побеждать // Пламя\"",
+					"th-TH": "การ์ด Art of Greatness // The Flame",
+					"tr-TR": "Muhteşemliğin Sanatı // Alev Alev Kartı",
+					"vi-VN": "Thẻ Nơi Tinh Hoa Hội Tụ // Ngọn Lửa",
+					"zh-CN": "Art of Greatness // The Flame Card",
+					"zh-TW": "非凡之巔//不死燃焰 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "CA15070B-4ED8-4A4F-F1E7-AEA812FD8FEF",
+			"label": "CA15070B-4ED8-4A4F-F1E7-AEA812FD8FEF",
+			"name":
+			{
+				"defaultText": "Art of Greatness // Inspiration Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة فن العظمة // الإلهام",
+					"de-DE": "Banner „Kunst der Großartigkeit // Inspiration“",
+					"en-US": "Art of Greatness // Inspiration Card",
+					"es-ES": "El arte de la grandeza // Tarjeta Inspiración",
+					"es-MX": "Tarjeta Arte de la Grandeza // Inspiración",
+					"fr-FR": "Carte L'art d'être exceptionnel // Inspiration",
+					"id-ID": "Kartu Art of Greatness // Inspiration",
+					"it-IT": "Carta L'arte della grandezza // Ispirazione",
+					"ja-JP": "偉業の芸術 // 黙想 カード",
+					"ko-KR": "위대한 예술 // 영감 카드",
+					"pl-PL": "Karta „Wirtuozeria wielkości // Inspiracja”",
+					"pt-BR": "Card A Arte da Excelência // Inspiração",
+					"ru-RU": "Карточка \"Искусство побеждать // Вдохновение\"",
+					"th-TH": "การ์ด Art of Greatness // Inspiration",
+					"tr-TR": "Muhteşemliğin Sanatı // İlham Kartı",
+					"vi-VN": "Thẻ Nơi Tinh Hoa Hội Tụ // Nguồn Cảm Hứng",
+					"zh-CN": "Art of Greatness // Inspiration Card",
+					"zh-TW": "非凡之巔//不朽靈悟 玩家卡面"
 				}
 			}
 		},
@@ -69387,7 +70270,7 @@
 					"en-US": "Magepunk, Ep 3 Card",
 					"es-ES": "Tarjeta del EP. 3, Magepunk",
 					"es-MX": "Tarjeta Magepunk, Ep 3",
-					"fr-FR": "Carte Magepunk, Ép. 3",
+					"fr-FR": "Carte Magepunk, Ép 3",
 					"id-ID": "Kartu Magepunk, Ep 3",
 					"it-IT": "Carta Magepunk Ep 3",
 					"ja-JP": "メイジパンク EP 3 カード",
@@ -71130,7 +72013,7 @@
 					"pl-PL": "Gniew Natury",
 					"pt-BR": "Fúria da Natureza",
 					"ru-RU": "Гнев природы",
-					"th-TH": "ความโกรธแค้นของธรรมชาติ",
+					"th-TH": "ธรรมชาติพิโรธ",
 					"tr-TR": "Doğanın Gazabı",
 					"vi-VN": "Cơn Thịnh Nộ Của Thiên Nhiên",
 					"zh-CN": "自然之怒",
@@ -71238,7 +72121,7 @@
 					"pl-PL": "Pionier",
 					"pt-BR": "Pioneiro",
 					"ru-RU": "Первопроходец",
-					"th-TH": "Pioneer",
+					"th-TH": "ผู้ริเริ่ม",
 					"tr-TR": "Önder",
 					"vi-VN": "Tiên Phong",
 					"zh-CN": "先锋",
@@ -72441,7 +73324,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "لقب رفيع المقام",
-					"de-DE": "Titel „Yuppie“",
+					"de-DE": "Titel „Elite“",
 					"en-US": "High Class Title",
 					"es-ES": "Título De categoría",
 					"es-MX": "Título De Categoría",
@@ -74030,6 +74913,60 @@
 		{
 			"titleText":
 			{
+				"defaultText": "Champion",
+				"localizedByCulture":
+				{
+					"ar-AE": "البطل",
+					"de-DE": "Champion",
+					"en-US": "Champion",
+					"es-ES": "Campeón",
+					"es-MX": "Campeón",
+					"fr-FR": "Champion",
+					"id-ID": "Pemenang",
+					"it-IT": "Campione",
+					"ja-JP": "チャンピオン",
+					"ko-KR": "챔피언",
+					"pl-PL": "Mistrz",
+					"pt-BR": "Campeão",
+					"ru-RU": "Чемпион",
+					"th-TH": "แชมเปี้ยน",
+					"tr-TR": "Şampiyon",
+					"vi-VN": "Nhà Vô Địch",
+					"zh-CN": "Champion",
+					"zh-TW": "世界冠軍"
+				}
+			},
+			"id": "58E5F5DB-4B18-CF8A-AFA2-B49574B34456",
+			"label": "58E5F5DB-4B18-CF8A-AFA2-B49574B34456",
+			"name":
+			{
+				"defaultText": "Champion Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب البطل",
+					"de-DE": "Titel „Champion“",
+					"en-US": "Champion Title",
+					"es-ES": "Título Campeón",
+					"es-MX": "Título Campeón",
+					"fr-FR": "Titre Champion",
+					"id-ID": "Gelar Pemenang",
+					"it-IT": "Titolo Campione",
+					"ja-JP": "チャンピオン タイトル",
+					"ko-KR": "챔피언 칭호",
+					"pl-PL": "Tytuł „Mistrz”",
+					"pt-BR": "Título Campeão",
+					"ru-RU": "Звание \"Чемпион\"",
+					"th-TH": "ฉายาแชมเปี้ยน",
+					"tr-TR": "Şampiyon Unvanı",
+					"vi-VN": "Danh Hiệu Nhà Vô Địch",
+					"zh-CN": "Champion Title",
+					"zh-TW": "世界冠軍 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "Year One",
 				"localizedByCulture":
 				{
@@ -74186,6 +75123,60 @@
 					"vi-VN": "Vòng Cao Thủ GVĐV 2021",
 					"zh-CN": "2021 VCT大师赛赢家",
 					"zh-TW": "2021 VCT大師賽贏家"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "2021 VCT Champion",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل VCT 2021",
+					"de-DE": "2021 VCT Champion",
+					"en-US": "2021 VCT Champion",
+					"es-ES": "Campeón del VCT 2021",
+					"es-MX": "Campeón del VCT 2021",
+					"fr-FR": "Champion du VCT 2021",
+					"id-ID": "Pemenang VCT 2021",
+					"it-IT": "Campione del VCT 2021",
+					"ja-JP": "2021 VCT チャンピオン",
+					"ko-KR": "2021 VCT 챔피언",
+					"pl-PL": "Mistrz VCT 2021",
+					"pt-BR": "Campeão do VCT 2021",
+					"ru-RU": "Чемпион VCT 2021",
+					"th-TH": "แชมเปี้ยนแห่ง VCT 2021",
+					"tr-TR": "2021 VCT Şampiyonu",
+					"vi-VN": "Nhà Vô Địch VCT 2021",
+					"zh-CN": "2021 VCT Champion",
+					"zh-TW": "2021 VCT世界冠軍"
+				}
+			},
+			"id": "1BA98F24-4989-8778-F8A6-B7AF353A1625",
+			"label": "1BA98F24-4989-8778-F8A6-B7AF353A1625",
+			"name":
+			{
+				"defaultText": "2021 VCT Champion Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل VCT 2021",
+					"de-DE": "Titel „2021 VCT Champion“",
+					"en-US": "2021 VCT Champion Title",
+					"es-ES": "Título Campeón del VCT 2021",
+					"es-MX": "Título Campeón del VCT 2021",
+					"fr-FR": "Titre Champion du VCT 2021",
+					"id-ID": "Gelar Pemenang VCT 2021",
+					"it-IT": "Titolo Campione del VCT 2021",
+					"ja-JP": "2021 VCT チャンピオン タイトル",
+					"ko-KR": "2021 VCT 챔피언 칭호",
+					"pl-PL": "Tytuł „Mistrz VCT 2021”",
+					"pt-BR": "Título Campeão do VCT 2021",
+					"ru-RU": "Звание \"Чемпион VCT 2021\"",
+					"th-TH": "ฉายาแชมเปี้ยนแห่ง VCT 2021",
+					"tr-TR": "2021 VCT Şampiyonu Unvanı",
+					"vi-VN": "Danh Hiệu Vô Địch VCT 2021",
+					"zh-CN": "2021 VCT Champion Title",
+					"zh-TW": "2021 VCT世界冠軍 稱號"
 				}
 			}
 		},
@@ -75003,7 +75994,7 @@
 					"ja-JP": "エピローグ: ブルーノコイン バディー",
 					"ko-KR": "에필로그: 브루노 코인 총기 장식",
 					"pl-PL": "Przywieszka „Epilog: Moneta Brunona”",
-					"pt-BR": "EPÍLOGO: Chaveiro Bruno",
+					"pt-BR": "EPÍLOGO: Chaveiro Moeda de Bruno",
 					"ru-RU": "Брелок \"Эпилог: Жетон Бруно\"",
 					"th-TH": "บทส่งท้าย บัดดี้ Bruno Coin",
 					"tr-TR": "Kapanış: Bruno Para Uğuru",
@@ -77890,6 +78881,66 @@
 					"vi-VN": "Phụ Kiện Kim Ca",
 					"zh-CN": "松钢 枪友",
 					"zh-TW": "冷銀祕鋼 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "02B22BD6-42FA-90F6-0574-2091794D3EB1",
+					"label": "02B22BD6-42FA-90F6-0574-2091794D3EB1",
+					"name":
+					{
+						"defaultText": "EsportsVCTGold",
+						"localizedByCulture":
+						{
+							"ar-AE": "EsportsVCTGold",
+							"de-DE": "EsportsVCTGold",
+							"en-US": "EsportsVCTGold",
+							"es-ES": "EsportsVCTGold",
+							"es-MX": "EsportsVCTGold",
+							"fr-FR": "EsportsVCTGold",
+							"id-ID": "EsportsVCTGold",
+							"it-IT": "EsportsVCTGold",
+							"ja-JP": "EsportsVCTGold",
+							"ko-KR": "EsportsVCTGold",
+							"pl-PL": "EsportsVCTGold",
+							"pt-BR": "EsportsVCTGold",
+							"ru-RU": "EsportsVCTGold",
+							"th-TH": "EsportsVCTGold",
+							"tr-TR": "EsportsVCTGold",
+							"vi-VN": "EsportsVCTGold",
+							"zh-CN": "EsportsVCTGold",
+							"zh-TW": "EsportsVCTGold"
+						}
+					}
+				}
+			],
+			"id": "E96E6F84-4315-409A-09BF-788E0CF13ECF",
+			"label": "E96E6F84-4315-409A-09BF-788E0CF13ECF",
+			"name":
+			{
+				"defaultText": "2021 VCT Champions Winner Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الفائز ببطولة 2021 VCT Champions",
+					"de-DE": "Talisman „2021 VCT Champions-Sieger“",
+					"en-US": "2021 VCT Champions Winner Buddy",
+					"es-ES": "Amuleto Ganador del VCT Champions 2021",
+					"es-MX": "Buddy Ganador del VCT Champions 2021",
+					"fr-FR": "Porte-bonheur Vainqueur des Champions du VCT 2021",
+					"id-ID": "Gantungan Pemenang 2021 VCT Champions",
+					"it-IT": "Accessorio Vincitori Champions VCT 2021",
+					"ja-JP": "2021 VCT Champions ウィナー バディー",
+					"ko-KR": "2021 VCT 챔피언스 우승자 총기 장식",
+					"pl-PL": "Przywieszka „Zwycięzca VCT Champions 2021”",
+					"pt-BR": "Chaveiro Vencedor VCT Champions 2021",
+					"ru-RU": "Брелок \"Победитель VCT Champions 2021\"",
+					"th-TH": "บัดดี้ 2021 VCT Champions Winner ",
+					"tr-TR": "2021 VCT Champions Galibi Uğuru",
+					"vi-VN": "Phụ Kiện Quán Quân Champions VCT 2021",
+					"zh-CN": "2021 VCT Champions Winner Buddy",
+					"zh-TW": "2021 VCT冠軍賽贏家 吊飾"
 				}
 			}
 		},
@@ -83393,7 +84444,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ملحق فيشبونز",
-					"de-DE": "Talisman „Fischgräten“",
+					"de-DE": "Talisman „Gräte“",
 					"en-US": "Fishbones Buddy",
 					"es-ES": "Amuleto Espinas",
 					"es-MX": "Buddy Carapescado",
@@ -83470,6 +84521,66 @@
 					"vi-VN": "Phụ kiện Tuyết Đệ",
 					"zh-CN": "雪人 枪友",
 					"zh-TW": "雪人 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "3DDB3C27-4CF6-59ED-8E17-0E9AB970EFB4",
+					"label": "3DDB3C27-4CF6-59ED-8E17-0E9AB970EFB4",
+					"name":
+					{
+						"defaultText": "SnowglobeTheme",
+						"localizedByCulture":
+						{
+							"ar-AE": "SnowglobeTheme",
+							"de-DE": "SnowglobeTheme",
+							"en-US": "SnowglobeTheme",
+							"es-ES": "SnowglobeTheme",
+							"es-MX": "SnowglobeTheme",
+							"fr-FR": "SnowglobeTheme",
+							"id-ID": "SnowglobeTheme",
+							"it-IT": "SnowglobeTheme",
+							"ja-JP": "SnowglobeTheme",
+							"ko-KR": "SnowglobeTheme",
+							"pl-PL": "SnowglobeTheme",
+							"pt-BR": "SnowglobeTheme",
+							"ru-RU": "SnowglobeTheme",
+							"th-TH": "SnowglobeTheme",
+							"tr-TR": "SnowglobeTheme",
+							"vi-VN": "SnowglobeTheme",
+							"zh-CN": "SnowglobeTheme",
+							"zh-TW": "SnowglobeTheme"
+						}
+					}
+				}
+			],
+			"id": "67310368-40C0-75FC-4853-3192DDF3011A",
+			"label": "67310368-40C0-75FC-4853-3192DDF3011A",
+			"name":
+			{
+				"defaultText": "Snowfall Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق سنوفول",
+					"de-DE": "Talisman „Schneefall“",
+					"en-US": "Snowfall Buddy",
+					"es-ES": "Amuleto Snowfall",
+					"es-MX": "Buddy Nevada",
+					"fr-FR": "Porte-bonheur Chute de neige",
+					"id-ID": "Gantungan Snowfall",
+					"it-IT": "Accessorio Nevicata",
+					"ja-JP": "スノーフォール バディー",
+					"ko-KR": "스노우폴 총기 장식",
+					"pl-PL": "Przywieszka „Opad śniegu”",
+					"pt-BR": "Chaveiro Nevada",
+					"ru-RU": "Брелок \"Снегопад\"",
+					"th-TH": "บัดดี้ Snowfall",
+					"tr-TR": "Kar Diyarı Uğuru",
+					"vi-VN": "Phụ Kiện Tuyết Rơi",
+					"zh-CN": "Snowfall Buddy",
+					"zh-TW": "魔幻冬雪 吊飾"
 				}
 			}
 		},
@@ -84850,6 +85961,66 @@
 					"vi-VN": "Phụ Kiện Tự Cao",
 					"zh-CN": "雄心枪友",
 					"zh-TW": "無人之境 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "7A098E59-49E4-55ED-7190-E68476EDB927",
+					"label": "7A098E59-49E4-55ED-7190-E68476EDB927",
+					"name":
+					{
+						"defaultText": "URF",
+						"localizedByCulture":
+						{
+							"ar-AE": "URF",
+							"de-DE": "URF",
+							"en-US": "URF",
+							"es-ES": "URF",
+							"es-MX": "URF",
+							"fr-FR": "URF",
+							"id-ID": "URF",
+							"it-IT": "URF",
+							"ja-JP": "URF",
+							"ko-KR": "URF",
+							"pl-PL": "URF",
+							"pt-BR": "URF",
+							"ru-RU": "URF",
+							"th-TH": "URF",
+							"tr-TR": "URF",
+							"vi-VN": "URF",
+							"zh-CN": "URF",
+							"zh-TW": "URF"
+						}
+					}
+				}
+			],
+			"id": "ADA5F921-4D81-F439-0017-0E86877A02BD",
+			"label": "ADA5F921-4D81-F439-0017-0E86877A02BD",
+			"name":
+			{
+				"defaultText": "Exquisitely Wrapped Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الهدية الأنيقة",
+					"de-DE": "Talisman „Schick verpackt“",
+					"en-US": "Exquisitely Wrapped Buddy",
+					"es-ES": "Amuleto Envoltorio impecable",
+					"es-MX": "Buddy Perfectamente Envuelto",
+					"fr-FR": "Porte-bonheur Bien emballé",
+					"id-ID": "Gantungan Exquisitely Wrapped",
+					"it-IT": "Accessorio Confezione elegante",
+					"ja-JP": "優美な包み バディー",
+					"ko-KR": "정교한 포장 총기 장식",
+					"pl-PL": "Przywieszka „Wytwornie zapakowany”",
+					"pt-BR": "Chaveiro Embrulhado pra Presente",
+					"ru-RU": "Брелок \"Подарок\"",
+					"th-TH": "บัดดี้ Exquisitely Wrapped",
+					"tr-TR": "Özenle Paketlenmiş Hediye Uğuru",
+					"vi-VN": "Phụ Kiện Gói Quà Thanh Nhã",
+					"zh-CN": "Exquisitely Wrapped Buddy",
+					"zh-TW": "精緻包裝 吊飾"
 				}
 			}
 		},
@@ -94919,7 +96090,7 @@
 					"en-US": "Magepunk, Ep 3 Spray",
 					"es-ES": "Grafiti del EP. 3, Magepunk",
 					"es-MX": "Spray Magepunk, Ep 3",
-					"fr-FR": "Graffiti Magepunk, Ép. 3",
+					"fr-FR": "Graffiti Magepunk, Ép 3",
 					"id-ID": "Spray Magepunk, Ep 3",
 					"it-IT": "Spray Magepunk Ep 3",
 					"ja-JP": "メイジパンク EP 3 スプレー",
