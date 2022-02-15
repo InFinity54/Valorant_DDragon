@@ -17,7 +17,7 @@ This repository don't store any addtional content.
 This repository doesn't have any unused content in it.
 
 ## Patchs added to this repository
-This list contains patchs from actual season.
+This list contains patchs from actual season. For all previous patchs of all previous seasons, you can check [OLDPATCHS.md](OLDPATCHS.md).
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
@@ -25,15 +25,3 @@ The date in front of each patch represents the date when the patch was pushed to
 - (February 3rd, 2022) 4.02
 - (January 19th, 2022) 4.01
 - (January 19th, 2022) 4.00
-- (January 3rd, 2022) 3.12 [patch 3.11 wasn't downloadable from Riot's servers]
-- (November 18th, 2021) 3.10
-- (November 2nd, 2021) 3.09
-- (October 20th, 2021) 3.08
-- (October 8th, 2021) 3.07
-- (October 8th, 2021) 3.06
-- (October 8th, 2021) 3.05
-- (October 8th, 2021) 3.04
-- (October 8th, 2021) 3.03
-- (October 8th, 2021) 3.02
-- (October 8th, 2021) 3.01
-- (October 8th, 2021) 3.00
