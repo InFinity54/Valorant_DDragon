@@ -1,4 +1,4 @@
-# _Valorant_ - Data Dragon
+# _Valorant_ - _Data Dragon_
 
 Do you want to use DDragon for an another game from _Riot Games_? Check the [_Data Dragon_ repository for _League of Legends_](https://github.com/InFinity54/LoL_DDragon) or the [_Teamfight Tactics_ one](https://github.com/InFinity54/TFT_DDragon).
 
@@ -21,6 +21,7 @@ This list contains patchs from actual season. For all previous patchs of all pre
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
+- (April 15th, 2022) 4.07 [_Data Dragon_ for patch 4.06 was never released by Riot]
 - (March 30th, 2022) 4.05
 - (March 1st, 2022) 4.04
 - (February 15th, 2022) 4.03
