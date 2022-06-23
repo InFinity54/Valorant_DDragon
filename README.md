@@ -17,18 +17,8 @@ This repository don't store any addtional content.
 This repository doesn't have any unused content in it.
 
 ## Patchs added to this repository
-This list contains patchs from actual season. For all previous patchs of all previous seasons, you can check [OLDPATCHS.md](OLDPATCHS.md).
+The list below contains all patchs from current major version. For a list of all previous patchs added to this repository, you can check [OLDPATCHS.md](OLDPATCHS.md).
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
-- (June 7th, 2022) 4.11
-- (May 31st, 2022) 4.10
-- (May 15th, 2022) 4.09
-- (May 9th, 2022) 4.08
-- (April 15th, 2022) 4.07 [_Data Dragon_ for patch 4.06 was never released by Riot]
-- (March 30th, 2022) 4.05
-- (March 1st, 2022) 4.04
-- (February 15th, 2022) 4.03
-- (February 3rd, 2022) 4.02
-- (January 19th, 2022) 4.01
-- (January 19th, 2022) 4.00
+- (June 23rd, 2022) 5.00
