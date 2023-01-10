@@ -6,6 +6,18 @@ This document list all patchs from previous seasons added to this repository. Fo
 ## List of all patchs added so far
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs included in this repository so far (current major season or season excluded) :
 
+- (December 6th, 2022) 5.12
+- (November 16th, 2022) 5.10
+- (November 1st, 2022) 5.09
+- (October 19th, 2022) 5.08
+- (October 4th, 2022) 5.07
+- (September 20th, 2022) 5.06
+- (September 7th, 2022) 5.05
+- (August 23rd, 2022) 5.04
+- (August 10th, 2022) 5.03
+- (July 12th, 2022) 5.01
+- (June 23rd, 2022) 5.00
+
 - (June 7th, 2022) 4.11
 - (May 31st, 2022) 4.10
 - (May 15th, 2022) 4.09
@@ -17,6 +29,7 @@ The date in front of each patch represents the date when the patch was pushed to
 - (February 3rd, 2022) 4.02
 - (January 19th, 2022) 4.01
 - (January 19th, 2022) 4.00
+
 - (January 3rd, 2022) 3.12
 - (November 18th, 2021) 3.10
 - (November 2nd, 2021) 3.09
@@ -33,5 +46,7 @@ The date in front of each patch represents the date when the patch was pushed to
 ### Missing patchs
 Some patchs wasn't added to this repository for various reasons :
 
+- 5.11 : _Data Dragon_ never released by Riot Games for this patch
+- 5.02 : _Data Dragon_ never released by Riot Games for this patch
 - 4.06 : _Data Dragon_ never released by Riot Games for this patch
 - 3.11 : _Data Dragon_ never released by Riot Games for this patch
