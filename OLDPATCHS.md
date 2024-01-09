@@ -6,6 +6,19 @@ This document list all patchs from previous seasons added to this repository. Fo
 ## List of all patchs added so far
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs included in this repository so far (current major season or season excluded) :
 
+- (December 6th, 2023) 7.12
+- (November 14th, 2023) 7.10
+- (October 31st, 2023) 7.09
+- (October 17th, 2023) 7.08
+- (October 3rd, 2023) 7.07
+- (September 19th, 2023) 7.06
+- (September 6th, 2023) 7.05
+- (August 30th, 2023) 7.04
+- (August 8th, 2023) 7.03
+- (August 1st, 2023) 7.02
+- (July 11th, 2023) 7.01
+- (June 27th, 2023) 7.00
+
 - (June 6th, 2023) 6.11
 - (May 24th, 2023) 6.10
 - (April 26th, 2023) 6.08
@@ -58,6 +71,7 @@ The date in front of each patch represents the date when the patch was pushed to
 ### Missing patchs
 Some patchs wasn't added to this repository for various reasons :
 
+- 7.11 : this patch doesn't exist at all
 - 6.09 : _Data Dragon_ never released by Riot Games for this patch
 - 5.11 : _Data Dragon_ never released by Riot Games for this patch
 - 5.02 : _Data Dragon_ never released by Riot Games for this patch
