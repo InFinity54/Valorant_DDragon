@@ -21,11 +21,11 @@ The list below contains all patchs from current major version. For a list of all
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
-- (August 27th, 2023) 9.04
-- (August 14th, 2023) 9.03
-- (July 30th, 2023) 9.02
-- (July 16th, 2023) 9.01
-- (June 26th, 2023) 9.00
+- (August 27th, 2024) 9.04
+- (August 14th, 2024) 9.03
+- (July 30th, 2024) 9.02
+- (July 16th, 2024) 9.01
+- (June 26th, 2024) 9.00
 
 ## Missing patchs for the current major version
 Some patchs wasn't added to the repository for various reasons:
