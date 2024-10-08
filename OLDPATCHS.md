@@ -83,7 +83,8 @@ The date in front of each patch represents the date when the patch was pushed to
 ### Missing patchs
 Some patchs wasn't added to this repository for various reasons :
 
-- 7.11 : this patch doesn't exist at all
+- 8.06 : _Data Dragon_ never released by Riot Games for this patch
+- 7.11 : patch never released by Riot Games on live servers
 - 6.09 : _Data Dragon_ never released by Riot Games for this patch
 - 5.11 : _Data Dragon_ never released by Riot Games for this patch
 - 5.02 : _Data Dragon_ never released by Riot Games for this patch
