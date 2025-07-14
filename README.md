@@ -24,4 +24,6 @@ The date in front of each patch represents the date when the patch was pushed to
 - (June 24th, 2025) 11.00
 
 ## Missing patchs for the current major version
-There is no missing patch for the current major version.
+The list below contains all missing patchs from current major version, and the reason of why.
+
+- 11.01 : [Patch skipped by Riot Games](https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-01/) to prepare the game engine switch in patch 11.02 (UE4 to UE5)
